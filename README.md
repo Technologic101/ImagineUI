@@ -36,9 +36,73 @@ h: Serving & Inference (optional)
 
 Describe use of agents
 
-## Data Usage
+# **Data Collection & Dataset Creation**
 
+## **Dataset Structure for Kaggle**
 
+### Core Components
+1. **HTML Templates**
+   - Basic structural template of CSS Zen Garden html
+
+2. **CSS Styles**
+   - Raw CSS files from CSS Zen Garden
+   - Categorized style variations
+   - Responsive design patterns
+
+3. **Screenshots & Visuals**
+   - Multiple viewport sizes (lg, sm)
+   - Key UI component screenshots
+
+4. **Metadata & Annotations**
+   - Natural language descriptions of styles
+   - Design pattern classifications
+   - Accessibility ratings
+
+### Dataset Format
+```json
+{
+  "id": "style_001",
+  "html_template": "path/to/template.html",
+  "css_style": "path/to/style.css",
+  "screenshots": {
+    "lg": "path/to/desktop.png",
+    "sm": "path/to/mobile.png"
+  },
+  "metadata": {
+    "description": "A minimalist business template with...",
+    "category": ["business", "minimalist"],
+    "accessibility_score": 98,
+    "color_scheme": ["#ffffff", "#000000", "#4285f4"]
+  }
+}
+```
+
+### Data Collection Process
+1. **Web Scraping**
+   - Scrape CSS Zen Garden submissions
+   - Collect associated screenshots
+   - Extract design descriptions
+
+2. **Manual Curation**
+   - Review and categorize styles
+   - Validate HTML/CSS combinations
+   - Add detailed annotations
+
+3. **Automated Processing**
+   - Generate screenshots across viewports
+   - Extract color schemes
+   - Calculate accessibility scores
+
+4. **Quality Assurance**
+   - Validate file integrity
+   - Check completeness of metadata
+   - Verify screenshot quality
+
+### Usage Guidelines
+- Dataset is available under MIT License
+- Proper attribution required for CSS Zen Garden content
+- Screenshots may be used for training and testing
+- Metadata can be extended with additional annotations
 
 # **Build**  
 
@@ -63,7 +127,7 @@ An **agentic CSS style creator** can bridge the gap by understanding style reque
 - **Beginner Developers** learning CSS through interactive examples.  
 
 ## **Key Metrics**  
-1. **Styling Accuracy** – How closely does the CSS match the user’s description?  
+1. **Styling Accuracy** – How closely does the CSS match the user's description?  
 2. **Creativity & Uniqueness** – Does it produce diverse and visually appealing results?  
 3. **Functional Usability** – Are the generated styles accessible and responsive?  
 4. **Iteration Success** – Does the model effectively refine the layout based on feedback?  
@@ -92,9 +156,77 @@ An **agentic CSS style creator** can bridge the gap by understanding style reque
 - **Dev.to / Hashnode**: Post in the morning for better visibility.  
 - **LinkedIn**: 8 AM - 10 AM EST (when professionals browse feeds).  
 
----
 
-### **Next Steps**  
-Does this outline look good to you? Would you like me to modify anything before generating a **cover image** for your project? 🚀
+### CSS Zen Garden Scraping Tools
+
+1. **Python-based Tools**
+   - **Scrapy**
+     - Robust framework for large-scale scraping
+     - Handles JavaScript rendering
+     - Built-in pipeline for downloading files
+     ```python
+     class ZenGardenSpider(scrapy.Spider):
+         name = 'zengarden'
+         start_urls = ['http://www.csszengarden.com/']
+         
+         def parse(self, response):
+             for design in response.css('.design-selection li'):
+                 yield {
+                     'title': design.css('a::text').get(),
+                     'css_url': design.css('a::attr(href)').get(),
+                     'designer': design.css('.designer::text').get()
+                 }
+     ```
+
+   - **Beautiful Soup 4**
+     - Simpler alternative for static content
+     - Good for parsing HTML/CSS structure
+     - Easy integration with requests library
+
+2. **Browser Automation**
+   - **Selenium WebDriver**
+     - Captures dynamic content
+     - Takes screenshots automatically
+     - Handles different viewport sizes
+   - **Playwright**
+     - Modern alternative to Selenium
+     - Better performance
+     - Built-in screenshot and PDF generation
+
+3. **CSS Processing Tools**
+   - **PostCSS**
+     - Parses and analyzes CSS
+     - Extracts color schemes
+     - Identifies design patterns
+   - **StyleStats**
+     - Generates CSS analytics
+     - Measures complexity
+     - Reports accessibility metrics
+
+### Scraping Process
+
+1. **Initial Setup**
+   ```bash
+   pip install scrapy beautifulsoup4 selenium playwright postcss-py
+   ```
+
+2. **Data Collection Steps**
+   - Fetch main gallery page
+   - Extract design links and metadata
+   - Download CSS files
+   - Capture screenshots at different viewports
+   - Parse and analyze CSS properties
+
+3. **Legal Considerations**
+   - Respect robots.txt
+   - Include appropriate delays between requests
+   - Store attribution information
+   - Follow CSS Zen Garden's terms of use
+
+4. **Data Validation**
+   - Verify CSS file integrity
+   - Check image quality
+   - Validate HTML structure
+   - Ensure complete metadata
 
 
