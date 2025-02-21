@@ -1,3 +1,96 @@
+# ImagineUI
+
+An AI-powered CSS style generator that creates and iterates on designs using natural language instructions.
+
+## Problem & Solution
+
+### Problem
+Designers and developers need a tool that can:
+- Translate verbal descriptions into CSS styling
+- Rapidly prototype and iterate on web layouts
+- Learn from real-world design patterns
+
+### Target Audience
+- Frontend developers needing quick style prototypes
+- UI/UX designers exploring creative variations
+- Writers and content creators
+- Small business owners creating marketing materials
+- Cross-disciplinary teams discussing design concepts
+
+### Solution
+An agentic RAG application that:
+- Consumes HTML templates
+- Creates style variations based on natural language input
+- Iterates designs through user feedback
+- Learns from CSS Zen Garden designs
+
+## Setup
+
+This project uses Poetry for dependency management.
+
+### Prerequisites
+
+1. Python 3.11 (via brew or your system's package manager)
+2. Poetry: `curl -sSL https://install.python-poetry.org | python3 -`
+
+### Installation
+
+1. Clone and enter the repository:
+```
+git clone https://github.com/yourusername/ImagineUI.git
+cd ImagineUI
+```
+
+2. Install dependencies:
+```
+poetry install
+poetry run playwright install chromium
+```
+
+## Tools
+
+### CSS Zen Garden Scraper
+
+Collects designs from CSS Zen Garden into a structured dataset. Each design in `designs/<design_id>/` contains:
+- `style.css`: The design's CSS file
+- `metadata.json`: Design information (author, URLs)
+- `screenshot_desktop.png`: Screenshot at 1920px width
+- `screenshot_mobile.png`: Screenshot at 480px width
+
+Usage:
+```
+poetry run python scraper.py          # Run scraper
+poetry run python analyze_designs.py   # Analyze designs
+poetry run jupyter notebook           # Test in notebook
+```
+
+## Development
+
+- `poetry add <package>`: Add dependencies
+- `poetry update`: Update dependencies
+- `poetry shell`: Activate virtual environment
+
+## Project Structure
+
+```
+ImagineUI/
+├── designs/            # Scraped CSS Zen Garden designs
+│   └── <design_id>/   # Each design's files
+├── scraper.py         # CSS Zen Garden scraper
+├── test_scraper.ipynb # Scraper testing notebook
+├── pyproject.toml     # Project dependencies
+└── README.md
+```
+
+## Technical Stack
+
+- LLM: For understanding design instructions
+- Embedding Model: For design similarity search
+- Vector Database: For storing design patterns
+- Orchestration: For managing the design workflow
+- Monitoring & Evaluation: For quality assurance
+- User Interface: For interaction and feedback
+
 # AI Designer
 
 ## Problem and Audience
@@ -37,26 +130,6 @@ h: Serving & Inference (optional)
 Describe use of agents
 
 # **Data Collection & Dataset Creation**
-
-## **Dataset Structure for Kaggle**
-
-### Core Components
-1. **HTML Templates**
-   - Basic structural template of CSS Zen Garden html
-
-2. **CSS Styles**
-   - Raw CSS files from CSS Zen Garden
-   - Categorized style variations
-   - Responsive design patterns
-
-3. **Screenshots & Visuals**
-   - Multiple viewport sizes (lg, sm)
-   - Key UI component screenshots
-
-4. **Metadata & Annotations**
-   - Natural language descriptions of styles
-   - Design pattern classifications
-   - Accessibility ratings
 
 ### Dataset Format
 ```json
@@ -184,10 +257,6 @@ An **agentic CSS style creator** can bridge the gap by understanding style reque
      - Easy integration with requests library
 
 2. **Browser Automation**
-   - **Selenium WebDriver**
-     - Captures dynamic content
-     - Takes screenshots automatically
-     - Handles different viewport sizes
    - **Playwright**
      - Modern alternative to Selenium
      - Better performance
@@ -228,70 +297,3 @@ An **agentic CSS style creator** can bridge the gap by understanding style reque
    - Check image quality
    - Validate HTML structure
    - Ensure complete metadata
-
-## Setup
-
-This project uses uv for package management and Jupyter Notebook for development.
-
-### Prerequisites
-
-1. Install uv:
-```bash
-# On Unix-like systems (Linux, macOS)
-curl -LsSf https://astral.sh/uv/install.sh | sh
-
-# On Windows (PowerShell)
-powershell -c "irm https://astral.sh/uv/install.ps1 | iex"
-```
-
-### Environment Setup
-
-1. Initialize a new project with uv:
-```bash
-# Create and activate a new virtual environment
-uv venv
-
-# Activate the virtual environment:
-# On Windows:
-.venv\Scripts\activate
-# On Unix-like systems:
-source .venv/bin/activate
-```
-
-2. Create and use requirements.txt for dependencies:
-```bash
-# Create requirements.txt
-cat > requirements.txt << EOL
-jupyter
-notebook
-beautifulsoup4
-scrapy
-selenium
-playwright
-pandas
-numpy
-EOL
-
-# Install dependencies
-uv pip install -r requirements.txt
-```
-
-3. Start Jupyter Notebook:
-```bash
-jupyter notebook
-```
-
-4. Configure environment variables:
-   - Copy the `.env.example` file to `.env`
-   - Add your API keys and configuration:
-   ```bash
-   cp .env.example .env
-   # Edit .env with your preferred text editor
-   ```
-
-   Required environment variables:
-   - `OPENAI_API_KEY`: Your OpenAI API key
-   - `HUGGINGFACE_API_KEY`: Your Hugging Face API key
-   - Additional configuration options are documented in the `.env` file
-
-
