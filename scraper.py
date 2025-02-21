@@ -33,6 +33,8 @@ async def take_screenshot(url, directory):
         # Desktop screenshot (1920px width)
         page = await browser.new_page(viewport={'width': 1920, 'height': 1080})
         await page.goto(url)
+        # Wait for fade transitions
+        await page.wait_for_timeout(1500)
         # Get full height
         height = await page.evaluate('document.body.scrollHeight')
         await page.set_viewport_size({'width': 1920, 'height': int(height)})
@@ -41,6 +43,8 @@ async def take_screenshot(url, directory):
         # Mobile screenshot (480px width)
         page = await browser.new_page(viewport={'width': 480, 'height': 1080})
         await page.goto(url)
+        # Wait for fade transitions
+        await page.wait_for_timeout(1500)
         # Get full height
         height = await page.evaluate('document.body.scrollHeight')
         await page.set_viewport_size({'width': 480, 'height': int(height)})
@@ -59,14 +63,14 @@ async def scrape_design(design_id):
     
     # Get design page
     response = requests.get(design_url)
-    print(f"Response status: {response.status_code}")
+    print(f"{design_id}: Response status: {response.status_code}")
     
     soup = BeautifulSoup(response.text, "html.parser")
     author_meta = soup.select_one('meta[name="author"]')
     
     # Debug found elements
-    print("\nFound elements:")
-    print(f"h1: {soup.select_one('h1')['content']}")
+    print(f"{design_id}: \nFound elements:")
+    print(f"h1: {soup.select_one('h1').text}")
     print(f"author: {author_meta['content']}")
     
     # Extract metadata with error handling
