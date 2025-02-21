@@ -1,0 +1,26 @@
+# Jupyter environment
+jupyter
+notebook
+
+# Web scraping and automation
+beautifulsoup4
+scrapy
+selenium
+playwright
+
+# Data processing
+pandas
+numpy
+
+# LLM and AI tools
+langchain
+langgraph
+chainlit
+transformers  # Hugging Face Transformers
+datasets      # Hugging Face Datasets
+torch         # Required for many HF models
+sentence-transformers  # For embeddings
+
+# API and utilities
+python-dotenv  # For environment variables
+requests 

@@ -229,4 +229,69 @@ An **agentic CSS style creator** can bridge the gap by understanding style reque
    - Validate HTML structure
    - Ensure complete metadata
 
+## Setup
+
+This project uses uv for package management and Jupyter Notebook for development.
+
+### Prerequisites
+
+1. Install uv:
+```bash
+# On Unix-like systems (Linux, macOS)
+curl -LsSf https://astral.sh/uv/install.sh | sh
+
+# On Windows (PowerShell)
+powershell -c "irm https://astral.sh/uv/install.ps1 | iex"
+```
+
+### Environment Setup
+
+1. Initialize a new project with uv:
+```bash
+# Create and activate a new virtual environment
+uv venv
+
+# Activate the virtual environment:
+# On Windows:
+.venv\Scripts\activate
+# On Unix-like systems:
+source .venv/bin/activate
+```
+
+2. Create and use requirements.txt for dependencies:
+```bash
+# Create requirements.txt
+cat > requirements.txt << EOL
+jupyter
+notebook
+beautifulsoup4
+scrapy
+selenium
+playwright
+pandas
+numpy
+EOL
+
+# Install dependencies
+uv pip install -r requirements.txt
+```
+
+3. Start Jupyter Notebook:
+```bash
+jupyter notebook
+```
+
+4. Configure environment variables:
+   - Copy the `.env.example` file to `.env`
+   - Add your API keys and configuration:
+   ```bash
+   cp .env.example .env
+   # Edit .env with your preferred text editor
+   ```
+
+   Required environment variables:
+   - `OPENAI_API_KEY`: Your OpenAI API key
+   - `HUGGINGFACE_API_KEY`: Your Hugging Face API key
+   - Additional configuration options are documented in the `.env` file
+
 
