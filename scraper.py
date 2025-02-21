@@ -2,8 +2,8 @@ import os
 import requests
 from bs4 import BeautifulSoup
 import json
-from selenium import webdriver
-from selenium.webdriver.chrome.options import Options
+from playwright.async_api import async_playwright
+import asyncio
 
 def create_design_directory(design_id):
     """Create a directory for the design if it doesn't exist"""
@@ -25,32 +25,30 @@ def save_metadata(metadata, directory):
     with open(metadata_path, "w", encoding="utf-8") as f:
         json.dump(metadata, f, indent=4)
 
-def take_screenshot(url, directory):
+async def take_screenshot(url, directory):
     """Take screenshots of the design at desktop and mobile widths"""
-    chrome_options = Options()
-    chrome_options.add_argument("--headless")
-    
-    driver = webdriver.Chrome(options=chrome_options)
-    
-    # Desktop screenshot (1920px width)
-    driver.set_window_size(1920, 1080)
-    driver.get(url)
-    # Wait for page to load and get full height
-    total_height = driver.execute_script("return document.body.scrollHeight")
-    driver.set_window_size(1920, total_height)
-    driver.save_screenshot(f"{directory}/screenshot_desktop.png")
-    
-    # Mobile screenshot (480px width)
-    driver.set_window_size(480, 1080)
-    driver.get(url)
-    # Wait for page to load and get full height
-    total_height = driver.execute_script("return document.body.scrollHeight")
-    driver.set_window_size(480, total_height)
-    driver.save_screenshot(f"{directory}/screenshot_mobile.png")
-    
-    driver.quit()
+    async with async_playwright() as p:
+        browser = await p.chromium.launch()
+        
+        # Desktop screenshot (1920px width)
+        page = await browser.new_page(viewport={'width': 1920, 'height': 1080})
+        await page.goto(url)
+        # Get full height
+        height = await page.evaluate('document.body.scrollHeight')
+        await page.set_viewport_size({'width': 1920, 'height': int(height)})
+        await page.screenshot(path=f"{directory}/screenshot_desktop.png", full_page=True)
+        
+        # Mobile screenshot (480px width)
+        page = await browser.new_page(viewport={'width': 480, 'height': 1080})
+        await page.goto(url)
+        # Get full height
+        height = await page.evaluate('document.body.scrollHeight')
+        await page.set_viewport_size({'width': 480, 'height': int(height)})
+        await page.screenshot(path=f"{directory}/screenshot_mobile.png", full_page=True)
+        
+        await browser.close()
 
-def scrape_design(design_id):
+async def scrape_design(design_id):
     """Scrape a single design"""
     # Create base URLs
     design_url = f"https://www.csszengarden.com/{design_id}"
@@ -63,22 +61,19 @@ def scrape_design(design_id):
     response = requests.get(design_url)
     print(f"Response status: {response.status_code}")
     
-    # Debug HTML content
-    print("\nFirst 500 characters of response:")
-    print(response.text[:500])
-    
     soup = BeautifulSoup(response.text, "html.parser")
+    author_meta = soup.select_one('meta[name="author"]')
     
     # Debug found elements
     print("\nFound elements:")
-    print(f"h1: {soup.select_one('h1')}")
-    print(f"author: {soup.select_one('meta[name=\"author\"]')}")
+    print(f"h1: {soup.select_one('h1')['content']}")
+    print(f"author: {author_meta['content']}")
     
     # Extract metadata with error handling
     try:
         metadata = {
             "id": design_id,
-            "author": soup.select_one('meta[name="author"]')["content"] if soup.select_one('meta[name="author"]') else "Unknown Author",
+            "author": author_meta["content"] if author_meta else "Unknown Author",
             "url": design_url,
             "css_url": css_url
         }
@@ -89,9 +84,9 @@ def scrape_design(design_id):
     # Save everything
     save_css(css_url, directory)
     save_metadata(metadata, directory)
-    take_screenshot(design_url, directory)
+    await take_screenshot(design_url, directory)
 
-def main():
+async def main():
     """Main function to scrape multiple designs"""
     # Create designs directory if it doesn't exist
     if not os.path.exists("designs"):
@@ -103,10 +98,10 @@ def main():
     for design_id in design_ids:
         try:
             print(f"Scraping design {design_id}...")
-            scrape_design(design_id)
+            await scrape_design(design_id)
             print(f"Successfully scraped design {design_id}")
         except Exception as e:
             print(f"Error scraping design {design_id}: {str(e)}")
 
 if __name__ == "__main__":
-    main() 
+    asyncio.run(main()) 

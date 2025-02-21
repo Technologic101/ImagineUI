@@ -12,3 +12,6 @@
 
 .chainlit/cache
 
+/designs
+
+__pycache__
