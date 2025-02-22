@@ -13,7 +13,7 @@ VISION_MODEL = "gpt-4o-2024-08-06"
 client = AsyncOpenAI()
 
 async def analyze_screenshot(design_id: str, design_path: Path):
-    """Analyze screenshots and return description and categories"""
+    """Analyze screenshots and return description, categories, and visual characteristics"""
     try:
         # Check files exist
         metadata_path = design_path / "metadata.json"
@@ -22,7 +22,7 @@ async def analyze_screenshot(design_id: str, design_path: Path):
         
         if not all(f.exists() for f in [metadata_path, desktop_img, mobile_img]):
             print(f"Missing required files for design {design_id}")
-            return design_id, None, None
+            return design_id, None, None, None
         
         # Load existing metadata
         with open(metadata_path, "r") as f:
@@ -36,11 +36,11 @@ async def analyze_screenshot(design_id: str, design_path: Path):
                 mobile_base64 = base64.b64encode(f.read()).decode('utf-8')
         except Exception as e:
             print(f"Error reading images for design {design_id}: {str(e)}")
-            return design_id, None, None
+            return design_id, None, None, None
         
         print(f"Analyzing design {design_id}...")
         
-        # Analyze both screenshots with GPT-4 Vision
+        # Get response first
         response = await client.chat.completions.create(
             model=VISION_MODEL,
             messages=[
@@ -48,20 +48,18 @@ async def analyze_screenshot(design_id: str, design_path: Path):
                     "role": "system",
                     "content": """You are an expert graphic designer analyzing print and web designs for aesthetics, functionality, audience appeal, and potential applications.
                     
-                    The design should be considered from a visual standpoint, ignoring web responsiveness. Use chain of thought to consider color palette, visual layout, typography, artistic style, mood, and potential applications.
-                    Consider gradients, texture, background effects, and the use of images. Make a distinction between background visual elements and functional visual elements.
+                    The design should be considered from a visual standpoint. Use chain of thought to consider color palette, visual layout, typography, artistic style, mood, and potential applications.
+                    Consider gradients, texture, background effects, and the use of images.
                     
                     Treat all text content as placeholder Lorem Ipsum.
                     
                     Provide analysis in clean JSON format with these exact keys:
                     {
-                        "description": "Brief analysis focusing on standout features and potential use cases",
+                        "description": "A one-paragraph summary highlighting exceptional features of the design",
                         "categories": ["category1", "category2"],
                         "visual_characteristics": ["characteristic1", "characteristic2"]
                     }
-                    Provide 4-6 categories and 4-6 visual characteristics.
-                    Categories should only refer to categories of design styling.
-                    This data will be consumed by another LLM, so provide enough categories and visual characteristics to explain the design.
+                    Provide 4-6 categories and 4-6 visual characteristics most relevant to the style and feel of the design. Do not reference css or web design directly because this analysis is primarily about design. These lists should describe the design to another LLM that will use this data to generate a UI.
                     """
                 },
                 {
@@ -90,10 +88,14 @@ async def analyze_screenshot(design_id: str, design_path: Path):
             ],
             max_tokens=1000
         )
+        
+        # Then get the content
+        response_content = response.choices[0].message.content.strip()
+        
         # Ensure the response is not empty
         if not response_content:
             print(f"Empty response for design {design_id}")
-            return design_id, None, None
+            return design_id, None, None, None
         
         # Extract JSON content from markdown code block
         if "```json" in response_content:
@@ -102,11 +104,7 @@ async def analyze_screenshot(design_id: str, design_path: Path):
         
         # Parse the JSON response
         try:
-            print(f"Cleaned response for design {design_id}: {response_content}")
             analysis = json.loads(response_content)
-            print(f"Description: {analysis['description']}")
-            print(f"Categories: {analysis['categories']}")
-            print(f"Visual Characteristics: {analysis['visual_characteristics']}")
             
             # Update metadata with all fields
             metadata.update(analysis)
@@ -116,15 +114,16 @@ async def analyze_screenshot(design_id: str, design_path: Path):
                 json.dump(metadata, f, indent=2)
             
             print(f"Successfully analyzed design {design_id}")
-            return design_id, analysis["description"], analysis["categories"]
+            # Return visual_characteristics as fourth element
+            return design_id, analysis["description"], analysis["categories"], analysis["visual_characteristics"]
             
         except json.JSONDecodeError as e:
             print(f"Error parsing JSON response for design {design_id}: {str(e)}")
-            return design_id, None, None
+            return design_id, None, None, None
         
     except Exception as e:
         print(f"Error processing design {design_id}: {str(e)}")
-        return design_id, None, None
+        return design_id, None, None, None
 
 async def main():
     designs_dir = Path("designs")
@@ -156,7 +155,7 @@ async def main():
     
     # Print summary
     successful = 0
-    for design_id, desc, cats in results:
+    for design_id, desc, cats, _ in results:
         if desc is not None:
             successful += 1
             print(f"\nDesign {design_id}:")

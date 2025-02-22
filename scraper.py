@@ -34,18 +34,7 @@ async def take_screenshot(url, directory):
         page = await browser.new_page(viewport={'width': 1920, 'height': 1080})
         await page.goto(url)
         # Wait for network to be idle (no requests for at least 500ms)
-        await page.wait_for_load_state('networkidle')
-        
-        # Wait for all images to be loaded
-        await page.evaluate("""() => {
-            return Promise.all(
-                Array.from(document.images)
-                    .filter(img => !img.complete)
-                    .map(img => new Promise(resolve => {
-                        img.onload = img.onerror = resolve;
-                    }))
-            );
-        }""")
+        await page.wait_for_load_state()
         
         # Additional wait to ensure any animations/transitions complete
         #await page.wait_for_timeout(2000)  # 2 second delay
@@ -59,18 +48,7 @@ async def take_screenshot(url, directory):
         page = await browser.new_page(viewport={'width': 480, 'height': 1080})
         await page.goto(url)
         # Wait for network to be idle (no requests for at least 500ms)
-        await page.wait_for_load_state('networkidle')
-        
-        # Wait for all images to be loaded
-        await page.evaluate("""() => {
-            return Promise.all(
-                Array.from(document.images)
-                    .filter(img => !img.complete)
-                    .map(img => new Promise(resolve => {
-                        img.onload = img.onerror = resolve;
-                    }))
-            );
-        }""")
+        await page.wait_for_load_state()
         
         # Additional wait to ensure any animations/transitions complete
         #await page.wait_for_timeout(2000)  # 2 second delay
