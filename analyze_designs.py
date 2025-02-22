@@ -59,8 +59,9 @@ async def analyze_screenshot(design_id: str, design_path: Path):
                         "categories": ["category1", "category2"],
                         "visual_characteristics": ["characteristic1", "characteristic2"]
                     }
-                    
+                    Provide 4-6 categories and 4-6 visual characteristics.
                     Categories should only refer to categories of design styling.
+                    This data will be consumed by another LLM, so provide enough categories and visual characteristics to explain the design.
                     """
                 },
                 {
@@ -89,18 +90,10 @@ async def analyze_screenshot(design_id: str, design_path: Path):
             ],
             max_tokens=1000
         )
-        
-        # Print the response content for debugging
-        response_content = response.choices[0].message.content.strip()
-        
         # Ensure the response is not empty
         if not response_content:
             print(f"Empty response for design {design_id}")
             return design_id, None, None
-        
-        # Log the type and length of the response content
-        print(f"Type of response content: {type(response_content)}")
-        print(f"Length of response content: {len(response_content)}")
         
         # Extract JSON content from markdown code block
         if "```json" in response_content:
@@ -111,7 +104,9 @@ async def analyze_screenshot(design_id: str, design_path: Path):
         try:
             print(f"Cleaned response for design {design_id}: {response_content}")
             analysis = json.loads(response_content)
-            print("JSON parsed")
+            print(f"Description: {analysis['description']}")
+            print(f"Categories: {analysis['categories']}")
+            print(f"Visual Characteristics: {analysis['visual_characteristics']}")
             
             # Update metadata with all fields
             metadata.update(analysis)
@@ -146,6 +141,9 @@ async def main():
         return
     
     print(f"Found {len(design_dirs)} designs to analyze")
+    
+    # Create list of design IDs to analyze (001-050)
+    design_ids = [f"{i:03d}" for i in range(1, 51)]
     
     # Analyze all designs
     tasks = []
