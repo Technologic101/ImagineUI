@@ -1,32 +1,37 @@
-[project]
-name = "ImagineUI"
+[tool.poetry]
+name = "imagineui"
 version = "0.1.0"
 description = "An AI-powered CSS style generator using CSS Zen Garden designs"
-authors = [
-    {name = "Anthony Chapman", email = "adc@thewebdev.us"}
-]
+authors = ["Anthony Chapman <adc@thewebdev.us>"]
 readme = "README.md"
-dependencies = [
-    "jupyter",
-    "notebook",
-    "ipykernel>=6.29.0",
-    "beautifulsoup4>=4.12.0",
-    "scrapy>=2.11.0",
-    "playwright>=1.42.0",
-    "pandas>=2.2.0",
-    "numpy>=1.26.0",
-    "langchain>=0.1.0",
-    "langgraph>=0.0.19",
-    "chainlit>=0.7.700",
-    "transformers>=4.37.0",
-    "datasets>=2.17.0",
-    "torch==2.1.2",
-    "sentence-transformers>=2.5.0",
-    "python-dotenv>=1.0.0",
-    "requests>=2.28.1",
-    "openai (>=1.63.2,<2.0.0)",
-]
-requires-python = ">=3.11,<3.12"
+
+[project]
+name = "imagineui"
+python = ">=3.9,<4.0"
+
+[tool.poetry.dependencies]
+python = ">=3.9,<4.0"
+jupyter = "*"
+notebook = "*"
+ipykernel = ">=6.29.0"
+beautifulsoup4 = ">=4.12.0"
+scrapy = ">=2.11.0"
+playwright = ">=1.42.0"
+pandas = ">=2.2.0"
+numpy = ">=1.26.0"
+langchain = ">=0.1.0"
+langgraph = ">=0.0.19"
+chainlit = ">=0.7.700"
+transformers = ">=4.37.0"
+datasets = ">=2.17.0"
+torch = "2.1.2"
+sentence-transformers = ">=2.5.0"
+python-dotenv = ">=1.0.0"
+requests = ">=2.28.1"
+openai = ">=1.63.2,<2.0.0"
+langchain-openai = ">=0.3.6,<0.4.0"
+langchain-community = ">=0.3.18,<0.4.0"
+faiss-cpu = "^1.7.4"
 
 [tool.black]
 line-length = 88
@@ -54,4 +59,8 @@ testpaths = ["tests"]
 python_version = "3.11"
 warn_return_any = true
 warn_unused_configs = true
-check_untyped_defs = true 
+check_untyped_defs = true
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api" 
