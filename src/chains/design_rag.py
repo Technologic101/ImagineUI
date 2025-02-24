@@ -29,8 +29,8 @@ class DesignRAG:
         """Create FAISS vector store from design metadata"""
         try:
             # Update path to look in data/designs
-            designs_dir = Path("data/designs")
-            
+            designs_dir = Path(__file__).parent.parent / "data" / "designs"
+
             documents = []
             
             # Load all metadata files
@@ -48,12 +48,14 @@ class DesignRAG:
                     """
                     
                     # Load associated CSS
+                    '''
                     css_path = design_dir.parent / "style.css"
                     if css_path.exists():
                         with open(css_path, "r") as f:
                             css = f.read()
                         text += f"\nCSS:\n{css}"
-                    
+                    '''
+
                     # Create Document object with minimal metadata
                     documents.append(
                         Document(
@@ -76,13 +78,14 @@ class DesignRAG:
                     self.embeddings
                 )
             
+            print(f"Loaded {len(documents)} design documents")
             # Create and return vector store
             return FAISS.from_documents(documents, self.embeddings)
         except Exception as e:
             print(f"Error creating vector store: {str(e)}")
             raise
     
-    async def query_similar_designs(self, requirements: Dict) -> str:
+    async def query_similar_designs(self, requirements: Dict, num_examples: int = 5) -> str:
         """Find similar designs based on requirements"""
         # Create search query from requirements
         query = f"""
@@ -94,7 +97,7 @@ class DesignRAG:
         """
         
         # Get similar documents
-        docs = await self.retriever.get_relevant_documents(query)
+        docs = await self.retriever.get_relevant_documents(query, k=num_examples)
         
         # Format examples
         examples = []
