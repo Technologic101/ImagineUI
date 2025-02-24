@@ -1,6 +1,7 @@
 from langchain_core.runnables import RunnablePassthrough
 from langchain_core.output_parsers import StrOutputParser
 from langchain_openai import ChatOpenAI, OpenAIEmbeddings
+
 from langchain_community.vectorstores import FAISS
 from langchain.prompts import ChatPromptTemplate
 from pathlib import Path
@@ -87,21 +88,45 @@ class DesignRAG:
     
     async def query_similar_designs(self, requirements: Dict, num_examples: int = 5) -> str:
         """Find similar designs based on requirements"""
-        # Create search query from requirements
-        query = f"""
-        Style: {requirements['style_description']}
-        Elements: {', '.join(requirements['key_elements'])}
-        Colors: {requirements['color_scheme']}
-        Layout: {requirements['layout_preferences']}
-        Mood: {requirements['mood']}
-        """
+        # Create query generation prompt
+        query_prompt = ChatPromptTemplate.from_template("""Given these design requirements:
+
+        {requirements}
+
+        Create a search query that will find similar designs. Focus on:
+        1. Visual style and aesthetics
+        2. Design categories and themes
+        3. Key visual characteristics
+        4. Overall mood and impact
+
+        Return only the search query text, no additional explanation.""")
         
-        # Get similar documents
-        docs = await self.retriever.get_relevant_documents(query, k=num_examples)
+        # Generate optimized search query
+        query_response = await self.llm.ainvoke(
+            query_prompt.format(
+                requirements=json.dumps(requirements, indent=2)
+            )
+        )
+        
+        print(f"Generated query: {query_response.content}")
+        
+        # Get similar documents using the correct method name
+        docs = self.retriever.get_relevant_documents(
+            query_response.content, 
+            k=num_examples
+        )
         
         # Format examples
         examples = []
         for doc in docs:
-            examples.append(f"Example Design:\n{doc.page_content}\n")
+            # Extract key info
+            design_id = doc.metadata.get("id", "unknown")
+            content_lines = doc.page_content.strip().split("\n")
+            
+            # Format nicely
+            examples.append(
+                f"Design {design_id}:\n" + 
+                "\n".join(line.strip() for line in content_lines if line.strip())
+            )
         
-        return "\n".join(examples) 
+        return "\n\n".join(examples) 
