@@ -86,31 +86,44 @@ class DesignRAG:
             print(f"Error creating vector store: {str(e)}")
             raise
     
-    async def query_similar_designs(self, requirements: Dict, num_examples: int = 5) -> str:
-        """Find similar designs based on requirements"""
+    async def query_similar_designs(self, conversation_history: List[str], num_examples: int = 5) -> str:
+        """Find similar designs based on conversation history
+        
+        Args:
+            conversation_history: List of conversation messages
+            num_examples: Number of examples to retrieve
+        """
         # Create query generation prompt
-        query_prompt = ChatPromptTemplate.from_template("""Given these design requirements:
+        query_prompt = ChatPromptTemplate.from_template("""Based on this conversation history:
 
-        {requirements}
+        {conversation}
 
-        Create a search query that will find similar designs. Focus on:
-        1. Visual style and aesthetics
-        2. Design categories and themes
-        3. Key visual characteristics
-        4. Overall mood and impact
+        Extract the key design requirements and create a search query to find similar designs.
+        Focus on:
+        1. Visual style and aesthetics mentioned
+        2. Design categories and themes discussed
+        3. Key visual characteristics requested
+        4. Overall mood and impact desired
+        5. Any specific preferences or constraints
 
-        Return only the search query text, no additional explanation.""")
+        Return only the search query text, no additional explanation or analysis.""")
+        
+        # Format conversation history
+        conversation_text = "\n".join([
+            f"{'User' if i % 2 == 0 else 'Assistant'}: {msg}"
+            for i, msg in enumerate(conversation_history)
+        ])
         
         # Generate optimized search query
         query_response = await self.llm.ainvoke(
             query_prompt.format(
-                requirements=json.dumps(requirements, indent=2)
+                conversation=conversation_text
             )
         )
         
         print(f"Generated query: {query_response.content}")
         
-        # Get similar documents using the correct method name
+        # Get similar documents
         docs = self.retriever.get_relevant_documents(
             query_response.content, 
             k=num_examples
