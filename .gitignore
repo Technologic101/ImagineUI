@@ -22,4 +22,4 @@ dist/
 
 .chainlit/cache
 
-/data
+src/data
