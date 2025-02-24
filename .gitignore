@@ -1,17 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
 .env
+.venv/
+venv/
+
+# Project specific
+designs/
+.chainlit/
+dist/
+
 .env.local
 .env.development.local
 .env.test.local
 .env.production.local
 
-.venv
 .files
 
 .ipynb_checkpoints
 
-.chainlit
 .chainlit/cache
 
 /data
-
-__pycache__
