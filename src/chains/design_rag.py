@@ -123,7 +123,7 @@ class DesignRAG:
         
         print(f"Generated query: {query_response.content}")
         
-        # Get similar documents
+        # TODO: Update to use invoke
         docs = self.retriever.get_relevant_documents(
             query_response.content, 
             k=num_examples
@@ -138,8 +138,8 @@ class DesignRAG:
             
             # Format nicely
             examples.append(
-                f"Design {design_id}:\n" + 
-                "\n".join(line.strip() for line in content_lines if line.strip())
+                "\n".join(line.strip() for line in content_lines if line.strip()) +
+                f"\nURL: https://csszengarden.com/{design_id}"
             )
         
         return "\n\n".join(examples) 
