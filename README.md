@@ -1,3 +1,12 @@
+---
+title: ImagineUI
+colorFrom: blue
+colorTo: purple
+sdk: docker
+pinned: false
+license: apache-2.0
+---
+
 # ImagineUI
 
 An AI-powered CSS style generator that creates and iterates on designs using natural language instructions.
