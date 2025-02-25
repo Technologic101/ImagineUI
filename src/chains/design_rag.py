@@ -20,7 +20,7 @@ class DesignRAG:
         # Create retriever
         self.retriever = self.vector_store.as_retriever(
             search_type="similarity",
-            search_kwargs={"k": 5}
+            search_kwargs={"k": 1}
         )
         
         # Create LLM
@@ -86,7 +86,7 @@ class DesignRAG:
             print(f"Error creating vector store: {str(e)}")
             raise
     
-    async def query_similar_designs(self, conversation_history: List[str], num_examples: int = 5) -> str:
+    async def query_similar_designs(self, conversation_history: List[str], num_examples: int = 1) -> str:
         """Find similar designs based on conversation history
         
         Args:

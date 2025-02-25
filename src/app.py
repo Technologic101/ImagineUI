@@ -14,8 +14,9 @@ For every user message, analyze their design preferences and requirements, consi
 2. Color preferences and mood
 3. Layout and structural needs
 4. Key visual elements
+5. Intended audience and user experience
 
-First explain how you understand their requirements, then show relevant design examples."""
+First briefly explain how you understand their requirements, then show the closest match."""
 
 @cl.on_chat_start
 async def init():
@@ -42,14 +43,14 @@ async def main(message: cl.Message):
     # Get LLM's analysis of requirements
     analysis = await llm.ainvoke(conversation_history)
     
-    # Get design examples based on full conversation
+    # Get best design example based on full conversation
     designs = await design_rag.query_similar_designs(
         [msg.content for msg in conversation_history],
-        num_examples=3
+        num_examples=1
     )
     
     # Combine analysis with designs
-    response = f"{analysis.content}\n\nHere are some relevant designs:\n\n{designs}"
+    response = f"{analysis.content}\n\nHere is the best match from the zen garden:\n\n{designs}"
     
     # Add assistant's response to history
     conversation_history.append(SystemMessage(content=response))
