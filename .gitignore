@@ -20,5 +20,3 @@ dist/
 .ipynb_checkpoints
 
 .chainlit/cache
-
-src/css_zen_garden_design_data.json
