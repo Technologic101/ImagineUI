@@ -1,6 +1,7 @@
 from langchain_core.runnables import RunnablePassthrough
 from langchain_core.output_parsers import StrOutputParser
 from langchain_openai import ChatOpenAI, OpenAIEmbeddings
+import os
 
 from langchain_community.vectorstores import FAISS
 from langchain.prompts import ChatPromptTemplate
@@ -11,8 +12,18 @@ from langchain_core.documents import Document
 
 class DesignRAG:
     def __init__(self):
-        # Initialize embedding model
-        self.embeddings = OpenAIEmbeddings()
+        # Get API key from environment
+        api_key = os.getenv("OPENAI_API_KEY")
+        if not api_key:
+            raise ValueError(
+                "OPENAI_API_KEY environment variable not set. "
+                "Please set it in HuggingFace Spaces settings."
+            )
+        
+        # Initialize embedding model with explicit API key
+        self.embeddings = OpenAIEmbeddings(
+            openai_api_key=api_key
+        )
         
         # Load design data and create vector store
         self.vector_store = self._create_vector_store()

@@ -11,6 +11,7 @@ ENV HOME=/home/user \
     PATH=/home/user/.local/bin:$PATH        
 
 ENV UVICORN_WS_PROTOCOL=websockets
+ENV PYTHONPATH=/app
 
 # Set the working directory
 WORKDIR $HOME/app
