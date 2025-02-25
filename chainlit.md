@@ -1,12 +1,16 @@
-# ImagineUI
+# Welcome to ImagineUI Design Assistant! 👋
 
-Welcome! I'm here to help you imagine a new design. 
+I'm here to help you find the perfect design style for your website. I can:
 
-## How to use:
-1. Describe the style you're looking for
-2. We'll discuss the design elements and requirements
-3. Add your html structure
-3. When ready, type "!generate" to create the CSS
-4. I'll provide the CSS and we can make adjustments
+1. 🎨 Discuss your design preferences and requirements
+2. 🔍 Find similar designs from CSS Zen Garden
+3. 💡 Provide design inspiration and suggestions
 
-Let's create something beautiful! 
+## How to use
+
+1. Describe your desired design style
+2. I'll ask follow-up questions to understand your needs
+3. When ready, I'll show you matching designs
+4. We can refine the search based on your feedback
+
+Just start chatting and tell me what kind of design you're looking for! 
