@@ -94,5 +94,5 @@ It's possible to modify this process to scrape a selection of sites, providing a
 
 #. 8 - Demo Time!
 
-[Loom Video]([https://huggingface.co/Technologic101/css_zen_design_embeddings](https://www.loom.com/share/174e34a28a4a4913a930f2c9dabb6bee))
+[Loom Video](https://www.loom.com/share/174e34a28a4a4913a930f2c9dabb6bee)
   
