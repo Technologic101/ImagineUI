@@ -7,7 +7,6 @@ __pycache__/
 venv/
 
 # Project specific
-designs/
 .chainlit/
 dist/
 
@@ -21,5 +20,3 @@ dist/
 .ipynb_checkpoints
 
 .chainlit/cache
-
-src/data
