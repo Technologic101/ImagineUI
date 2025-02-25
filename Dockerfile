@@ -13,24 +13,20 @@ RUN mkdir /app && chown -R 1000:1000 /app
 # Create non-root user
 RUN useradd -m -u 1000 user
 
-# Set up Poetry environment as root
-ENV POETRY_HOME=/opt/poetry
-ENV POETRY_VERSION=1.7.1
-RUN curl -sSL https://install.python-poetry.org | python - \
-    && ln -s /opt/poetry/bin/poetry /usr/local/bin/poetry
-
 # Switch to non-root user
 USER user
 WORKDIR /app
 
-# Set up Python path and Poetry config
+# Set up environment variables
 ENV PATH="/home/user/.local/bin:$PATH"
 ENV PYTHONPATH=/app
 ENV PORT=7860
-ENV VIRTUAL_ENV=/home/user/.venv
+ENV POETRY_HOME=/home/user/.poetry
+ENV POETRY_VERSION=1.7.1
 
-# Configure Poetry to use virtualenvs
-RUN poetry config virtualenvs.create true \
+# Install Poetry for user
+RUN curl -sSL https://install.python-poetry.org | python - \
+    && poetry config virtualenvs.create true \
     && poetry config virtualenvs.in-project true
 
 # Copy dependency files with correct ownership
