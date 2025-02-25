@@ -23,17 +23,21 @@ RUN curl -sSL https://install.python-poetry.org | python - \
 USER user
 WORKDIR /app
 
-# Set up Python path
+# Set up Python path and Poetry config
 ENV PATH="/home/user/.local/bin:$PATH"
 ENV PYTHONPATH=/app
 ENV PORT=7860
+ENV VIRTUAL_ENV=/home/user/.venv
+
+# Configure Poetry to use virtualenvs
+RUN poetry config virtualenvs.create true \
+    && poetry config virtualenvs.in-project true
 
 # Copy dependency files with correct ownership
 COPY --chown=user pyproject.toml poetry.lock* ./
 
-# Install dependencies in user space
-RUN poetry config virtualenvs.create false \
-    && poetry install --no-root --no-interaction --no-ansi
+# Install dependencies in virtualenv
+RUN poetry install --no-root --no-interaction --no-ansi
 
 # Copy application code
 COPY --chown=user . .
@@ -41,5 +45,5 @@ COPY --chown=user . .
 # Expose the port Chainlit runs on
 EXPOSE 7860
 
-# Command to run the Chainlit app
-CMD ["chainlit", "run", "src/app.py", "--host", "0.0.0.0", "--port", "7860"]
+# Command to run the Chainlit app using Poetry
+CMD ["poetry", "run", "chainlit", "run", "src/app.py", "--host", "0.0.0.0", "--port", "7860"]
