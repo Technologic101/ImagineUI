@@ -1,47 +1,31 @@
-# Use Python 3.11 slim image
-FROM python:3.11-slim
 
-# Run system updates and installations as root
-RUN apt-get update && apt-get install -y \
-    curl \
-    build-essential \
-    && rm -rf /var/lib/apt/lists/*
+# Get a distribution that has uv already installed
+FROM ghcr.io/astral-sh/uv:python3.13-bookworm-slim
 
-# Install Poetry
-RUN pip install poetry
-
-# Create app directory with correct permissions
-RUN mkdir /app && chown -R 1000:1000 /app
-
-# Create non-root user
+# Add user - this is the user that will run the app
+# If you do not set user, the app will run as root (undesirable)
 RUN useradd -m -u 1000 user
-
-# Switch to non-root user
 USER user
-WORKDIR /app
 
-# Set up environment variables
-ENV PYTHONPATH=/app
-ENV PORT=7860
-ENV CHAINLIT_HOST="0.0.0.0"
-ENV CHAINLIT_PORT=7860
+# Set the home directory and path
+ENV HOME=/home/user \
+    PATH=/home/user/.local/bin:$PATH        
 
-# Configure Poetry
-RUN poetry config virtualenvs.create true \
-    && poetry config virtualenvs.in-project true
+ENV UVICORN_WS_PROTOCOL=websockets
 
-# Copy dependency files with correct ownership
-COPY --chown=user pyproject.toml poetry.lock* ./
-COPY --chown=user chainlit.yaml ./
 
-# Install dependencies in virtualenv
-RUN poetry install --no-root --no-interaction --no-ansi
+# Set the working directory
+WORKDIR $HOME/app
 
-# Copy application code
-COPY --chown=user . .
+# Copy the app to the container
+COPY --chown=user . $HOME/app
 
-# Expose the port Chainlit runs on
+# Install the dependencies
+# RUN uv sync --frozen
+RUN uv sync
+
+# Expose the port
 EXPOSE 7860
 
-# Command to run the Chainlit app
-CMD ["poetry", "run", "chainlit", "run", "src/app.py", "--host", "0.0.0.0", "--port", "7860", "--headless"]
+# Run the app
+CMD ["uv", "run", "chainlit", "run", "app.py", "--host", "0.0.0.0", "--port", "7860"]
