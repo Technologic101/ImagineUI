@@ -1,8 +1,5 @@
 # Use Python 3.11 slim image
-FROM python:3.11
-
-
-
+FROM biggates/poetry:2.0.1-py3.11-slim
 
 
 RUN useradd -m -u 1000 user
@@ -19,12 +16,22 @@ RUN pip install poetry
 
 WORKDIR /app
 
-# Copy pyproject.toml and poetry.lock files
-COPY pyproject.toml poetry.lock* ./
+# Copy dependency files
+COPY --chown=user pyproject.toml poetry.lock* ./
 
 # Install dependencies using Poetry
 RUN poetry config virtualenvs.create false \
     && poetry install --no-dev --no-interaction --no-ansi
 
-COPY --chown=user . /app
-CMD ["python", "src/app.py"]
+# Copy application code
+COPY --chown=user . .
+
+# Set environment variables for HuggingFace Spaces
+ENV PYTHONPATH=/app
+ENV PORT=7860
+
+# Expose the port Chainlit runs on
+EXPOSE 7860
+
+# Command to run the Chainlit app
+CMD ["chainlit", "run", "src/app.py", "--host", "0.0.0.0", "--port", "7860"]
