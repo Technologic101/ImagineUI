@@ -1,6 +1,5 @@
-
-# Get a distribution that has uv already installed
-FROM ghcr.io/astral-sh/uv:python3.13-bookworm-slim
+# Use Python 3.11 version of uv image
+FROM ghcr.io/astral-sh/uv:python3.11-bookworm-slim
 
 # Add user - this is the user that will run the app
 # If you do not set user, the app will run as root (undesirable)
@@ -12,7 +11,6 @@ ENV HOME=/home/user \
     PATH=/home/user/.local/bin:$PATH        
 
 ENV UVICORN_WS_PROTOCOL=websockets
-
 
 # Set the working directory
 WORKDIR $HOME/app
