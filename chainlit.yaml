@@ -1,0 +1,23 @@
+# Server configuration
+server:
+  websocket_path: "/queue/join"  # Required for HF Spaces
+  cors_allowed_origins: ["*"]    # Allow connections from HF iframe
+  root_path: ""                  # Empty root path for HF Spaces
+
+# Interface configuration
+interface:
+  default_expand_messages: true
+  theme: light
+
+# Chat settings
+chat:
+  default_expand_messages: true
+  message_html: true
+
+# Features
+features:
+  multi_modal: true
+  speech_to_text: false
+  code_editor: 
+    enabled: true
+    languages: ["python", "css", "html"] 

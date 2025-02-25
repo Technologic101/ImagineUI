@@ -23,6 +23,8 @@ WORKDIR /app
 # Set up environment variables
 ENV PYTHONPATH=/app
 ENV PORT=7860
+ENV CHAINLIT_HOST="0.0.0.0"
+ENV CHAINLIT_PORT=7860
 
 # Configure Poetry
 RUN poetry config virtualenvs.create true \
@@ -30,6 +32,7 @@ RUN poetry config virtualenvs.create true \
 
 # Copy dependency files with correct ownership
 COPY --chown=user pyproject.toml poetry.lock* ./
+COPY --chown=user chainlit.yaml ./
 
 # Install dependencies in virtualenv
 RUN poetry install --no-root --no-interaction --no-ansi
@@ -41,4 +44,4 @@ COPY --chown=user . .
 EXPOSE 7860
 
 # Command to run the Chainlit app
-CMD ["poetry", "run", "chainlit", "run", "src/app.py", "--host", "0.0.0.0", "--port", "7860"]
+CMD ["poetry", "run", "chainlit", "run", "src/app.py", "--host", "0.0.0.0", "--port", "7860", "--headless"]
