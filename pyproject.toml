@@ -32,7 +32,9 @@ dependencies = [
     "jq>=1.8.0",
     "ragas>=0.2.13",
     "rapidfuzz>=3.12.1",
-    "websockets>=11.0.3"
+    "websockets>=11.0.3",
+    "langsmith>=0.3.11",
+    "matplotlib>=3.10.0",
 ]
 
 [build-system]
