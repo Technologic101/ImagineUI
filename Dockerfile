@@ -20,7 +20,7 @@ COPY --chown=user pyproject.toml poetry.lock* ./
 
 # Install dependencies using Poetry
 RUN poetry config virtualenvs.create false \
-    && poetry install --without-dev --no-interaction --no-ansi
+    && poetry install --without dev --no-interaction --no-ansi
 
 # Copy application code
 COPY --chown=user . .
