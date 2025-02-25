@@ -18,15 +18,11 @@ USER user
 WORKDIR /app
 
 # Set up environment variables
-ENV PATH="/home/user/.local/bin:$PATH"
 ENV PYTHONPATH=/app
 ENV PORT=7860
-ENV POETRY_HOME=/home/user/.poetry
-ENV POETRY_VERSION=1.7.1
 
-# Install Poetry for user
-RUN curl -sSL https://install.python-poetry.org | python - \
-    && poetry config virtualenvs.create true \
+# Configure Poetry
+RUN poetry config virtualenvs.create true \
     && poetry config virtualenvs.in-project true
 
 # Copy dependency files with correct ownership
@@ -41,5 +37,5 @@ COPY --chown=user . .
 # Expose the port Chainlit runs on
 EXPOSE 7860
 
-# Command to run the Chainlit app using Poetry
+# Command to run the Chainlit app
 CMD ["poetry", "run", "chainlit", "run", "src/app.py", "--host", "0.0.0.0", "--port", "7860"]
