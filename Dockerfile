@@ -7,11 +7,6 @@ RUN useradd -m -u 1000 user
 USER user
 ENV PATH="/home/user/.local/bin:$PATH"
 
-# Install system dependencies
-RUN apt-get update && apt-get install -y \
-    curl \
-    && rm -rf /var/lib/apt/lists/*
-
 # Install Poetry
 RUN curl -sSL https://install.python-poetry.org | python -
 
