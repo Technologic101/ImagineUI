@@ -35,6 +35,8 @@ dependencies = [
     "websockets>=11.0.3",
     "langsmith>=0.3.11",
     "matplotlib>=3.10.0",
+    "accelerate>=0.26.0",
+    "nest-asyncio>=1.6.0",
 ]
 
 [build-system]
