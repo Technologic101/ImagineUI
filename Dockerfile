@@ -1,15 +1,14 @@
 # Use Python 3.11 slim image
 FROM biggates/poetry:2.0.1-py3.11-slim
 
-
-RUN useradd -m -u 1000 user
-USER user
-ENV PATH="/home/user/.local/bin:$PATH"
-
 RUN apt-get update && apt-get install -y \
     curl \
     build-essential \
     && rm -rf /var/lib/apt/lists/*
+
+RUN useradd -m -u 1000 user
+USER user
+ENV PATH="/home/user/.local/bin:$PATH"
 
 # Install Poetry
 RUN pip install poetry
