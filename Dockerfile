@@ -1,11 +1,14 @@
 # Use Python 3.11 slim image
-FROM biggates/poetry:2.0.1-py3.11-slim
+FROM python:3.11-slim
 
 # Run system updates and installations as root
 RUN apt-get update && apt-get install -y \
     curl \
     build-essential \
     && rm -rf /var/lib/apt/lists/*
+
+# Install Poetry
+RUN pip install poetry
 
 # Create app directory with correct permissions
 RUN mkdir /app && chown -R 1000:1000 /app
