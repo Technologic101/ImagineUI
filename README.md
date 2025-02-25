@@ -112,40 +112,27 @@ ImagineUI/
 
   This app is for designers and non-designers who want to be inspired and see examples of good style design.
 
-  
 ## Solution
 
   An agentic RAG application that scrapes designs from CSS Zen Garden and serves the best matches to the user.
 
-### Tools
-
-a: LLM
-b: Embedding Model
-c: Orchestration
-d: Vector Database
-e: Monitoring
-f: Evaluation
-g: User Interface
-h: Serving & Inference (optional)
-
 
 # **Data Collection & Dataset Creation**
 
-### Dataset Format
-```json
-{
-  "id": "001",
-  "html_template": "path/to/template.html",
-  "css_style": "path/to/style.css",
-  "screenshots": {
-    "lg": "path/to/desktop.png",
-    "sm": "path/to/mobile.png"
-  },
-  "metadata": {
-    "description": "A minimalist business template with...",
-    "category": ["business", "minimalist"],
-    "accessibility_score": 98,
-    "color_scheme": ["#ffffff", "#000000", "#4285f4"]
-  }
-}
-```
+To populate the data, run the notebook in the data_collection folder with a range of design ids. Not all are included in the repository. New data will need to be moved to the src data folder to be accessible to the application.
+
+# **Build**
+
+uv sync
+
+chainlit run src/app.py
+
+And you're off!
+
+## Public addresses
+
+https://huggingface.co/spaces/Technologic101/imagineui
+
+https://github.com/Technologic101/ImagineUI/tree/main
+
+

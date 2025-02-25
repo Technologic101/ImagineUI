@@ -1,6 +1,7 @@
 from langchain_core.runnables import RunnablePassthrough
 from langchain_core.output_parsers import StrOutputParser
 from langchain_openai import ChatOpenAI, OpenAIEmbeddings
+from langchain.smith import RunEvalConfig, run_on_dataset
 import os
 
 from langchain_community.vectorstores import FAISS
@@ -9,10 +10,11 @@ from pathlib import Path
 import json
 from typing import Dict, List, Optional
 from langchain_core.documents import Document
+from langchain.callbacks.tracers import ConsoleCallbackHandler
 
 class DesignRAG:
     def __init__(self):
-        # Get API key from environment
+        # Get API keys from environment
         api_key = os.getenv("OPENAI_API_KEY")
         if not api_key:
             raise ValueError(
@@ -28,14 +30,18 @@ class DesignRAG:
         # Load design data and create vector store
         self.vector_store = self._create_vector_store()
         
-        # Create retriever
+        # Create retriever with tracing
         self.retriever = self.vector_store.as_retriever(
             search_type="similarity",
-            search_kwargs={"k": 1}
+            search_kwargs={"k": 1},
+            tags=["design_retriever"]  # Add tags for tracing
         )
         
-        # Create LLM
-        self.llm = ChatOpenAI(temperature=0.2)
+        # Create LLM with tracing
+        self.llm = ChatOpenAI(
+            temperature=0.2,
+            tags=["design_llm"]  # Add tags for tracing
+        )
     
     def _create_vector_store(self) -> FAISS:
         """Create FAISS vector store from design metadata"""
@@ -98,34 +104,34 @@ class DesignRAG:
             raise
     
     async def query_similar_designs(self, conversation_history: List[str], num_examples: int = 1) -> str:
-        """Find similar designs based on conversation history
+        """Find similar designs based on conversation history"""
+        from langsmith import Client
+        from langchain.callbacks.tracers import ConsoleCallbackHandler
+
+        # Create LangSmith client
+        client = Client()
         
-        Args:
-            conversation_history: List of conversation messages
-            num_examples: Number of examples to retrieve
-        """
-        # Create query generation prompt
-        query_prompt = ChatPromptTemplate.from_template("""Based on this conversation history:
+        # Create query generation prompt with tracing
+        query_prompt = ChatPromptTemplate.from_template(
+            """Based on this conversation history:
+            {conversation}
+            Extract the key design requirements and create a search query to find similar designs.
+            Focus on:
+            1. Visual style and aesthetics mentioned
+            2. Design categories and themes discussed
+            3. Key visual characteristics requested
+            4. Overall mood and impact desired
+            5. Any specific preferences or constraints
+            Return only the search query text, no additional explanation or analysis."""
+        ).with_config(tags=["query_generation"])
 
-        {conversation}
-
-        Extract the key design requirements and create a search query to find similar designs.
-        Focus on:
-        1. Visual style and aesthetics mentioned
-        2. Design categories and themes discussed
-        3. Key visual characteristics requested
-        4. Overall mood and impact desired
-        5. Any specific preferences or constraints
-
-        Return only the search query text, no additional explanation or analysis.""")
-        
         # Format conversation history
         conversation_text = "\n".join([
             f"{'User' if i % 2 == 0 else 'Assistant'}: {msg}"
             for i, msg in enumerate(conversation_history)
         ])
         
-        # Generate optimized search query
+        # Generate optimized search query with tracing
         query_response = await self.llm.ainvoke(
             query_prompt.format(
                 conversation=conversation_text
@@ -134,20 +140,18 @@ class DesignRAG:
         
         print(f"Generated query: {query_response.content}")
         
-        # TODO: Update to use invoke
+        # Get relevant documents with tracing
         docs = self.retriever.get_relevant_documents(
             query_response.content, 
-            k=num_examples
+            k=num_examples,
+            callbacks=[ConsoleCallbackHandler()]  # Use standard callback instead
         )
         
         # Format examples
         examples = []
         for doc in docs:
-            # Extract key info
             design_id = doc.metadata.get("id", "unknown")
             content_lines = doc.page_content.strip().split("\n")
-            
-            # Format nicely
             examples.append(
                 "\n".join(line.strip() for line in content_lines if line.strip()) +
                 f"\nURL: https://csszengarden.com/{design_id}"
