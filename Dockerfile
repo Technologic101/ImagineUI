@@ -25,5 +25,5 @@ RUN uv sync
 # Expose the port
 EXPOSE 7860
 
-# Run the app
-CMD ["uv", "run", "chainlit", "run", "app.py", "--host", "0.0.0.0", "--port", "7860"]
+# Run the app - updated path to src/app.py
+CMD ["uv", "run", "chainlit", "run", "src/app.py", "--host", "0.0.0.0", "--port", "7860"]
