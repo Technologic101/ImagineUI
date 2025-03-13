@@ -31,27 +31,25 @@ async def take_screenshot(url, directory):
         browser = await p.chromium.launch()
         
         # Desktop screenshot (1920px width)
-        page = await browser.new_page(viewport={'width': 1920, 'height': 1080})
+        page = await browser.new_page(viewport={'width': 1600, 'height': 1080})
         await page.goto(url)
         # Wait for network to be idle (no requests for at least 500ms)
-        await page.wait_for_load_state()
-        
-        # Additional wait to ensure any animations/transitions complete
-        #await page.wait_for_timeout(2000)  # 2 second delay
+        await page.wait_for_load_state("networkidle")
+        # Add a significant delay to ensure background images are loaded
+        await page.wait_for_timeout(2000)
         
         # Get full height
         height = await page.evaluate('document.body.scrollHeight')
-        await page.set_viewport_size({'width': 1920, 'height': int(height)})
+        await page.set_viewport_size({'width': 1600, 'height': int(height)})
         await page.screenshot(path=f"{directory}/screenshot_desktop.png", full_page=True)
         
         # Mobile screenshot (480px width)
         page = await browser.new_page(viewport={'width': 480, 'height': 1080})
         await page.goto(url)
         # Wait for network to be idle (no requests for at least 500ms)
-        await page.wait_for_load_state()
-        
-        # Additional wait to ensure any animations/transitions complete
-        #await page.wait_for_timeout(2000)  # 2 second delay
+        await page.wait_for_load_state("networkidle")
+        # Add a significant delay to ensure background images are loaded
+        await page.wait_for_timeout(2000)
         
         # Get full height
         height = await page.evaluate('document.body.scrollHeight')
