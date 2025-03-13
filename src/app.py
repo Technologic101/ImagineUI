@@ -1,10 +1,18 @@
 import chainlit as cl
-from langchain_openai import ChatOpenAI
+from langchain_openai import AsyncChatOpenAI
 from langchain_core.messages import HumanMessage, SystemMessage
 from chains.design_rag import DesignRAG
 
 # Initialize components
 design_rag = DesignRAG()
+
+llm = AsyncChatOpenAI(
+    model="gpt-4o-mini",
+    temperature=0,
+    streaming=True,
+    callbacks=[cl.LangchainCallbackHandler()]
+)
+
 conversation_history = []
 
 # System message focused on design analysis
@@ -20,23 +28,18 @@ First briefly explain how you understand their requirements, then show the close
 
 @cl.on_chat_start
 async def init():
-    # Initialize LLM with streaming
-    global llm
-    llm = ChatOpenAI(
-        model="gpt-4",
-        temperature=0,
-        streaming=True,
-        callbacks=[cl.LangchainCallbackHandler()]
-    )
     
-    # Store system message
-    conversation_history.append(SystemMessage(content=SYSTEM_MESSAGE))
+    # init conversation history for each user
+    cl.user_session.set("conversation_history", [
+        SystemMessage(content=SYSTEM_MESSAGE)
+    ])
     
     # Send welcome message
-    await cl.Message(content="Hello! What kind of design are you looking for?").send()
+    await cl.Message(content="Welcome to ImagineUI! I'm here to help you design beautiful and functional user interfaces. What kind of design are you looking for?").send()
 
 @cl.on_message
 async def main(message: cl.Message):
+    conversation_history = cl.user_session.get("conversation_history")
     # Add user message to history
     conversation_history.append(HumanMessage(content=message.content))
     
