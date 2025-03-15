@@ -5,18 +5,36 @@ import asyncio
 import base64
 from openai import AsyncOpenAI
 from dotenv import load_dotenv
-from anthropic import Anthropic
+from anthropic import AsyncAnthropic
 from .prompts import get_prompt
 
 load_dotenv()
-client = Anthropic()
+client = AsyncAnthropic(api_key=os.getenv("ANTHROPIC_API_KEY"))
 
 VISION_MODEL = "claude-3-7-sonnet-20250219"
 
-async def analyze_screenshot(design_id: str, design_path: Path):
-    """Analyze screenshots and return description, categories, and visual characteristics"""
+async def analyze_screenshot(design_id: str, design_path: Path, detailed: bool = True, output_path: Path = None):
+    """
+    Analyze screenshots and return description, categories, and visual characteristics
+    
+    Args:
+        design_id (str): ID of the design to analyze
+        design_path (Path): Path to the design's source files
+        detailed (bool): Whether to use detailed or core analysis prompt
+        output_path (Path): Path to save analysis results. If None, uses analyses/default
+    
+    Returns:
+        tuple: (design_id, description, categories, visual_characteristics)
+    """
     try:
-        # Check files exist
+        # Use output_path if provided, otherwise use default analyses path
+        save_path = output_path or Path("analyses/default")
+        
+        # Ensure output directory exists
+        if not save_path.exists():
+            save_path.mkdir(parents=True, exist_ok=True)
+            
+        # Check source files exist
         metadata_path = design_path / "metadata.json"
         desktop_img = design_path / "screenshot_desktop.png"
         mobile_img = design_path / "screenshot_mobile.png"
@@ -41,68 +59,79 @@ async def analyze_screenshot(design_id: str, design_path: Path):
         
         print(f"Analyzing design {design_id}...")
         
-        # Get response first
-        response = await client.chat.completions.create(
+        # Get response using specified detail level
+        response = await client.messages.create(
             model=VISION_MODEL,
-            messages=[
-                {
-                    "role": "system",
-                    "content": get_prompt(detailed=True)
-                },
-                {
-                    "role": "user",
-                    "content": [
-                        {
-                            "type": "text",
-                            "text": "Analyze this visual design. Output only the JSON object."
-                        },
-                        {
-                            "type": "image_url",
-                            "image_url": {
-                                "url": f"data:image/png;base64,{desktop_base64}",
-                                "detail": "high"
-                            }
-                        },
-                        {
-                            "type": "image_url",
-                            "image_url": {
-                                "url": f"data:image/png;base64,{mobile_base64}",
-                                "detail": "high"
-                            }
+            max_tokens=8000 if detailed else 4000,  # More tokens for detailed analysis
+            system=get_prompt(detailed=detailed),
+            messages=[{
+                "role": "user",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Analyze this visual design. Output only the JSON object."
+                    },
+                    {
+                        "type": "image",
+                        "source": {
+                            "type": "base64",
+                            "media_type": "image/png",
+                            "data": desktop_base64
                         }
-                    ]
-                }
-            ],
-            max_tokens=1000
+                    },
+                    {
+                        "type": "image",
+                        "source": {
+                            "type": "base64",
+                            "media_type": "image/png",
+                            "data": mobile_base64
+                        }
+                    }
+                ]
+            }]
         )
         
-        # Then get the content
-        response_content = response.choices[0].message.content.strip()
+        response_content = response.content[0].text
         
-        # Ensure the response is not empty
         if not response_content:
             print(f"Empty response for design {design_id}")
             return design_id, None, None, None
         
         # Extract JSON content from markdown code block
         if "```json" in response_content:
-            # Remove the ```json prefix and ``` suffix
             response_content = response_content.split("```json")[1].split("```")[0].strip()
         
-        # Parse the JSON response
         try:
             analysis = json.loads(response_content)
             
-            # Update metadata with all fields
-            metadata.update(analysis)
+            # Create design-specific directory in output path
+            design_output_path = save_path / design_id
+            design_output_path.mkdir(parents=True, exist_ok=True)
             
-            # Save updated metadata
-            with open(metadata_path, "w") as f:
-                json.dump(metadata, f, indent=2)
+            # Save metadata.json inside the design folder
+            output_metadata_path = design_output_path / "metadata.json"
+            
+            # Save analysis to output path
+            with open(output_metadata_path, "w") as f:
+                json.dump(analysis, f, indent=2)
             
             print(f"Successfully analyzed design {design_id}")
-            # Return visual_characteristics as fourth element
-            return design_id, analysis["description"]["summary"], analysis["categories"], analysis["visual_characteristics"]
+            
+            # Return appropriate fields based on detail level
+            if detailed:
+                return (
+                    design_id,
+                    analysis["description"]["summary"],
+                    analysis["categories"],
+                    analysis["visual_characteristics"]
+                )
+            else:
+                return (
+                    design_id,
+                    analysis["description"],
+                    analysis["categories"],
+                    analysis["visual_characteristics"]
+                )
             
         except json.JSONDecodeError as e:
             print(f"Error parsing JSON response for design {design_id}: {str(e)}")
