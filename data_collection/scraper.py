@@ -36,7 +36,7 @@ async def take_screenshot(url, directory):
         # Wait for network to be idle (no requests for at least 500ms)
         await page.wait_for_load_state("networkidle")
         # Add a significant delay to ensure background images are loaded
-        await page.wait_for_timeout(2000)
+        await page.wait_for_timeout(3000)
         
         # Get full height
         height = await page.evaluate('document.body.scrollHeight')

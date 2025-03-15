@@ -5,12 +5,13 @@ import asyncio
 import base64
 from openai import AsyncOpenAI
 from dotenv import load_dotenv
+from anthropic import Anthropic
+from .prompts import get_prompt
 
 load_dotenv()
+client = Anthropic()
 
-VISION_MODEL = "gpt-4o-2024-08-06"
-
-client = AsyncOpenAI()
+VISION_MODEL = "claude-3-7-sonnet-20250219"
 
 async def analyze_screenshot(design_id: str, design_path: Path):
     """Analyze screenshots and return description, categories, and visual characteristics"""
@@ -46,21 +47,7 @@ async def analyze_screenshot(design_id: str, design_path: Path):
             messages=[
                 {
                     "role": "system",
-                    "content": """You are an expert graphic designer analyzing print and web designs for aesthetics, functionality, audience appeal, and potential applications.
-                    
-                    The design should be considered from a visual standpoint. Use chain of thought to consider color palette, visual layout, typography, artistic style, mood, and potential applications.
-                    Consider gradients, texture, background effects, and the use of images.
-                    
-                    Treat all text content as placeholder Lorem Ipsum.
-                    
-                    Provide analysis in clean JSON format with these exact keys:
-                    {
-                        "description": "A one-paragraph summary highlighting exceptional features of the design",
-                        "categories": ["category1", "category2"],
-                        "visual_characteristics": ["characteristic1", "characteristic2"]
-                    }
-                    Provide 4-6 categories and 4-6 visual characteristics most relevant to the style and feel of the design. Do not reference css or web design directly because this analysis is primarily about design. These lists should describe the design to another LLM that will use this data to generate a UI.
-                    """
+                    "content": get_prompt(detailed=True)
                 },
                 {
                     "role": "user",
@@ -115,7 +102,7 @@ async def analyze_screenshot(design_id: str, design_path: Path):
             
             print(f"Successfully analyzed design {design_id}")
             # Return visual_characteristics as fourth element
-            return design_id, analysis["description"], analysis["categories"], analysis["visual_characteristics"]
+            return design_id, analysis["description"]["summary"], analysis["categories"], analysis["visual_characteristics"]
             
         except json.JSONDecodeError as e:
             print(f"Error parsing JSON response for design {design_id}: {str(e)}")
