@@ -3,87 +3,92 @@ Prompt templates for design analysis using different levels of detail.
 Each template is optimized for Claude 3.7 Sonnet's visual processing capabilities.
 """
 
-DETAILED_ANALYSIS_PROMPT = """You are an expert design analyst with deep knowledge of visual design, aesthetics, human perception, and design history. Analyze designs holistically, considering their artistic merit, cultural context, and historical influences.
+DETAILED_ANALYSIS_PROMPT = """You are an expert design analyst with deep knowledge of visual design, aesthetics, and human perception. Analyze designs purely based on their visual elements, ignoring any semantic meaning of text content. Treat all text as abstract typographic elements.
+
+IMPORTANT: Base all analysis ONLY on what you can see in the visual design. Do not make assumptions about themes or cultural influences unless they are clearly expressed through visual elements (like specific patterns, motifs, or artistic techniques).
 
 For each design, perform a detailed visual analysis considering:
 1. Visual Composition & Hierarchy
    - Layout structure and flow
    - Balance and white space
    - Focal points and emphasis
+   - Visual weight distribution
 
 2. Color & Atmosphere
    - Color palette and relationships
-   - Emotional resonance
-   - Light and shadow
+   - Value contrast and harmony
+   - Light and shadow effects
+   - Color temperature and mood
 
 3. Typography & Text Treatment
-   - Font choices and pairings
-   - Text hierarchy
-   - Readability and rhythm
+   - Font styles as visual elements
+   - Typographic scale and contrast
+   - Text block shapes and rhythm
+   - Integration with other design elements
 
 4. Texture & Depth
-   - Surface treatments
-   - Layering effects
-   - Material suggestions
+   - Surface treatments and patterns
+   - Layering and dimensionality
+   - Material and tactile suggestions
+   - Visual texture relationships
 
 5. Artistic Elements
-   - Stylistic influences
-   - Decorative elements
-   - Visual metaphors
+   - Visual style and aesthetic approach
+   - Decorative elements and motifs
+   - Pattern language and repetition
+   - Visual symbolism (based only on visible elements)
 
-6. Historical & Cultural Context
-   - Era-specific design trends
-   - Cultural references and influences
-   - Design movement associations
+IMPORTANT: Categories should be concise, single-word descriptors or hyphenated pairs that a designer would use to tag or classify the design. They should describe fundamental visual approaches or stylistic choices, not specific techniques or characteristics.
 
 Provide analysis in the following JSON format:
 {
     "description": {
-        "summary": "A compelling one-paragraph overview of the design's most distinctive features",
-        "visual_style": "Detailed analysis of the design's artistic approach and visual language",
-        "emotional_impact": "Description of the mood, atmosphere, and emotional response the design evokes",
-        "compositional_elements": "Analysis of how different design elements work together"
+        "summary": "A compelling overview focusing on distinctive visual features and artistic approach",
+        "visual_style": "Analysis of the design's aesthetic language and artistic execution",
+        "emotional_impact": "Description of the mood and atmosphere created by visual elements",
+        "compositional_elements": "Analysis of how visual elements work together spatially"
     },
-    "historical_context": {
-        "era_indicators": "Design elements that place this in a specific time period",
-        "cultural_references": "Cultural and artistic movements referenced in the design",
-        "design_trends": "Contemporary or historical design trends evident in the work"
+    "artistic_context": {
+        "style_influences": "Only visual styles clearly evidenced by specific visual elements",
+        "visual_metaphors": "Abstract concepts suggested by the visual treatment alone"
     },
     "categories": [
-        "Primary design categories (4-6 items)",
-        "Include both timeless and era-specific categories"
+        "4-6 single-word or hyphenated design classifications",
+        "Examples: artistic, professional, futuristic, geometric, typographic, high-contrast, grid-based"
     ],
     "visual_characteristics": [
-        "Specific visual techniques and elements (4-6 items)",
-        "Include both contemporary and historical design elements"
+        "4-6 specific visual techniques or elements",
+        "Concrete, observable visual attributes"
     ],
-    "temporal_markers": {
-        "design_period": "Estimated time period or range",
-        "characteristic_elements": ["List of elements typical of this period"]
+    "design_principles": {
+        "primary_principles": ["3-4 key design principles exemplified"],
+        "visual_techniques": ["2-3 specific execution methods"]
     }
 }"""
 
-CORE_ANALYSIS_PROMPT = """You are an expert design analyst. Analyze the visual design, focusing on the most essential elements that define its style and character.
+CORE_ANALYSIS_PROMPT = """You are an expert design analyst. Analyze the visual design purely based on visual elements, ignoring any semantic meaning of text content. Treat all text as abstract typographic elements.
+
+IMPORTANT: Base all analysis ONLY on what you can see in the visual design. Categories should be concise, single-word descriptors or hyphenated pairs that a designer would use to tag the design. Focus on fundamental visual approaches, not specific techniques.
 
 Consider:
-1. Overall composition and layout
-2. Color palette and mood
-3. Typography and text treatment
-4. Key visual elements and textures
-5. Historical/cultural indicators
+1. Overall composition and visual hierarchy
+2. Color relationships and atmosphere
+3. Typography as visual element
+4. Texture and depth
+5. Artistic style (based only on visible elements)
 
 Provide analysis in the following JSON format:
 {
-    "description": "A concise summary highlighting the design's most distinctive features",
+    "description": "A concise summary highlighting distinctive visual features",
     "categories": [
-        "4-5 primary design categories that best classify this design"
+        "4-5 single-word or hyphenated design classifications"
     ],
     "visual_characteristics": [
-        "4-5 specific visual techniques or elements that define this design"
+        "4-5 specific visual techniques or elements"
     ],
-    "era_indicators": {
-        "period": "Estimated time period",
-        "key_elements": ["2-3 elements that date this design"]
+    "artistic_style": {
+        "influences": ["2-3 clearly evident visual style influences"],
+        "techniques": ["2-3 observable visual techniques"]
     }
 }"""
 
