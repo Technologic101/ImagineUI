@@ -141,6 +141,108 @@ async def analyze_screenshot(design_id: str, design_path: Path, detailed: bool =
         print(f"Error processing design {design_id}: {str(e)}")
         return design_id, None, None, None
 
+async def attribute_designs():
+    """
+    Process scraped designs to extract title and author from CSS comments.
+    Adds these attributes to the existing metadata.json files.
+    Skips designs that already have both title and author.
+    """
+    designs_dir = Path("scraped_designs")
+    
+    if not designs_dir.exists():
+        print("Scraped designs directory not found!")
+        return
+    
+    # Get all design directories
+    design_dirs = [d for d in designs_dir.iterdir() if d.is_dir()]
+    
+    if not design_dirs:
+        print("No design directories found!")
+        return
+    
+    print(f"Found {len(design_dirs)} designs to check")
+    
+    processed = 0
+    skipped = 0
+    failed = 0
+    
+    for design_dir in design_dirs:
+        try:
+            # Check for required files
+            css_path = design_dir / "style.css"
+            metadata_path = design_dir / "metadata.json"
+            
+            if not all(f.exists() for f in [css_path, metadata_path]):
+                print(f"Missing required files for design {design_dir.name}")
+                failed += 1
+                continue
+            
+            # Check existing metadata
+            with open(metadata_path, "r") as f:
+                metadata = json.load(f)
+            
+            # Skip if both title and author already exist and aren't default values
+            if (metadata.get("title") and metadata.get("author") and 
+                metadata["title"] != "Untitled" and metadata["author"] != "Unknown"):
+                print(f"Skipping design {design_dir.name} - already attributed")
+                skipped += 1
+                continue
+            
+            # Read CSS file
+            with open(css_path, "r", encoding="utf-8") as f:
+                css_content = f.read()
+            
+            # Extract title and author using Claude
+            response = await client.messages.create(
+                model="claude-3-haiku-20240307",
+                max_tokens=100,
+                system="You are a helpful assistant that extracts title and author information from CSS comments. Return ONLY a JSON object with 'title' and 'author' fields, nothing else.",
+                messages=[{
+                    "role": "user",
+                    "content": f"Extract the title and author from these CSS comments. Return only the JSON object, no markdown:\n\n{css_content}"
+                }]
+            )
+            
+            # Get response text and clean it up
+            response_text = response.content[0].text.strip()
+            
+            # Remove markdown formatting if present
+            if "```json" in response_text:
+                response_text = response_text.split("```json")[1].split("```")[0].strip()
+            elif "```" in response_text:
+                response_text = response_text.split("```")[1].strip()
+                
+            try:
+                attribution = json.loads(response_text)
+            except json.JSONDecodeError:
+                print(f"Failed to parse JSON for design {design_dir.name}. Response was:")
+                print(response_text)
+            
+            # Update metadata
+            metadata.update({
+                "title": attribution.get("title", "Untitled"),
+                "author": attribution.get("author", "Unknown")
+            })
+            
+            # Save updated metadata
+            with open(metadata_path, "w") as f:
+                json.dump(metadata, f, indent=2)
+            
+            print(f"Successfully attributed design {design_dir.name}")
+            print(f"Title: {attribution.get('title', 'Untitled')}")
+            print(f"Author: {attribution.get('author', 'Unknown')}\n")
+            processed += 1
+            
+        except Exception as e:
+            print(f"Error processing design {design_dir.name}: {str(e)}")
+            failed += 1
+    
+    print("\nAttribution complete!")
+    print(f"Processed: {processed}")
+    print(f"Skipped: {skipped}")
+    print(f"Failed: {failed}")
+    print(f"Total: {len(design_dirs)}")
+
 async def main():
     designs_dir = Path("designs")
     
