@@ -1,0 +1,46 @@
+{
+  "id": "178",
+  "url": "https://www.csszengarden.com/178",
+  "css_url": "https://www.csszengarden.com/178/178.css",
+  "title": "Pinups",
+  "author": "Emiliano Pennisi",
+  "description": {
+    "summary": "A warm, vintage-styled web design with strong retro aesthetics conveying a nostalgic digital garden theme through amber/orange gradients and mid-century illustration elements.",
+    "visual_style": "The design employs a nostalgic retro approach with vintage illustrations, warm color palette, and ornamental headers that evoke mid-20th century graphic design sensibilities.",
+    "emotional_impact": "The warm amber tones and vintage illustrations create a welcoming, nostalgic atmosphere that feels both educational and playful.",
+    "compositional_elements": "The layout uses a two-column structure with a navigation sidebar in earthy tones and content area in parchment-like beige, framed by decorative elements and vintage illustration accents."
+  },
+  "artistic_context": {
+    "style_influences": "Mid-century commercial illustration, vintage poster art, retro web design, Art Deco decorative elements",
+    "visual_metaphors": "Garden as knowledge cultivation, path to enlightenment, vintage aesthetics as digital wisdom"
+  },
+  "categories": [
+    "retro",
+    "vintage",
+    "ornamental",
+    "illustration-based",
+    "warm-toned",
+    "nostalgic"
+  ],
+  "visual_characteristics": [
+    "amber-orange gradient",
+    "decorative headers",
+    "vintage illustrations",
+    "two-column layout",
+    "ornate typographic elements",
+    "textured backgrounds"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "hierarchy",
+      "contrast",
+      "thematic consistency",
+      "nostalgic appeal"
+    ],
+    "visual_techniques": [
+      "decorative framing",
+      "vintage illustration integration",
+      "textured gradients"
+    ]
+  }
+}

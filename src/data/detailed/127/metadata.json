@@ -1,0 +1,46 @@
+{
+  "id": "127",
+  "url": "https://www.csszengarden.com/127",
+  "css_url": "https://www.csszengarden.com/127/127.css",
+  "title": "Vivacity",
+  "author": "Soso",
+  "description": {
+    "summary": "A nostalgic web design featuring a blend of early 2000s aesthetic with floral motifs, colorful headers, and a distinctive column-based layout structure",
+    "visual_style": "The design employs a playful, somewhat dated web aesthetic with bright colors, gradient backgrounds, and decorative floral elements that contrast with organized content blocks",
+    "emotional_impact": "Creates a feeling of whimsical nostalgia while maintaining an educational tone through its structured information presentation",
+    "compositional_elements": "Organized into a multi-column layout with a dominant central content area, colorful section headers, and a right sidebar featuring vibrant menu items"
+  },
+  "artistic_context": {
+    "style_influences": "Early web design aesthetics, Y2K-era digital graphics, organic-digital fusion",
+    "visual_metaphors": "Garden elements suggesting growth and nurturing of web design skills"
+  },
+  "categories": [
+    "retro-digital",
+    "instructional",
+    "ornamental",
+    "structured",
+    "gradient-rich",
+    "multi-column"
+  ],
+  "visual_characteristics": [
+    "floral imagery",
+    "bright color blocks",
+    "gradient backgrounds",
+    "hierarchical headers",
+    "decorative typography",
+    "distinctive borders"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "visual hierarchy",
+      "color contrast",
+      "repetition",
+      "alignment"
+    ],
+    "visual_techniques": [
+      "color blocking",
+      "decorative framing",
+      "typographic emphasis"
+    ]
+  }
+}

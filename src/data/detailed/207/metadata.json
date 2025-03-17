@@ -1,0 +1,46 @@
+{
+  "id": "207",
+  "url": "https://www.csszengarden.com/207",
+  "css_url": "https://www.csszengarden.com/207/207.css",
+  "title": "Kyoto Forest",
+  "author": "John Politowski",
+  "description": {
+    "summary": "A zen-inspired web design that combines Eastern aesthetic elements with structured content presentation, using natural imagery and decorative flourishes to create a harmonious digital space.",
+    "visual_style": "The design blends natural elements with digital structure, using organic leaf borders contrasted with clearly defined content sections marked by decorative scrollwork headers.",
+    "emotional_impact": "Creates a serene, meditative atmosphere through the use of natural imagery, sky background, and traditional Eastern motifs, evoking tranquility and contemplation.",
+    "compositional_elements": "Features vertical leaf borders framing a central content area with hierarchical sections, enhanced by ornamental scroll patterns and a symbolic red parasol that anchors the top of the design."
+  },
+  "artistic_context": {
+    "style_influences": "Japanese garden aesthetics, Eastern calligraphy, traditional scroll artwork, digital minimalism",
+    "visual_metaphors": "Garden as learning environment, path to enlightenment, natural growth mirroring skill development"
+  },
+  "categories": [
+    "eastern-inspired",
+    "nature-integrated",
+    "structured",
+    "ornamental",
+    "minimalist",
+    "educational"
+  ],
+  "visual_characteristics": [
+    "bordered-layout",
+    "natural-framing",
+    "decorative-headers",
+    "hierarchical-sections",
+    "symbolic-imagery",
+    "balanced-asymmetry"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "balance",
+      "harmony",
+      "contrast",
+      "rhythm"
+    ],
+    "visual_techniques": [
+      "framing",
+      "layering",
+      "symbolic imagery"
+    ]
+  }
+}

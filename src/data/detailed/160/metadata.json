@@ -1,0 +1,46 @@
+{
+  "id": "160",
+  "url": "https://www.csszengarden.com/160",
+  "css_url": "https://www.csszengarden.com/160/160.css",
+  "title": "Daruma",
+  "author": "Stuart Cruickshank",
+  "description": {
+    "summary": "A minimalist web design featuring traditional Japanese-inspired dolls as a header image, combined with a clean, structured layout that demonstrates elegant CSS styling principles.",
+    "visual_style": "The design employs a zen-inspired aesthetic with subtle gray backgrounds, clear typographic hierarchy, and decorative butterfly motifs that enhance the spiritual theme.",
+    "emotional_impact": "Creates a calm, meditative atmosphere through subdued colors, generous whitespace, and balanced composition that invites contemplation and learning.",
+    "compositional_elements": "Structured in horizontal content blocks with clear separation, featuring a prominent header image, organized text sections with colored headings, and subtle decorative elements."
+  },
+  "artistic_context": {
+    "style_influences": "Japanese minimalism, zen philosophy, traditional Eastern crafts",
+    "visual_metaphors": "Garden as learning environment, path to enlightenment, balance and harmony"
+  },
+  "categories": [
+    "minimalist",
+    "structured",
+    "educational",
+    "zen-inspired",
+    "grid-based",
+    "balanced"
+  ],
+  "visual_characteristics": [
+    "muted-palette",
+    "content-blocks",
+    "ornamental-butterflies",
+    "traditional-imagery",
+    "clear-hierarchy",
+    "negative-space"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "balance",
+      "hierarchy",
+      "white space",
+      "rhythm"
+    ],
+    "visual_techniques": [
+      "content blocking",
+      "color contrast",
+      "structural alignment"
+    ]
+  }
+}

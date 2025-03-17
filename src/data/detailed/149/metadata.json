@@ -1,0 +1,46 @@
+{
+  "id": "149",
+  "url": "https://www.csszengarden.com/149",
+  "css_url": "https://www.csszengarden.com/149/149.css",
+  "title": "Uncultivated",
+  "author": "Mario Carboni",
+  "description": {
+    "summary": "A serene web design featuring a split-layout with a naturalistic header image of golden grasses against blue water, followed by a structured content area with muted earth tones.",
+    "visual_style": "The design employs a minimalist aesthetic with a nature-inspired header, using a calm earth-tone palette and structured grid layout that balances organic imagery with organized content.",
+    "emotional_impact": "Creates a peaceful, contemplative atmosphere through the tranquil natural imagery and balanced composition, reinforcing the 'zen' concept through visual harmony.",
+    "compositional_elements": "Utilizes a clear vertical column structure with distinct content zones, framed by natural imagery at top and bottom, with careful attention to typographic hierarchy and negative space."
+  },
+  "artistic_context": {
+    "style_influences": "Minimalist web design, Japanese zen aesthetics, nature photography, modern grid layouts",
+    "visual_metaphors": "Tranquility through natural elements, clarity through structured space, balance through compositional harmony"
+  },
+  "categories": [
+    "minimalist",
+    "nature-inspired",
+    "instructional",
+    "grid-based",
+    "earth-tone",
+    "functional"
+  ],
+  "visual_characteristics": [
+    "two-column layout",
+    "natural header imagery",
+    "beige-blue color scheme",
+    "typographic hierarchy",
+    "textural contrast",
+    "negative space"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "balance",
+      "hierarchy",
+      "contrast",
+      "harmony"
+    ],
+    "visual_techniques": [
+      "photographic framing",
+      "color temperature contrast",
+      "structural grid"
+    ]
+  }
+}

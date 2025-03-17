@@ -1,0 +1,46 @@
+{
+  "id": "124",
+  "url": "https://www.csszengarden.com/124",
+  "css_url": "https://www.csszengarden.com/124/124.css",
+  "title": "Teatime",
+  "author": "Michaela Maria Sampl",
+  "description": {
+    "summary": "An elegant, minimalist web design that blends Eastern aesthetic principles with modern web layout techniques, featuring a delicate balance between ornamental elements and functional content hierarchy.",
+    "visual_style": "The design employs a serene, contemplative aesthetic with subtle organic decorative elements that frame a clean, structured content area.",
+    "emotional_impact": "Creates a calm, meditative atmosphere through the use of soft colors, ample white space, and natural imagery that evokes tranquility and focus.",
+    "compositional_elements": "The layout features a clear three-column structure with a prominent content area, subtle ornamental flourishes at the corners, and a rhythmic pattern background that unifies the composition."
+  },
+  "artistic_context": {
+    "style_influences": "Japanese zen aesthetics, classical manuscript design, natural minimalism",
+    "visual_metaphors": "Tea ceremony (represented by the tea bowl), organic growth (shown in decorative flourishes), path to knowledge (structured content flow)"
+  },
+  "categories": [
+    "minimalist",
+    "organic",
+    "elegant",
+    "structured",
+    "traditional",
+    "zen-inspired"
+  ],
+  "visual_characteristics": [
+    "geometric pattern background",
+    "ornamental flourishes",
+    "three-column layout",
+    "hierarchical typography",
+    "natural imagery",
+    "subdued color palette"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "balance",
+      "harmony",
+      "contrast",
+      "hierarchy"
+    ],
+    "visual_techniques": [
+      "framing",
+      "pattern repetition",
+      "typographic scale"
+    ]
+  }
+}

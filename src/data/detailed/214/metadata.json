@@ -1,0 +1,46 @@
+{
+  "id": "214",
+  "url": "https://www.csszengarden.com/214",
+  "css_url": "https://www.csszengarden.com/214/214.css",
+  "title": "Verde Moderna",
+  "author": "Dave Shea",
+  "description": {
+    "summary": "A serene web design featuring a zen garden theme with a harmonious blend of natural imagery and structured layout",
+    "visual_style": "Clean, minimalist design with soft natural background imagery and clear typographic hierarchy",
+    "emotional_impact": "Evokes tranquility and balance through the use of calm teal-green color palette and spacious layout",
+    "compositional_elements": "Header with soft-focus nature background transitioning to structured content columns with alternating background tones"
+  },
+  "artistic_context": {
+    "style_influences": "Japanese zen aesthetics, minimalist web design, nature-inspired digital art",
+    "visual_metaphors": "Garden as structure, path as journey, circular emblem as wholeness"
+  },
+  "categories": [
+    "minimalist",
+    "nature-inspired",
+    "structured",
+    "harmonious",
+    "zen-aesthetic",
+    "responsive"
+  ],
+  "visual_characteristics": [
+    "blurred-background",
+    "column-layout",
+    "color-blocking",
+    "circular-iconography",
+    "typographic-hierarchy",
+    "alternating-sections"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "balance",
+      "rhythm",
+      "hierarchy",
+      "harmony"
+    ],
+    "visual_techniques": [
+      "contrast",
+      "framing",
+      "atmospheric perspective"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "040",
+  "url": "https://www.csszengarden.com/040",
+  "css_url": "https://www.csszengarden.com/040/040.css",
+  "title": "The Question Why",
+  "author": "Diane Clayton",
+  "description": {
+    "summary": "A dark, atmospheric web design with a monochromatic background juxtaposed against structured content panels. The design uses an asymmetrical layout with strong typographic contrast and selective yellow highlighting for navigation elements.",
+    "visual_style": "The design employs a minimalist, industrial aesthetic with a dark monochromatic base. Abstract background textures create depth while rectangular content panels provide structural organization.",
+    "emotional_impact": "Creates a contemplative, intellectual atmosphere through its high-contrast dark palette and deliberate spacing. The selective use of bright yellow against dark backgrounds creates tension and draws attention.",
+    "compositional_elements": "Organized in a vertical flow with a distinctive header area featuring angled typography. Left-aligned navigation panels contrast with centered content boxes, creating a deliberate asymmetrical balance."
+  },
+  "artistic_context": {
+    "style_influences": "Modernist web design, industrial aesthetics, brutalist digital interfaces, monochromatic photography",
+    "visual_metaphors": "Digital zen garden, pathway through darkness, architectural structure"
+  },
+  "categories": [
+    "minimalist",
+    "high-contrast",
+    "grid-based",
+    "industrial",
+    "monochromatic",
+    "brutalist"
+  ],
+  "visual_characteristics": [
+    "dark-background",
+    "textured-surfaces",
+    "selective-highlighting",
+    "angular-typography",
+    "panel-based-layout",
+    "asymmetrical-balance"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "contrast",
+      "hierarchy",
+      "asymmetry",
+      "emphasis"
+    ],
+    "visual_techniques": [
+      "selective coloration",
+      "textural layering",
+      "typographic contrast"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "041",
+  "url": "https://www.csszengarden.com/041",
+  "css_url": "https://www.csszengarden.com/041/041.css",
+  "title": "door to my garden",
+  "author": "Patrick Lauke",
+  "description": {
+    "summary": "A minimalist web design featuring high contrast black and white aesthetics with a textured window background and transparent overlaid menu panels that create visual depth and spatial hierarchy.",
+    "visual_style": "The design employs a stark monochromatic palette with subtle textural elements, creating a contemplative, zen-inspired visual language that balances negative space with structured text blocks.",
+    "emotional_impact": "The dark, meditative atmosphere evokes a sense of calm focus and intellectual clarity, enhanced by the contrast between the shadowy background and illuminated text.",
+    "compositional_elements": "Layered transparent panels create dimensional depth against the textured window backdrop, with carefully structured text blocks and subtle curved bracket elements providing organic counterpoints to the geometric layout."
+  },
+  "artistic_context": {
+    "style_influences": "Japanese minimalism, early digital interface design, monochromatic photography",
+    "visual_metaphors": "Window as portal to knowledge, transparency as clarity of thought, organic curves against rigid structure"
+  },
+  "categories": [
+    "minimalist",
+    "monochromatic",
+    "textural",
+    "zen-inspired",
+    "transparent",
+    "grid-based"
+  ],
+  "visual_characteristics": [
+    "high-contrast",
+    "layered-transparency",
+    "textured-background",
+    "typographic-hierarchy",
+    "negative-space",
+    "bracket-motifs"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "contrast",
+      "hierarchy",
+      "balance",
+      "unity"
+    ],
+    "visual_techniques": [
+      "transparency",
+      "textural contrast",
+      "spatial layering"
+    ]
+  }
+}

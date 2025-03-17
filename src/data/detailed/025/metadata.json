@@ -1,0 +1,46 @@
+{
+  "id": "025",
+  "url": "https://www.csszengarden.com/025",
+  "css_url": "https://www.csszengarden.com/025/025.css",
+  "title": "mnemonic",
+  "author": "Dave Shea",
+  "description": {
+    "summary": "A web design gallery interface featuring a bold chartreuse and crimson color scheme with a clean, structured layout that showcases CSS design examples",
+    "visual_style": "The design adopts a contemporary web aesthetic with strong horizontal divisions, geometric navigation buttons, and a high-contrast color palette that creates visual energy",
+    "emotional_impact": "The vibrant color combination evokes excitement and creative energy, while the structured layout provides clarity and accessibility",
+    "compositional_elements": "A multi-column layout divides content between explanatory text and design examples, with prominent navigation elements and clear visual framing"
+  },
+  "artistic_context": {
+    "style_influences": "Web 2.0 design principles, early 2000s digital aesthetics, minimalist navigation systems",
+    "visual_metaphors": "Garden as creative growth, zen as simplicity and harmony in design"
+  },
+  "categories": [
+    "high-contrast",
+    "geometric",
+    "modular",
+    "instructional",
+    "grid-based",
+    "web-oriented"
+  ],
+  "visual_characteristics": [
+    "chartreuse-crimson palette",
+    "horizontal banding",
+    "squared buttons",
+    "multi-column layout",
+    "white content area",
+    "angular framing"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "contrast",
+      "hierarchy",
+      "alignment",
+      "repetition"
+    ],
+    "visual_techniques": [
+      "color blocking",
+      "geometric framing",
+      "white space utilization"
+    ]
+  }
+}

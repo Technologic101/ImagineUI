@@ -1,0 +1,46 @@
+{
+  "id": "114",
+  "url": "https://www.csszengarden.com/114",
+  "css_url": "https://www.csszengarden.com/114/114.css",
+  "title": "Salvage Yard",
+  "author": "Justin Peters",
+  "description": {
+    "summary": "A nostalgic web design demonstrating CSS styling capabilities through a zen garden concept, combining organic imagery with structured layout patterns",
+    "visual_style": "The design employs a harmonious blend of natural photographic elements and structured text areas, creating a juxtaposition between organic and digital aesthetics",
+    "emotional_impact": "Evokes a calm, contemplative mood through soft color transitions and natural imagery, balanced with an organized information hierarchy",
+    "compositional_elements": "Features a multi-column layout with distinct content zones, using header banners with photographic elements to separate thematic sections"
+  },
+  "artistic_context": {
+    "style_influences": "Japanese zen garden philosophy, early 2000s web design aesthetics, nature-inspired digital art",
+    "visual_metaphors": "Path/journey imagery, natural elements representing growth and harmony, structured layout symbolizing order within organic systems"
+  },
+  "categories": [
+    "instructional",
+    "nature-inspired",
+    "minimalist",
+    "grid-based",
+    "educational",
+    "retro-web"
+  ],
+  "visual_characteristics": [
+    "muted color palette",
+    "photographic headers",
+    "multi-column layout",
+    "contrasting text sections",
+    "natural texture elements",
+    "hierarchical typography"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "contrast",
+      "repetition",
+      "alignment",
+      "proximity"
+    ],
+    "visual_techniques": [
+      "textural juxtaposition",
+      "photographic framing",
+      "color blocking"
+    ]
+  }
+}

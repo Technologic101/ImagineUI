@@ -1,0 +1,46 @@
+{
+  "id": "024",
+  "url": "https://www.csszengarden.com/024",
+  "css_url": "https://www.csszengarden.com/024/024.css",
+  "title": "Not So Minimal",
+  "author": "Daniel Rubin",
+  "description": {
+    "summary": "A clean, minimalist web design with a serene blue header and structured content sections using a harmonious color palette of blues, whites, and soft grays.",
+    "visual_style": "The design employs a balanced, functional approach with clear typographic hierarchy and sectioned content areas distinguished by subtle background colors.",
+    "emotional_impact": "The tranquil blue gradient header creates a calm, meditative atmosphere that complements the structural clarity below, evoking a sense of order and simplicity.",
+    "compositional_elements": "A two-column layout with navigation elements on the left and expanding content on the right, using gentle color blocking to separate distinct information areas."
+  },
+  "artistic_context": {
+    "style_influences": "Minimalist web design, information architecture principles, Japanese zen aesthetics",
+    "visual_metaphors": "Water and sky in the header suggesting tranquility and depth, structured sections representing organized knowledge"
+  },
+  "categories": [
+    "minimalist",
+    "structured",
+    "functional",
+    "grid-based",
+    "clean",
+    "information-oriented"
+  ],
+  "visual_characteristics": [
+    "gradient header",
+    "color blocking",
+    "typographic hierarchy",
+    "white space",
+    "sectioned content",
+    "two-column layout"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "hierarchy",
+      "balance",
+      "clarity",
+      "structure"
+    ],
+    "visual_techniques": [
+      "color separation",
+      "negative space",
+      "alignment"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "059",
+  "url": "https://www.csszengarden.com/059",
+  "css_url": "https://www.csszengarden.com/059/059.css",
+  "title": "Dune Temple",
+  "author": "Greg Reimer",
+  "description": {
+    "summary": "A retro-inspired web design with a distinctive gold-amber monochromatic color scheme and geometric decorative elements that evoke early digital aesthetics",
+    "visual_style": "The design features a structured layout with strong geometric borders, pixel-like decorative elements, and a distinct early-web aesthetic reimagined with modern precision",
+    "emotional_impact": "Creates a nostalgic, contemplative atmosphere through its warm amber tones and purposefully retro styling that evokes early internet design principles",
+    "compositional_elements": "Organized in a traditional content hierarchy with a prominent header, two-column layout with content left and navigation right, framed by decorative geometric borders"
+  },
+  "artistic_context": {
+    "style_influences": "Early web aesthetics, Japanese zen garden philosophy translated into visual elements, pixel art, vintage computing interfaces",
+    "visual_metaphors": "Digital contemplation space, technological garden, structured simplicity"
+  },
+  "categories": [
+    "retro",
+    "monochromatic",
+    "geometric",
+    "structured",
+    "minimalist",
+    "pixel-inspired"
+  ],
+  "visual_characteristics": [
+    "amber-gold palette",
+    "geometric borders",
+    "pixel elements",
+    "two-column layout",
+    "decorative corners",
+    "horizontal section dividers"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "contrast",
+      "hierarchy",
+      "repetition",
+      "alignment"
+    ],
+    "visual_techniques": [
+      "monochromatic color scheme",
+      "geometric framing",
+      "pixel decoration"
+    ]
+  }
+}

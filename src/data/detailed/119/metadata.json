@@ -1,0 +1,46 @@
+{
+  "id": "119",
+  "url": "https://www.csszengarden.com/119",
+  "css_url": "https://www.csszengarden.com/119/119.css",
+  "title": "Pleasant Day",
+  "author": "Kyle Jones",
+  "description": {
+    "summary": "A nature-inspired web design featuring a vibrant green color scheme with a blurred grass background and a clean, structured layout that demonstrates CSS capabilities",
+    "visual_style": "The design blends organic natural imagery with structured digital interface elements, creating harmony between nature and technology",
+    "emotional_impact": "The bright green palette and flowing grass imagery evoke feelings of growth, renewal, and organic beauty within a digital context",
+    "compositional_elements": "The page uses a three-column layout with a prominent header banner, main content area, and sidebar navigation, all framed by a soft blue background"
+  },
+  "artistic_context": {
+    "style_influences": "Digital minimalism, organic design, zen-inspired aesthetics",
+    "visual_metaphors": "Garden as digital growth, cultivated design, nurturing creativity"
+  },
+  "categories": [
+    "nature-inspired",
+    "minimalist",
+    "structured",
+    "educational",
+    "organic",
+    "grid-based"
+  ],
+  "visual_characteristics": [
+    "green-dominant palette",
+    "blurred nature photography",
+    "hierarchical typography",
+    "clean section dividers",
+    "decorative floral emblem",
+    "high-contrast headers"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "hierarchy",
+      "contrast",
+      "balance",
+      "unity"
+    ],
+    "visual_techniques": [
+      "photographic backdrop",
+      "color blocking",
+      "typographic contrast"
+    ]
+  }
+}

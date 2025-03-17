@@ -1,0 +1,46 @@
+{
+  "id": "218",
+  "url": "https://www.csszengarden.com/218",
+  "css_url": "https://www.csszengarden.com/218/218.css",
+  "title": "Apothecary",
+  "author": "Trent Walton",
+  "description": {
+    "summary": "A minimalist, vintage-inspired web design with a hierarchical layout that combines retro aesthetics with modern sensibilities",
+    "visual_style": "The design employs vintage apothecary and medicine label aesthetics with clean typography and strategic use of accent colors",
+    "emotional_impact": "Creates a calming, scholarly atmosphere through its restrained color palette and structured layout",
+    "compositional_elements": "Strong vertical organization with clear section demarcation through horizontal rules and typographic contrast"
+  },
+  "artistic_context": {
+    "style_influences": "Vintage pharmaceutical labels, Victorian broadsheets, minimalist editorial design",
+    "visual_metaphors": "Bottle illustration suggests essence or distillation of knowledge"
+  },
+  "categories": [
+    "minimalist",
+    "vintage-inspired",
+    "typographic",
+    "structured",
+    "editorial",
+    "hierarchical"
+  ],
+  "visual_characteristics": [
+    "horizontal-dividers",
+    "limited-color-palette",
+    "serif-typography",
+    "geometric-accents",
+    "negative-space",
+    "illustrative-elements"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "hierarchy",
+      "contrast",
+      "rhythm",
+      "balance"
+    ],
+    "visual_techniques": [
+      "typographic scaling",
+      "spatial sectioning",
+      "geometric framing"
+    ]
+  }
+}

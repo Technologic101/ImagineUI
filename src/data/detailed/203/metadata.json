@@ -1,0 +1,46 @@
+{
+  "id": "203",
+  "url": "https://www.csszengarden.com/203",
+  "css_url": "https://www.csszengarden.com/203/203.css",
+  "title": "Tiny Blue",
+  "author": "Timo Virtanen",
+  "description": {
+    "summary": "A serene web design featuring a water droplet motif with a monochromatic blue color scheme that evokes tranquility and depth. The layout employs a vertical single-column structure with clear hierarchical sections and sidebar navigation elements.",
+    "visual_style": "Minimalist and contemplative design approach with a focus on clarity and structure. The water imagery creates a metaphorical backdrop for the content while maintaining a professional, educational aesthetic.",
+    "emotional_impact": "The design conveys calm, wisdom, and thoughtfulness through its cool blue palette and rippling water imagery, creating a meditative atmosphere aligned with the theme of enlightenment.",
+    "compositional_elements": "Strong vertical organization with distinct content blocks, consistent margins, and a harmonious balance between text areas and negative space. The water droplet header serves as a focal point that draws the eye downward into the content."
+  },
+  "artistic_context": {
+    "style_influences": "Digital minimalism, zen aesthetics, instructional design, and early web typography principles",
+    "aesthetic_period": "Contemporary digital design with influences from Eastern philosophical visual traditions",
+    "visual_metaphors": "Water as knowledge, ripples as impact, fluidity as learning, depth as wisdom"
+  },
+  "categories": [
+    "Monochromatic design",
+    "Instructional web layout",
+    "Metaphorical imagery",
+    "Minimalist typography",
+    "Vertical grid composition"
+  ],
+  "visual_characteristics": [
+    "Cool blue color palette",
+    "Water ripple header imagery",
+    "Consistent text block rhythm",
+    "Clear sectional divisions",
+    "Subtle vertical navigation elements",
+    "Balanced negative space"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "Hierarchy",
+      "Rhythm",
+      "Unity",
+      "Balance"
+    ],
+    "visual_techniques": [
+      "Metaphorical imagery",
+      "Monochromatic color scheme",
+      "Grid-based layout"
+    ]
+  }
+}

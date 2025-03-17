@@ -1,0 +1,45 @@
+{
+  "id": "051",
+  "url": "https://www.csszengarden.com/051",
+  "css_url": "https://www.csszengarden.com/051/051.css",
+  "title": "Commercial Drive",
+  "author": "Wendy Foster",
+  "description": {
+    "summary": "A vibrant web design showcasing a stylized illustration of a figure against a bold color-blocked layout with distinct vertical text columns.",
+    "visual_style": "The design employs a striking retro-punk aesthetic with sharp color contrasts, combining illustration with structured information blocks.",
+    "emotional_impact": "The bold color scheme and punk-influenced illustration create an energetic, rebellious atmosphere that challenges traditional web design conventions.",
+    "compositional_elements": "The layout uses a three-part structure with an illustrative area on the left, a vertical navigation menu, and content blocks against a gradient background."
+  },
+  "artistic_context": {
+    "style_influences": "Punk zine culture, pop art, Japanese manga, late 90s/early 2000s web aesthetics",
+    "visual_metaphors": "Digital rebellion, artistic freedom, structural transformation"
+  },
+  "categories": [
+    "experimental",
+    "punk-digital",
+    "high-contrast",
+    "illustrative",
+    "retro-web"
+  ],
+  "visual_characteristics": [
+    "gradient-background",
+    "sectioned-columns",
+    "manga-inspired-illustration",
+    "color-blocking",
+    "bold-typography",
+    "vertical-rhythm"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "contrast",
+      "hierarchy",
+      "emphasis",
+      "rhythm"
+    ],
+    "visual_techniques": [
+      "color-blocking",
+      "figure-ground relationship",
+      "typographic grid"
+    ]
+  }
+}

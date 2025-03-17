@@ -1,0 +1,45 @@
+{
+  "id": "049",
+  "url": "https://www.csszengarden.com/049",
+  "css_url": "https://www.csszengarden.com/049/049.css",
+  "title": "Buddha",
+  "author": "Daniel Leroux",
+  "description": {
+    "summary": "A minimalist, educational web interface designed with a zen-inspired aesthetic, combining a light color palette with structured information hierarchy and symbolic imagery",
+    "visual_style": "Clean and structured layout with a deliberate use of white space, subtle grid patterns, and considered typography that embodies simplicity and clarity",
+    "emotional_impact": "Creates a calm, contemplative atmosphere through balanced negative space, muted colors, and philosophical visual metaphors",
+    "compositional_elements": "Two-column layout with a narrow navigation sidebar and wider content area, using subtle dividers and yellow accent elements to create visual rhythm"
+  },
+  "artistic_context": {
+    "style_influences": "Minimalism, Eastern aesthetic philosophy, technical documentation design",
+    "visual_metaphors": "The Buddha statue represents enlightenment and wisdom, complementing the 'zen garden' concept as a space for clarity and learning"
+  },
+  "categories": [
+    "minimalist",
+    "educational",
+    "structured",
+    "zen-inspired",
+    "technical"
+  ],
+  "visual_characteristics": [
+    "limited-color-palette",
+    "hierarchical-typography",
+    "symbolic-imagery",
+    "grid-based",
+    "high-legibility",
+    "negative-space"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "hierarchy",
+      "balance",
+      "simplicity",
+      "clarity"
+    ],
+    "visual_techniques": [
+      "typographic contrast",
+      "spatial organization",
+      "accent coloring"
+    ]
+  }
+}

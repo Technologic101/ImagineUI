@@ -1,0 +1,46 @@
+{
+  "id": "130",
+  "url": "https://www.csszengarden.com/130",
+  "css_url": "https://www.csszengarden.com/130/130.css",
+  "title": "Pseudo-Sahara",
+  "author": "John Barrick",
+  "description": {
+    "summary": "A serene, educational web design that blends natural landscapes with structured information, creating a calm yet instructional environment for learning CSS techniques",
+    "visual_style": "Zen-inspired minimalism with a balance of organic imagery and structured content, using a natural color palette to create a peaceful atmosphere",
+    "emotional_impact": "Contemplative and inviting, evoking a sense of calm learning through the combination of desert landscape imagery and organized, accessible information",
+    "compositional_elements": "Two-column layout with a subtle hierarchy, featuring a panoramic sand dune header that transitions into a structured content area below"
+  },
+  "artistic_context": {
+    "style_influences": "Japanese zen gardens, minimalist web design, nature-inspired digital aesthetics",
+    "visual_metaphors": "Sand dunes as a path to knowledge, blue sky suggesting openness and possibility"
+  },
+  "categories": [
+    "minimalist",
+    "nature-inspired",
+    "educational",
+    "zen-aesthetic",
+    "two-column",
+    "gradient-based"
+  ],
+  "visual_characteristics": [
+    "sand dune imagery",
+    "blue-to-beige gradient",
+    "horizontal navigation",
+    "typographic contrast",
+    "bordered sections",
+    "curved decorative elements"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "balance",
+      "hierarchy",
+      "contrast",
+      "harmony"
+    ],
+    "visual_techniques": [
+      "natural textures",
+      "color transition",
+      "negative space"
+    ]
+  }
+}

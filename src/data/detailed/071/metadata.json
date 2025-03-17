@@ -1,0 +1,46 @@
+{
+  "id": "071",
+  "url": "https://www.csszengarden.com/071",
+  "css_url": "https://www.csszengarden.com/071/071.css",
+  "title": "Garden Party",
+  "author": "Bobby van der Sluis",
+  "description": {
+    "summary": "A vibrant web design showcasing a distinct aesthetic that combines retro styling with modern web interface elements, using bold color contrasts and flowing curved shapes.",
+    "visual_style": "The design employs a playful, almost retrofuturistic approach with organic flowing shapes framing a structured content layout within a striking aqua blue environment.",
+    "emotional_impact": "The bright turquoise backdrop creates an energetic, optimistic atmosphere that evokes digital creativity and innovation, balanced by the structured information presentation.",
+    "compositional_elements": "Curved, fluid container shapes house organized text blocks in a vertical flow, with distinct sectioning created through bold typography and spatial separation."
+  },
+  "artistic_context": {
+    "style_influences": "Web 2.0 aesthetics, mid-century modern typography, digital zen minimalism, liquid design movement",
+    "visual_metaphors": "Flowing water, garden paths, digital oasis, information pools"
+  },
+  "categories": [
+    "retro-modern",
+    "liquid-design",
+    "high-contrast",
+    "typographic",
+    "sectional",
+    "organic-geometric"
+  ],
+  "visual_characteristics": [
+    "curved-containers",
+    "aqua-dominant",
+    "bold-typography",
+    "flowing-shapes",
+    "vertical-hierarchy",
+    "nested-elements"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "contrast",
+      "hierarchy",
+      "repetition",
+      "alignment"
+    ],
+    "visual_techniques": [
+      "color blocking",
+      "typographic scaling",
+      "organic framing"
+    ]
+  }
+}

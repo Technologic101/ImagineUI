@@ -1,0 +1,46 @@
+{
+  "id": "159",
+  "url": "https://www.csszengarden.com/159",
+  "css_url": "https://www.csszengarden.com/159/159.css",
+  "title": "Berry Flavour",
+  "author": "Maren Becker",
+  "description": {
+    "summary": "A soft, feminine web design with a pink color scheme featuring a central content area on a light patterned background. The layout combines structured navigation with delicate visual styling.",
+    "visual_style": "The design employs a minimalist approach with a romantic, ethereal quality created through soft pink watercolor effects and a gingham pattern background.",
+    "emotional_impact": "The gentle pink palette and airy composition evoke a sense of tranquility and harmony, aligned with the 'zen' concept referenced in the design.",
+    "compositional_elements": "A two-column layout with clearly defined navigation sections on the left and main content on the right, unified by consistent styling elements and accented with small decorative icons."
+  },
+  "artistic_context": {
+    "style_influences": "Web 2.0 aesthetics, watercolor art techniques, Japanese minimalism",
+    "visual_metaphors": "Garden serenity, flowing water, gentle structure"
+  },
+  "categories": [
+    "minimalist",
+    "feminine",
+    "monochromatic",
+    "structured",
+    "soft-textured",
+    "grid-based"
+  ],
+  "visual_characteristics": [
+    "pink-dominated",
+    "watercolor-effect",
+    "gingham-background",
+    "two-column-layout",
+    "circular-badge",
+    "decorative-icons"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "hierarchy",
+      "repetition",
+      "balance",
+      "contrast"
+    ],
+    "visual_techniques": [
+      "textural overlay",
+      "color harmony",
+      "typographic structure"
+    ]
+  }
+}

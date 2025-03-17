@@ -1,0 +1,45 @@
+{
+  "id": "054",
+  "url": "https://www.csszengarden.com/054",
+  "css_url": "https://www.csszengarden.com/054/054.css",
+  "title": "Gecko's Eye",
+  "author": "Sandra Greco",
+  "description": {
+    "summary": "A visually dynamic web gallery showcasing CSS design capabilities through a tri-column layout that balances vibrant imagery with structured information presentation",
+    "visual_style": "The design employs a playful yet structured approach with a distinctive color-blocked layout featuring organic illustrations against geometric content sections",
+    "emotional_impact": "The contrasting color palette creates a sense of energy and creativity while maintaining clear organization that feels both inviting and instructional",
+    "compositional_elements": "Three vertical columns create a strong structural rhythm with distinct color zones that guide the viewer through content hierarchically"
+  },
+  "artistic_context": {
+    "style_influences": "Digital modernism with Eastern aesthetic elements visible in the dragon motif and zen-inspired naming",
+    "visual_metaphors": "Growth and enlightenment suggested by the garden metaphor and flowing dragon illustration"
+  },
+  "categories": [
+    "color-blocked",
+    "multi-column",
+    "instructional",
+    "illustrative",
+    "playful-professional"
+  ],
+  "visual_characteristics": [
+    "vibrant color contrast",
+    "organic illustrations",
+    "structured hierarchy",
+    "mixed typography",
+    "vertical segmentation",
+    "horizontal dividers"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "contrast",
+      "hierarchy",
+      "balance",
+      "repetition"
+    ],
+    "visual_techniques": [
+      "color blocking",
+      "typographic variation",
+      "decorative illustration"
+    ]
+  }
+}

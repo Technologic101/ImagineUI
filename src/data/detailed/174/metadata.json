@@ -1,0 +1,46 @@
+{
+  "id": "174",
+  "url": "https://www.csszengarden.com/174",
+  "css_url": "https://www.csszengarden.com/174/174.css",
+  "title": "Simple",
+  "author": "Shawn Chin",
+  "description": {
+    "summary": "A minimalist educational web design featuring a structured layout with clearly defined content sections, combining muted gray backgrounds with vibrant orange accent elements for intuitive navigation.",
+    "visual_style": "Clean, structured design with a zen-inspired aesthetic that employs generous white space and clear typographic hierarchy to create a calm, focused learning environment.",
+    "emotional_impact": "Establishes a serene, contemplative atmosphere through balanced composition and restrained color usage, evoking feelings of clarity and mindfulness.",
+    "compositional_elements": "Organized in horizontal sections with a two-column layout that separates explanatory text from interactive elements, creating rhythmic visual flow."
+  },
+  "artistic_context": {
+    "style_influences": "Minimalist web design, Japanese zen aesthetics, early 2000s educational platforms",
+    "visual_metaphors": "Garden as knowledge cultivation, path as learning journey, enlightenment as design mastery"
+  },
+  "categories": [
+    "minimalist",
+    "structured",
+    "educational",
+    "grid-based",
+    "zen-inspired",
+    "functional"
+  ],
+  "visual_characteristics": [
+    "two-column layout",
+    "high-contrast navigation",
+    "sectioned content",
+    "limited color palette",
+    "hierarchical typography",
+    "negative space"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "hierarchy",
+      "balance",
+      "contrast",
+      "simplicity"
+    ],
+    "visual_techniques": [
+      "color blocking",
+      "typographic scale",
+      "spatial grouping"
+    ]
+  }
+}

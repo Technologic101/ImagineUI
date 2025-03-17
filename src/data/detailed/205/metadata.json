@@ -1,0 +1,46 @@
+{
+  "id": "205",
+  "url": "https://www.csszengarden.com/205",
+  "css_url": "https://www.csszengarden.com/205/205.css",
+  "title": "spring360",
+  "author": "Rene Hornig",
+  "description": {
+    "summary": "A minimalist web design showcasing clean typography and balanced white space with a two-column layout that emphasizes content readability through careful alignment and visual hierarchy.",
+    "visual_style": "The design employs a zen-inspired minimalism with subtle earthtones, creating a calm, uncluttered aesthetic that emphasizes typographic clarity and thoughtful spacing.",
+    "emotional_impact": "Evokes a sense of tranquility and order through its restrained color palette, generous white space, and balanced composition, creating a meditative visual experience.",
+    "compositional_elements": "A clear two-column structure with primary content in a wide left column and navigation/secondary elements in a narrower right sidebar, unified by consistent typography and spacing."
+  },
+  "artistic_context": {
+    "style_influences": "Minimalism, Japanese design principles, digital modernism, functional typography",
+    "visual_metaphors": "Clarity through simplicity, breathing space, ordered pathways, natural balance"
+  },
+  "categories": [
+    "minimalist",
+    "structured",
+    "typography-focused",
+    "clean",
+    "functional",
+    "monochromatic"
+  ],
+  "visual_characteristics": [
+    "two-column layout",
+    "hierarchical typography",
+    "muted color palette",
+    "generous white space",
+    "clear section delineation",
+    "subtle highlighting"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "hierarchy",
+      "balance",
+      "unity",
+      "whitespace"
+    ],
+    "visual_techniques": [
+      "typographic contrast",
+      "columnar organization",
+      "subtle color accents"
+    ]
+  }
+}

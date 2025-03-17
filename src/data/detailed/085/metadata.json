@@ -1,0 +1,46 @@
+{
+  "id": "085",
+  "url": "https://www.csszengarden.com/085",
+  "css_url": "https://www.csszengarden.com/085/085.css",
+  "title": "Oceans Apart",
+  "author": "Ryan Sims",
+  "description": {
+    "summary": "A serene web design featuring a tranquil ocean landscape header with semitransparent overlay text, followed by a clean, minimal content layout with clear typographic hierarchy and structured navigation sections.",
+    "visual_style": "The design employs a minimalist aesthetic with zen-inspired elements, balancing natural imagery with structured information architecture to create a calm, professional presentation.",
+    "emotional_impact": "The atmospheric seascape header creates a sense of tranquility and contemplation, while the organized content below conveys clarity and accessibility.",
+    "compositional_elements": "A vertical layout with distinct sections: dramatic header image, navigation panel on left, and content area on right, all framed by a subtle textured border."
+  },
+  "artistic_context": {
+    "style_influences": "Minimalist web design, Japanese zen aesthetics, nature photography, digital modernism",
+    "visual_metaphors": "Ocean horizon suggesting possibility and exploration, clarity of space representing mental clarity"
+  },
+  "categories": [
+    "minimalist",
+    "nature-inspired",
+    "structured",
+    "professional",
+    "tranquil",
+    "grid-based"
+  ],
+  "visual_characteristics": [
+    "atmospheric header image",
+    "two-column layout",
+    "subtle texture background",
+    "typographic hierarchy",
+    "translucent overlays",
+    "framed composition"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "balance",
+      "hierarchy",
+      "contrast",
+      "white space"
+    ],
+    "visual_techniques": [
+      "photographic header",
+      "columnar organization",
+      "bordered framing"
+    ]
+  }
+}

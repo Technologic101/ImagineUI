@@ -1,0 +1,45 @@
+{
+  "id": "082",
+  "url": "https://www.csszengarden.com/082",
+  "css_url": "https://www.csszengarden.com/082/082.css",
+  "title": "Miracle Cure",
+  "author": "Joseph Pearson",
+  "description": {
+    "summary": "A nostalgic web design that deliberately evokes vintage medicine packaging and traditional remedies, juxtaposed with modern web design principles",
+    "visual_style": "The design employs a vintage aesthetic with parchment-like textures, sepia tones, and antique illustrations to create an intentionally retro digital experience",
+    "emotional_impact": "Creates a warm, nostalgic atmosphere that feels both educational and whimsical through its medicine bottle imagery and aged paper textures",
+    "compositional_elements": "Structured around a central scrolling text area with decorative vintage elements positioned at corners, creating a framed document effect"
+  },
+  "artistic_context": {
+    "style_influences": "Victorian-era medicine advertisements, apothecary labels, vintage scientific documents",
+    "visual_metaphors": "Medicine bottles as containers of knowledge, remedy as skill improvement, antiquated relics as technological progress"
+  },
+  "categories": [
+    "vintage",
+    "nostalgic",
+    "textural",
+    "illustrative",
+    "apothecary-inspired"
+  ],
+  "visual_characteristics": [
+    "parchment textures",
+    "sepia tones",
+    "vintage illustrations",
+    "ornamental typography",
+    "decorative borders",
+    "medicine bottle imagery"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "contrast",
+      "hierarchy",
+      "unity",
+      "emphasis"
+    ],
+    "visual_techniques": [
+      "textural layering",
+      "vintage styling",
+      "metaphorical imagery"
+    ]
+  }
+}

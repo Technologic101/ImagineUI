@@ -1,0 +1,46 @@
+{
+  "id": "018",
+  "url": "https://www.csszengarden.com/018",
+  "css_url": "https://www.csszengarden.com/018/018.css",
+  "title": "Wrapped in Burlap",
+  "author": "John Simons",
+  "description": {
+    "summary": "A zen-inspired web design showcasing textured, earthy aesthetics with a structured layout that balances organic elements against a clean information architecture",
+    "visual_style": "The design employs a harmonious contrast between rough, textured header backgrounds and organized content areas, creating a meditation-inspired visual narrative",
+    "emotional_impact": "The earthy color palette and textural elements evoke a sense of calm contemplation and grounded wisdom, balanced with practical organization",
+    "compositional_elements": "Clear hierarchical structure with textured banner headings, clean text blocks, and a two-column layout that guides the eye from left content to right navigation"
+  },
+  "artistic_context": {
+    "style_influences": "Eastern minimalism, wabi-sabi aesthetics, traditional scroll design, natural textures",
+    "visual_metaphors": "Garden path as journey, bare tree as growth potential, textured backgrounds as weathered wisdom"
+  },
+  "categories": [
+    "textural",
+    "earth-toned",
+    "minimalist",
+    "hierarchical",
+    "organic",
+    "structured"
+  ],
+  "visual_characteristics": [
+    "textured headers",
+    "muted earth palette",
+    "stark tree silhouette",
+    "two-column layout",
+    "typographic contrast",
+    "paper-like textures"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "hierarchy",
+      "contrast",
+      "repetition",
+      "balance"
+    ],
+    "visual_techniques": [
+      "textural layering",
+      "compartmentalized layout",
+      "natural motifs"
+    ]
+  }
+}

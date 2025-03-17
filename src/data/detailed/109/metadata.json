@@ -1,0 +1,46 @@
+{
+  "id": "109",
+  "url": "https://www.csszengarden.com/109",
+  "css_url": "https://www.csszengarden.com/109/109.css",
+  "title": "Pneuma",
+  "author": "Adam Polselli",
+  "description": {
+    "summary": "A visually striking web layout demonstrating CSS capabilities through a contrasting color scheme and structured information hierarchy, combining organic floral imagery with technical content presentation.",
+    "visual_style": "The design merges organic natural elements with structured digital typography, creating tension between the fluid and the technical through vibrant color contrasts.",
+    "emotional_impact": "The vivid magenta against teal creates an energetic, almost meditative atmosphere that balances technical precision with creative expression.",
+    "compositional_elements": "The layout uses a three-column structure with a dramatic header, clear sectioning through typographic hierarchy, and consistent spacing patterns."
+  },
+  "artistic_context": {
+    "style_influences": "Digital-organic fusion, Web 2.0 aesthetics, Eastern-inspired minimalism",
+    "visual_metaphors": "Blooming flower representing growth and possibility, contrasting colors suggesting harmony of opposites"
+  },
+  "categories": [
+    "digital-organic",
+    "instructional",
+    "high-contrast",
+    "grid-based",
+    "typographic",
+    "technical"
+  ],
+  "visual_characteristics": [
+    "color-blocking",
+    "layered-imagery",
+    "typographic-hierarchy",
+    "magenta-teal-palette",
+    "sectioned-content",
+    "photo-typography-integration"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "contrast",
+      "hierarchy",
+      "rhythm",
+      "balance"
+    ],
+    "visual_techniques": [
+      "color opposition",
+      "typographic scaling",
+      "negative space utilization"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "107",
+  "url": "https://www.csszengarden.com/107",
+  "css_url": "https://www.csszengarden.com/107/107.css",
+  "title": "Defiance",
+  "author": "Angelo Paralos",
+  "description": {
+    "summary": "A striking, high-contrast web design using a dramatic red and black color scheme with raw, handwritten typography and distressed visual elements creating a rebellious, anarchic aesthetic.",
+    "visual_style": "The design employs a gritty, aggressive approach with hand-drawn elements, cross-outs, and intentionally chaotic typography that evokes protest art and punk aesthetics.",
+    "emotional_impact": "Creates an unsettling, provocative atmosphere through harsh color contrast, jagged lines, and deliberately crude execution that communicates rebellion and defiance.",
+    "compositional_elements": "A vertical scroll layout featuring irregular text blocks against a vibrant red background, punctuated by black hand-drawn symbols and white accents creating dynamic tension."
+  },
+  "artistic_context": {
+    "style_influences": "Punk rock aesthetics, anarchist zines, street art, protest posters, underground manifestos",
+    "visual_metaphors": "Rebellion, destruction, challenging convention, raw expression"
+  },
+  "categories": [
+    "anarchic",
+    "high-contrast",
+    "experimental",
+    "brutalist",
+    "anti-design",
+    "punk-inspired"
+  ],
+  "visual_characteristics": [
+    "hand-drawn",
+    "distressed",
+    "asymmetrical",
+    "stark-contrast",
+    "grunge",
+    "scratchy-textures"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "contrast",
+      "disruption",
+      "tension",
+      "visual hierarchy"
+    ],
+    "visual_techniques": [
+      "gestural marks",
+      "chaotic typography",
+      "limited palette"
+    ]
+  }
+}

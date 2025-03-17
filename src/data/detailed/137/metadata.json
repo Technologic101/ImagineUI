@@ -1,0 +1,46 @@
+{
+  "id": "137",
+  "url": "https://www.csszengarden.com/137",
+  "css_url": "https://www.csszengarden.com/137/137.css",
+  "title": "DJ Style",
+  "author": "Ramon Bispo",
+  "description": {
+    "summary": "A monochromatic blue web design featuring a turntable illustration and structured multi-column layout demonstrating CSS styling capabilities with clearly defined content sections and navigation elements.",
+    "visual_style": "The design employs a clean, structured grid layout with a distinctive aquatic blue monochromatic color scheme, creating a cohesive thematic presence across all elements.",
+    "emotional_impact": "The cool blue tones evoke a calm, meditative atmosphere that aligns with the 'zen' concept, while maintaining a technical, educational feel appropriate for a web design resource.",
+    "compositional_elements": "The page is organized into a header with logo, followed by multi-column content sections with defined headings and bordered containers, creating clear visual separation between functional areas."
+  },
+  "artistic_context": {
+    "style_influences": "Early 2000s web design aesthetics with a blend of minimalist structure and decorative typographic elements",
+    "visual_metaphors": "Water/fluidity suggested by bubble elements and blue tones, zen garden represented through organized structure and contemplative space"
+  },
+  "categories": [
+    "monochromatic",
+    "grid-based",
+    "educational",
+    "web-centric",
+    "nostalgic",
+    "technical"
+  ],
+  "visual_characteristics": [
+    "blue-gradient backgrounds",
+    "bordered content blocks",
+    "illustrative header",
+    "multi-column layout",
+    "bubble motifs",
+    "typographic contrast"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "hierarchy",
+      "repetition",
+      "unity",
+      "contrast"
+    ],
+    "visual_techniques": [
+      "color blocking",
+      "modular layout",
+      "visual metaphor"
+    ]
+  }
+}

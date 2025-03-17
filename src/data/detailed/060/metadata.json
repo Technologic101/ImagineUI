@@ -1,0 +1,46 @@
+{
+  "id": "060",
+  "url": "https://www.csszengarden.com/060",
+  "css_url": "https://www.csszengarden.com/060/060.css",
+  "title": "Extreme Limits",
+  "author": "Richard Chatfield",
+  "description": {
+    "summary": "A web design showcase featuring dynamic imagery of extreme sports set against mountain backdrops, with a structured layout combining vibrant action photography and organized text content.",
+    "visual_style": "The design employs a contrast-heavy approach with deep blues, bright accents, and dramatic photography to create visual energy that reinforces the 'extreme' theme.",
+    "emotional_impact": "The juxtaposition of serene mountain landscapes with dynamic action poses creates a sense of adventure and possibility, enhanced by the bold color choices.",
+    "compositional_elements": "A three-panel structure divides the page with vertical sections - a sidebar, content area, and vertical title band, creating distinct functional zones that guide the viewer's journey."
+  },
+  "artistic_context": {
+    "style_influences": "Early 2000s web design aesthetics with table-based layouts, high-contrast color schemes, and photographic hero elements",
+    "visual_metaphors": "Mountain landscapes and extreme sports imagery suggest pushing boundaries and reaching new heights"
+  },
+  "categories": [
+    "retro-web",
+    "high-contrast",
+    "photographic",
+    "structured",
+    "modular",
+    "panel-based"
+  ],
+  "visual_characteristics": [
+    "multi-column layout",
+    "vertical text banners",
+    "action photography",
+    "color-coded sections",
+    "boxed content areas",
+    "dramatic color contrast"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "contrast",
+      "repetition",
+      "alignment",
+      "compartmentalization"
+    ],
+    "visual_techniques": [
+      "photographic framing",
+      "color blocking",
+      "modular structure"
+    ]
+  }
+}

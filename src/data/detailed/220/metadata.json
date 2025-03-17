@@ -1,0 +1,46 @@
+{
+  "id": "220",
+  "url": "https://www.csszengarden.com/220",
+  "css_url": "https://www.csszengarden.com/220/220.css",
+  "title": "Garments",
+  "author": "Dan Mall, http://www.danielmall.com/",
+  "description": {
+    "summary": "A minimalist, elegant web design demonstrating modern CSS principles with a clean layout and thoughtful typography hierarchy",
+    "visual_style": "The design employs a restrained, zen-inspired aesthetic with ample white space and subtle design elements that emphasize clarity and readability",
+    "emotional_impact": "Creates a calm, instructional atmosphere that balances professional authority with approachable simplicity",
+    "compositional_elements": "Centered content blocks with carefully measured margins create a rhythmic flow down the page, punctuated by subtle navigation elements and icons"
+  },
+  "artistic_context": {
+    "style_influences": "Swiss/International Style typography, digital minimalism, Japanese zen aesthetics",
+    "visual_metaphors": "Garden as organized simplicity, garments as customizable layers, zen as mindful focus"
+  },
+  "categories": [
+    "minimalist",
+    "typographic",
+    "grid-based",
+    "instructional",
+    "zen-inspired",
+    "functional"
+  ],
+  "visual_characteristics": [
+    "generous-whitespace",
+    "muted-palette",
+    "hierarchical-typography",
+    "subtle-iconography",
+    "centered-layout",
+    "understated-navigation"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "hierarchy",
+      "balance",
+      "simplicity",
+      "clarity"
+    ],
+    "visual_techniques": [
+      "negative space",
+      "typographic contrast",
+      "modular layout"
+    ]
+  }
+}

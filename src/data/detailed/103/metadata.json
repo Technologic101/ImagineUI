@@ -1,0 +1,46 @@
+{
+  "id": "103",
+  "url": "https://www.csszengarden.com/103",
+  "css_url": "https://www.csszengarden.com/103/103.css",
+  "title": "Odyssey",
+  "author": "Terrence Conley",
+  "description": {
+    "summary": "An elegant medieval-inspired web design with rich gold and dark burgundy tones, featuring ornate decorative elements and classical illustration motifs that evoke ancient manuscripts and epic voyages.",
+    "visual_style": "The design employs a luxurious, antique aesthetic with ornamental borders, decorative medallions, and illustrated ship imagery that creates a sense of historical grandeur and craftsmanship.",
+    "emotional_impact": "The dark background with golden accents creates a sense of mystery, wisdom, and reverence, invoking the feeling of discovering ancient knowledge or treasure.",
+    "compositional_elements": "A vertical scroll layout with clearly defined sections marked by medallion icons, framed by ornate golden borders and featuring illustrated elements that guide the viewer through the content."
+  },
+  "artistic_context": {
+    "style_influences": "Medieval illuminated manuscripts, Byzantine art, classical Greek motifs, maritime historical art",
+    "visual_metaphors": "Journey, exploration, ancient wisdom, treasure maps"
+  },
+  "categories": [
+    "ornate",
+    "medieval",
+    "decorative",
+    "classical",
+    "gilded",
+    "historical"
+  ],
+  "visual_characteristics": [
+    "gold-on-dark contrast",
+    "ornamental borders",
+    "decorative medallions",
+    "illustrated elements",
+    "vertical scrolling layout",
+    "wave-pattern motifs"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "hierarchy",
+      "contrast",
+      "repetition",
+      "unity"
+    ],
+    "visual_techniques": [
+      "framing",
+      "ornamental detailing",
+      "illustrative elements"
+    ]
+  }
+}

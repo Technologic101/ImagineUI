@@ -1,0 +1,46 @@
+{
+  "id": "069",
+  "url": "https://www.csszengarden.com/069",
+  "css_url": "https://www.csszengarden.com/069/069.css",
+  "title": "Bonsai Sky",
+  "author": "Mike Davidson",
+  "description": {
+    "summary": "A serene web design that blends Eastern aesthetic principles with modern web layout techniques, featuring a misty mountain forest backdrop against a structured content area.",
+    "visual_style": "The design embodies a harmonious balance between nature and structure, using a translucent content area that allows the atmospheric background image to influence the entire composition.",
+    "emotional_impact": "Creates a contemplative, peaceful atmosphere through the misty forest imagery and balanced, uncluttered layout that evokes Zen principles of simplicity and harmony.",
+    "compositional_elements": "Two-column layout with main content area on the left and a navigation sidebar on the right, both overlaid on a full-width atmospheric nature photograph that creates depth and context."
+  },
+  "artistic_context": {
+    "style_influences": "Traditional East Asian landscape painting, minimalist design philosophy, nature photography",
+    "visual_metaphors": "Path through misty mountains suggesting journey, enlightenment, and clarity emerging through simplicity"
+  },
+  "categories": [
+    "minimalist",
+    "nature-inspired",
+    "atmospheric",
+    "zen-aesthetic",
+    "translucent",
+    "balanced"
+  ],
+  "visual_characteristics": [
+    "background-image",
+    "two-column-layout",
+    "semi-transparent-overlay",
+    "typographic-hierarchy",
+    "nature-photography",
+    "icon-integration"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "balance",
+      "harmony",
+      "contrast",
+      "transparency"
+    ],
+    "visual_techniques": [
+      "layering",
+      "atmospheric depth",
+      "textural contrast"
+    ]
+  }
+}

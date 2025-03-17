@@ -1,0 +1,46 @@
+{
+  "id": "106",
+  "url": "https://www.csszengarden.com/106",
+  "css_url": "https://www.csszengarden.com/106/106.css",
+  "title": "Mediterranean",
+  "author": "John Whittet",
+  "description": {
+    "summary": "A harmonious web design featuring a gradient blue-to-green background complemented by architectural steps with orange accents, creating a serene yet structured visual experience.",
+    "visual_style": "The design employs minimalist principles with an Eastern aesthetic influence, using architectural elements and a tranquil color palette to evoke contemplation and clarity.",
+    "emotional_impact": "The composition conveys tranquility and enlightenment through its soothing color gradient, clear hierarchy, and rhythmic structural elements.",
+    "compositional_elements": "The layout combines a striking header with architectural imagery, a narrow sidebar with navigation elements, and a flowing content area against a gradient background."
+  },
+  "artistic_context": {
+    "style_influences": "Japanese zen aesthetics, modernist architecture, minimalist web design",
+    "visual_metaphors": "Steps representing progression, clarity, ascension to knowledge"
+  },
+  "categories": [
+    "minimalist",
+    "nature-inspired",
+    "gradient",
+    "architectural",
+    "harmonious",
+    "structured"
+  ],
+  "visual_characteristics": [
+    "blue-green gradient",
+    "geometric steps",
+    "orange accents",
+    "clean typography",
+    "vertical sidebar",
+    "textural contrast"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "balance",
+      "harmony",
+      "rhythm",
+      "hierarchy"
+    ],
+    "visual_techniques": [
+      "color gradient",
+      "structural framing",
+      "consistent spacing"
+    ]
+  }
+}

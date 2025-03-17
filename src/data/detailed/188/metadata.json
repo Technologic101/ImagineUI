@@ -1,0 +1,46 @@
+{
+  "id": "188",
+  "url": "https://www.csszengarden.com/188",
+  "css_url": "https://www.csszengarden.com/188/188.css",
+  "title": "Organica Creativa",
+  "author": "Eduardo Cesario",
+  "description": {
+    "summary": "A vibrant, playful web design showcasing a blended organic-digital aesthetic with circular motifs against a lime green background, featuring bright interactive elements and structured information hierarchy.",
+    "visual_style": "The design combines organic circular patterns with structured content zones, creating a nature-inspired digital environment that balances playfulness with functionality.",
+    "emotional_impact": "Energetic and refreshing, the bright color palette and circular organic elements evoke a sense of growth, creativity, and natural harmony within a digital context.",
+    "compositional_elements": "A central vertical content area is framed by decorative circular patterns that create depth and movement, while colorful accent elements guide the user through distinct functional zones."
+  },
+  "artistic_context": {
+    "style_influences": "Digital zen gardens, organic-digital fusion, Y2K web aesthetics, nature-inspired digital design",
+    "visual_metaphors": "Garden as digital space, growing/organic technology, circular paths of enlightenment"
+  },
+  "categories": [
+    "organic-digital",
+    "vibrant",
+    "playful",
+    "structured",
+    "nature-inspired",
+    "interactive"
+  ],
+  "visual_characteristics": [
+    "circular-patterns",
+    "bright-color-contrast",
+    "segmented-layout",
+    "typographic-hierarchy",
+    "decorative-navigation",
+    "organic-borders"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "contrast",
+      "hierarchy",
+      "rhythm",
+      "balance"
+    ],
+    "visual_techniques": [
+      "color-blocking",
+      "organic-patterning",
+      "spatial-zoning"
+    ]
+  }
+}

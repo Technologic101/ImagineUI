@@ -1,0 +1,46 @@
+{
+  "id": "028",
+  "url": "https://www.csszengarden.com/028",
+  "css_url": "https://www.csszengarden.com/028/028.css",
+  "title": "Atlantis",
+  "author": "Kevin Davis",
+  "description": {
+    "summary": "A thoughtfully designed web interface featuring a striking spiral fossil as a focal point against a deep blue-black background, creating an organic-digital harmony with clean typographic information presentation.",
+    "visual_style": "The design merges natural organic imagery with structured digital layout, using elegant typography against translucent panels to create a sophisticated, contemplative aesthetic.",
+    "emotional_impact": "The contrasting warm orange spiral against cool deep blues evokes a sense of discovery and enlightenment, creating a meditative, serene atmosphere with underlying technical precision.",
+    "compositional_elements": "The composition balances an asymmetrical layout featuring a dominant natural spiral motif on the left with structured text blocks on the right, unified by a curved frame containing both elements."
+  },
+  "artistic_context": {
+    "style_influences": "Biomorphic design, minimalist web aesthetics, Eastern philosophical visual language, natural history illustration",
+    "visual_metaphors": "Spiral as journey, fossil as evolution of knowledge, dark background as contemplative space"
+  },
+  "categories": [
+    "organic",
+    "minimalist",
+    "educational",
+    "contemplative",
+    "structured",
+    "philosophical"
+  ],
+  "visual_characteristics": [
+    "spiral-focal-point",
+    "dark-background",
+    "orange-blue-contrast",
+    "layered-transparency",
+    "structured-typography",
+    "natural-digital-fusion"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "contrast",
+      "balance",
+      "hierarchy",
+      "rhythm"
+    ],
+    "visual_techniques": [
+      "natural imagery",
+      "translucent overlays",
+      "typographic structuring"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "026",
+  "url": "https://www.csszengarden.com/026",
+  "css_url": "https://www.csszengarden.com/026/026.css",
+  "title": "Zunflower",
+  "author": "Radu Darvas",
+  "description": {
+    "summary": "A structured web design showcasing CSS potential through a zen-inspired aesthetic, combining organic floral imagery with precise typographic organization and a multi-column layout.",
+    "visual_style": "The design employs a clean, organized approach with hierarchical text blocks balanced against an organic floral element, creating tension between structured content and natural form.",
+    "emotional_impact": "The contrast between the vibrant organic flower and structured content conveys a sense of harmony and balance, suggesting the zen philosophy of finding beauty in simplicity and order.",
+    "compositional_elements": "Three-column layout with asymmetrical balance: a dominant floral element on the left anchoring the design, central content block providing information density, and a right sidebar offering navigational elements."
+  },
+  "artistic_context": {
+    "style_influences": "Minimalist web design, Japanese zen aesthetics, early 2000s CSS demonstration sites",
+    "visual_metaphors": "Blooming flower representing growth and potential, structured columns suggesting order and clarity"
+  },
+  "categories": [
+    "minimalist",
+    "educational",
+    "organic-geometric",
+    "structured",
+    "asymmetrical",
+    "hierarchical"
+  ],
+  "visual_characteristics": [
+    "multi-column layout",
+    "organic imagery",
+    "orange-gold accent colors",
+    "typographic hierarchy",
+    "white negative space",
+    "header-based organization"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "contrast",
+      "hierarchy",
+      "balance",
+      "repetition"
+    ],
+    "visual_techniques": [
+      "asymmetrical layout",
+      "color accenting",
+      "typographic structure"
+    ]
+  }
+}

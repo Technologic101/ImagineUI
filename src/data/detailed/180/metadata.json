@@ -1,0 +1,46 @@
+{
+  "id": "180",
+  "url": "https://www.csszengarden.com/180",
+  "css_url": "https://www.csszengarden.com/180/180.css",
+  "title": "Vertigo",
+  "author": "Antonio Cella",
+  "description": {
+    "summary": "A textured, organic web design with ancient manuscript aesthetics featuring a parchment-like background with asymmetrical text blocks and handwritten-style typography against stone textures.",
+    "visual_style": "The design combines natural earthen textures with calligraphic elements to create a contemplative, Zen-inspired aesthetic that feels both ancient and digital.",
+    "emotional_impact": "Evokes a sense of aged wisdom and meditative tranquility through warm earth tones, antique textures, and balanced asymmetry.",
+    "compositional_elements": "Features a two-column layout with decorative section dividers, handwritten-style headings, and a textured background creating visual depth."
+  },
+  "artistic_context": {
+    "style_influences": "Japanese Zen aesthetics, ancient manuscript design, calligraphic traditions, stone garden imagery",
+    "visual_metaphors": "Path of enlightenment, weathered wisdom, organic growth, natural progression"
+  },
+  "categories": [
+    "textural",
+    "organic",
+    "calligraphic",
+    "antiqued",
+    "eastern-inspired",
+    "earthy"
+  ],
+  "visual_characteristics": [
+    "parchment-texture",
+    "stone-background",
+    "brush-script-typography",
+    "asymmetrical-layout",
+    "earth-tone-palette",
+    "decorative-dividers"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "contrast",
+      "texture",
+      "asymmetry",
+      "hierarchy"
+    ],
+    "visual_techniques": [
+      "layering",
+      "weathered-effects",
+      "calligraphic-styling"
+    ]
+  }
+}

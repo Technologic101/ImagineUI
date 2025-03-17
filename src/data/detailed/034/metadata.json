@@ -1,0 +1,46 @@
+{
+  "id": "034",
+  "url": "https://www.csszengarden.com/034",
+  "css_url": "https://www.csszengarden.com/034/034.css",
+  "title": "zengrounds",
+  "author": "Andrea Piernock",
+  "description": {
+    "summary": "A nostalgic web design showcasing a dark-themed educational interface with golden accents, combining early 2000s aesthetics with structured content organization to demonstrate CSS capabilities.",
+    "visual_style": "Deliberately retro design with a black background, gold heading typography, and segmented content panels that evoke early web design practices while maintaining functional clarity.",
+    "emotional_impact": "Creates a sense of digital nostalgia through its vintage web interface elements, balanced by an authoritative and educational tone established through structured layout and hierarchical information.",
+    "compositional_elements": "Three-column layout with a prominent header, distinct content sections marked by decorative dividers, and consistent typographic hierarchy throughout nested content blocks."
+  },
+  "artistic_context": {
+    "style_influences": "Early web design aesthetics, Y2K-era interfaces, tech-oriented documentation sites, Japanese zen philosophy visual metaphors",
+    "visual_metaphors": "Digital garden as cultivated knowledge space, enlightenment path through structured learning"
+  },
+  "categories": [
+    "retro-digital",
+    "educational",
+    "structured",
+    "dark-themed",
+    "technical",
+    "nostalgic"
+  ],
+  "visual_characteristics": [
+    "gold-black contrast",
+    "sectioned-content",
+    "pixel-graphics",
+    "decorative-dividers",
+    "hierarchical-typography",
+    "cartoon-illustration"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "contrast",
+      "hierarchy",
+      "consistency",
+      "emphasis"
+    ],
+    "visual_techniques": [
+      "content compartmentalization",
+      "navigational framing",
+      "decorative header treatment"
+    ]
+  }
+}

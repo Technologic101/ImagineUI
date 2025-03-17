@@ -1,0 +1,46 @@
+{
+  "id": "147",
+  "url": "https://www.csszengarden.com/147",
+  "css_url": "https://www.csszengarden.com/147/147.css",
+  "title": "Attitude",
+  "author": "Stephane Moens",
+  "description": {
+    "summary": "A serene, minimalist web design featuring a harmonious blend of organic zen imagery with structured text layout, creating a peaceful digital experience focused on CSS design principles.",
+    "visual_style": "The design employs a contemplative aesthetic with soft, muted colors and selective imagery that evokes traditional Eastern zen philosophy while maintaining modern web design sensibilities.",
+    "emotional_impact": "The calm, meditative atmosphere created by the subdued color palette and graceful figurative elements invites reflection and focus, mirroring the zen philosophy it visually references.",
+    "compositional_elements": "Structured in a balanced three-column layout with clear hierarchical organization, using negative space effectively to create breathing room between content sections."
+  },
+  "artistic_context": {
+    "style_influences": "Japanese zen aesthetics, minimalist design, natural form photography, earthy color theory",
+    "visual_metaphors": "Path to enlightenment, natural harmony, structural beauty, mindful practice"
+  },
+  "categories": [
+    "minimalist",
+    "zen-inspired",
+    "structured",
+    "earthy",
+    "elegant",
+    "instructional"
+  ],
+  "visual_characteristics": [
+    "muted-palette",
+    "three-column-layout",
+    "figural-photography",
+    "natural-elements",
+    "transparent-layering",
+    "typographic-hierarchy"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "balance",
+      "harmony",
+      "contrast",
+      "hierarchy"
+    ],
+    "visual_techniques": [
+      "negative space",
+      "tonal gradation",
+      "compositional framing"
+    ]
+  }
+}

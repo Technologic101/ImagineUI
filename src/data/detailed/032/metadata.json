@@ -1,0 +1,46 @@
+{
+  "id": "032",
+  "url": "https://www.csszengarden.com/032",
+  "css_url": "https://www.csszengarden.com/032/032.css",
+  "title": "Crab Apple",
+  "author": "Jai Brinkofski",
+  "description": {
+    "summary": "A structured educational webpage featuring a clean, organized layout with distinct sections divided by dark green header bars. The design employs a neutral background with an apple graphic serving as a visual anchor.",
+    "visual_style": "Traditional web interface with a hierarchical structure, combining informational text blocks with navigational elements in a functional, educational presentation.",
+    "emotional_impact": "Conveys a sense of stability and authority through its ordered structure, with occasional visual accents providing warmth to an otherwise technical presentation.",
+    "compositional_elements": "Organized in vertical sections with clear headers, sidebar navigation, and structured content areas using consistent spacing and alignment principles."
+  },
+  "artistic_context": {
+    "style_influences": "Early 2000s web design aesthetics with structured layout blocks and minimal decorative elements",
+    "visual_metaphors": "The apple graphic suggests knowledge and learning in a digital garden environment"
+  },
+  "categories": [
+    "educational",
+    "structured",
+    "hierarchical",
+    "minimal",
+    "utilitarian",
+    "information-focused"
+  ],
+  "visual_characteristics": [
+    "section-based",
+    "sidebar-navigation",
+    "header-delineation",
+    "neutral-palette",
+    "icon-accents",
+    "text-centric"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "hierarchy",
+      "clarity",
+      "organization",
+      "accessibility"
+    ],
+    "visual_techniques": [
+      "structural separation",
+      "consistent formatting",
+      "visual anchoring"
+    ]
+  }
+}

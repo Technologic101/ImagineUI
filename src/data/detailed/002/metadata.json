@@ -1,0 +1,46 @@
+{
+  "id": "002",
+  "url": "https://www.csszengarden.com/002",
+  "css_url": "https://www.csszengarden.com/002/002.css",
+  "title": "Salmon Cream Cheese",
+  "author": "Dave Shea",
+  "description": {
+    "summary": "A serene, minimalist web design featuring a soft peach color palette with an Eastern aesthetic influence, centered around a garden photograph that serves as a focal point.",
+    "visual_style": "The design employs a clean, structured layout with a delicate balance between textual content and visual elements, creating a sense of tranquility through organized simplicity.",
+    "emotional_impact": "The warm peachy tones combined with the garden imagery evoke feelings of calm, harmony, and natural beauty, reinforcing the zen philosophy suggested by the design.",
+    "compositional_elements": "A clear vertical hierarchy divides the page into distinct functional zones, with a prominent header, a central showcase area featuring natural imagery, and an organized content section with well-defined typographic rhythm."
+  },
+  "artistic_context": {
+    "style_influences": "Eastern minimalism, Japanese design principles, web-centric modernism",
+    "visual_metaphors": "Garden as structure, simplicity as clarity, natural harmony as design philosophy"
+  },
+  "categories": [
+    "minimalist",
+    "zen-inspired",
+    "structured",
+    "monochromatic",
+    "educational",
+    "grid-based"
+  ],
+  "visual_characteristics": [
+    "soft-peach palette",
+    "hierarchical typography",
+    "clean whitespace",
+    "natural photography",
+    "horizontal sectioning",
+    "muted contrast"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "balance",
+      "harmony",
+      "simplicity",
+      "hierarchy"
+    ],
+    "visual_techniques": [
+      "color monochrome",
+      "structured layout",
+      "typographic contrast"
+    ]
+  }
+}

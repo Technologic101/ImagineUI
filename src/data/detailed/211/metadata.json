@@ -1,0 +1,46 @@
+{
+  "id": "211",
+  "url": "https://www.csszengarden.com/211",
+  "css_url": "https://www.csszengarden.com/211/211.css",
+  "title": "Orchid Beauty",
+  "author": "Kevin Addison",
+  "description": {
+    "summary": "An elegant web design featuring vibrant orchid imagery paired with sophisticated typography, creating a harmonious balance between organic natural forms and structured digital content.",
+    "visual_style": "The design employs a minimalist approach with strategic use of white space and natural imagery, juxtaposing vibrant floral elements against a clean, structured layout.",
+    "emotional_impact": "The combination of vivid orchid imagery and refined typography evokes a sense of tranquility and elegance, suggesting both natural beauty and thoughtful organization.",
+    "compositional_elements": "Content is arranged in a clear vertical hierarchy with visual breathing room between sections, each marked by small floral icons that add visual consistency throughout the page."
+  },
+  "artistic_context": {
+    "style_influences": "Japanese-inspired minimalism, botanical illustration, digital modernism",
+    "visual_metaphors": "Growth, harmony, balance, natural refinement"
+  },
+  "categories": [
+    "minimal",
+    "elegant",
+    "nature-inspired",
+    "structured",
+    "harmonious",
+    "botanical"
+  ],
+  "visual_characteristics": [
+    "vibrant-imagery",
+    "white-space",
+    "script-typography",
+    "vertical-rhythm",
+    "reflective-effects",
+    "section-markers"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "contrast",
+      "hierarchy",
+      "balance",
+      "repetition"
+    ],
+    "visual_techniques": [
+      "focal point",
+      "negative space",
+      "visual anchoring"
+    ]
+  }
+}

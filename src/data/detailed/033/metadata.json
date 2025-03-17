@@ -1,0 +1,46 @@
+{
+  "id": "033",
+  "url": "https://www.csszengarden.com/033",
+  "css_url": "https://www.csszengarden.com/033/033.css",
+  "title": "Fleur-de-lys",
+  "author": "Claire Campbell",
+  "description": {
+    "summary": "A traditional web design with Eastern philosophical influences featuring a balanced two-column layout with rich burgundy borders and subtle floral imagery. The design embodies a teaching concept through its serene visual structure.",
+    "visual_style": "The design employs a minimalist approach with defined frames, subtle gradients, and a purposeful color scheme to create a tranquil, meditative space structured around educational content.",
+    "emotional_impact": "The burgundy borders and soft background create a serene, contemplative atmosphere that evokes a sense of traditional wisdom and peaceful learning.",
+    "compositional_elements": "A strong two-column structure with clearly defined content areas, decorative borders, and subtle natural imagery creates a balanced, harmonious reading experience."
+  },
+  "artistic_context": {
+    "style_influences": "Traditional East Asian aesthetics, minimalist web design, scroll-like information architecture",
+    "visual_metaphors": "Garden as knowledge cultivation, path as learning journey, framed panels as stepping stones"
+  },
+  "categories": [
+    "traditional",
+    "instructional",
+    "minimalist",
+    "structured",
+    "contemplative",
+    "two-column"
+  ],
+  "visual_characteristics": [
+    "burgundy-borders",
+    "floral-motifs",
+    "cream-background",
+    "hierarchical-typography",
+    "framed-sections",
+    "decorative-dividers"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "visual hierarchy",
+      "harmony",
+      "contrast",
+      "framing"
+    ],
+    "visual_techniques": [
+      "bordered panels",
+      "typographic scale",
+      "natural imagery"
+    ]
+  }
+}

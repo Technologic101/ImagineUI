@@ -1,0 +1,46 @@
+{
+  "id": "010",
+  "url": "https://www.csszengarden.com/010",
+  "css_url": "https://www.csszengarden.com/010/010.css",
+  "title": "A Garden Apart",
+  "author": "Dan Cederholm, http://www.simplebits.com/",
+  "description": {
+    "summary": "A serene, structured webpage design featuring a balanced two-column layout with a nature-inspired header and earthy color palette.",
+    "visual_style": "The design employs a minimalist aesthetic with organic zen elements, combining structured content with natural imagery to create visual harmony.",
+    "emotional_impact": "The calm, peaceful atmosphere evokes a sense of tranquility and clarity, reinforced by the subtle use of natural textures and muted colors.",
+    "compositional_elements": "A curving green header defines the top space, while content is organized in a clear left-right structure with consistent typographic hierarchy and ample whitespace."
+  },
+  "artistic_context": {
+    "style_influences": "Japanese zen garden aesthetics, minimalist web design, natural photography",
+    "visual_metaphors": "Stone pathway, bamboo simplicity, organic growth, enlightened clarity"
+  },
+  "categories": [
+    "minimalist",
+    "nature-inspired",
+    "structured",
+    "educational",
+    "two-column",
+    "zen-aesthetic"
+  ],
+  "visual_characteristics": [
+    "curved header element",
+    "natural texture photography",
+    "earthy color palette",
+    "hierarchical typography",
+    "organized content blocks",
+    "balanced negative space"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "hierarchy",
+      "balance",
+      "harmony",
+      "simplicity"
+    ],
+    "visual_techniques": [
+      "textural contrast",
+      "color zoning",
+      "typographic rhythm"
+    ]
+  }
+}

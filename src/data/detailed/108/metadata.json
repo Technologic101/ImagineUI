@@ -1,0 +1,46 @@
+{
+  "id": "108",
+  "url": "https://www.csszengarden.com/108",
+  "css_url": "https://www.csszengarden.com/108/108.css",
+  "title": "404 Not Found",
+  "author": null,
+  "description": {
+    "summary": "A minimalist web design featuring a clean, text-focused layout with a traditional document structure presenting information in a hierarchical format.",
+    "visual_style": "The design employs a restrained, functional approach with emphasis on readability and information hierarchy through basic typography and spacing.",
+    "emotional_impact": "Creates a sense of order and clarity through its straightforward presentation and minimal aesthetic, evoking a feeling of simplicity and accessibility.",
+    "compositional_elements": "Vertical flow with clear section headings, body text blocks, and bulleted lists organized in a single-column layout with consistent spacing."
+  },
+  "artistic_context": {
+    "style_influences": "Early web design sensibilities, document-oriented layouts, academic information design",
+    "visual_metaphors": "Paper document, scholarly text, instructional manual"
+  },
+  "categories": [
+    "minimalist",
+    "text-centric",
+    "functional",
+    "hierarchical",
+    "structured",
+    "accessible"
+  ],
+  "visual_characteristics": [
+    "black-text-on-white",
+    "single-column",
+    "bulleted-lists",
+    "hyperlink-formatting",
+    "section-headings",
+    "consistent-margins"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "hierarchy",
+      "readability",
+      "simplicity",
+      "consistency"
+    ],
+    "visual_techniques": [
+      "typographic contrast",
+      "vertical rhythm",
+      "negative space"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "217",
+  "url": "https://www.csszengarden.com/217",
+  "css_url": "https://www.csszengarden.com/217/217.css",
+  "title": "Screen Filler",
+  "author": "Elliot Jay Stocks",
+  "description": {
+    "summary": "A clean, structured web design showcasing modern CSS principles with a refreshing color palette of turquoise, white, yellow, and red accents",
+    "visual_style": "Minimalist and modular layout with distinct content blocks and clear typography hierarchy",
+    "emotional_impact": "Conveys a sense of clarity, organization, and accessibility through its open layout and soothing color scheme",
+    "compositional_elements": "Utilizes a grid-based structure with clear content zones, featuring strong vertical columns and horizontal sections"
+  },
+  "artistic_context": {
+    "style_influences": "Modern web design, Swiss/International style typography, digital minimalism",
+    "visual_metaphors": "Zen garden - balance, harmony, and structured simplicity"
+  },
+  "categories": [
+    "minimalist",
+    "grid-based",
+    "educational",
+    "color-blocked",
+    "typographic",
+    "digital-modern"
+  ],
+  "visual_characteristics": [
+    "color blocking",
+    "negative space",
+    "modular layout",
+    "typographic hierarchy",
+    "turquoise-dominant palette",
+    "flat design"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "hierarchy",
+      "contrast",
+      "balance",
+      "modularity"
+    ],
+    "visual_techniques": [
+      "color blocking",
+      "white space utilization",
+      "grid structure"
+    ]
+  }
+}

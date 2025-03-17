@@ -1,0 +1,45 @@
+{
+  "id": "086",
+  "url": "https://www.csszengarden.com/086",
+  "css_url": "https://www.csszengarden.com/086/086.css",
+  "title": "RedFrog",
+  "author": "Bernd Willenberg",
+  "description": {
+    "summary": "A structured web layout combining early 2000s web design aesthetics with Eastern philosophy themes, featuring a warm color palette, organized content sections, and a frog mascot.",
+    "visual_style": "The design employs a nostalgic, early web aesthetic with a multi-column layout, rounded panels, and a warm gradient background pattern.",
+    "emotional_impact": "The warm colors and organized layout create a calm, instructional atmosphere that evokes both nostalgia and a sense of structured guidance.",
+    "compositional_elements": "A three-panel structure with a header banner, narrow navigation sidebar, and main content area featuring alternating section backgrounds for visual rhythm."
+  },
+  "artistic_context": {
+    "style_influences": "Early 2000s web design, Japanese zen gardens, instructional documentation",
+    "visual_metaphors": "Path to knowledge, garden of ideas, enlightenment journey"
+  },
+  "categories": [
+    "retro-web",
+    "instructional",
+    "structured",
+    "warm-toned",
+    "gradient",
+    "multi-column"
+  ],
+  "visual_characteristics": [
+    "rounded-panels",
+    "warm-gradient-background",
+    "section-delineation",
+    "right-aligned-content",
+    "hierarchical-headings"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "hierarchy",
+      "repetition",
+      "contrast",
+      "organization"
+    ],
+    "visual_techniques": [
+      "section-banding",
+      "color-coding",
+      "content-chunking"
+    ]
+  }
+}

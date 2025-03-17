@@ -1,0 +1,46 @@
+{
+  "id": "193",
+  "url": "https://www.csszengarden.com/193",
+  "css_url": "https://www.csszengarden.com/193/193.css",
+  "title": "Leggo My Ego",
+  "author": "Jon Tan",
+  "description": {
+    "summary": "A nostalgic pixel-art inspired web design with a garden metaphor, blending retro aesthetic with organized information architecture",
+    "visual_style": "The design employs pixel art illustrations and ASCII-like typography to create a deliberately retro digital aesthetic with a zen garden motif",
+    "emotional_impact": "Evokes nostalgia for early web design while maintaining a calm, meditative atmosphere through its organized layout and earthy color palette",
+    "compositional_elements": "Features a header with pixel art landscape, central title treatment, and a structured grid layout with clear content sections and navigation elements"
+  },
+  "artistic_context": {
+    "style_influences": "8-bit pixel art, ASCII typography, early web design patterns, Japanese zen gardens",
+    "visual_metaphors": "Digital landscape as garden, cultivation of code as meditation practice, pixels as building blocks"
+  },
+  "categories": [
+    "retro",
+    "pixel-art",
+    "minimalist",
+    "grid-based",
+    "instructional",
+    "decorative-typography"
+  ],
+  "visual_characteristics": [
+    "pixel-based illustrations",
+    "monospaced typography",
+    "radiating background",
+    "earth-tone palette",
+    "hierarchical layout",
+    "decorative header"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "hierarchy",
+      "repetition",
+      "balance",
+      "nostalgia"
+    ],
+    "visual_techniques": [
+      "pixel illustration",
+      "typographic contrast",
+      "grid organization"
+    ]
+  }
+}

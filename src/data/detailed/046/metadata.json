@@ -1,0 +1,46 @@
+{
+  "id": "046",
+  "url": "https://www.csszengarden.com/046",
+  "css_url": "https://www.csszengarden.com/046/046.css",
+  "title": "sub:lime",
+  "author": "Andy Budd",
+  "description": {
+    "summary": "A structured, educational web design showcasing a clean two-column layout with a harmonious color palette of greens, yellows, and neutrals",
+    "visual_style": "Minimal and functional design approach with clear section delineation and hierarchical organization of content",
+    "emotional_impact": "Calm, meditative atmosphere created through soft green tones and ample white space, evoking the 'zen' theme",
+    "compositional_elements": "Two-column structure with clearly defined navigation sidebar and content area, using consistent header treatments and subtle separators"
+  },
+  "artistic_context": {
+    "style_influences": "Early 2000s web design aesthetic with modern minimalist sensibilities",
+    "visual_metaphors": "Garden as a metaphor for cultivation and growth, expressed through the green color palette and organic header imagery"
+  },
+  "categories": [
+    "minimalist",
+    "structured",
+    "educational",
+    "grid-based",
+    "functional",
+    "zen-inspired"
+  ],
+  "visual_characteristics": [
+    "green-yellow color scheme",
+    "two-column layout",
+    "section headers",
+    "consistent typography",
+    "subtle gradients",
+    "natural imagery"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "hierarchy",
+      "balance",
+      "unity",
+      "clarity"
+    ],
+    "visual_techniques": [
+      "color blocking",
+      "typographic contrast",
+      "consistent spacing"
+    ]
+  }
+}

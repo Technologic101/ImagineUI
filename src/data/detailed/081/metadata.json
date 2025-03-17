@@ -1,0 +1,46 @@
+{
+  "id": "081",
+  "url": "https://www.csszengarden.com/081",
+  "css_url": "https://www.csszengarden.com/081/081.css",
+  "title": "seashore",
+  "author": "Christine Kirchmeier",
+  "description": {
+    "summary": "A serene web design featuring a tripartite layout that combines a tranquil coastal imagery header, structured navigation sidebar, and content-rich main area, all unified by a subtle patterned background.",
+    "visual_style": "The design employs a restrained, meditative aesthetic with a nature-inspired header image featuring a nautilus shell against a sunset gradient, creating visual metaphors of harmony and balance.",
+    "emotional_impact": "The calm color palette and organized structure evoke a sense of tranquility and clarity, reinforced by the zen-inspired nautilus motif that suggests natural order and progression.",
+    "compositional_elements": "A clear three-column structure with decorative borders, consistent section headers, and careful typographic hierarchy creates a methodical, educational presentation style."
+  },
+  "artistic_context": {
+    "style_influences": "Early 2000s web design, minimalist information architecture, Asian-inspired natural motifs",
+    "visual_metaphors": "Natural spiral forms suggesting growth and harmony, water and earth elements symbolizing balance"
+  },
+  "categories": [
+    "minimalist",
+    "nature-inspired",
+    "instructional",
+    "grid-based",
+    "nautical",
+    "structured"
+  ],
+  "visual_characteristics": [
+    "spiral motif",
+    "muted color palette",
+    "sectioned layout",
+    "patterned background",
+    "gradient header",
+    "consistent typography"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "hierarchy",
+      "balance",
+      "repetition",
+      "contrast"
+    ],
+    "visual_techniques": [
+      "pattern repetition",
+      "sectional division",
+      "natural imagery"
+    ]
+  }
+}

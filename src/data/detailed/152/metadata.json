@@ -1,0 +1,46 @@
+{
+  "id": "152",
+  "url": "https://www.csszengarden.com/152",
+  "css_url": "https://www.csszengarden.com/152/152.css",
+  "title": "Subway Dream",
+  "author": "Pablo Caro",
+  "description": {
+    "summary": "A stylized web design showcasing CSS capabilities through an elegant purple and blue color scheme featuring an illustrated female figure in a graceful dance pose against an abstract grid background.",
+    "visual_style": "The design employs an artistic, illustrative approach with a deep purple background and flowing script typography that creates a sense of creative movement and elegance.",
+    "emotional_impact": "The rich color palette and flowing illustration evoke a sense of creativity, inspiration, and artistic expression, creating a meditative and enlightened atmosphere.",
+    "compositional_elements": "The layout combines vertical text columns with a prominent flowing illustration that guides the eye from top to bottom, using negative space to create rhythm between content blocks."
+  },
+  "artistic_context": {
+    "style_influences": "Digital illustration, calligraphic typography, zen-inspired aesthetics, geometric blueprint patterns",
+    "visual_metaphors": "Dance as transformation, flowing movement as creative freedom, enlightenment through knowledge"
+  },
+  "categories": [
+    "artistic",
+    "illustrative",
+    "elegant",
+    "grid-based",
+    "monochromatic",
+    "calligraphic"
+  ],
+  "visual_characteristics": [
+    "deep-purple background",
+    "flowing script typography",
+    "illustrated character",
+    "blueprint-like patterns",
+    "vertical text columns",
+    "gradient blue figure"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "contrast",
+      "hierarchy",
+      "rhythm",
+      "unity"
+    ],
+    "visual_techniques": [
+      "layering",
+      "figure-ground relationship",
+      "typographic contrast"
+    ]
+  }
+}

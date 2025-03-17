@@ -1,0 +1,45 @@
+{
+  "id": "200",
+  "url": "https://www.csszengarden.com/200",
+  "css_url": "https://www.csszengarden.com/200/200.css",
+  "title": "Icicle Outback",
+  "author": "Timo Virtanen",
+  "description": {
+    "summary": "A serene, atmospheric web design featuring a gradient blue backdrop with zen-inspired imagery and structured content areas. The page employs a two-column layout with an asymmetric balance and thoughtful typographic hierarchy.",
+    "visual_style": "Minimalist yet evocative digital landscape that combines natural silhouettes with a calming blue color scheme, creating a meditative visual space that aligns with the zen philosophy referenced in the design.",
+    "emotional_impact": "The cool blue tones and subtle nature imagery evoke tranquility and contemplation, while the icicle-like elements at the top suggest clarity and purity of thought.",
+    "compositional_elements": "The design features a vertical flow with distinct content sections, utilizing a darker left column for primary content and a lighter right column for navigation and secondary elements, creating visual depth and dimension."
+  },
+  "artistic_context": {
+    "style_influences": "Digital minimalism, Asian zen aesthetics, web 2.0 transparency effects, nature-inspired design",
+    "aesthetic_period": "Early 2000s web design with Japanese zen garden influence",
+    "visual_metaphors": "The journey of enlightenment through digital landscapes, water/ice as clarity, silhouettes as simplification"
+  },
+  "categories": [
+    "Minimalist digital",
+    "Zen-inspired web design",
+    "Atmospheric interface",
+    "Nature-digital fusion",
+    "Gradient composition"
+  ],
+  "visual_characteristics": [
+    "Monochromatic blue gradient palette",
+    "Silhouetted natural elements",
+    "Textural contrast between smooth and rough edges",
+    "Two-column asymmetric layout",
+    "Vertical rhythm with horizontal section breaks"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "Balance",
+      "Hierarchy",
+      "Contrast",
+      "Unity"
+    ],
+    "visual_techniques": [
+      "Gradient transitions",
+      "Silhouetting",
+      "Textural juxtaposition"
+    ]
+  }
+}

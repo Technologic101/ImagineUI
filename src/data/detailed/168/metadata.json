@@ -1,0 +1,46 @@
+{
+  "id": "168",
+  "url": "https://www.csszengarden.com/168",
+  "css_url": "https://www.csszengarden.com/168/168.css",
+  "title": "Hengarden",
+  "author": "Mr. Khmerang",
+  "description": {
+    "summary": "A playful satirical web design featuring white chickens on a blue background with a two-column layout that combines illustrative elements with structured content sections",
+    "visual_style": "The design employs a whimsical, colorful approach with illustrated chickens and decorative section headers against a clean layout structure",
+    "emotional_impact": "Creates a lighthearted, humorous mood through bright colors, decorative typography, and illustrative elements",
+    "compositional_elements": "A clear visual hierarchy separates content into distinct sections with decorative headers, sidebar navigation, and prominent chicken imagery"
+  },
+  "artistic_context": {
+    "style_influences": "Early web design aesthetics, illustrated children's books, educational materials",
+    "visual_metaphors": "Chickens as symbols of freedom and enlightenment, road imagery suggesting a journey"
+  },
+  "categories": [
+    "playful",
+    "illustrative",
+    "informational",
+    "whimsical",
+    "educational",
+    "web-based"
+  ],
+  "visual_characteristics": [
+    "bright-colors",
+    "hierarchical-layout",
+    "decorative-typography",
+    "illustrated-elements",
+    "two-column-structure",
+    "ornamental-headers"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "contrast",
+      "hierarchy",
+      "repetition",
+      "alignment"
+    ],
+    "visual_techniques": [
+      "illustrative imagery",
+      "color blocking",
+      "decorative typography"
+    ]
+  }
+}

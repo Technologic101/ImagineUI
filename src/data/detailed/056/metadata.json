@@ -1,0 +1,46 @@
+{
+  "id": "056",
+  "url": "https://www.csszengarden.com/056",
+  "css_url": "https://www.csszengarden.com/056/056.css",
+  "title": "Zen Garden Internal Layout",
+  "author": "Dave Shea",
+  "description": {
+    "summary": "A minimalist, functional web design with a structured layout focused on content organization and accessibility. The interface employs a restrained color palette of blues, grays, and whites with clear typographic hierarchy.",
+    "visual_style": "Clean and utilitarian with an early web aesthetic, featuring segmented content areas, architectural photography, and systematic typography that emphasizes function over decoration.",
+    "emotional_impact": "Calm, instructional atmosphere created through ample white space, subtle blue accents, and methodical organization that conveys technical authority and accessibility.",
+    "compositional_elements": "Three-column layout with fixed navigation elements on the left, central content area with embedded imagery, and clear section demarcations through background color variations and horizontal dividers."
+  },
+  "artistic_context": {
+    "style_influences": "Early web design principles, modernist grid systems, technical documentation layouts",
+    "visual_metaphors": "Architecture as structure, garden as cultivated design space, pathway to knowledge"
+  },
+  "categories": [
+    "minimalist",
+    "functional",
+    "grid-based",
+    "technical",
+    "instructional",
+    "utilitarian"
+  ],
+  "visual_characteristics": [
+    "blue-gray color scheme",
+    "multi-column layout",
+    "architectural imagery",
+    "segmented content areas",
+    "subtle gradients",
+    "horizontal separators"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "hierarchy",
+      "clarity",
+      "consistency",
+      "accessibility"
+    ],
+    "visual_techniques": [
+      "sectional contrast",
+      "typographic organization",
+      "structural framing"
+    ]
+  }
+}

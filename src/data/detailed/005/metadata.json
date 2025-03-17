@@ -1,0 +1,46 @@
+{
+  "id": "005",
+  "url": "https://www.csszengarden.com/005",
+  "css_url": "https://www.csszengarden.com/005/005.css",
+  "title": "css Zen Garden submission 005 - 'Blood Lust'",
+  "author": "Dave Shea",
+  "description": {
+    "summary": "A deliberately chaotic yet structured web design featuring an experimental aesthetic with bold red washes against a grid background, integrating calligraphic script with technical typography.",
+    "visual_style": "The design employs a tension between structured technical elements and organic, painterly splashes creating a rebellious yet purposeful aesthetic.",
+    "emotional_impact": "Creates a sense of controlled chaos and artistic rebellion, suggesting both creative freedom and technical discipline.",
+    "compositional_elements": "Navigation elements frame the left side while content flows across the center and right, with dramatic red ink-like splashes overlaying a dotted grid background."
+  },
+  "artistic_context": {
+    "style_influences": "Japanese calligraphy, deconstructivist design, digital grunge aesthetic, modernist typography",
+    "visual_metaphors": "Zen garden as ordered chaos, splashes of ink as creative disruption, grid as structural foundation"
+  },
+  "categories": [
+    "experimental",
+    "deconstructivist",
+    "juxtaposed",
+    "high-contrast",
+    "calligraphic",
+    "grid-based"
+  ],
+  "visual_characteristics": [
+    "red ink splashes",
+    "dotted background grid",
+    "multi-column layout",
+    "script typography",
+    "layered elements",
+    "monospaced text"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "contrast",
+      "hierarchy",
+      "tension",
+      "asymmetry"
+    ],
+    "visual_techniques": [
+      "overlay",
+      "typographic contrast",
+      "negative space"
+    ]
+  }
+}

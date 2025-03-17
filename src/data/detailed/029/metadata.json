@@ -1,0 +1,46 @@
+{
+  "id": "029",
+  "url": "https://www.csszengarden.com/029",
+  "css_url": "https://www.csszengarden.com/029/029.css",
+  "title": "Backyard",
+  "author": "Ray Henry",
+  "description": {
+    "summary": "A thoughtfully structured web design showcasing a minimalist aesthetic with a delicate balance between functional content and artistic presentation",
+    "visual_style": "Clean, structured layout with subtle organic elements that contrast with the precise typography and organization of information",
+    "emotional_impact": "Serene and contemplative atmosphere created through soft color transitions and harmonious spacing",
+    "compositional_elements": "Multi-column layout with clear sectioning, using subtle decorative elements and a naturalistic header image to frame the content"
+  },
+  "artistic_context": {
+    "style_influences": "Zen-inspired minimalism, early web design aesthetics, nature-meets-technology approach",
+    "visual_metaphors": "Garden as knowledge cultivation, enlightenment through clarity, organic growth in structured environment"
+  },
+  "categories": [
+    "minimalist",
+    "structured",
+    "educational",
+    "zen-inspired",
+    "functional",
+    "text-centric"
+  ],
+  "visual_characteristics": [
+    "multi-column layout",
+    "muted color palette",
+    "organic header image",
+    "clear typographic hierarchy",
+    "generous white space",
+    "section demarcation"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "balance",
+      "hierarchy",
+      "contrast",
+      "unity"
+    ],
+    "visual_techniques": [
+      "header-to-content flow",
+      "typographic rhythm",
+      "natural-to-digital transition"
+    ]
+  }
+}

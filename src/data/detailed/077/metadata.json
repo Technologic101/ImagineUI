@@ -1,0 +1,46 @@
+{
+  "id": "077",
+  "url": "https://www.csszengarden.com/077",
+  "css_url": "https://www.csszengarden.com/077/077.css",
+  "title": "Hop",
+  "author": "Guillaume L.",
+  "description": {
+    "summary": "A vibrant web design showcasing a gradient-based header with silhouetted figures in motion against a pink-to-purple backdrop, combined with a structured information layout below",
+    "visual_style": "The design employs early 2000s web aesthetics with dramatic gradients, silhouettes, and a mix of centered and left-aligned text elements arranged in a multi-column layout",
+    "emotional_impact": "The bright pink-purple gradient creates an energetic, dynamic atmosphere, while the silhouetted figures suggest movement, freedom and transformation",
+    "compositional_elements": "The composition features a banner header, silhouetted figures as dynamic visual elements, and a two-column information layout with clear typographic hierarchy"
+  },
+  "artistic_context": {
+    "style_influences": "Early digital design aesthetics, early 2000s web design, zen-inspired minimalism through human silhouettes",
+    "visual_metaphors": "Floating figures suggesting freedom, enlightenment, and transcendence of limitations"
+  },
+  "categories": [
+    "gradient-based",
+    "two-column",
+    "silhouette",
+    "early-web",
+    "vibrant",
+    "zen-inspired"
+  ],
+  "visual_characteristics": [
+    "purple-pink-gradient",
+    "silhouetted-figures",
+    "multi-column-layout",
+    "hierarchical-typography",
+    "centered-header",
+    "light-dark-contrast"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "contrast",
+      "hierarchy",
+      "movement",
+      "balance"
+    ],
+    "visual_techniques": [
+      "silhouetting",
+      "gradient-flow",
+      "typographic-scaling"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "142",
+  "url": "https://www.csszengarden.com/142",
+  "css_url": "https://www.csszengarden.com/142/142.css",
+  "title": "Invasion of the Body Switchers",
+  "author": "Andy Clarke",
+  "description": {
+    "summary": "A cinematic web design inspired by vintage film posters, featuring a dramatic central image with prominently displayed typography against a rich, gradient background",
+    "visual_style": "The design employs a theatrical aesthetic with a film noir quality, combining vintage imagery with modern web layout techniques",
+    "emotional_impact": "Creates an atmosphere of intrigue and nostalgia through dramatic color contrasts and the use of vintage visual elements",
+    "compositional_elements": "Organized with a central focal point anchored by the vintage image, surrounded by hierarchical text elements and geometric orange information blocks"
+  },
+  "artistic_context": {
+    "style_influences": "Film noir, vintage movie posters, 1950s science fiction aesthetics, retro typography",
+    "visual_metaphors": "Theatrical presentation, cinematic experience, journey of discovery"
+  },
+  "categories": [
+    "vintage",
+    "cinematic",
+    "theatrical",
+    "retro",
+    "high-contrast",
+    "dramatic"
+  ],
+  "visual_characteristics": [
+    "gradient-background",
+    "angular-geometry",
+    "vintage-imagery",
+    "typographic-hierarchy",
+    "color-blocking",
+    "textural-edges"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "contrast",
+      "hierarchy",
+      "emphasis",
+      "balance"
+    ],
+    "visual_techniques": [
+      "layering",
+      "color-blocking",
+      "textural-framing"
+    ]
+  }
+}

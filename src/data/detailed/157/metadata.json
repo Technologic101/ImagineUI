@@ -1,0 +1,46 @@
+{
+  "id": "157",
+  "url": "https://www.csszengarden.com/157",
+  "css_url": "https://www.csszengarden.com/157/157.css",
+  "title": "Bugs",
+  "author": "Zohar Arad",
+  "description": {
+    "summary": "A nature-inspired web design that uses insect imagery as decorative elements against a clean white background with salmon-colored content panels and green navigation sections.",
+    "visual_style": "The design employs realistic insect illustrations as organic contrast to the geometric layout structure, creating a harmonious blend of natural and digital aesthetics.",
+    "emotional_impact": "The warm color palette and natural imagery evoke a sense of calm contemplation, balanced with structured information presentation.",
+    "compositional_elements": "Three-column layout with strategic asymmetry - wide content area flanked by a narrower navigation column, with insect illustrations positioned as visual anchors throughout the composition."
+  },
+  "artistic_context": {
+    "style_influences": "Japanese garden aesthetics, biological illustration, minimalist web design",
+    "visual_metaphors": "Insects as symbols of transformation and natural beauty, contrasting with digital structure"
+  },
+  "categories": [
+    "nature-inspired",
+    "minimalist",
+    "instructional",
+    "organic",
+    "structured",
+    "illustrative"
+  ],
+  "visual_characteristics": [
+    "realistic insect illustrations",
+    "salmon-green color scheme",
+    "white negative space",
+    "hierarchical typography",
+    "clean columnar layout",
+    "decorative natural elements"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "contrast",
+      "balance",
+      "visual hierarchy",
+      "rhythm"
+    ],
+    "visual_techniques": [
+      "photographic elements",
+      "color blocking",
+      "decorative illustration"
+    ]
+  }
+}

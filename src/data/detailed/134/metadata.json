@@ -1,0 +1,46 @@
+{
+  "id": "134",
+  "url": "https://www.csszengarden.com/134",
+  "css_url": "https://www.csszengarden.com/134/134.css",
+  "title": "El Collar de Tomas",
+  "author": "Maria Stultz",
+  "description": {
+    "summary": "A thoughtfully structured web layout blending Eastern aesthetic influences with technical precision, using warm earth tones against a textured background to create a meditative yet instructional atmosphere.",
+    "visual_style": "The design employs a rich, earthy color palette with asymmetrical column structure, creating visual warmth while maintaining functional clarity through distinct content sections and hierarchical typography.",
+    "emotional_impact": "The warm color palette and nature-inspired textures evoke tranquility and contemplation, reinforced by the balanced composition that guides the viewer through information systematically.",
+    "compositional_elements": "A three-column layout with variable width sections creates visual rhythm, with the dominant central content area balanced by narrower navigation columns, all unified by consistent color treatments."
+  },
+  "artistic_context": {
+    "style_influences": "Asian minimalism, arts and crafts movement, organic modernism",
+    "visual_metaphors": "Garden path, meditation space, instructional scroll"
+  },
+  "categories": [
+    "earthy",
+    "structured",
+    "minimalist",
+    "educational",
+    "zen-inspired",
+    "grid-based"
+  ],
+  "visual_characteristics": [
+    "warm-toned",
+    "textured background",
+    "multi-column layout",
+    "hierarchical typography",
+    "organic color blocks",
+    "low-contrast accents"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "hierarchy",
+      "balance",
+      "rhythm",
+      "unity"
+    ],
+    "visual_techniques": [
+      "color blocking",
+      "textural contrast",
+      "asymmetrical balance"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "113",
+  "url": "https://www.csszengarden.com/113",
+  "css_url": "https://www.csszengarden.com/113/113.css",
+  "title": "Switch On",
+  "author": "Michael Fasani",
+  "description": {
+    "summary": "A stark, code-focused web design featuring a high-contrast neon green and black color scheme with a power button symbol as its iconic visual element.",
+    "visual_style": "The design employs a digital aesthetic that references code structures while using minimalist iconography and matrix-like visual elements.",
+    "emotional_impact": "Creates a technical, underground atmosphere that evokes hacker culture and digital enlightenment through its glowing green text against deep black backgrounds.",
+    "compositional_elements": "Structured in clearly defined horizontal sections with a consistent left-aligned layout, punctuated by arrow indicators and bordered content areas."
+  },
+  "artistic_context": {
+    "style_influences": "Digital terminal interfaces, 1990s web aesthetics, hacker culture visuals, matrix-inspired typography",
+    "visual_metaphors": "Illumination through code, digital zen, power/activation symbolism"
+  },
+  "categories": [
+    "technical",
+    "high-contrast",
+    "digital",
+    "minimalist",
+    "code-aesthetic",
+    "retro-digital"
+  ],
+  "visual_characteristics": [
+    "neon-green accents",
+    "terminal-like typography",
+    "circular power icon",
+    "grid background",
+    "code snippets as decoration",
+    "directional arrows"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "contrast",
+      "hierarchy",
+      "repetition",
+      "alignment"
+    ],
+    "visual_techniques": [
+      "monochromatic color scheme",
+      "typographic contrast",
+      "visual framing"
+    ]
+  }
+}

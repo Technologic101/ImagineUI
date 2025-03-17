@@ -1,0 +1,46 @@
+{
+  "id": "183",
+  "url": "https://www.csszengarden.com/183",
+  "css_url": "https://www.csszengarden.com/183/183.css",
+  "title": "404 Not Found",
+  "author": null,
+  "description": {
+    "summary": "A minimalist web design embracing simplicity and clean typography in a traditional document-style layout, representing a zen-like approach to CSS demonstrations.",
+    "visual_style": "The design employs a clean, text-focused approach with minimal styling, utilizing traditional web document structure with clear hierarchical headings and bullet-point lists.",
+    "emotional_impact": "The design evokes a sense of calm order and clarity through its restrained use of styling and focus on readability, embodying the 'zen' philosophy mentioned in its title.",
+    "compositional_elements": "The composition follows a strict vertical flow with consistent margins, clear typographic hierarchy, and organized content blocks separated by distinct headings."
+  },
+  "artistic_context": {
+    "style_influences": "Traditional academic documents, early web design aesthetics, minimalist typography",
+    "visual_metaphors": "Simplicity as enlightenment, structural harmony, uncluttered space as tranquility"
+  },
+  "categories": [
+    "minimalist",
+    "typography-focused",
+    "hierarchical",
+    "functional",
+    "document-style",
+    "text-centric"
+  ],
+  "visual_characteristics": [
+    "black text on white background",
+    "list-based navigation",
+    "consistent margins",
+    "clear headings",
+    "hypertext formatting",
+    "vertical rhythm"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "hierarchy",
+      "clarity",
+      "simplicity",
+      "readability"
+    ],
+    "visual_techniques": [
+      "typographic contrast",
+      "white space utilization",
+      "linear organization"
+    ]
+  }
+}

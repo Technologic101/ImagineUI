@@ -1,0 +1,46 @@
+{
+  "id": "065",
+  "url": "https://www.csszengarden.com/065",
+  "css_url": "https://www.csszengarden.com/065/065.css",
+  "title": "New Groove",
+  "author": "Martin Neumann",
+  "description": {
+    "summary": "A nostalgic web design showcase featuring a soft-colored, sectioned layout that demonstrates CSS styling capabilities through a zen garden concept",
+    "visual_style": "Early 2000s web design aesthetic with pastel colors, rounded elements, and a structured multi-column layout that combines whimsical decorative elements with functional information sections",
+    "emotional_impact": "Evokes a sense of calm and creativity through its soft color palette, organic flower icons, and contemplative design approach",
+    "compositional_elements": "Organized into clear content blocks with a header-sidebar-main content structure, utilizing visual anchors like floral motifs and colored section headers"
+  },
+  "artistic_context": {
+    "style_influences": "Web 2.0 design era, Japanese zen aesthetics through simplified forms, early CSS demonstration sites",
+    "visual_metaphors": "Garden as creative growth, path to enlightenment, flowers as blooming creativity"
+  },
+  "categories": [
+    "nostalgic",
+    "instructional",
+    "organic",
+    "pastel",
+    "structured",
+    "whimsical"
+  ],
+  "visual_characteristics": [
+    "rounded-corners",
+    "multi-column-layout",
+    "flower-motifs",
+    "purple-green-palette",
+    "sidebar-navigation",
+    "gradient-backgrounds"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "hierarchy",
+      "repetition",
+      "contrast",
+      "alignment"
+    ],
+    "visual_techniques": [
+      "color-blocking",
+      "decorative-icons",
+      "section-delineation"
+    ]
+  }
+}

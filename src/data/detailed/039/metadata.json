@@ -1,0 +1,46 @@
+{
+  "id": "039",
+  "url": "https://www.csszengarden.com/039",
+  "css_url": "https://www.csszengarden.com/039/039.css",
+  "title": "Erratic Blue",
+  "author": "Ian Main",
+  "description": {
+    "summary": "A minimalist web design featuring a calming blue color palette with a grid-based layout that demonstrates principles of CSS-based design through visual clarity and structured content blocks.",
+    "visual_style": "Clean, structured layout with a prominent header and clearly delineated content sections organized in horizontal bands with subtle gradients.",
+    "emotional_impact": "Serene and orderly atmosphere created through the use of cool blue tones and ample white space, evoking a sense of calm and methodical organization.",
+    "compositional_elements": "Two-column layout with primary content in wider left column and supplementary content in narrower right sidebar, creating a balanced asymmetrical composition with clear visual hierarchy."
+  },
+  "artistic_context": {
+    "style_influences": "Web 2.0 minimalism, early 2000s digital aesthetics, Japanese zen-inspired simplicity",
+    "visual_metaphors": "Garden as cultivation of design, flowing water in blue gradients, path of enlightenment through structured spaces"
+  },
+  "categories": [
+    "minimalist",
+    "grid-based",
+    "monochromatic",
+    "functional",
+    "educational",
+    "zen-inspired"
+  ],
+  "visual_characteristics": [
+    "blue gradient backgrounds",
+    "two-column layout",
+    "section headers",
+    "typographic contrast",
+    "horizontal banding",
+    "subtle grid texture"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "hierarchy",
+      "contrast",
+      "repetition",
+      "simplicity"
+    ],
+    "visual_techniques": [
+      "color blocking",
+      "typographic scaling",
+      "white space utilization"
+    ]
+  }
+}

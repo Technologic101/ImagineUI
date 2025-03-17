@@ -1,0 +1,46 @@
+{
+  "id": "164",
+  "url": "https://www.csszengarden.com/164",
+  "css_url": "https://www.csszengarden.com/164/164.css",
+  "title": "Chien",
+  "author": "Alex Miller",
+  "description": {
+    "summary": "A vibrant web design showcasing a nostalgic aesthetic with an orange and gold color scheme, combined with playful sculptural elements and structured content sections",
+    "visual_style": "The design employs a retro-inspired approach with warm colors, structured layout panels, and decorative 3D figurine elements creating visual interest against a grid-based content organization",
+    "emotional_impact": "The warm color palette and humorous figurine create an inviting, approachable atmosphere that balances playfulness with organized information presentation",
+    "compositional_elements": "Distinguished by a two-column layout below a prominent header area, with clearly defined content sections using color blocking and consistent typographic hierarchy"
+  },
+  "artistic_context": {
+    "style_influences": "Early 2000s web design, mid-century modern aesthetics, Japanese zen philosophy visual cues",
+    "visual_metaphors": "Growth and cultivation suggested by the garden theme, enlightenment represented through structured simplicity"
+  },
+  "categories": [
+    "retro",
+    "grid-based",
+    "warm-toned",
+    "structured",
+    "playful",
+    "instructional"
+  ],
+  "visual_characteristics": [
+    "orange-gold gradient",
+    "section color-blocking",
+    "sculptural figurine",
+    "hierarchical typography",
+    "bordered panels",
+    "consistent header styling"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "contrast",
+      "repetition",
+      "alignment",
+      "hierarchy"
+    ],
+    "visual_techniques": [
+      "color blocking",
+      "typographic scale",
+      "negative space"
+    ]
+  }
+}

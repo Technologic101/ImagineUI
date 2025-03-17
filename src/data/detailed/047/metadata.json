@@ -1,0 +1,46 @@
+{
+  "id": "047",
+  "url": "https://www.csszengarden.com/047",
+  "css_url": "https://www.csszengarden.com/047/047.css",
+  "title": "dusk",
+  "author": "Jon Hicks",
+  "description": {
+    "summary": "A minimalist web design showcasing the CSS Zen Garden project with a clean, modern aesthetic combining soft organic shapes with structured information presentation",
+    "visual_style": "The design employs a harmonious blend of organic green elements against a muted gray background, creating a zen-like atmosphere while maintaining functional clarity",
+    "emotional_impact": "Creates a sense of calm enlightenment through the balance of vibrant green accents against subdued tones, evoking natural growth and technical precision",
+    "compositional_elements": "Features asymmetrical balance with organic green shapes on the left contrasting with structured text layout on the right, creating visual flow through color and hierarchical spacing"
+  },
+  "artistic_context": {
+    "style_influences": "Minimalist web design, organic modernism, digital zen aesthetics",
+    "visual_metaphors": "Growing garden (represented by green organic shapes), path to enlightenment (flowing design elements), structure and beauty (ordered layout with organic accents)"
+  },
+  "categories": [
+    "minimalist",
+    "organic",
+    "digital-zen",
+    "asymmetrical",
+    "structured-elegance",
+    "web-centric"
+  ],
+  "visual_characteristics": [
+    "gradient-green-accents",
+    "gray-background",
+    "hierarchical-typography",
+    "barcode-elements",
+    "organic-shapes",
+    "clean-whitespace"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "contrast",
+      "asymmetrical balance",
+      "hierarchy",
+      "simplicity"
+    ],
+    "visual_techniques": [
+      "color accents",
+      "negative space",
+      "typographic structure"
+    ]
+  }
+}

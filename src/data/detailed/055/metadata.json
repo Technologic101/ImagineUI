@@ -1,0 +1,46 @@
+{
+  "id": "055",
+  "url": "https://www.csszengarden.com/055",
+  "css_url": "https://www.csszengarden.com/055/055.css",
+  "title": "zenlightenment",
+  "author": "Lance Leonard",
+  "description": {
+    "summary": "A structured web design showcasing CSS capabilities through a serene blue and yellow color scheme with a Zen-influenced aesthetic",
+    "visual_style": "Clean, structured layout with segmented content areas using calming blue panels and vibrant yellow sidebar",
+    "emotional_impact": "Tranquil yet instructive, balancing technical information with meditative visual elements",
+    "compositional_elements": "Multi-column layout with header banner featuring a stylized leaf icon, organized content sections with consistent heading treatments"
+  },
+  "artistic_context": {
+    "style_influences": "Digital minimalism, Eastern philosophical aesthetics, information architecture",
+    "visual_metaphors": "Path to enlightenment represented through structured information flow, leaf symbolizing natural growth and wisdom"
+  },
+  "categories": [
+    "instructional",
+    "grid-based",
+    "minimalist",
+    "segmented",
+    "asymmetrical",
+    "technical"
+  ],
+  "visual_characteristics": [
+    "blue-dominant",
+    "contrasting-sidebar",
+    "icon-enhanced",
+    "multi-column",
+    "banner-header",
+    "section-based"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "hierarchy",
+      "contrast",
+      "repetition",
+      "alignment"
+    ],
+    "visual_techniques": [
+      "color blocking",
+      "icon integration",
+      "structured typography"
+    ]
+  }
+}

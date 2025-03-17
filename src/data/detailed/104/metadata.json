@@ -1,0 +1,46 @@
+{
+  "id": "104",
+  "url": "https://www.csszengarden.com/104",
+  "css_url": "https://www.csszengarden.com/104/104.css",
+  "title": "Invitation",
+  "author": "Brad Dailey",
+  "description": {
+    "summary": "An elegant, formal invitation design with Eastern-influenced aesthetics, featuring a balanced layout with contrasting typography and subtle decorative elements.",
+    "visual_style": "A harmonious blend of traditional elegance and modern minimalism, with careful attention to typographic hierarchy and negative space.",
+    "emotional_impact": "Creates a sense of tranquility and contemplation through its balanced composition, muted color palette, and formal typographic treatment.",
+    "compositional_elements": "Two-column layout with clear vertical organization, featuring centered decorative header and structured content sections with subtle dividing elements."
+  },
+  "artistic_context": {
+    "style_influences": "Japanese aesthetic principles, formal invitation design, traditional manuscript layouts",
+    "visual_metaphors": "Garden as a space of cultivation and growth, path of enlightenment, structural elegance"
+  },
+  "categories": [
+    "minimal",
+    "elegant",
+    "formal",
+    "traditional",
+    "structured",
+    "typographic"
+  ],
+  "visual_characteristics": [
+    "two-column layout",
+    "serif typography",
+    "earth-tone palette",
+    "hierarchical headings",
+    "subtle dividers",
+    "negative space"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "balance",
+      "hierarchy",
+      "contrast",
+      "unity"
+    ],
+    "visual_techniques": [
+      "typographic scaling",
+      "formal alignment",
+      "negative space"
+    ]
+  }
+}

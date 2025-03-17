@@ -1,0 +1,46 @@
+{
+  "id": "073",
+  "url": "https://www.csszengarden.com/073",
+  "css_url": "https://www.csszengarden.com/073/073.css",
+  "title": "Emmakade",
+  "author": "Alexander Christiaan Jacob (ACJ)",
+  "description": {
+    "summary": "A minimalist, atmospheric web design featuring a monochromatic color scheme with dramatic typography and layered visual elements. The composition balances technical structure with zen-inspired aesthetics.",
+    "visual_style": "The design employs a dark, moody aesthetic with strong typographic contrast against a gradient background. Large, illuminated letterforms dominate the header while maintaining a sense of environmental context.",
+    "emotional_impact": "The monochromatic palette and luminous typography against dark backgrounds creates a contemplative, serene yet technical atmosphere, evoking both digital sophistication and natural tranquility.",
+    "compositional_elements": "The layout presents a vertical hierarchy with a dramatic header image transitioning to structured content blocks. Reflective imagery at the bottom mirrors the conceptual duality present throughout."
+  },
+  "artistic_context": {
+    "style_influences": "Minimalist web design, Japanese zen aesthetics, monochromatic photography, technical documentation styling",
+    "visual_metaphors": "Illumination emerging from darkness, reflection on water, path through obscurity, structural framework"
+  },
+  "categories": [
+    "minimalist",
+    "monochromatic",
+    "atmospheric",
+    "structured",
+    "zen-inspired",
+    "technical"
+  ],
+  "visual_characteristics": [
+    "high-contrast",
+    "backlit-typography",
+    "gradient-transitions",
+    "reflective-imagery",
+    "vertical-hierarchy",
+    "negative-space"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "contrast",
+      "hierarchy",
+      "balance",
+      "simplicity"
+    ],
+    "visual_techniques": [
+      "dramatic lighting",
+      "typographic scaling",
+      "atmospheric photography"
+    ]
+  }
+}

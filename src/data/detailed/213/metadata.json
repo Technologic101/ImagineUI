@@ -1,0 +1,46 @@
+{
+  "id": "213",
+  "url": "https://www.csszengarden.com/213",
+  "css_url": "https://www.csszengarden.com/213/213.css",
+  "title": "Under the Sea",
+  "author": "Eric Stoltz",
+  "description": {
+    "summary": "A vintage-inspired web design featuring a tall, scrolling layout with scientific illustrations of marine creatures against a parchment-like background, creating a cabinet of curiosities aesthetic.",
+    "visual_style": "The design employs a Victorian naturalist aesthetic with detailed scientific illustrations, ornate decorative elements, and aged paper textures creating a museum-like presentation.",
+    "emotional_impact": "The worn parchment textures, detailed scientific illustrations, and ornamental flourishes evoke a sense of historical discovery, academic curiosity, and nostalgic wonder.",
+    "compositional_elements": "A vertical scroll layout with a central parchment column containing text blocks, flanked by scientific illustrations of marine creatures strategically placed along the edges to create visual interest."
+  },
+  "artistic_context": {
+    "style_influences": "Victorian scientific illustration, 19th century naturalist journals, cabinet of curiosities displays, antique manuscript design",
+    "visual_metaphors": "Ocean exploration, scholarly archive, scientific discovery, natural history collection"
+  },
+  "categories": [
+    "vintage",
+    "naturalist",
+    "ornamental",
+    "illustrative",
+    "textured",
+    "narrative"
+  ],
+  "visual_characteristics": [
+    "scientific-illustrations",
+    "aged-parchment",
+    "decorative-flourishes",
+    "vertical-scrolling",
+    "maritime-elements",
+    "sepia-tones"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "hierarchy",
+      "contrast",
+      "rhythm",
+      "unity"
+    ],
+    "visual_techniques": [
+      "textural layering",
+      "decorative framing",
+      "visual storytelling"
+    ]
+  }
+}

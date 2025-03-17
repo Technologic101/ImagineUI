@@ -1,0 +1,46 @@
+{
+  "id": "100",
+  "url": "https://www.csszengarden.com/100",
+  "css_url": "https://www.csszengarden.com/100/100.css",
+  "title": "15 Petals",
+  "author": "Eric Meyer and Dave Shea",
+  "description": {
+    "summary": "A serene web design template featuring a Zen garden aesthetic with a prominent lotus flower integrated with a structured layout for content presentation.",
+    "visual_style": "A harmonious blend of natural imagery and structured digital elements, with a calming color scheme anchored by muted greens and accented by vibrant florals.",
+    "emotional_impact": "Creates a peaceful, contemplative atmosphere through the use of natural imagery, soft color transitions, and balanced spacing.",
+    "compositional_elements": "Two-column layout with a header featuring nature photography, a prominent flower element overlaying the header, and clearly defined content sections with ample white space."
+  },
+  "artistic_context": {
+    "style_influences": "Japanese garden aesthetics, minimalist web design, nature-inspired digital art",
+    "visual_metaphors": "Blooming flower suggesting growth and enlightenment, water elements conveying tranquility and flow"
+  },
+  "categories": [
+    "nature-inspired",
+    "minimalist",
+    "structured",
+    "serene",
+    "elegant",
+    "functional"
+  ],
+  "visual_characteristics": [
+    "floral-motif",
+    "two-column-layout",
+    "translucent-panels",
+    "gradient-backgrounds",
+    "natural-photography",
+    "soft-color-transitions"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "balance",
+      "harmony",
+      "hierarchy",
+      "contrast"
+    ],
+    "visual_techniques": [
+      "transparency",
+      "photographic integration",
+      "textural contrast"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "184",
+  "url": "https://www.csszengarden.com/184",
+  "css_url": "https://www.csszengarden.com/184/184.css",
+  "title": "Peace of Mind",
+  "author": "Carlos Varela",
+  "description": {
+    "summary": "A serene, minimalist web design that employs a garden metaphor through soft green hues, delicate botanical imagery, and ample white space to create a tranquil, meditative atmosphere.",
+    "visual_style": "The design embraces zen aesthetics with a light, airy composition, subtle organic elements, and a harmonious balance between text and negative space.",
+    "emotional_impact": "The soft color palette and balanced layout evoke feelings of calm, clarity, and contemplation, reinforced by the organic leaf motifs and ethereal imagery.",
+    "compositional_elements": "A single-column central content area is complemented by a right sidebar, with sectional headers marked by small leaf icons creating visual rhythm throughout."
+  },
+  "artistic_context": {
+    "style_influences": "Japanese minimalism, botanical illustration, meditation aesthetics",
+    "visual_metaphors": "Garden as knowledge growth, leaves as natural simplicity, white space as mental clarity"
+  },
+  "categories": [
+    "minimalist",
+    "organic",
+    "nature-inspired",
+    "zen",
+    "elegant",
+    "harmonious"
+  ],
+  "visual_characteristics": [
+    "pastel-green accents",
+    "botanical elements",
+    "generous white space",
+    "vertical hierarchy",
+    "subtle iconography",
+    "translucent imagery"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "balance",
+      "harmony",
+      "simplicity",
+      "rhythm"
+    ],
+    "visual_techniques": [
+      "negative space",
+      "organic motifs",
+      "monochromatic palette"
+    ]
+  }
+}

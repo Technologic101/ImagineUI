@@ -1,0 +1,46 @@
+{
+  "id": "091",
+  "url": "https://www.csszengarden.com/091",
+  "css_url": "https://www.csszengarden.com/091/091.css",
+  "title": "webZine",
+  "author": "Cent",
+  "description": {
+    "summary": "A minimalist web design that combines traditional Eastern aesthetics with structured grid layout, featuring a Gothic-style header and tea stain visual elements against a light background.",
+    "visual_style": "The design employs a restrained, zen-inspired aesthetic with deliberate use of white space, structured information blocks, and subtle decorative elements that reference traditional Eastern art.",
+    "emotional_impact": "The visual treatment evokes a sense of tranquility and order, balancing instructional content with contemplative aesthetics.",
+    "compositional_elements": "Information is arranged in a clear grid system with horizontal sections delineated by thin rules, creating a balanced hierarchy between header elements, body text, and negative space."
+  },
+  "artistic_context": {
+    "style_influences": "Japanese minimalism, traditional scroll design, Gothic calligraphy, technical documentation",
+    "visual_metaphors": "Tea stain circular elements suggest meditation and natural imperfection within the structured digital environment"
+  },
+  "categories": [
+    "minimalist",
+    "grid-based",
+    "zen-inspired",
+    "typographic",
+    "instructional",
+    "heritage"
+  ],
+  "visual_characteristics": [
+    "high-contrast typography",
+    "negative space",
+    "horizontal rules",
+    "calligraphic header",
+    "tea stain motifs",
+    "structured columns"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "hierarchy",
+      "balance",
+      "contrast",
+      "simplicity"
+    ],
+    "visual_techniques": [
+      "framing",
+      "typographic scale",
+      "white space"
+    ]
+  }
+}

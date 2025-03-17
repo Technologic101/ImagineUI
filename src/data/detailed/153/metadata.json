@@ -1,0 +1,46 @@
+{
+  "id": "153",
+  "url": "https://www.csszengarden.com/153",
+  "css_url": "https://www.csszengarden.com/153/153.css",
+  "title": "Moss",
+  "author": "Mani Sheriar",
+  "description": {
+    "summary": "A nature-inspired web design with a two-column layout featuring a dark green textured background on the left and a lighter green panel on the right, unified by tree imagery that creates an organic, meditative aesthetic.",
+    "visual_style": "The design employs a zen garden metaphor through natural textures, organic patterns, and calligraphic script elements that contrast with structured content areas.",
+    "emotional_impact": "The verdant color palette and organic textures evoke tranquility, growth and enlightenment, creating a contemplative atmosphere that balances technical content with natural beauty.",
+    "compositional_elements": "A clear asymmetrical layout divides content between a textured, information-dense left column and a lighter, more spacious navigation area on the right, connected by flowing decorative elements and tree imagery."
+  },
+  "artistic_context": {
+    "style_influences": "Japanese garden aesthetics, minimalist naturalism, calligraphic art, textural watercolor techniques",
+    "visual_metaphors": "Zen garden as digital space, trees as growth and knowledge, path as journey of learning"
+  },
+  "categories": [
+    "organic",
+    "nature-inspired",
+    "asymmetrical",
+    "textural",
+    "calligraphic",
+    "minimalist"
+  ],
+  "visual_characteristics": [
+    "gradient-green",
+    "tree-silhouette",
+    "textured-background",
+    "decorative-scripts",
+    "two-column-layout",
+    "watercolor-effects"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "contrast",
+      "hierarchy",
+      "asymmetrical balance",
+      "unity"
+    ],
+    "visual_techniques": [
+      "textural layering",
+      "silhouetting",
+      "typographic contrast"
+    ]
+  }
+}

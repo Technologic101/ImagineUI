@@ -1,0 +1,46 @@
+{
+  "id": "192",
+  "url": "https://www.csszengarden.com/192",
+  "css_url": "https://www.csszengarden.com/192/192.css",
+  "title": "LuGoZee",
+  "author": "Viallon Pierre-Antoine",
+  "description": {
+    "summary": "A medieval-inspired web design featuring a parchment-like texture with ornate typography and decorative initials against a dark background, creating a scholarly, antiquated aesthetic.",
+    "visual_style": "The design employs a manuscript-like approach with aged texture, calligraphic elements, and a two-column layout that evokes historical documents and ancient scrolls.",
+    "emotional_impact": "Creates a sense of reverence and tradition through its aged appearance, warm sepia tones, and decorative elements that suggest wisdom and time-honored practices.",
+    "compositional_elements": "Structured with a main content area resembling aged parchment, contrasting with a darker navigation sidebar, framed by subtle decorative elements along the edges."
+  },
+  "artistic_context": {
+    "style_influences": "Medieval manuscripts, illuminated texts, monastic scrolls, early bookmaking traditions",
+    "visual_metaphors": "Ancient wisdom, time-worn knowledge, scholarly tradition, artisanal craftsmanship"
+  },
+  "categories": [
+    "antiquarian",
+    "ornamental",
+    "textural",
+    "classical",
+    "manuscript-inspired",
+    "decorative"
+  ],
+  "visual_characteristics": [
+    "aged-parchment texture",
+    "decorative drop caps",
+    "calligraphic elements",
+    "high-contrast typography",
+    "ornamental borders",
+    "sepia color palette"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "contrast",
+      "hierarchy",
+      "texture",
+      "historical reference"
+    ],
+    "visual_techniques": [
+      "textural layering",
+      "typographic ornamentation",
+      "antiqued finish"
+    ]
+  }
+}

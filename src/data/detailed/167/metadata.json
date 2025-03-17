@@ -1,0 +1,46 @@
+{
+  "id": "167",
+  "url": "https://www.csszengarden.com/167",
+  "css_url": "https://www.csszengarden.com/167/167.css",
+  "title": "Hoops - Tournament Edition",
+  "author": "David Marshall Jr.",
+  "description": {
+    "summary": "A nostalgic web design featuring a wood-grain background with a centralized layout and Eastern-inspired aesthetics, combining playful teaching elements with structured navigation",
+    "visual_style": "The design employs a rustic, warm aesthetic with a textured wooden background, decorative ribbons, and chalkboard elements creating a blend of traditional and digital learning environments",
+    "emotional_impact": "The warm color palette and hand-drawn elements evoke a sense of approachability and craftsmanship, balancing educational formality with playful engagement",
+    "compositional_elements": "A vertically-oriented central content area is framed by rich brown borders, with clear section delineations marked by red circular icons and bold headings, while sidebar navigation panels are contained in distinct boxed areas"
+  },
+  "artistic_context": {
+    "style_influences": "Japanese zen aesthetics, traditional chalkboard instruction, early 2000s web design, analog material textures",
+    "visual_metaphors": "Garden as learning path, chalkboard as teaching tool, wooden texture as natural foundation"
+  },
+  "categories": [
+    "rustic",
+    "educational",
+    "textured",
+    "themed",
+    "traditional",
+    "hierarchical"
+  ],
+  "visual_characteristics": [
+    "wood-grain texture",
+    "ribbon banner",
+    "chalkboard element",
+    "circular markers",
+    "boxed navigation",
+    "high-contrast headings"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "hierarchy",
+      "contrast",
+      "repetition",
+      "unity"
+    ],
+    "visual_techniques": [
+      "textural layering",
+      "iconic markers",
+      "framing"
+    ]
+  }
+}

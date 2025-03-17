@@ -1,0 +1,46 @@
+{
+  "id": "112",
+  "url": "https://www.csszengarden.com/112",
+  "css_url": "https://www.csszengarden.com/112/112.css",
+  "title": "Mountain Resort",
+  "author": "Jordi Romkema",
+  "description": {
+    "summary": "A thematic web design with a strong nature motif, featuring a rustic wooden sign framed by evergreen trees against a blue sky, combined with a structured content layout using gold ribbon headers and sidebar navigation.",
+    "visual_style": "The design employs a nostalgic, rustic aesthetic with natural imagery contrasted against structured information architecture. The composition combines photographic elements with stylized web interface components.",
+    "emotional_impact": "The visual elements create a sense of tranquility and natural order, while the structured content areas establish clarity and purposefulness.",
+    "compositional_elements": "The layout features a strong vertical structure with horizontal gold ribbon dividers organizing content sections. A prominent header image establishes the theme, while a right-aligned sidebar creates a functional navigation area."
+  },
+  "artistic_context": {
+    "style_influences": "National park signage, traditional web design conventions, nature photography",
+    "visual_metaphors": "Path through wilderness as journey to knowledge, zen garden as orderly digital space"
+  },
+  "categories": [
+    "rustic",
+    "nature-inspired",
+    "hierarchical",
+    "traditional",
+    "structured",
+    "educational"
+  ],
+  "visual_characteristics": [
+    "gold-accent-ribbons",
+    "nature-photography",
+    "sectioned-content",
+    "sidebar-navigation",
+    "earthy-palette",
+    "typographic-contrast"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "hierarchy",
+      "contrast",
+      "repetition",
+      "alignment"
+    ],
+    "visual_techniques": [
+      "photographic framing",
+      "color blocking",
+      "visual metaphor"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "161",
+  "url": "https://www.csszengarden.com/161",
+  "css_url": "https://www.csszengarden.com/161/161.css",
+  "title": "Zenfandel",
+  "author": "Nicholas Rougeux",
+  "description": {
+    "summary": "A sophisticated web design that blends natural elements with structured typography to create a harmonious educational interface. Wine imagery and grape visuals frame a well-organized content structure.",
+    "visual_style": "The design employs a natural-meets-digital aesthetic, using soft green grape imagery as a backdrop for structured typographic content, creating a meditative yet instructional atmosphere.",
+    "emotional_impact": "The composition evokes a sense of tranquility and wisdom through its earthy color palette and balanced spacing, suggesting a peaceful learning environment.",
+    "compositional_elements": "A three-column layout with vertical navigation on the left, main content in the center, and decorative wine bottle imagery on the right creates a balanced framework with clear visual hierarchy."
+  },
+  "artistic_context": {
+    "style_influences": "Zen-inspired minimalism, traditional scroll-like layout, vineyard aesthetics, classic manuscript design",
+    "visual_metaphors": "Journey of learning, cultivation of knowledge, wine aging as skill development, organic growth of expertise"
+  },
+  "categories": [
+    "natural",
+    "minimalist",
+    "instructional",
+    "organic",
+    "structured"
+  ],
+  "visual_characteristics": [
+    "earth-tone palette",
+    "translucent overlays",
+    "serif-sans contrast",
+    "vertical navigation",
+    "botanical imagery"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "hierarchy",
+      "balance",
+      "contrast",
+      "unity"
+    ],
+    "visual_techniques": [
+      "textural background",
+      "visual framing",
+      "sectional organization"
+    ]
+  }
+}

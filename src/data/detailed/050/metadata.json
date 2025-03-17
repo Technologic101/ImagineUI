@@ -1,0 +1,46 @@
+{
+  "id": "050",
+  "url": "https://www.csszengarden.com/050",
+  "css_url": "https://www.csszengarden.com/050/050.css",
+  "title": "First Summary",
+  "author": "Cornelia Lange",
+  "description": {
+    "summary": "A modular grid-based web design that combines organic imagery with structured layout to showcase the aesthetics of CSS design. The layout uses color blocking and nature photography to create visual interest within a structured framework.",
+    "visual_style": "The design employs a multi-column grid system with distinct color-coded sections, integrating a mosaic of nature imagery with structured typography to demonstrate how technical structure can produce visual beauty.",
+    "emotional_impact": "The juxtaposition of organic natural elements against a structured grid creates a harmonious tension between order and nature, suggesting that technical constraints can still yield aesthetic results.",
+    "compositional_elements": "The composition is divided into clear vertical columns with a horizontal image grid at top, creating a framework that balances structured information with visual breathing space."
+  },
+  "artistic_context": {
+    "style_influences": "Modernist grid systems, collage techniques, color blocking principles",
+    "visual_metaphors": "Garden as structure, natural elements representing organic design potential within technical constraints"
+  },
+  "categories": [
+    "grid-based",
+    "modular",
+    "organic-geometric",
+    "instructional",
+    "collage",
+    "color-blocked"
+  ],
+  "visual_characteristics": [
+    "nature photography",
+    "columnar layout",
+    "color-coding",
+    "image mosaic",
+    "typographic hierarchy",
+    "sidebar navigation"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "balance",
+      "contrast",
+      "modularity",
+      "hierarchy"
+    ],
+    "visual_techniques": [
+      "color blocking",
+      "image grid",
+      "asymmetrical balance"
+    ]
+  }
+}

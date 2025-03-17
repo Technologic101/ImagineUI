@@ -1,0 +1,46 @@
+{
+  "id": "139",
+  "url": "https://www.csszengarden.com/139",
+  "css_url": "https://www.csszengarden.com/139/139.css",
+  "title": "Neat & Tidy",
+  "author": "Oli Dale",
+  "description": {
+    "summary": "A striking web design featuring a dark, grungy aesthetic with bright yellow and red accents against a textured black background, incorporating the visual metaphor of a paintbrush to symbolize artistic design creation.",
+    "visual_style": "The design employs a dramatically textured, distressed approach with high contrast elements and an artistic, handcrafted feel that references traditional painting and zen philosophy through visual metaphor.",
+    "emotional_impact": "Creates an intense, almost rebellious atmosphere that balances creative energy with meditative philosophy, conveying both artistic freedom and disciplined craft.",
+    "compositional_elements": "Vertical scrolling layout with clear section divisions marked by large yellow headings, contrasted against the dark textured background with a prominent red paintbrush image serving as a visual anchor."
+  },
+  "artistic_context": {
+    "style_influences": "Grunge aesthetics, eastern philosophical visual elements, traditional painting tools imagery, distressed textures",
+    "visual_metaphors": "Paintbrush representing creative control, textured edges symbolizing handcrafted approach, zen garden as ordered creativity"
+  },
+  "categories": [
+    "grunge",
+    "high-contrast",
+    "artistic",
+    "textural",
+    "eastern-influenced",
+    "industrial"
+  ],
+  "visual_characteristics": [
+    "distressed-borders",
+    "textured-background",
+    "paintbrush-motif",
+    "yellow-red-black-palette",
+    "dramatic-typography",
+    "vertical-hierarchy"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "contrast",
+      "emphasis",
+      "rhythm",
+      "hierarchy"
+    ],
+    "visual_techniques": [
+      "textural layering",
+      "typographic contrast",
+      "metaphorical imagery"
+    ]
+  }
+}

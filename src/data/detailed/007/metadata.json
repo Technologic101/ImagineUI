@@ -1,0 +1,46 @@
+{
+  "id": "007",
+  "url": "https://www.csszengarden.com/007",
+  "css_url": "https://www.csszengarden.com/007/007.css",
+  "title": "deep thought",
+  "author": "Jason Estes",
+  "description": {
+    "summary": "A minimalist, elegant web design that combines Eastern aesthetic influences with a monochromatic color scheme, creating a serene digital space that emphasizes typographic hierarchy and thoughtful negative space.",
+    "visual_style": "The design employs a Zen-inspired aesthetic with calligraphic headings, strategic placement of red accent elements, and a grayscale background featuring subtle water imagery that creates depth and tranquility.",
+    "emotional_impact": "The composition evokes a sense of calm contemplation through its balanced structure, measured spacing, and contrast between dark background and light typography.",
+    "compositional_elements": "Vertical navigation strips frame the content, while decorative Asian-inspired red emblems serve as visual anchors, creating rhythm across the structured layout."
+  },
+  "artistic_context": {
+    "style_influences": "Japanese minimalism, calligraphic traditions, monastic simplicity",
+    "visual_metaphors": "Water ripples as transformation, stone path as journey, emptiness as potential"
+  },
+  "categories": [
+    "minimalist",
+    "eastern-inspired",
+    "monochromatic",
+    "typographic",
+    "structured",
+    "contemplative"
+  ],
+  "visual_characteristics": [
+    "vertical-alignment",
+    "high-contrast",
+    "red-accents",
+    "water-imagery",
+    "calligraphic-headings",
+    "grid-based"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "balance",
+      "contrast",
+      "rhythm",
+      "hierarchy"
+    ],
+    "visual_techniques": [
+      "negative space",
+      "tonal contrast",
+      "symbolic accents"
+    ]
+  }
+}

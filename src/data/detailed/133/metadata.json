@@ -1,0 +1,46 @@
+{
+  "id": "133",
+  "url": "https://www.csszengarden.com/133",
+  "css_url": "https://www.csszengarden.com/133/133.css",
+  "title": "Ordered Zen",
+  "author": "Steve Smith",
+  "description": {
+    "summary": "A structured web design showcasing a minimalist aesthetic with a zen-inspired approach to CSS demonstrations, featuring earthy tones and organized content blocks within a harmonious layout.",
+    "visual_style": "Clean, organized, and hierarchical design with subtle natural motifs and a restrained color palette that creates a calm, instructional atmosphere.",
+    "emotional_impact": "Creates a sense of tranquility and clarity through ample white space, consistent structural elements, and a subdued color scheme.",
+    "compositional_elements": "Three-column layout with clear content sections, decorative floral elements in the header, and consistent typographic styling throughout."
+  },
+  "artistic_context": {
+    "style_influences": "Japanese zen aesthetics, minimalist web design, early 2000s instructional websites",
+    "visual_metaphors": "Garden as representation of growth and cultivation, natural elements suggesting organic development"
+  },
+  "categories": [
+    "minimalist",
+    "instructional",
+    "structured",
+    "nature-inspired",
+    "educational",
+    "grid-based"
+  ],
+  "visual_characteristics": [
+    "beige-toned",
+    "hierarchical-layout",
+    "floral-motifs",
+    "subtle-textures",
+    "organized-typography",
+    "horizontal-elements"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "balance",
+      "hierarchy",
+      "consistency",
+      "simplicity"
+    ],
+    "visual_techniques": [
+      "visual grouping",
+      "textural contrast",
+      "negative space"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "210",
+  "url": "https://www.csszengarden.com/210",
+  "css_url": "https://www.csszengarden.com/210/210.css",
+  "title": "Oceanscape",
+  "author": "Justin Gray",
+  "description": {
+    "summary": "An immersive underwater-themed web design featuring a deep blue gradient background with tropical fish imagery and a structured content layout. The design creates a virtual marine environment through photographic elements and strategic color usage.",
+    "visual_style": "The design employs a literal ocean aesthetic with photorealistic underwater imagery framing a centralized content area. Deep blue backgrounds transition to lighter azure at the surface, creating depth and environmental context.",
+    "emotional_impact": "The aquatic imagery and cool blue color palette evoke a sense of calm exploration and depth, creating an immersive environment that reinforces the oceanic theme.",
+    "compositional_elements": "The layout combines natural elements (fish photography, water texture) with structured content blocks. A central white-text-on-blue column creates a reading path surrounded by decorative marine life elements."
+  },
+  "artistic_context": {
+    "style_influences": "Nature photography, environmental design, digital aquarium aesthetics, web 2.0 documentary style",
+    "visual_metaphors": "Ocean as container of knowledge, depth as complexity, fish as navigation elements, surface/underwater division as interface boundary"
+  },
+  "categories": [
+    "immersive",
+    "thematic",
+    "photographic",
+    "environmental",
+    "nature-inspired",
+    "gradient-based"
+  ],
+  "visual_characteristics": [
+    "underwater imagery",
+    "blue color dominance",
+    "photographic elements",
+    "vertical scrolling layout",
+    "environmental framing",
+    "contrasting typography"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "thematic consistency",
+      "environmental immersion",
+      "content hierarchy",
+      "navigational clarity"
+    ],
+    "visual_techniques": [
+      "photographic integration",
+      "color gradient depth",
+      "natural framing"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "155",
+  "url": "https://www.csszengarden.com/155",
+  "css_url": "https://www.csszengarden.com/155/155.css",
+  "title": "Butterfly Effect",
+  "author": "Alen Grakalic",
+  "description": {
+    "summary": "A dual-column web design featuring a bold, high-contrast layout with a vintage aesthetic. The left section presents content in framed panels with deep burgundy headers against white backgrounds, complemented by a monochrome architectural photograph, while the right displays a gold-toned navigation area.",
+    "visual_style": "The design employs a structured, panel-based layout with strong horizontal divisions, creating a rhythmic visual pattern. It combines strong typography with a dramatic black and white image to establish a sense of sophistication and historical reference.",
+    "emotional_impact": "The design evokes a sense of authority and educational purpose through its structured format and high contrast color scheme. The deep burgundy and gold against dark backgrounds creates a formal, almost academic atmosphere.",
+    "compositional_elements": "The layout uses a clear vertical split with white-spaced text panels on the left and a gold-highlighted navigation column on the right. Strong horizontal rules and repeating border elements create a unified visual structure throughout."
+  },
+  "artistic_context": {
+    "style_influences": "Modernist grid systems, print publication design, academic journals, vintage notebook aesthetics",
+    "visual_metaphors": "Structure as authority, framing as organization, borders as containment"
+  },
+  "categories": [
+    "grid-based",
+    "high-contrast",
+    "structured",
+    "duotone",
+    "academic",
+    "vintage"
+  ],
+  "visual_characteristics": [
+    "bordered panels",
+    "horizontal dividers",
+    "monochrome imagery",
+    "strong headers",
+    "dual-column layout",
+    "color-coded sections"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "hierarchy",
+      "contrast",
+      "repetition",
+      "alignment"
+    ],
+    "visual_techniques": [
+      "framing",
+      "color blocking",
+      "typographic contrast"
+    ]
+  }
+}

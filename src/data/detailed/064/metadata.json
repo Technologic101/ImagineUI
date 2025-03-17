@@ -1,0 +1,46 @@
+{
+  "id": "064",
+  "url": "https://www.csszengarden.com/064",
+  "css_url": "https://www.csszengarden.com/064/064.css",
+  "title": "Night Drive",
+  "author": "Dave Shea",
+  "description": {
+    "summary": "A dark, sophisticated web design featuring a split layout with urban nighttime photography and minimalist navigation against a black background with gold and amber accent text.",
+    "visual_style": "The design employs a stark contrast between the dark background and luminous text elements, creating a night-themed aesthetic with an emphasis on contemplative simplicity.",
+    "emotional_impact": "The dark color scheme paired with the urban night imagery evokes a sense of calm sophistication and technical refinement, suggesting both depth and clarity.",
+    "compositional_elements": "The layout is divided into a vertical split with photographic cityscape imagery on the left and structured textual content on the right, creating clear visual hierarchy and organized information flow."
+  },
+  "artistic_context": {
+    "style_influences": "Minimalist web design, Asian-inspired aesthetic, urban photography, technical documentation styling",
+    "visual_metaphors": "Light trails in darkness suggesting paths to knowledge, illumination emerging from darkness, structured simplicity"
+  },
+  "categories": [
+    "minimalist",
+    "dark-themed",
+    "split-layout",
+    "technical-aesthetic",
+    "zen-inspired",
+    "urban"
+  ],
+  "visual_characteristics": [
+    "high-contrast",
+    "gold-amber accents",
+    "night photography",
+    "hierarchical typography",
+    "dark background",
+    "clean spacing"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "contrast",
+      "hierarchy",
+      "balance",
+      "simplicity"
+    ],
+    "visual_techniques": [
+      "negative space",
+      "typographic scaling",
+      "color restriction"
+    ]
+  }
+}

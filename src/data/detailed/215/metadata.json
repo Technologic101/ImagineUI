@@ -1,0 +1,46 @@
+{
+  "id": "215",
+  "url": "https://www.csszengarden.com/215",
+  "css_url": "https://www.csszengarden.com/215/215.css",
+  "title": "A Robot Named Jimmy",
+  "author": "meltmedia",
+  "description": {
+    "summary": "A clean, structured web design with playful illustrative elements, featuring a central blue figure with raised arms and colorful hand icons in a circular arrangement below.",
+    "visual_style": "Modern, approachable design combining flat illustration with organized content sections, using a limited color palette dominated by blues and coral-red accents.",
+    "emotional_impact": "Creates an inviting, friendly atmosphere through cheerful illustrations and open composition, suggesting collaboration and creativity.",
+    "compositional_elements": "Vertically stacked content sections with clear horizontal demarcations, strong header area featuring the central figure, and balanced secondary illustrations supporting textual content."
+  },
+  "artistic_context": {
+    "style_influences": "Flat design, minimalist illustration, web-centric information architecture",
+    "visual_metaphors": "Raised arms suggesting celebration or achievement, hands reaching inward symbolizing collaboration and community"
+  },
+  "categories": [
+    "minimalist",
+    "illustrative",
+    "structured",
+    "educational",
+    "web-centric",
+    "sectioned"
+  ],
+  "visual_characteristics": [
+    "flat-illustration",
+    "color-blocking",
+    "spatial-hierarchy",
+    "geometric-icons",
+    "horizontal-divisions",
+    "limited-palette"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "hierarchy",
+      "balance",
+      "repetition",
+      "contrast"
+    ],
+    "visual_techniques": [
+      "sectioning",
+      "color-coding",
+      "illustrative-icons"
+    ]
+  }
+}

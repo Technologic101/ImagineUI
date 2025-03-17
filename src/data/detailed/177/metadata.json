@@ -1,0 +1,46 @@
+{
+  "id": "177",
+  "url": "https://www.csszengarden.com/177",
+  "css_url": "https://www.csszengarden.com/177/177.css",
+  "title": "Zen City Morning",
+  "author": "Ray Henry",
+  "description": {
+    "summary": "A visually striking web design that combines a tranquil color palette with a dynamic, jagged edge separator dividing content sections, evoking a digital landscape against a serene backdrop.",
+    "visual_style": "The design employs a traditional content layout with a modern aesthetic twist, using color gradients and silhouette elements to create a harmonious digital environment.",
+    "emotional_impact": "Creates a sense of calm orderliness contrasted with creative energy through the interplay of structured content blocks and organic visual elements.",
+    "compositional_elements": "Features a two-column asymmetrical layout with a distinctive jagged vertical divider that mimics a cityscape or mountain range, establishing visual rhythm and spatial organization."
+  },
+  "artistic_context": {
+    "style_influences": "Digital minimalism, natural-digital fusion, environmental design, web modernism",
+    "visual_metaphors": "Digital landscape, zen garden, natural-technological harmony, enlightenment journey"
+  },
+  "categories": [
+    "minimalist",
+    "gradient",
+    "nature-inspired",
+    "structured",
+    "asymmetrical",
+    "duotone"
+  ],
+  "visual_characteristics": [
+    "silhouette imagery",
+    "vertical rhythm",
+    "warm-cool contrast",
+    "geometric clouds",
+    "jagged divider line",
+    "color gradation"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "contrast",
+      "hierarchy",
+      "balance",
+      "rhythm"
+    ],
+    "visual_techniques": [
+      "color blocking",
+      "silhouetting",
+      "gradient transition"
+    ]
+  }
+}

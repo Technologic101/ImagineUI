@@ -1,0 +1,46 @@
+{
+  "id": "014",
+  "url": "https://www.csszengarden.com/014",
+  "css_url": "https://www.csszengarden.com/014/014.css",
+  "title": "Samuraai",
+  "author": "Minz Meyer",
+  "description": {
+    "summary": "A zen-inspired web design featuring an earthy, textured aesthetic with a vertical column layout balancing dark backgrounds against light text. The design employs natural imagery and organic textures to create a meditative atmosphere.",
+    "visual_style": "The design uses a structured layout with distinct sectioning, combining vertical striping patterns with textured backgrounds reminiscent of natural materials. Typography is presented in light colors against dark backgrounds for strong readability.",
+    "emotional_impact": "The earthy tones and textured backgrounds evoke a calm, contemplative mood, reinforced by the balanced composition and organized information hierarchy.",
+    "compositional_elements": "The layout employs a three-column structure with a wide central content area flanked by narrower navigation columns. Each content section is clearly delineated with horizontal dividers and consistent heading treatments."
+  },
+  "artistic_context": {
+    "style_influences": "Japanese zen aesthetics, minimalist web design, natural texture photography, traditional scroll layouts",
+    "visual_metaphors": "Garden pathway, meditation space, structured enlightenment journey, natural order"
+  },
+  "categories": [
+    "textural",
+    "grid-based",
+    "earthy",
+    "zen-inspired",
+    "structured",
+    "hierarchical"
+  ],
+  "visual_characteristics": [
+    "organic textures",
+    "triadic layout",
+    "vertical striping",
+    "high contrast typography",
+    "natural color palette",
+    "sectional divisions"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "hierarchy",
+      "balance",
+      "contrast",
+      "repetition"
+    ],
+    "visual_techniques": [
+      "textural layering",
+      "grid organization",
+      "natural motifs"
+    ]
+  }
+}

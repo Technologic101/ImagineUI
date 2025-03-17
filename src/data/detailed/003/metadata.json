@@ -1,0 +1,46 @@
+{
+  "id": "003",
+  "url": "https://www.csszengarden.com/003",
+  "css_url": "https://www.csszengarden.com/003/003.css",
+  "title": "Stormweather",
+  "author": "Dave Shea",
+  "description": {
+    "summary": "A serene, minimalist web design with a blue-gray color scheme featuring a structured layout with photographic elements and clean typography, creating a sense of calm and order.",
+    "visual_style": "The design employs a zen-inspired aesthetic with ample white space, framed photographic thumbnails, and carefully structured text blocks within a soothing color environment.",
+    "emotional_impact": "The soft color palette, spacious layout, and nature imagery evoke tranquility and contemplation, reinforced by the balanced typography and gentle visual hierarchy.",
+    "compositional_elements": "Three equally-sized photographic thumbnails serve as focal points above neatly organized text columns, all contained within a subtle blue-tinted frame that creates unified visual harmony."
+  },
+  "artistic_context": {
+    "style_influences": "Minimalism, Japanese aesthetic principles, modernist typography, digital photography",
+    "visual_metaphors": "Garden path, mist, water reflections, journey, enlightenment"
+  },
+  "categories": [
+    "minimalist",
+    "structured",
+    "grid-based",
+    "photographic",
+    "serene",
+    "monochromatic"
+  ],
+  "visual_characteristics": [
+    "blue-gray palette",
+    "framed imagery",
+    "white space",
+    "photographic elements",
+    "structured columns",
+    "subtle texture"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "balance",
+      "hierarchy",
+      "unity",
+      "contrast"
+    ],
+    "visual_techniques": [
+      "framing",
+      "grid layout",
+      "tonal harmony"
+    ]
+  }
+}

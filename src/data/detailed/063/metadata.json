@@ -1,0 +1,46 @@
+{
+  "id": "063",
+  "url": "https://www.csszengarden.com/063",
+  "css_url": "https://www.csszengarden.com/063/063.css",
+  "title": "Elastic Lawn",
+  "author": "Patrick Griffiths",
+  "description": {
+    "summary": "A vibrant, nature-inspired web design featuring a grassy green background with distinctly structured content areas in yellow and dark brown panels.",
+    "visual_style": "The design employs a naturalistic aesthetic with a literal garden theme, using a textured grass pattern as the primary background with high-contrast content panels organized in a vertical flow.",
+    "emotional_impact": "The rich green texture evokes a sense of organic growth and natural harmony, while the yellow highlight panels create warmth and energy against the cool green backdrop.",
+    "compositional_elements": "The layout utilizes a clear three-column structure with a dominant center content area flanked by a narrower navigation column, all unified by the continuous textured background."
+  },
+  "artistic_context": {
+    "style_influences": "Nature-inspired web design, digital zen aesthetics, organic texturalism",
+    "visual_metaphors": "Garden as digital space, cultivation as design practice, natural growth as learning path"
+  },
+  "categories": [
+    "nature-inspired",
+    "textural",
+    "organic",
+    "high-contrast",
+    "thematic",
+    "columnar"
+  ],
+  "visual_characteristics": [
+    "textured-background",
+    "yellow-accent-panels",
+    "three-column-layout",
+    "hierarchical-typography",
+    "ornamental-headers",
+    "natural-patterning"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "contrast",
+      "repetition",
+      "alignment",
+      "theme-consistency"
+    ],
+    "visual_techniques": [
+      "textural depth",
+      "color blocking",
+      "hierarchical spacing"
+    ]
+  }
+}

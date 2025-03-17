@@ -1,0 +1,46 @@
+{
+  "id": "001",
+  "url": "https://www.csszengarden.com/001",
+  "css_url": "https://www.csszengarden.com/001/001.css",
+  "title": "Tranquille",
+  "author": "Dave Shea",
+  "description": {
+    "summary": "A serene web design that combines Eastern aesthetic elements with minimalist layout principles, featuring soft colors and symbolic imagery like lotus flowers and a traditional torii gate.",
+    "visual_style": "The design employs a calm, light aesthetic with subtle watercolor-like backgrounds and symbolic Eastern elements creating a balanced, harmonious composition.",
+    "emotional_impact": "The visual elements evoke tranquility and contemplation through the use of soft colors, ample white space, and delicate natural imagery.",
+    "compositional_elements": "The layout is structured with a central content area flanked by decorative side elements, creating a framed, balanced composition with clear visual hierarchy."
+  },
+  "artistic_context": {
+    "style_influences": "Japanese minimalism, traditional Eastern art, watercolor painting techniques",
+    "visual_metaphors": "Serenity, balance, enlightenment, natural harmony"
+  },
+  "categories": [
+    "minimalist",
+    "eastern-inspired",
+    "elegant",
+    "structured",
+    "harmonious",
+    "zen-aesthetic"
+  ],
+  "visual_characteristics": [
+    "pastel-palette",
+    "symbolic-imagery",
+    "balanced-composition",
+    "negative-space",
+    "typographic-hierarchy",
+    "watercolor-effects"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "balance",
+      "harmony",
+      "contrast",
+      "hierarchy"
+    ],
+    "visual_techniques": [
+      "framing",
+      "symbolic imagery",
+      "tonal gradation"
+    ]
+  }
+}

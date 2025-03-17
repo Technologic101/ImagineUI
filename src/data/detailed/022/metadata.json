@@ -1,0 +1,46 @@
+{
+  "id": "022",
+  "url": "https://www.csszengarden.com/022",
+  "css_url": "https://www.csszengarden.com/022/022.css",
+  "title": "viridity",
+  "author": "Laura MacArthur",
+  "description": {
+    "summary": "A decorative web design showcasing a teal-based color scheme with intricate border patterns and a structured content layout that mimics traditional Japanese aesthetics in digital form.",
+    "visual_style": "The design employs a zen-inspired aesthetic with ornate patterned borders framing a central content area that features alternating light teal content blocks against a darker teal background.",
+    "emotional_impact": "The monochromatic teal palette creates a calming, meditative atmosphere with subtle decorative elements that evoke tranquility and focus.",
+    "compositional_elements": "A three-column layout with ornate borders enclosing the page, featuring a narrow navigation panel on the left, a wide central content area divided by light horizontal panels, and decorative botanical motifs subtly integrated into the background."
+  },
+  "artistic_context": {
+    "style_influences": "Traditional Japanese decorative arts, Art Nouveau border patterns, early 2000s web design aesthetics",
+    "visual_metaphors": "Flowing water, botanical growth, meditative spaces"
+  },
+  "categories": [
+    "monochromatic",
+    "ornamental",
+    "structured",
+    "eastern-inspired",
+    "vintage-web",
+    "decorative"
+  ],
+  "visual_characteristics": [
+    "repeating-borders",
+    "teal-gradient",
+    "botanical-motifs",
+    "layered-panels",
+    "vertical-navigation",
+    "textured-background"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "rhythm",
+      "hierarchy",
+      "contrast",
+      "unity"
+    ],
+    "visual_techniques": [
+      "pattern repetition",
+      "color harmony",
+      "framing"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "141",
+  "url": "https://www.csszengarden.com/141",
+  "css_url": "https://www.csszengarden.com/141/141.css",
+  "title": "Golden Cut",
+  "author": "Petr Stanciek",
+  "description": {
+    "summary": "A serene, zen-inspired web design showcasing an elegant blend of soft colors and structured layout that embodies tranquility while maintaining functional clarity.",
+    "visual_style": "Minimalist yet warm approach featuring a botanical pattern background with clean typographic treatments and structured content areas.",
+    "emotional_impact": "Evokes calm contemplation through balanced composition, warm color palette, and thoughtful negative space.",
+    "compositional_elements": "Two-column layout with hierarchical text blocks, subtle decorative elements, and a prominent header that anchors the design."
+  },
+  "artistic_context": {
+    "style_influences": "Japanese zen aesthetics, modernist web design, nature-inspired pattern work",
+    "visual_metaphors": "Garden as knowledge cultivation, path to enlightenment, organic growth"
+  },
+  "categories": [
+    "minimalist",
+    "nature-inspired",
+    "structured",
+    "warm-toned",
+    "elegant",
+    "zen-aesthetic"
+  ],
+  "visual_characteristics": [
+    "floral-pattern-background",
+    "two-column-layout",
+    "color-accent-typography",
+    "hierarchical-headings",
+    "soft-color-palette",
+    "content-sectioning"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "balance",
+      "harmony",
+      "hierarchy",
+      "contrast"
+    ],
+    "visual_techniques": [
+      "pattern repetition",
+      "negative space",
+      "color blocking"
+    ]
+  }
+}
