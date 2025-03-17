@@ -1,7 +1,7 @@
 import chainlit as cl
 from langchain_openai import ChatOpenAI
 from langchain_core.messages import HumanMessage, SystemMessage
-from chains.design_rag import DesignRAG
+from nodes.design_rag import DesignRAG
 
 # Initialize components
 design_rag = DesignRAG()
@@ -14,8 +14,7 @@ For every user message, analyze their design preferences and requirements, consi
 3. Layout and structural needs
 4. Key visual elements
 5. Intended audience and user experience
-
-First briefly explain how you understand their requirements, then show the closest match."""
+"""
 
 @cl.on_chat_start
 async def init():
@@ -28,7 +27,7 @@ async def init():
     )
     
     # Store the LLM in the user session
-    cl.user_session.set("llm", llm)
+    cl.user_session.set("design_llm", llm)
     
     # init conversation history for each user
     cl.user_session.set("conversation_history", [
@@ -41,9 +40,9 @@ async def init():
 @cl.on_message
 async def main(message: cl.Message):
     # Get the LLM from the user session
-    llm = cl.user_session.get("llm")
-    
+    llm = cl.user_session.get("design_llm")
     conversation_history = cl.user_session.get("conversation_history")
+    
     # Add user message to history
     conversation_history.append(HumanMessage(content=message.content))
     
