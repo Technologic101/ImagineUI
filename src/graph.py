@@ -20,5 +20,8 @@ tools = [
 
 model_with_tools = model.bind_tools(tools)
 
-graph = create_react_agent(model_with_tools, tools=tools)
+graph = create_react_agent(
+    model_with_tools,
+    tools=tools
+)
 

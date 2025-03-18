@@ -28,25 +28,24 @@ async def init():
 
 @cl.on_message
 async def main(message: cl.Message):
-    # Get the graph and current state from the user session
+    # Get the graph from the user session
     graph = cl.user_session.get("graph")
+    
+    # Get current state
     state = cl.user_session.get("state")
     
-    # Add user message to state
+    # Add the new user message to the state
     state["messages"].append(HumanMessage(content=message.content))
     
     # Process message through the graph
     result = await graph.ainvoke(state)
+    print("Here's the result: ", result)
     
     # Update state with the result
     state["messages"].extend(result["messages"])
     
     # Extract the last assistant message for display
-    last_message = next(
-        (msg.content for msg in reversed(result["messages"]) 
-         if isinstance(msg, SystemMessage)),
-        "I apologize, but I couldn't process your request."
-    )
+    last_message = result["messages"][-1].content
     
     # Send response to user
     await cl.Message(content=last_message).send()

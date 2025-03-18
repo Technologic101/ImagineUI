@@ -29,7 +29,7 @@ class DesignRAG:
         # Create retriever with tracing
         self.retriever = self.vector_store.as_retriever(
             search_type="similarity",
-            search_kwargs={"k": 1},
+            search_kwargs={"k": 4},
             tags=["design_retriever"]  # Add tags for tracing
         )
         
@@ -50,25 +50,19 @@ class DesignRAG:
             # Load all metadata files
             for design_dir in designs_dir.glob("**/metadata.json"):
                 try:
+                    print(f"Processing design: {design_dir.parent.name}")
                     with open(design_dir, "r") as f:
                         metadata = json.load(f)
                     
                     # Create document text from metadata with safe gets
                     text = f"""
-                    Design {metadata.get('id', 'unknown')}:
-                    Description: {metadata.get('description', 'No description available')}
+                    Title: {metadata.get('title', 'Untitled')}
+                    Author: {metadata.get('author', 'Unknown')}
+                    Description: {metadata.get('description', {}).get('summary', 'No description available')}
                     Categories: {', '.join(metadata.get('categories', []))}
                     Visual Characteristics: {', '.join(metadata.get('visual_characteristics', []))}
+                    Artistic Style: {metadata.get('artistic_context', 'None Provided').get('style_influences', "None specified")}
                     """
-                    
-                    # Load associated CSS
-                    '''
-                    css_path = design_dir.parent / "style.css"
-                    if css_path.exists():
-                        with open(css_path, "r") as f:
-                            css = f.read()
-                        text += f"\nCSS:\n{css}"
-                    '''
 
                     # Create Document object with minimal metadata
                     documents.append(
@@ -76,12 +70,14 @@ class DesignRAG:
                             page_content=text.strip(),
                             metadata={
                                 "id": metadata.get('id', 'unknown'),
-                                "path": str(design_dir.parent)
+                                "path": str(design_dir.parent),
+                                "title": metadata.get('title', 'Untitled'),
+                                "author": metadata.get('author', 'Unknown')
                             }
                         )
                     )
                 except Exception as e:
-                    print(f"Error processing design {design_dir}: {e}")
+                    print(f"Error processing design {design_dir.parent.name}: {str(e)}")
                     continue
             
             if not documents:
@@ -140,17 +136,48 @@ class DesignRAG:
         docs = self.retriever.get_relevant_documents(
             query_response.content, 
             k=num_examples,
-            callbacks=[ConsoleCallbackHandler()]  # Use standard callback instead
+            callbacks=[ConsoleCallbackHandler()]
         )
         
-        # Format examples
+        # Format examples with improved readability
         examples = []
         for doc in docs:
             design_id = doc.metadata.get("id", "unknown")
+            title = doc.metadata.get("title", "Untitled")
+            author = doc.metadata.get("author", "Unknown")
+            
+            # Parse the content into sections
             content_lines = doc.page_content.strip().split("\n")
-            examples.append(
-                "\n".join(line.strip() for line in content_lines if line.strip()) +
-                f"\nURL: https://csszengarden.com/{design_id}"
-            )
+            sections = {}
+            current_section = None
+            
+            for line in content_lines:
+                line = line.strip()
+                if not line:
+                    continue
+                if ":" in line:
+                    current_section, value = line.split(":", 1)
+                    sections[current_section.strip()] = value.strip()
+            
+            # Format the example with clear sections
+            example = f"""
+Design: {title}
+By: {author}
+
+Description:
+{sections.get('Description', 'No description available')}
+
+Categories:
+{sections.get('Categories', 'No categories available')}
+
+Visual Characteristics:
+{sections.get('Visual Characteristics', 'No characteristics available')}
+
+Artistic Style:
+{sections.get('Artistic Style', 'No style information available')}
+
+View at: https://csszengarden.com/{design_id}
+"""
+            examples.append(example.strip())
         
-        return "\n\n".join(examples) 
+        return "\n\n" + "="*50 + "\n\n".join(examples) 
