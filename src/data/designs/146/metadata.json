@@ -2,19 +2,45 @@
   "id": "146",
   "url": "https://www.csszengarden.com/146",
   "css_url": "https://www.csszengarden.com/146/146.css",
-  "description": "The design features a minimalist layout with an emphasis on text content and a clean side navigation menu. The use of pastel colors and a faint background image enhances the modern aesthetic, making it visually appealing while maintaining readability. The typography is clear and professional, emphasizing content organization.",
+  "title": "Urban",
+  "author": "Matt, Kim & Nicole",
+  "description": {
+    "summary": "A visually layered web design that blends architectural photography with watercolor washes and structured text content, creating a juxtaposition between organic artistic elements and organized information hierarchy.",
+    "visual_style": "The design employs a mixed-media aesthetic combining photographic elements with semi-transparent watercolor textures, vertical navigation, and a multi-column layout that creates visual depth.",
+    "emotional_impact": "The blend of urban architectural imagery with soft watercolor washes creates a contemplative atmosphere that balances structured precision with artistic fluidity.",
+    "compositional_elements": "A defined vertical navigation column against a translucent backdrop sits adjacent to a main content area, with large typography overlays and architectural imagery anchoring the composition."
+  },
+  "artistic_context": {
+    "style_influences": "Watercolor illustration, architectural photography, mixed-media collage, digital grunge",
+    "visual_metaphors": "Urban renewal, structure versus fluidity, past and present coexistence"
+  },
   "categories": [
-    "Minimalist",
-    "Typography-focused",
-    "Content-heavy",
-    "Modern",
-    "Professional"
+    "mixed-media",
+    "architectural",
+    "textural",
+    "asymmetrical",
+    "watercolor",
+    "grid-based"
   ],
   "visual_characteristics": [
-    "Pastel color palette",
-    "Clean layout",
-    "Side navigation",
-    "Background image",
-    "Clear typography"
-  ]
+    "translucent color washes",
+    "architectural photography",
+    "vertical navigation",
+    "typographic overlays",
+    "multi-column layout",
+    "textural backgrounds"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "contrast",
+      "hierarchy",
+      "balance",
+      "layering"
+    ],
+    "visual_techniques": [
+      "photographic integration",
+      "color blending",
+      "spatial zoning"
+    ]
+  }
 }

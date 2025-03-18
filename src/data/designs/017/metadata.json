@@ -2,21 +2,45 @@
   "id": "017",
   "url": "https://www.csszengarden.com/017",
   "css_url": "https://www.csszengarden.com/017/017.css",
-  "description": "The design features a harmonious blend of earthy tones and structured grids, effectively showcasing the power of CSS styling. A vibrant yellow-green header with organic patterns contrasts with the otherwise neutral cream background, creating a soothing yet dynamic visual hierarchy. Bold and stylized typography, complemented by consistent navigation links on the left, provides an elegant, classic feel suitable for a digital audience interested in design and aesthetics.",
+  "title": "Golden Mean",
+  "author": "Douglas Bowman",
+  "description": {
+    "summary": "A meticulously structured web design with a harmonious balance of earthy colors and clear visual hierarchy, showcasing an elegant integration of ornamental headers and functional content areas.",
+    "visual_style": "The design employs a classical structure with modern execution, using subtle patterns and textural elements to create depth while maintaining clarity through consistent spacing and alignment.",
+    "emotional_impact": "The warm, organic color palette paired with structured layout creates a sense of organized tranquility that feels both educational and inviting.",
+    "compositional_elements": "The layout features distinct horizontal sections with ornate headers in yellow-green tones contrasting against neutral content areas, creating a rhythmic visual flow from top to bottom."
+  },
+  "artistic_context": {
+    "style_influences": "Arts and Crafts movement, minimalist web design, classical document layout",
+    "visual_metaphors": "Garden growth represented by organic patterns and earthy tones, structure as foundation for creativity"
+  },
   "categories": [
-    "Web Design",
-    "Typography",
-    "Color Theory",
-    "User Experience",
-    "Visual Hierarchy",
-    "Digital Aesthetics"
+    "grid-based",
+    "organic",
+    "hierarchical",
+    "textural",
+    "classical",
+    "informational"
   ],
   "visual_characteristics": [
-    "Earthy Color Palette",
-    "Structured Grid Layout",
-    "Stylized Typography",
-    "Organic Patterns",
-    "Elegant Navigation",
-    "Dynamic Visual Contrast"
-  ]
+    "earthy-palette",
+    "decorative-headers",
+    "patterned-borders",
+    "multi-column-layout",
+    "typographic-contrast",
+    "textural-backgrounds"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "hierarchy",
+      "contrast",
+      "repetition",
+      "balance"
+    ],
+    "visual_techniques": [
+      "textural layering",
+      "color blocking",
+      "ornamental framing"
+    ]
+  }
 }

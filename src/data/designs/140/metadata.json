@@ -2,17 +2,45 @@
   "id": "140",
   "url": "https://www.csszengarden.com/140",
   "css_url": "https://www.csszengarden.com/140/140.css",
-  "description": "The design features a prominent image header with warm orange tones, leading into a structured layout with a soft yellow background for the main text and a muted blue sidebar. The use of contrasting colors and clean typography enhances readability and creates a clear separation between navigation and content areas.",
+  "title": "The Hall",
+  "author": "Michael Simmons",
+  "description": {
+    "summary": "A contemplative web design featuring a hallway image with warm amber lighting that creates a sense of depth and perspective, complemented by a three-column layout with clean typographic hierarchy",
+    "visual_style": "Minimalist layout with zen-inspired aesthetics using a warm color palette and atmospheric imagery to create a sense of tranquil sophistication",
+    "emotional_impact": "The amber-gold lighting creates a meditative, warm atmosphere that evokes tranquility and intellectual focus",
+    "compositional_elements": "Three distinct vertical columns create clear information zones, with the central content area highlighted by a soft yellow background against cooler sidebar tones"
+  },
+  "artistic_context": {
+    "style_influences": "Japanese zen aesthetic, minimalist design, architectural photography",
+    "visual_metaphors": "Illuminated path, journey, enlightenment, clarity through simplicity"
+  },
   "categories": [
-    "Web Layout",
-    "Color Contrast",
-    "Typography",
-    "Visual Hierarchy"
+    "minimalist",
+    "atmospheric",
+    "architectural",
+    "zen-inspired",
+    "columnar",
+    "warm-toned"
   ],
   "visual_characteristics": [
-    "Contrasting Colors",
-    "Strong Header",
-    "Structured Columns",
-    "Readable Typography"
-  ]
+    "golden-amber lighting",
+    "perspective depth",
+    "tri-column layout",
+    "typographic hierarchy",
+    "color blocking",
+    "atmospheric photography"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "balance",
+      "contrast",
+      "hierarchy",
+      "unity"
+    ],
+    "visual_techniques": [
+      "atmospheric perspective",
+      "color temperature",
+      "textural contrast"
+    ]
+  }
 }

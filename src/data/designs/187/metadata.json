@@ -2,19 +2,45 @@
   "id": "187",
   "url": "https://www.csszengarden.com/187",
   "css_url": "https://www.csszengarden.com/187/187.css",
-  "description": "The design features a mystical, nature-inspired theme with a rustic color palette of dark greens and earthy reds. Intricate textures and foliage imagery offer a sense of depth, complemented by elegant serif typography that conveys a classic and sophisticated mood. The layout uses clear sections for content, enhancing readability and user engagement.",
+  "title": "Wilderness",
+  "author": "Aadesh Mistry",
+  "description": {
+    "summary": "A richly textured web design featuring an organic, dark aesthetic with golden accents against a deep red-to-green gradient background framed by irregular torn-edge borders.",
+    "visual_style": "The design employs a nature-inspired, Eastern philosophical aesthetic with ornate heading treatments and a structured informational layout that evokes traditional scrolls or manuscripts.",
+    "emotional_impact": "Creates a contemplative, mystical atmosphere through deep colors, organic textures, and balanced composition suggesting wisdom and tradition.",
+    "compositional_elements": "Organized in vertical sections with clear headings marked by decorative sun-like icons, maintaining visual rhythm through consistent color and typographic treatment."
+  },
+  "artistic_context": {
+    "style_influences": "Japanese/Eastern aesthetic traditions, manuscript design, organic naturalism, digital expressionism",
+    "visual_metaphors": "Garden path, enlightenment journey, natural growth, ancient wisdom"
+  },
   "categories": [
-    "Nature",
-    "Mystical",
-    "Classic",
-    "Rustic",
-    "Elegant"
+    "textural",
+    "organic",
+    "eastern-inspired",
+    "golden-accent",
+    "gradient",
+    "torn-edge"
   ],
   "visual_characteristics": [
-    "Dark Green Palette",
-    "Earthy Red Accents",
-    "Serif Typography",
-    "Textured Background",
-    "Nature Imagery"
-  ]
+    "textured-background",
+    "high-contrast-typography",
+    "decorative-icons",
+    "framed-content",
+    "golden-headings",
+    "vertical-hierarchy"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "contrast",
+      "hierarchy",
+      "rhythm",
+      "balance"
+    ],
+    "visual_techniques": [
+      "texture layering",
+      "color symbolism",
+      "framing"
+    ]
+  }
 }

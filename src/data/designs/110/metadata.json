@@ -2,19 +2,45 @@
   "id": "110",
   "url": "https://www.csszengarden.com/110",
   "css_url": "https://www.csszengarden.com/110/110.css",
-  "description": "The design features a vibrant orange background with a pink textured header, creating a striking contrast. The typography is varied, with elegant serif fonts for headings and sans-serif fonts for body text. The layout is structured, with a clear hierarchical organization and distinct sections. This design evokes a modern and artistic atmosphere, emphasizing creativity and structure.",
+  "title": "Perfume de Gardenias",
+  "author": "Armando Sosa",
+  "description": {
+    "summary": "A vibrant, early 2000s web design featuring bold orange and burgundy color scheme with decorative floral and figurative elements framing content areas",
+    "visual_style": "Retro web aesthetic combining strong contrasting colors, illustrative silhouettes, and textured borders with a central white content area",
+    "emotional_impact": "Warm, energetic atmosphere created through high-saturation colors and organic decorative elements, conveying nostalgia for early web design periods",
+    "compositional_elements": "Asymmetrical layout with distinct content zones, bordered by decorative elements, featuring sidebar navigation and central text content"
+  },
+  "artistic_context": {
+    "style_influences": "Y2K web design, early CSS demonstration sites, digital art nouveau",
+    "visual_metaphors": "Garden/floral elements suggesting growth and organic beauty, hand gesture indicating guidance or invitation"
+  },
   "categories": [
-    "modern",
-    "artistic",
-    "creative",
-    "structured",
-    "contrast"
+    "retro-web",
+    "decorative",
+    "high-contrast",
+    "asymmetrical",
+    "textured",
+    "illustrative"
   ],
   "visual_characteristics": [
-    "vibrant colors",
-    "textured header",
-    "contrasting typography",
-    "hierarchical layout",
-    "elegant fonts"
-  ]
+    "halftone-borders",
+    "silhouette-illustrations",
+    "floral-motifs",
+    "burgundy-sidebar",
+    "content-framing",
+    "textured-background"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "contrast",
+      "repetition",
+      "emphasis",
+      "framing"
+    ],
+    "visual_techniques": [
+      "visual hierarchy",
+      "decorative framing",
+      "color blocking"
+    ]
+  }
 }

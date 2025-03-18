@@ -2,19 +2,44 @@
   "id": "020",
   "url": "https://www.csszengarden.com/020",
   "css_url": "https://www.csszengarden.com/020/020.css",
-  "description": "The design features a serene and professional layout with a muted color palette, emphasizing clean lines and minimalist aesthetics. It balances a centered, text-focused main content area with a sidebar offering functional navigation and supplementary information. The harmonious integration of serene imagery and subtle blue accents promotes a calm and reflective visual experience.",
+  "title": "Friendly Beaches",
+  "author": "Sophie G",
+  "description": {
+    "summary": "A serene web design featuring smooth gradients of blue and white with zen-inspired imagery of rocks in water, complemented by a structured content layout with clear typographic hierarchy",
+    "visual_style": "Minimalist and tranquil design merging natural imagery with structured information architecture, creating a balanced digital experience",
+    "emotional_impact": "Evokes calmness and clarity through the use of water imagery, soft blue tones, and organized information presentation",
+    "compositional_elements": "Header banner with nature photography, clearly defined content sections with consistent spacing, and a side panel for navigation options"
+  },
+  "artistic_context": {
+    "style_influences": "Zen garden aesthetics, minimalist web design, nature photography",
+    "visual_metaphors": "Rocks in water suggesting stability amid flow, clarity emerging from structure"
+  },
   "categories": [
-    "minimalist design",
-    "web aesthetics",
-    "informational layout",
-    "professional tone",
-    "navigation focus"
+    "minimalist",
+    "nature-inspired",
+    "structured",
+    "tranquil",
+    "instructional"
   ],
   "visual_characteristics": [
-    "muted color palette",
-    "serene imagery",
-    "clean typography",
-    "balanced layout",
-    "subtle blue accents"
-  ]
+    "blue-white gradient",
+    "natural imagery",
+    "sectioned layout",
+    "hierarchical typography",
+    "organized information blocks",
+    "sidebar navigation"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "balance",
+      "hierarchy",
+      "contrast",
+      "harmony"
+    ],
+    "visual_techniques": [
+      "photographic integration",
+      "typographic structure",
+      "modular layout"
+    ]
+  }
 }

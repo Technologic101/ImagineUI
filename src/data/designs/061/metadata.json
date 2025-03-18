@@ -1,0 +1,46 @@
+{
+  "id": "061",
+  "url": "https://www.csszengarden.com/061",
+  "css_url": "https://www.csszengarden.com/061/061.css",
+  "title": "Sky",
+  "author": "Stefan Petre",
+  "description": {
+    "summary": "A structured web design showcasing a harmonious blend of natural imagery and organized content within a three-column layout, featuring a serene cloud-filled header against deep blue navigation panels.",
+    "visual_style": "The design employs a balanced contrast between tranquil nature photography and structured information architecture, with thoughtful separation of functional areas through color blocking.",
+    "emotional_impact": "The calm sky imagery paired with deep blue navigation creates a peaceful, meditative atmosphere while maintaining professional organization and clarity.",
+    "compositional_elements": "The layout features a horizontal header with cloud imagery, a narrow left sidebar in deep blue for navigation, and a wider content area with clearly delineated sections marked by circular icons."
+  },
+  "artistic_context": {
+    "style_influences": "Web 2.0 design, minimalist information architecture, zen-inspired natural imagery",
+    "visual_metaphors": "Sky and clouds suggesting enlightenment and clarity, structured panels representing organized thought"
+  },
+  "categories": [
+    "structured",
+    "columnar",
+    "nature-inspired",
+    "professional",
+    "hierarchical",
+    "informational"
+  ],
+  "visual_characteristics": [
+    "three-column layout",
+    "natural header imagery",
+    "color-blocked sections",
+    "circular navigation icons",
+    "high text-to-image ratio",
+    "contrasting color panels"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "hierarchy",
+      "contrast",
+      "balance",
+      "clarity"
+    ],
+    "visual_techniques": [
+      "sectioning",
+      "color blocking",
+      "iconic navigation"
+    ]
+  }
+}

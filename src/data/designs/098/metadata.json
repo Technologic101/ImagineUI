@@ -1,0 +1,46 @@
+{
+  "id": "098",
+  "url": "https://www.csszengarden.com/098",
+  "css_url": "https://www.csszengarden.com/098/098.css",
+  "title": "Edo and Tokyo",
+  "author": "Daisuke Sato",
+  "description": {
+    "summary": "A striking juxtaposition of traditional Japanese architectural imagery with bold, modern graphic elements, creating a harmonious blend of Eastern aesthetics and contemporary digital design",
+    "visual_style": "High-contrast black and white illustrations combined with vibrant green geometric elements and decorative floral patterns, creating a balanced fusion of organic and structured forms",
+    "emotional_impact": "Evokes a sense of tranquility and contemplation while simultaneously communicating technical sophistication and creative innovation",
+    "compositional_elements": "Left-anchored architectural illustration with diagonal green shapes directing flow across the page, framed by delicate vine-like decorative elements creating an asymmetrical but balanced layout"
+  },
+  "artistic_context": {
+    "style_influences": "Japanese woodblock prints, contemporary vector graphics, minimalist information design",
+    "visual_metaphors": "Garden as digital cultivation, natural growth patterns mirroring code structure, traditional and modern coexistence"
+  },
+  "categories": [
+    "contrast-driven",
+    "east-meets-west",
+    "modular",
+    "geometric",
+    "decorative",
+    "information-rich"
+  ],
+  "visual_characteristics": [
+    "high-contrast monochrome",
+    "bold green accents",
+    "asymmetrical balance",
+    "ornamental border elements",
+    "multi-column layout",
+    "architectural illustration"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "contrast",
+      "balance",
+      "hierarchy",
+      "rhythm"
+    ],
+    "visual_techniques": [
+      "silhouetting",
+      "layering",
+      "directional flow"
+    ]
+  }
+}

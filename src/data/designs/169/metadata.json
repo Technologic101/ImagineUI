@@ -2,19 +2,45 @@
   "id": "169",
   "url": "https://www.csszengarden.com/169",
   "css_url": "https://www.csszengarden.com/169/169.css",
-  "description": "This visual design features a classical and historic theme with a brown and beige color palette, evoking an antique and scholarly atmosphere. The use of serif typography complements the traditional aesthetic, while the layout is clean and structured, offering clear sections for content and navigation. Subtle decorative elements, such as the detailed header motif, add to the refined and timeless feel of the design.",
+  "title": "Greece Remembrance",
+  "author": "Pierre-Leo Bourbonnais",
+  "description": {
+    "summary": "A richly ornate web design combining classical architectural elements with modern web styling. The page features a Greco-Roman aesthetic with elaborate stone column borders framing content presented in a scroll-like format.",
+    "visual_style": "The design employs dramatic contrast between structural elements and content areas, creating a theatrical presentation that references ancient classical architecture while serving modern web functionality.",
+    "emotional_impact": "The design evokes a sense of grandeur and historical significance, balancing formality with an invitation to explore. The warm terracotta and stone palette creates a contemplative, museum-like atmosphere.",
+    "compositional_elements": "A symmetrical layout features decorative stone columns as borders, with content organized in a central scrolling panel. A dramatic header with classical imagery and warm lighting anchors the top section."
+  },
+  "artistic_context": {
+    "style_influences": "Neoclassical architecture, Greco-Roman relief sculpture, illuminated manuscripts, traditional scroll documents",
+    "visual_metaphors": "Ancient knowledge repository, temple of learning, digital papyrus"
+  },
   "categories": [
-    "Antique",
-    "Elegant",
-    "Traditional",
-    "Text-focused",
-    "Scholarly"
+    "classical",
+    "ornate",
+    "architectural",
+    "theatrical",
+    "symmetrical",
+    "textural"
   ],
   "visual_characteristics": [
-    "Brown and beige color scheme",
-    "Serif typography",
-    "Classic motif",
-    "Structured layout",
-    "Subtle decorative elements"
-  ]
+    "columned-borders",
+    "stone-textures",
+    "warm-toned",
+    "relief-carvings",
+    "scroll-layout",
+    "header-imagery"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "symmetry",
+      "contrast",
+      "hierarchy",
+      "framing"
+    ],
+    "visual_techniques": [
+      "textural juxtaposition",
+      "decorative borders",
+      "spatial compartmentalization"
+    ]
+  }
 }

@@ -2,19 +2,44 @@
   "id": "150",
   "url": "https://www.csszengarden.com/150",
   "css_url": "https://www.csszengarden.com/150/150.css",
-  "description": "This design features a serene and modern aesthetics with a bold blue background and a blurred header image of water lilies, creating a tranquil yet dynamic mood. The typography is clean and diverse, combining uppercase, lowercase, and italic styles to provide a harmonious reading experience. The layout is well-organized, with text blocks and navigation thoughtfully aligned to guide the viewer through the content smoothly.",
+  "title": "By The Pier",
+  "author": "Peter Ong",
+  "description": {
+    "summary": "A serene website design featuring a blurred marina scene as the backdrop, with illuminated text overlaid on a deep blue gradient interface creating a contemplative digital space.",
+    "visual_style": "The design employs a minimalist approach with a vertical column layout set against a dreamlike photographic background, using luminous typography that appears to float above the dark blue surface.",
+    "emotional_impact": "The deep blue color palette combined with the glowing orange lights in the background image evokes a peaceful, meditative atmosphere that suggests tranquility and depth.",
+    "compositional_elements": "A single-column content structure anchored by a glowing, transparent title at the top, with clearly defined sections flowing downward through the gradient blue interface."
+  },
+  "artistic_context": {
+    "style_influences": "Digital minimalism, ambient photography, luminous typography",
+    "visual_metaphors": "Water reflection as digital clarity, illuminated path as knowledge journey"
+  },
   "categories": [
-    "Web Design",
-    "Minimalism",
-    "Typography",
-    "Modern Art",
-    "Color Theory"
+    "atmospheric",
+    "minimalist",
+    "gradient",
+    "photographic",
+    "luminous",
+    "vertical"
   ],
   "visual_characteristics": [
-    "Vibrant Color Palette",
-    "Blurred Imagery",
-    "Clean Typography",
-    "Organized Layout",
-    "Modern Aesthetic"
-  ]
+    "depth-of-field",
+    "light-reflection",
+    "blue-orange-contrast",
+    "transparent-typography",
+    "sectional-hierarchy"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "contrast",
+      "hierarchy",
+      "alignment",
+      "repetition"
+    ],
+    "visual_techniques": [
+      "bokeh photography",
+      "luminous typography",
+      "gradient interface"
+    ]
+  }
 }

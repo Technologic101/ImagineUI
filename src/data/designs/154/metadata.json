@@ -2,19 +2,45 @@
   "id": "154",
   "url": "https://www.csszengarden.com/154",
   "css_url": "https://www.csszengarden.com/154/154.css",
-  "description": "The visual design features a sophisticated and minimalist layout that leverages a dark, moody background with a reddish-brown gradient transitioning into black, creating an immersive reading experience. The text is neatly aligned, and the typography employs both serif and sans-serif fonts, achieving a modern yet classic aesthetic. The strategic use of green and orange highlights against the predominantly muted tones helps guide the reader's attention effectively through the content and navigation menu.",
+  "title": "Butterfly Effect",
+  "author": "Kevin Linkous",
+  "description": {
+    "summary": "An elegant web design featuring organic floral imagery against a rich dark background, creating a contemplative digital garden experience with balanced columns of content and navigation.",
+    "visual_style": "The design employs natural elements and organic aesthetics combined with structured typography to create a zen-like digital environment that balances nature with technology.",
+    "emotional_impact": "The warm earth tones against deep burgundy evoke tranquility and wisdom, creating a meditative atmosphere reinforced by the natural floral imagery.",
+    "compositional_elements": "Three distinct vertical columns create clear hierarchy: decorative floral borders, main content area with parchment-like texture, and a sleek navigation panel with high contrast text."
+  },
+  "artistic_context": {
+    "style_influences": "Japanese garden aesthetics, scroll-like layout, natural-digital fusion, organic minimalism",
+    "visual_metaphors": "Digital garden, path to enlightenment, natural growth, flowering knowledge"
+  },
   "categories": [
-    "Minimalist",
-    "Modern",
-    "Typography",
-    "Dark Theme",
-    "Sophisticated"
+    "organic",
+    "eastern-inspired",
+    "nature-infused",
+    "textural",
+    "asymmetrical",
+    "column-based"
   ],
   "visual_characteristics": [
-    "Gradient Background",
-    "Contrast",
-    "Highlight Colors",
-    "Text Alignment",
-    "Serif and Sans-Serif Fonts"
-  ]
+    "floral photography",
+    "layered composition",
+    "parchment texture",
+    "burgundy-beige contrast",
+    "ornamental borders",
+    "typographic hierarchy"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "contrast",
+      "balance",
+      "rhythm",
+      "organic unity"
+    ],
+    "visual_techniques": [
+      "asymmetrical framing",
+      "natural motif integration",
+      "textural juxtaposition"
+    ]
+  }
 }

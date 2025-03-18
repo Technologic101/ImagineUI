@@ -2,19 +2,45 @@
   "id": "107",
   "url": "https://www.csszengarden.com/107",
   "css_url": "https://www.csszengarden.com/107/107.css",
-  "description": "The design showcases a bold and striking use of red and black, creating a highly dramatic and rebellious atmosphere. The artistic style is chaotic and intense, utilizing grunge elements and distressed textures to convey a sense of defiance. The layout features interwoven text and imagery, offering an avant-garde approach that emphasizes creativity over conventional readability. The typography is a mix of hand-drawn and digital styles, adding to the raw and edgy aesthetic of the design.",
+  "title": "Defiance",
+  "author": "Angelo Paralos",
+  "description": {
+    "summary": "A striking, high-contrast web design using a dramatic red and black color scheme with raw, handwritten typography and distressed visual elements creating a rebellious, anarchic aesthetic.",
+    "visual_style": "The design employs a gritty, aggressive approach with hand-drawn elements, cross-outs, and intentionally chaotic typography that evokes protest art and punk aesthetics.",
+    "emotional_impact": "Creates an unsettling, provocative atmosphere through harsh color contrast, jagged lines, and deliberately crude execution that communicates rebellion and defiance.",
+    "compositional_elements": "A vertical scroll layout featuring irregular text blocks against a vibrant red background, punctuated by black hand-drawn symbols and white accents creating dynamic tension."
+  },
+  "artistic_context": {
+    "style_influences": "Punk rock aesthetics, anarchist zines, street art, protest posters, underground manifestos",
+    "visual_metaphors": "Rebellion, destruction, challenging convention, raw expression"
+  },
   "categories": [
-    "Rebellion",
-    "Grunge",
-    "Avant-Garde",
-    "Artistic Expression",
-    "Dramatic"
+    "anarchic",
+    "high-contrast",
+    "experimental",
+    "brutalist",
+    "anti-design",
+    "punk-inspired"
   ],
   "visual_characteristics": [
-    "Bold Color Contrast",
-    "Chaotic Layout",
-    "Distressed Textures",
-    "Hand-drawn Typography",
-    "Rebellious Imagery"
-  ]
+    "hand-drawn",
+    "distressed",
+    "asymmetrical",
+    "stark-contrast",
+    "grunge",
+    "scratchy-textures"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "contrast",
+      "disruption",
+      "tension",
+      "visual hierarchy"
+    ],
+    "visual_techniques": [
+      "gestural marks",
+      "chaotic typography",
+      "limited palette"
+    ]
+  }
 }

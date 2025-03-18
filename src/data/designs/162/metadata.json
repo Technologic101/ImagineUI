@@ -2,19 +2,45 @@
   "id": "162",
   "url": "https://www.csszengarden.com/162",
   "css_url": "https://www.csszengarden.com/162/162.css",
-  "description": "The design embodies a classic, elegant style with a warm color palette dominated by earthy tones, enhanced by an ornate decorative header image. It uses a narrow column layout that focuses attention on the textual content, which is complemented by a textured background, adding depth and sophistication. The typography combines bold headings with a serif font, lending an old-world charm that aligns with the historical and sophisticated mood.",
+  "title": "Angelus",
+  "author": "Vladimir Lukic",
+  "description": {
+    "summary": "A medieval-inspired web design featuring Gothic architectural elements and illuminated manuscript aesthetics, blending historical visual language with structured layout patterns",
+    "visual_style": "The design employs a deliberate antiquarian aesthetic with parchment texture backgrounds, decorative borders, and architectural imagery to create a historical, scholarly atmosphere",
+    "emotional_impact": "Creates a reverent, contemplative mood through warm earthen tones, ornate decorative elements, and structured typography reminiscent of medieval manuscripts",
+    "compositional_elements": "Organized in a vertical scroll with a prominent header image, decorated drop caps, and bordered sections that guide the viewer through a hierarchical reading experience"
+  },
+  "artistic_context": {
+    "style_influences": "Gothic architecture, illuminated manuscripts, medieval decorative arts, Arts and Crafts movement",
+    "visual_metaphors": "Architectural elements suggesting wisdom and tradition, ornamental borders representing containment and order"
+  },
   "categories": [
-    "classic",
-    "elegant",
-    "historical",
-    "sophisticated",
-    "text-focused"
+    "medieval-inspired",
+    "ornamental",
+    "architectural",
+    "manuscript-style",
+    "textural",
+    "historicist"
   ],
   "visual_characteristics": [
-    "earthy color palette",
-    "ornate header",
-    "textured background",
-    "serif typography",
-    "narrow column layout"
-  ]
+    "parchment texture",
+    "decorative drop caps",
+    "ornamental borders",
+    "gothic imagery",
+    "illuminated headings",
+    "botanical motifs"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "hierarchy",
+      "contrast",
+      "repetition",
+      "historical reference"
+    ],
+    "visual_techniques": [
+      "textural layering",
+      "ornamental framing",
+      "decorative typography"
+    ]
+  }
 }

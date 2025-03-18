@@ -1,0 +1,46 @@
+{
+  "id": "089",
+  "url": "https://www.csszengarden.com/089",
+  "css_url": "https://www.csszengarden.com/089/089.css",
+  "title": "Dark Industrial",
+  "author": "Ray Henry",
+  "description": {
+    "summary": "A minimalist, industrial-inspired web design with a monochromatic color scheme, featuring a structured two-column layout that balances informational content with navigational elements",
+    "visual_style": "The design employs a restrained, zen-like aesthetic with an industrial undertone, using mechanical imagery in the header and clearly delineated content sections",
+    "emotional_impact": "The dark, somber palette with selective accent coloring creates a contemplative, focused atmosphere that reflects the philosophical approach suggested by the visual elements",
+    "compositional_elements": "A vertical hierarchy organizes content into distinct rectangular sections with clear separation, using subtle visual cues like heading styles and background variations to guide the viewer's eye"
+  },
+  "artistic_context": {
+    "style_influences": "Industrial minimalism, mechanical aesthetics, digital zen philosophy, utilitarian web design",
+    "visual_metaphors": "Mechanical gears symbolizing precision and craftsmanship, darkness giving way to enlightenment, structured pathways to knowledge"
+  },
+  "categories": [
+    "minimalist",
+    "industrial",
+    "monochromatic",
+    "structured",
+    "utilitarian",
+    "grid-based"
+  ],
+  "visual_characteristics": [
+    "dark-palette",
+    "gear-motif",
+    "two-column-layout",
+    "hierarchical-typography",
+    "selective-highlighting",
+    "negative-space"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "contrast",
+      "hierarchy",
+      "balance",
+      "simplicity"
+    ],
+    "visual_techniques": [
+      "typographic scaling",
+      "color accent",
+      "spatial organization"
+    ]
+  }
+}

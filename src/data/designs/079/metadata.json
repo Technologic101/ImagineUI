@@ -1,0 +1,46 @@
+{
+  "id": "079",
+  "url": "https://www.csszengarden.com/079",
+  "css_url": "https://www.csszengarden.com/079/079.css",
+  "title": "Green Tea",
+  "author": "Amy Rae Som",
+  "description": {
+    "summary": "A serene, nature-inspired web interface featuring a soft green background with subtle plant silhouettes, creating a tranquil digital garden environment.",
+    "visual_style": "The design employs a zen-like aesthetic with organic elements and a structured information architecture, balancing nature imagery with organized content blocks.",
+    "emotional_impact": "The soft color palette and botanical imagery evoke feelings of tranquility and harmony, while maintaining clarity for information consumption.",
+    "compositional_elements": "A multi-column layout with clearly defined sections uses typography and white space to create hierarchical organization, framed by delicate plant illustrations."
+  },
+  "artistic_context": {
+    "style_influences": "Japanese garden aesthetics, minimalist web design, natural-form decoration",
+    "visual_metaphors": "Digital garden as knowledge growth, enlightened path through information"
+  },
+  "categories": [
+    "organic",
+    "minimalist",
+    "nature-inspired",
+    "structured",
+    "harmonious",
+    "zen"
+  ],
+  "visual_characteristics": [
+    "pale-green background",
+    "plant silhouettes",
+    "multi-column layout",
+    "typographic contrast",
+    "botanical motifs",
+    "transparent overlays"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "balance",
+      "hierarchy",
+      "unity",
+      "contrast"
+    ],
+    "visual_techniques": [
+      "natural motifs",
+      "typographic structure",
+      "complementary colors"
+    ]
+  }
+}

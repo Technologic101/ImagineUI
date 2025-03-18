@@ -1,0 +1,46 @@
+{
+  "id": "035",
+  "url": "https://www.csszengarden.com/035",
+  "css_url": "https://www.csszengarden.com/035/035.css",
+  "title": "Release One",
+  "author": "Didier Hilhorst",
+  "description": {
+    "summary": "A structured web design showcase featuring a vibrant color-blocked layout that demonstrates CSS styling capabilities through various design themes.",
+    "visual_style": "The design employs a modular grid system with distinct color-coded sections, combining vibrant lime green headers with neutral content areas for a balanced technical aesthetic.",
+    "emotional_impact": "Creates a sense of organized creativity through its systematic layout while using bold color accents to energize what is otherwise an educational interface.",
+    "compositional_elements": "Structured into clear horizontal bands with a consistent vertical rhythm, using color blocking to separate functional areas and create visual hierarchy."
+  },
+  "artistic_context": {
+    "style_influences": "Web design minimalism, Swiss/International style grid systems, digital-era color blocking",
+    "visual_metaphors": "Gardens as structured but organic spaces, pathways through knowledge, building blocks of design"
+  },
+  "categories": [
+    "grid-based",
+    "modular",
+    "minimalist",
+    "educational",
+    "technical",
+    "high-contrast"
+  ],
+  "visual_characteristics": [
+    "color-blocking",
+    "structured-layout",
+    "typographic-hierarchy",
+    "vibrant-accents",
+    "sectional-organization",
+    "white-space-management"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "hierarchy",
+      "contrast",
+      "repetition",
+      "alignment"
+    ],
+    "visual_techniques": [
+      "color coding",
+      "modular grid",
+      "typographic scaling"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "083",
+  "url": "https://www.csszengarden.com/083",
+  "css_url": "https://www.csszengarden.com/083/083.css",
+  "title": "Springtime",
+  "author": "Bo\u00ebr Attila",
+  "description": {
+    "summary": "A serene, nature-inspired web design that employs a minimalist aesthetic with organic visual elements to create a peaceful digital environment.",
+    "visual_style": "The design blends earthy colors with delicate botanical illustrations to create a zen-like atmosphere, using subtle gradients and transparent elements for depth.",
+    "emotional_impact": "Evokes tranquility and mindfulness through its soft color palette, ample white space, and gentle plant motifs that frame the content.",
+    "compositional_elements": "Features a three-column layout with clear vertical sections, using botanical illustrations and subtle background textures to unify the composition."
+  },
+  "artistic_context": {
+    "style_influences": "Japanese garden design, minimalist aesthetics, natural organic forms",
+    "visual_metaphors": "Growth, cultivation, harmony with nature, enlightenment"
+  },
+  "categories": [
+    "minimalist",
+    "nature-inspired",
+    "organic",
+    "zen",
+    "elegant",
+    "structured"
+  ],
+  "visual_characteristics": [
+    "botanical-illustrations",
+    "muted-palette",
+    "hierarchical-layout",
+    "semi-transparent-elements",
+    "textural-backgrounds",
+    "leaf-motifs"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "balance",
+      "harmony",
+      "repetition",
+      "hierarchy"
+    ],
+    "visual_techniques": [
+      "natural motifs",
+      "spatial zoning",
+      "typographic contrast"
+    ]
+  }
+}

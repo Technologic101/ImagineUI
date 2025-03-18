@@ -1,0 +1,46 @@
+{
+  "id": "097",
+  "url": "https://www.csszengarden.com/097",
+  "css_url": "https://www.csszengarden.com/097/097.css",
+  "title": "No Frontiers!",
+  "author": "Michal Mokrzycki",
+  "description": {
+    "summary": "A serene, elegant website design featuring a harmonious blend of soft green hues and structured content areas that creates a zen-like atmosphere while maintaining clarity and readability.",
+    "visual_style": "The design employs a clean, minimalist approach with a calligraphic logo and thoughtful use of white space, embodying its 'zen garden' concept through visual restraint and careful placement.",
+    "emotional_impact": "The soft lime-green background creates a peaceful, refreshing atmosphere that feels both calming and intellectually stimulating, evoking a sense of natural tranquility.",
+    "compositional_elements": "A two-column layout with clear vertical sections provides organized content flow, while the accent elements like the fork illustration and decorative question mark add visual interest without disrupting harmony."
+  },
+  "artistic_context": {
+    "style_influences": "Japanese minimalism, digital zen aesthetics, calligraphic art traditions",
+    "visual_metaphors": "Garden as structured beauty, fork as tool for consumption/selection, enlightenment pathway"
+  },
+  "categories": [
+    "minimalist",
+    "organic",
+    "instructional",
+    "zen-inspired",
+    "two-column",
+    "nature-themed"
+  ],
+  "visual_characteristics": [
+    "soft-green palette",
+    "calligraphic typography",
+    "white space utilization",
+    "rounded content areas",
+    "vertical rhythm",
+    "symbolic imagery"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "balance",
+      "hierarchy",
+      "contrast",
+      "harmony"
+    ],
+    "visual_techniques": [
+      "typographic contrast",
+      "asymmetrical balance",
+      "color blocking"
+    ]
+  }
+}

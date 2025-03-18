@@ -2,19 +2,45 @@
   "id": "127",
   "url": "https://www.csszengarden.com/127",
   "css_url": "https://www.csszengarden.com/127/127.css",
-  "description": "The design is vibrant and artistic, featuring a colorful palette dominated by blues, pinks, and greens. It incorporates abstract floral motifs and dynamic shapes, giving it a lively, playful aesthetic. The typography is bold and varied, combining sans-serif fonts with distinct styles for headings and body text. The composition is dynamic, with a mix of horizontal and vertical elements, creating a sense of movement across the page.",
+  "title": "Vivacity",
+  "author": "Soso",
+  "description": {
+    "summary": "A nostalgic web design featuring a blend of early 2000s aesthetic with floral motifs, colorful headers, and a distinctive column-based layout structure",
+    "visual_style": "The design employs a playful, somewhat dated web aesthetic with bright colors, gradient backgrounds, and decorative floral elements that contrast with organized content blocks",
+    "emotional_impact": "Creates a feeling of whimsical nostalgia while maintaining an educational tone through its structured information presentation",
+    "compositional_elements": "Organized into a multi-column layout with a dominant central content area, colorful section headers, and a right sidebar featuring vibrant menu items"
+  },
+  "artistic_context": {
+    "style_influences": "Early web design aesthetics, Y2K-era digital graphics, organic-digital fusion",
+    "visual_metaphors": "Garden elements suggesting growth and nurturing of web design skills"
+  },
   "categories": [
-    "Artistic",
-    "Floral",
-    "Playful",
-    "Abstract",
-    "Dynamic"
+    "retro-digital",
+    "instructional",
+    "ornamental",
+    "structured",
+    "gradient-rich",
+    "multi-column"
   ],
   "visual_characteristics": [
-    "Vibrant colors",
-    "Abstract motifs",
-    "Bold typography",
-    "Dynamic layout",
-    "Playful design"
-  ]
+    "floral imagery",
+    "bright color blocks",
+    "gradient backgrounds",
+    "hierarchical headers",
+    "decorative typography",
+    "distinctive borders"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "visual hierarchy",
+      "color contrast",
+      "repetition",
+      "alignment"
+    ],
+    "visual_techniques": [
+      "color blocking",
+      "decorative framing",
+      "typographic emphasis"
+    ]
+  }
 }

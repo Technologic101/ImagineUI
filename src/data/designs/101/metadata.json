@@ -2,19 +2,45 @@
   "id": "101",
   "url": "https://www.csszengarden.com/101",
   "css_url": "https://www.csszengarden.com/101/101.css",
-  "description": "The design presents a clean, minimalistic layout with a focus on text-heavy content, emphasizing informative and instructional text through strategic alignment and font weight variation. The use of a soft color palette with subtle text highlights adds visual interest without overwhelming the content, making it suitable for an educational or informational context.",
+  "title": "punkass",
+  "author": "Mikhel Proulx",
+  "description": {
+    "summary": "A balanced and multi-column web layout for a CSS design showcase combining Eastern-inspired illustrations with structured content organization. The design blends organic, hand-drawn floral motifs with structured typographic elements.",
+    "visual_style": "The aesthetic combines minimalist structure with decorative organic elements, creating contrast between geometric organization and free-flowing illustrations that frame the content.",
+    "emotional_impact": "Creates a contemplative, artistic atmosphere that suggests the meeting of technical precision and creative expression, reinforced by the Zen garden metaphor in both text and illustrations.",
+    "compositional_elements": "A three-column grid layout with clear sectional divisions, unified by decorative line drawings of lotus flowers and branches that weave throughout the composition to create visual cohesion."
+  },
+  "artistic_context": {
+    "style_influences": "East Asian ink drawings, minimalist web design, botanical illustration, technical documentation",
+    "visual_metaphors": "Garden as creative space, flowering ideas, paths to knowledge, balance between structure and nature"
+  },
   "categories": [
-    "Minimalism",
-    "Typography",
-    "Informational",
-    "Educational",
-    "Web Design"
+    "grid-based",
+    "illustrative",
+    "minimalist",
+    "educational",
+    "eastern-inspired",
+    "technical"
   ],
   "visual_characteristics": [
-    "Text-centered layout",
-    "Subtle color palette",
-    "Clean typography",
-    "Strategic whitespace",
-    "Subtle highlights"
-  ]
+    "multi-column layout",
+    "botanical line drawings",
+    "vertical rhythm",
+    "photographic elements",
+    "white space utilization",
+    "typographic hierarchy"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "contrast",
+      "balance",
+      "unity",
+      "hierarchy"
+    ],
+    "visual_techniques": [
+      "framing",
+      "negative space",
+      "organic linework"
+    ]
+  }
 }

@@ -2,19 +2,45 @@
   "id": "104",
   "url": "https://www.csszengarden.com/104",
   "css_url": "https://www.csszengarden.com/104/104.css",
-  "description": "The CSS Zen Garden design emphasizes a harmonious blend of minimalism and elegance, using a subtle color palette of earthy tones to convey tranquility. The typography is refined, with classic serif fonts that enhance readability and lend a formal tone. The layout is clean and well-structured, with ample white space providing visual relief and guiding viewers through the content logically. The use of horizontal lines as separators adds structure without clutter, and the background floral motif adds a delicate, organic touch.",
+  "title": "Invitation",
+  "author": "Brad Dailey",
+  "description": {
+    "summary": "An elegant, formal invitation design with Eastern-influenced aesthetics, featuring a balanced layout with contrasting typography and subtle decorative elements.",
+    "visual_style": "A harmonious blend of traditional elegance and modern minimalism, with careful attention to typographic hierarchy and negative space.",
+    "emotional_impact": "Creates a sense of tranquility and contemplation through its balanced composition, muted color palette, and formal typographic treatment.",
+    "compositional_elements": "Two-column layout with clear vertical organization, featuring centered decorative header and structured content sections with subtle dividing elements."
+  },
+  "artistic_context": {
+    "style_influences": "Japanese aesthetic principles, formal invitation design, traditional manuscript layouts",
+    "visual_metaphors": "Garden as a space of cultivation and growth, path of enlightenment, structural elegance"
+  },
   "categories": [
-    "minimalism",
-    "elegance",
-    "typography",
-    "web design concept",
-    "informative"
+    "minimal",
+    "elegant",
+    "formal",
+    "traditional",
+    "structured",
+    "typographic"
   ],
   "visual_characteristics": [
-    "subtle color palette",
-    "classic serif fonts",
-    "clean layout",
-    "organic motifs",
-    "ample white space"
-  ]
+    "two-column layout",
+    "serif typography",
+    "earth-tone palette",
+    "hierarchical headings",
+    "subtle dividers",
+    "negative space"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "balance",
+      "hierarchy",
+      "contrast",
+      "unity"
+    ],
+    "visual_techniques": [
+      "typographic scaling",
+      "formal alignment",
+      "negative space"
+    ]
+  }
 }

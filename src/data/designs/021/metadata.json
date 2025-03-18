@@ -1,0 +1,46 @@
+{
+  "id": "021",
+  "url": "https://www.csszengarden.com/021",
+  "css_url": "https://www.csszengarden.com/021/021.css",
+  "title": "Calm & Smooth",
+  "author": "Cornelia Lange",
+  "description": {
+    "summary": "A zen-inspired web design with an elegant blend of minimalist layout and decorative Eastern elements, showcasing CSS styling capabilities in a serene, functional presentation.",
+    "visual_style": "The design adopts a minimalist yet elegant approach, combining soft watercolor-like header imagery with structured content blocks and decorative calligraphic headings.",
+    "emotional_impact": "Creates a peaceful, contemplative atmosphere through spacious layout, soft color transitions, and balanced visual elements that evoke tranquility and harmony.",
+    "compositional_elements": "Organized in vertical sections with clear demarcation, featuring sidebar navigation, horizontal content blocks, and occasional illustrative elements like the stone statue and architectural icons."
+  },
+  "artistic_context": {
+    "style_influences": "Japanese zen aesthetics, watercolor painting techniques, traditional Eastern calligraphy, minimalist web design",
+    "visual_metaphors": "Garden as digital space, path of enlightenment, stones as building blocks, water as fluidity of design"
+  },
+  "categories": [
+    "minimalist",
+    "zen-inspired",
+    "elegant",
+    "structured",
+    "instructional",
+    "Eastern-influenced"
+  ],
+  "visual_characteristics": [
+    "watercolor-style header",
+    "calligraphic headings",
+    "structured grid layout",
+    "neutral color palette",
+    "hierarchical navigation",
+    "decorative Eastern elements"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "balance",
+      "hierarchy",
+      "contrast",
+      "white space"
+    ],
+    "visual_techniques": [
+      "vertical rhythm",
+      "typographic contrast",
+      "thematic illustration"
+    ]
+  }
+}

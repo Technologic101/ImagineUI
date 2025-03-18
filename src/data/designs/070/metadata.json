@@ -1,0 +1,46 @@
+{
+  "id": "070",
+  "url": "https://www.csszengarden.com/070",
+  "css_url": "https://www.csszengarden.com/070/070.css",
+  "title": "CS(S) Monk",
+  "author": "Cedric Savarese",
+  "description": {
+    "summary": "A contemplative web design featuring Eastern aesthetic influences with a silhouetted meditating figure against a minimalist backdrop, complemented by red floral accents and structured information layout.",
+    "visual_style": "The design blends Eastern philosophical aesthetics with modern web layout principles, using contrasting elements of light and dark, organic and structured forms.",
+    "emotional_impact": "Creates a calm, meditative atmosphere while maintaining clarity and functionality through the structured information presentation.",
+    "compositional_elements": "Organized in a hierarchical grid with a prominent header area, distinct content sections, and decorative red floral elements that frame the composition."
+  },
+  "artistic_context": {
+    "style_influences": "Japanese and Chinese brush painting, minimalist design, traditional Eastern art",
+    "visual_metaphors": "Meditation, harmony, balance, growth, enlightenment"
+  },
+  "categories": [
+    "minimalist",
+    "eastern-inspired",
+    "structured",
+    "monochromatic",
+    "grid-based",
+    "decorative"
+  ],
+  "visual_characteristics": [
+    "silhouetted figure",
+    "red floral accents",
+    "high contrast",
+    "structured typography",
+    "boxed sections",
+    "vertical text elements"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "contrast",
+      "hierarchy",
+      "balance",
+      "repetition"
+    ],
+    "visual_techniques": [
+      "framing",
+      "negative space",
+      "typographic alignment"
+    ]
+  }
+}

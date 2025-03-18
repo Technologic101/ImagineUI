@@ -1,0 +1,46 @@
+{
+  "id": "038",
+  "url": "https://www.csszengarden.com/038",
+  "css_url": "https://www.csszengarden.com/038/038.css",
+  "title": "Creepy Crawly",
+  "author": "Luke Redpath",
+  "description": {
+    "summary": "A harmonious web design employing a nature-inspired aesthetic with a Zen garden theme, combining organic imagery with structured layout elements to create a serene, educational experience.",
+    "visual_style": "The design merges organic natural elements with clean, structured typography and a muted color palette, creating a balanced tension between natural and digital worlds.",
+    "emotional_impact": "The design evokes tranquility and contemplation through its earthy color scheme, spacious layout, and nature-inspired header imagery.",
+    "compositional_elements": "A clear vertical hierarchy guides the viewer from the natural spider imagery header through distinct content sections, using consistent spacing and alignment to create rhythm."
+  },
+  "artistic_context": {
+    "style_influences": "Japanese garden aesthetics, minimalist web design, natural-digital fusion",
+    "visual_metaphors": "Garden as learning environment, path to enlightenment, organic growth of knowledge"
+  },
+  "categories": [
+    "minimalist",
+    "nature-inspired",
+    "educational",
+    "structured",
+    "zen-aesthetic",
+    "harmonious"
+  ],
+  "visual_characteristics": [
+    "muted-palette",
+    "hierarchical-layout",
+    "organic-header",
+    "structured-typography",
+    "vertical-rhythm",
+    "negative-space"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "hierarchy",
+      "balance",
+      "contrast",
+      "unity"
+    ],
+    "visual_techniques": [
+      "natural textures",
+      "structured grid",
+      "tonal harmony"
+    ]
+  }
+}

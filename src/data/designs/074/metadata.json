@@ -1,0 +1,46 @@
+{
+  "id": "074",
+  "url": "https://www.csszengarden.com/074",
+  "css_url": "https://www.csszengarden.com/074/074.css",
+  "title": "Egyptian Dawn",
+  "author": "James Abbott",
+  "description": {
+    "summary": "A serene web design featuring warm golden hues and Eastern-influenced imagery, creating a contemplative atmosphere through balanced composition and minimal elements.",
+    "visual_style": "The design employs a warm golden gradient background with subtle texture, combining Eastern aesthetics with modern digital design elements in a harmonious layout.",
+    "emotional_impact": "The warm amber tones, simple silhouette illustrations, and balanced white space create a calm, meditative mood that evokes tranquility and focused attention.",
+    "compositional_elements": "A two-column layout with clearly defined content boxes, strategic white space, and decorative silhouettes creates visual rhythm while maintaining hierarchical organization."
+  },
+  "artistic_context": {
+    "style_influences": "Eastern minimalism, desert landscape aesthetics, ancient Egyptian art motifs, traditional scroll designs",
+    "visual_metaphors": "Journey, illumination, wisdom, timelessness"
+  },
+  "categories": [
+    "minimalist",
+    "eastern-inspired",
+    "warm-toned",
+    "textural",
+    "structured",
+    "educational"
+  ],
+  "visual_characteristics": [
+    "golden gradient background",
+    "silhouette illustrations",
+    "boxed content sections",
+    "textural parchment effect",
+    "sunrise/sunburst element",
+    "hierarchical typography"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "balance",
+      "contrast",
+      "harmony",
+      "hierarchy"
+    ],
+    "visual_techniques": [
+      "warm color palette",
+      "textural layering",
+      "negative space"
+    ]
+  }
+}

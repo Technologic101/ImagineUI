@@ -1,0 +1,45 @@
+{
+  "id": "095",
+  "url": "https://www.csszengarden.com/095",
+  "css_url": "https://www.csszengarden.com/095/095.css",
+  "title": "Corporate ZenWorks",
+  "author": "Derek Hansen",
+  "description": {
+    "summary": "A minimalist web design featuring a textured paper background with a clean, structured layout that blends classic typography with subtle decorative elements.",
+    "visual_style": "The design employs a restrained aesthetic with a focus on clarity and readability, using a torn paper effect alongside organized content blocks and strategic visual accents.",
+    "emotional_impact": "Conveys a sense of tranquility and thoughtfulness through its balanced composition, neutral color palette, and deliberate spacing.",
+    "compositional_elements": "Structured with a clear header-to-footer flow, using horizontal sections, left-aligned text blocks, and subtle visual elements like the handwritten note and yellow sidebar to create points of interest."
+  },
+  "artistic_context": {
+    "style_influences": "Zen-inspired minimalism, traditional manuscript design, early web typography principles",
+    "visual_metaphors": "Paper as knowledge medium, handwritten notes suggesting personal connection, fountain pen representing craftsmanship"
+  },
+  "categories": [
+    "minimalist",
+    "structured",
+    "textural",
+    "elegant",
+    "paper-based"
+  ],
+  "visual_characteristics": [
+    "torn-paper effect",
+    "serif typography",
+    "hierarchical layout",
+    "handwritten annotations",
+    "earth-tone palette",
+    "negative space"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "hierarchy",
+      "contrast",
+      "balance",
+      "rhythm"
+    ],
+    "visual_techniques": [
+      "textural layering",
+      "typographic contrast",
+      "accent objects"
+    ]
+  }
+}

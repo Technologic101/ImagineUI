@@ -2,19 +2,45 @@
   "id": "166",
   "url": "https://www.csszengarden.com/166",
   "css_url": "https://www.csszengarden.com/166/166.css",
-  "description": "This design showcases a minimalist aesthetic with a dark background, creating a contemporary and sophisticated feel. The use of boxes with rounded corners provides a modern twist, while the contrasting colors and textures add depth. The typography is clean and straightforward, with strategically placed headers to guide the viewer's attention across the layout. Imagery of nature complements the theme, adding a touch of organic elegance.",
+  "title": "Obsequience",
+  "author": "Pierce Gleeson",
+  "description": {
+    "summary": "A sophisticated web design that balances organic natural imagery with structured grid-based layout, creating a harmonious blend of technical precision and organic beauty.",
+    "visual_style": "The design employs a minimalist yet elegant approach with natural photography contrasting against structured content blocks, using asymmetrical balance to create visual interest.",
+    "emotional_impact": "The juxtaposition of water droplets on leaves and vibrant floral elements against the structured layout evokes a sense of tranquility and ordered simplicity, reinforcing the 'zen' concept.",
+    "compositional_elements": "The layout uses clearly defined content blocks with varying widths and heights, creating a rhythmic visual flow while maintaining hierarchy through color and spacing."
+  },
+  "artistic_context": {
+    "style_influences": "Japanese design principles of simplicity and asymmetry, modern web design grid systems, nature-inspired organic aesthetics",
+    "visual_metaphors": "Garden as structure, water droplets as clarity, natural elements representing organic growth within structured design"
+  },
   "categories": [
-    "Minimalism",
-    "Modern",
-    "Sophistication",
-    "Nature",
-    "Typography"
+    "minimalist",
+    "organic",
+    "grid-based",
+    "asymmetrical",
+    "nature-inspired",
+    "technical"
   ],
   "visual_characteristics": [
-    "Dark Background",
-    "Contrasting Colors",
-    "Rounded Corners",
-    "Clean Typography",
-    "Textured Elements"
-  ]
+    "contrast-driven",
+    "photographic-elements",
+    "modular-layout",
+    "textural-juxtaposition",
+    "earth-tones",
+    "typographic-hierarchy"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "balance",
+      "contrast",
+      "hierarchy",
+      "unity"
+    ],
+    "visual_techniques": [
+      "juxtaposition",
+      "negative space",
+      "modular grids"
+    ]
+  }
 }

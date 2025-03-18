@@ -1,0 +1,46 @@
+{
+  "id": "084",
+  "url": "https://www.csszengarden.com/084",
+  "css_url": "https://www.csszengarden.com/084/084.css",
+  "title": "Start Listening!",
+  "author": "Liz Lubowitz",
+  "description": {
+    "summary": "A stylized vintage-inspired web design that combines mid-century aesthetics with contemporary web concepts, featuring dramatic typography and retro imagery.",
+    "visual_style": "The design adopts a nostalgic aesthetic with ornate display typography, vintage photography, and a warm, aged color palette reminiscent of mid-20th century advertisements.",
+    "emotional_impact": "The design creates a sense of dramatic irony through the juxtaposition of retro visual elements with contemporary technical concepts, invoking both nostalgia and progressive ideals.",
+    "compositional_elements": "Arranged in a traditional newspaper-like layout with clearly defined columns, bold headlines, and a hierarchical structure that guides the eye from the dramatic header image downward through sections."
+  },
+  "artistic_context": {
+    "style_influences": "Mid-century advertising, vintage propaganda posters, early web design, retro typography",
+    "visual_metaphors": "Enlightenment journey, zen garden as orderly structure, vintage authority figure as guide"
+  },
+  "categories": [
+    "retro",
+    "vintage",
+    "typographic",
+    "editorial",
+    "nostalgic",
+    "structured"
+  ],
+  "visual_characteristics": [
+    "ornamental typography",
+    "aged texture",
+    "high-contrast imagery",
+    "column layout",
+    "dramatic header",
+    "hierarchical organization"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "contrast",
+      "hierarchy",
+      "repetition",
+      "nostalgia"
+    ],
+    "visual_techniques": [
+      "textural overlay",
+      "typographic scaling",
+      "visual framing"
+    ]
+  }
+}

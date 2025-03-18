@@ -2,19 +2,43 @@
   "id": "125",
   "url": "https://www.csszengarden.com/125",
   "css_url": "https://www.csszengarden.com/125/125.css",
-  "description": "The design is a harmonious blend of earthy textures and vibrant colors with a focus on responsive typography and minimalistic layout. It combines natural imagery with elegant text alignment, creating a balance between organic and structured elements. The strategically placed butterfly graphic adds a dynamic contrast, enhancing the thematic depth of the design.",
+  "title": "Beccah",
+  "author": "Chris Morrell",
+  "description": {
+    "summary": "This design blends textured watercolor backgrounds with structured typography to create an artistic yet functional web layout. The composition juxtaposes organic visual elements against organized content sections.",
+    "visual_style": "The design employs a painterly aesthetic with translucent washes of color overlaid on a structured text layout, creating a contemplative and artistic digital space.",
+    "emotional_impact": "The watercolor textures and calligraphic elements evoke a sense of tranquility and creative reflection, balanced by the clarity of the information architecture.",
+    "compositional_elements": "A layered composition with textured background, subtle calligraphy, and organized content blocks creating visual depth while maintaining readability."
+  },
+  "artistic_context": {
+    "style_influences": "Eastern watercolor painting, calligraphic arts, minimalist information design",
+    "visual_metaphors": "Organic nature elements (butterfly silhouette) suggesting transformation and beauty within structure"
+  },
   "categories": [
-    "Nature-inspired",
-    "Minimalist",
-    "Typography-focused",
-    "Artistic",
-    "Content-centric"
+    "artistic",
+    "textural",
+    "layered",
+    "elegant",
+    "zen-inspired"
   ],
   "visual_characteristics": [
-    "Earthy tones",
-    "Textured background",
-    "Crisp typography",
-    "Asymmetrical layout",
-    "Dynamic graphic element"
-  ]
+    "watercolor-wash",
+    "translucent-layers",
+    "typographic-hierarchy",
+    "organic-textures",
+    "subtle-color-gradients"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "contrast",
+      "balance",
+      "hierarchy",
+      "unity"
+    ],
+    "visual_techniques": [
+      "layering",
+      "textural depth",
+      "transparency"
+    ]
+  }
 }

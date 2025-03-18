@@ -2,20 +2,45 @@
   "id": "143",
   "url": "https://www.csszengarden.com/143",
   "css_url": "https://www.csszengarden.com/143/143.css",
-  "description": "This design features a clean and structured layout with a monochromatic color scheme, highlighting text content with clear typographic hierarchy. A combination of minimalist aesthetic and functional design elements ensures readability and visual interest, while the central image adds a focal point. The use of borders and shadow effects provide depth to the overall design.",
+  "title": "Pixelisation",
+  "author": "Lim Yuan Qing",
+  "description": {
+    "summary": "A minimalist web design with a structured grid layout featuring a pixel art icon and clear typographic hierarchy",
+    "visual_style": "The design employs a monochromatic, clean aesthetic with structured content blocks and precise spatial organization",
+    "emotional_impact": "Creates a sense of order and clarity through generous white space and methodical arrangement of elements",
+    "compositional_elements": "Content is organized in numbered sections with clear headings, sidebar elements, and a consistent visual rhythm"
+  },
+  "artistic_context": {
+    "style_influences": "Minimalist web design, pixel art aesthetics, modernist information design",
+    "visual_metaphors": "Digital garden as growth space, pixel blocks as building elements"
+  },
   "categories": [
-    "Minimalism",
-    "Monochrome",
-    "Typography",
-    "Web Design",
-    "User Interface"
+    "minimalist",
+    "grid-based",
+    "monochromatic",
+    "structured",
+    "educational",
+    "technical"
   ],
   "visual_characteristics": [
-    "Clear typographic hierarchy",
-    "Grid alignment",
-    "Monochromatic color scheme",
-    "Minimalist style",
-    "Use of borders",
-    "Shadow effects"
-  ]
+    "pixel-art iconography",
+    "numbered sections",
+    "white space",
+    "typographic hierarchy",
+    "sidebar organization",
+    "geometric simplicity"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "hierarchy",
+      "balance",
+      "clarity",
+      "consistency"
+    ],
+    "visual_techniques": [
+      "grid layout",
+      "negative space",
+      "modular sections"
+    ]
+  }
 }

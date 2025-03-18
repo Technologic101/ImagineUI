@@ -2,19 +2,45 @@
   "id": "003",
   "url": "https://www.csszengarden.com/003",
   "css_url": "https://www.csszengarden.com/003/003.css",
-  "description": "This design features a serene and calming aesthetic, employing a monochromatic blue-gray color palette that evokes a sense of tranquility. The layout is structured and organized, with a notable emphasis on clean typography and spaciousness. Each section is clearly delineated, contributing to an overall coherent and harmonious visual experience, while the soft textures in the background enhance the serene mood.",
+  "title": "Stormweather",
+  "author": "Dave Shea",
+  "description": {
+    "summary": "A serene, minimalist web design with a blue-gray color scheme featuring a structured layout with photographic elements and clean typography, creating a sense of calm and order.",
+    "visual_style": "The design employs a zen-inspired aesthetic with ample white space, framed photographic thumbnails, and carefully structured text blocks within a soothing color environment.",
+    "emotional_impact": "The soft color palette, spacious layout, and nature imagery evoke tranquility and contemplation, reinforced by the balanced typography and gentle visual hierarchy.",
+    "compositional_elements": "Three equally-sized photographic thumbnails serve as focal points above neatly organized text columns, all contained within a subtle blue-tinted frame that creates unified visual harmony."
+  },
+  "artistic_context": {
+    "style_influences": "Minimalism, Japanese aesthetic principles, modernist typography, digital photography",
+    "visual_metaphors": "Garden path, mist, water reflections, journey, enlightenment"
+  },
   "categories": [
-    "minimalism",
-    "typography",
-    "print design",
-    "web interface",
-    "aesthetic design"
+    "minimalist",
+    "structured",
+    "grid-based",
+    "photographic",
+    "serene",
+    "monochromatic"
   ],
   "visual_characteristics": [
-    "monochromatic palette",
-    "serene mood",
-    "structured layout",
-    "clean typography",
-    "spaciousness"
-  ]
+    "blue-gray palette",
+    "framed imagery",
+    "white space",
+    "photographic elements",
+    "structured columns",
+    "subtle texture"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "balance",
+      "hierarchy",
+      "unity",
+      "contrast"
+    ],
+    "visual_techniques": [
+      "framing",
+      "grid layout",
+      "tonal harmony"
+    ]
+  }
 }

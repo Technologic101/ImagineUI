@@ -2,19 +2,45 @@
   "id": "138",
   "url": "https://www.csszengarden.com/138",
   "css_url": "https://www.csszengarden.com/138/138.css",
-  "description": "The design features a clean, structured layout with a strong focus on typography, using elegant serif fonts for headings, which contrasts well with a minimalistic sans-serif for body text. The color palette is primarily green and white, contributing to a fresh and calming atmosphere. The incorporation of plant imagery enhances the natural and serene theme. Additionally, there's a well-organized navigation bar on the left, providing easy access to various content sections.",
+  "title": "Cube Garden",
+  "author": "Masanori Kawachi",
+  "description": {
+    "summary": "A thoughtfully structured web design showcasing a blend of functional navigation and organic aesthetic elements, creating a harmonious balance between technical precision and natural inspiration.",
+    "visual_style": "The design employs a clean, minimalist approach with selective use of organic green accents against a predominantly white background, creating a serene and focused visual environment.",
+    "emotional_impact": "The gentle green color palette combined with elegant script headings evokes a sense of tranquility and organic growth, balancing the technical subject matter with a natural warmth.",
+    "compositional_elements": "A two-column layout clearly separates navigation from content, with distinct visual hierarchies established through color blocking, typography scale, and whitespace management."
+  },
+  "artistic_context": {
+    "style_influences": "Zen-inspired minimalism, botanical aesthetics, digital modernism",
+    "visual_metaphors": "Garden as digital growth, green shoots as emerging technology, enlightenment path"
+  },
   "categories": [
-    "Clean",
-    "Structured",
-    "Typographic",
-    "Nature-inspired",
-    "Minimalistic"
+    "minimalist",
+    "functional",
+    "organic",
+    "educational",
+    "structured",
+    "zen-inspired"
   ],
   "visual_characteristics": [
-    "Serif headings",
-    "Green and white color scheme",
-    "Natural imagery",
-    "Simple navigation",
-    "Elegant typography"
-  ]
+    "two-column layout",
+    "green accent colors",
+    "script typography",
+    "botanical iconography",
+    "white space utilization",
+    "hierarchical navigation"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "contrast",
+      "hierarchy",
+      "balance",
+      "unity"
+    ],
+    "visual_techniques": [
+      "color blocking",
+      "typographic variation",
+      "negative space"
+    ]
+  }
 }

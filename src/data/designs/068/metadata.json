@@ -1,0 +1,46 @@
+{
+  "id": "068",
+  "url": "https://www.csszengarden.com/068",
+  "css_url": "https://www.csszengarden.com/068/068.css",
+  "title": "Ballade",
+  "author": "Charlotte Lambert",
+  "description": {
+    "summary": "A zen-inspired web design featuring a natural earth-tone color palette with contrasting black and white elements, organized in a traditional vertical scroll layout with illustrated Japanese garden motifs.",
+    "visual_style": "The design employs a minimal aesthetic with clear visual boundaries, combining Eastern artistic sensibilities with digital structure through ink-wash style illustrations and defined content areas.",
+    "emotional_impact": "Creates a sense of contemplative calm through its earthy background color, deliberate white space, and natural elements that evoke traditional East Asian landscape paintings.",
+    "compositional_elements": "Structured as a vertical scroll with distinct content sections framed by decorative borders, ink-brush illustrations, and a strong contrast between the tan background and black navigation elements."
+  },
+  "artistic_context": {
+    "style_influences": "Japanese garden design, traditional East Asian ink painting, minimalist composition",
+    "visual_metaphors": "Path through a garden representing learning journey, gateway arches symbolizing transitions, brush-painted elements suggesting natural harmony"
+  },
+  "categories": [
+    "minimalist",
+    "nature-inspired",
+    "east-asian",
+    "structured",
+    "high-contrast",
+    "illustrative"
+  ],
+  "visual_characteristics": [
+    "earth-tone palette",
+    "brush-stroke illustrations",
+    "framed content blocks",
+    "ornamental borders",
+    "pathway motifs",
+    "negative space"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "contrast",
+      "hierarchy",
+      "balance",
+      "harmony"
+    ],
+    "visual_techniques": [
+      "framing",
+      "illustrated accents",
+      "spatial zoning"
+    ]
+  }
+}

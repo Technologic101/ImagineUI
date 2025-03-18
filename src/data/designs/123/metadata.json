@@ -2,17 +2,45 @@
   "id": "123",
   "url": "https://www.csszengarden.com/123",
   "css_url": "https://www.csszengarden.com/123/123.css",
-  "description": "The design showcases a harmonious blend of deep purples and bright yellow accents to create a serene and elegant atmosphere, reminiscent of a zen garden. The floral motifs add a touch of nature, while the clean, symmetrical layout ensures readability and focus. Yellow highlights strategically underscore key information, enhancing user navigation through a well-defined content structure.",
+  "title": "'Skyroots'",
+  "author": "Axel Hebenstreit",
+  "description": {
+    "summary": "A serene web design themed around lotus flowers and zen aesthetics, featuring a rich purple gradient background with delicate floral imagery and golden accents.",
+    "visual_style": "The design employs an Eastern-inspired aesthetic with floating lotus flowers against a meditative color scheme, creating a harmonious digital garden environment.",
+    "emotional_impact": "Evokes tranquility and spiritual calm through the combination of deep purple tones, floating lotus imagery, and balanced spatial composition.",
+    "compositional_elements": "Structured with a prominent header featuring lotus imagery, a left sidebar for navigation, and a main content area with vertical text blocks organized in a rhythmic flow."
+  },
+  "artistic_context": {
+    "style_influences": "Eastern philosophy aesthetics, digital minimalism, early 2000s web design, decorative spiritualism",
+    "visual_metaphors": "Floating lotus as enlightenment, garden as growth and learning, purple as wisdom and creativity"
+  },
   "categories": [
-    "Web Design",
-    "Nature-Inspired",
-    "Contemporary",
-    "Elegant"
+    "spiritual",
+    "nature-inspired",
+    "nostalgic",
+    "gradient-rich",
+    "decorative",
+    "asymmetrical"
   ],
   "visual_characteristics": [
-    "Dark Color Palette",
-    "Floral Motifs",
-    "Symmetrical Layout",
-    "Contrasting Accents"
-  ]
+    "floating lotus flowers",
+    "purple-magenta gradient",
+    "golden typography",
+    "textured backgrounds",
+    "asymmetrical composition",
+    "decorative floral motifs"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "contrast",
+      "hierarchy",
+      "repetition",
+      "balance"
+    ],
+    "visual_techniques": [
+      "pattern overlay",
+      "floating elements",
+      "gradient backdrop"
+    ]
+  }
 }

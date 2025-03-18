@@ -1,0 +1,46 @@
+{
+  "id": "057",
+  "url": "https://www.csszengarden.com/057",
+  "css_url": "https://www.csszengarden.com/057/057.css",
+  "title": "This is Cereal",
+  "author": "Shaun Inman",
+  "description": {
+    "summary": "A clean, text-focused web design using food metaphors and culinary imagery to present coding concepts. The layout resembles a recipe page with elegant typography and subtle food elements.",
+    "visual_style": "Minimalist with purposeful white space and food-themed visual elements like cereal, a spoon, and a bowl creating a peaceful, instructional aesthetic.",
+    "emotional_impact": "Calm, contemplative atmosphere created through ample white space, soft food imagery, and a gentle burgundy accent color suggesting a meditative approach to coding.",
+    "compositional_elements": "Single-column layout with hierarchical text sections, complemented by decorative food elements and subtle navigation tools positioned strategically throughout the page."
+  },
+  "artistic_context": {
+    "style_influences": "Culinary publishing, zen minimalism, instructional design, traditional recipe book aesthetics",
+    "visual_metaphors": "Coding as nourishment, web design as cooking, learning as consumption"
+  },
+  "categories": [
+    "minimalist",
+    "instructional",
+    "metaphorical",
+    "single-column",
+    "typography-focused",
+    "zen-inspired"
+  ],
+  "visual_characteristics": [
+    "food-imagery",
+    "burgundy-accents",
+    "ample-whitespace",
+    "hierarchical-typography",
+    "decorative-spoon-element",
+    "subtle-texture"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "balance",
+      "hierarchy",
+      "white space",
+      "metaphor"
+    ],
+    "visual_techniques": [
+      "photographic elements",
+      "typographic contrast",
+      "visual anchoring"
+    ]
+  }
+}

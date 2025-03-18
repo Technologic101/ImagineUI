@@ -2,19 +2,45 @@
   "id": "176",
   "url": "https://www.csszengarden.com/176",
   "css_url": "https://www.csszengarden.com/176/176.css",
-  "description": "This design features a highly ornate and intricate black-and-white patterned background that provides a vintage and classical appeal. The central text area is neatly organized into sections with clear dividers and makes use of a gothic-style serif font that enhances the antiquated aesthetic. The use of art nouveau elements and medieval illustrations adds to the historical theme, creating a cohesive and visually distinct layout.",
+  "title": "Kelmscott",
+  "author": "Bronwen Hodgkinson",
+  "description": {
+    "summary": "An elaborate medieval-inspired web design featuring ornate floral borders and illuminated manuscript aesthetics with a stark black and white color scheme",
+    "visual_style": "The design employs medieval manuscript illumination techniques with intricate botanical patterns framing a structured text layout reminiscent of ancient codices",
+    "emotional_impact": "Creates a sense of historical reverence and craftsmanship through rich ornamentation and deliberate visual constraints",
+    "compositional_elements": "Structured with an elaborate decorative border enclosing a central column of content organized into distinct sections with decorative initials and woodcut-style illustrations"
+  },
+  "artistic_context": {
+    "style_influences": "Medieval illuminated manuscripts, Gothic ornamentation, woodcut illustration, Arts and Crafts movement",
+    "visual_metaphors": "Garden as knowledge, flourishing botanical elements representing growth and cultivation of skill"
+  },
   "categories": [
-    "Vintage",
-    "Classical",
-    "Historical",
-    "Typography",
-    "Illustrative"
+    "ornamental",
+    "historical",
+    "monochromatic",
+    "decorative",
+    "manuscript-inspired",
+    "illustrative"
   ],
   "visual_characteristics": [
-    "Ornate background",
-    "Gothic typography",
-    "Medieval illustrations",
-    "Monochromatic palette",
-    "Decorative borders"
-  ]
+    "intricate-patterning",
+    "botanical-motifs",
+    "illuminated-capitals",
+    "woodcut-illustrations",
+    "high-contrast",
+    "bordered-layout"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "contrast",
+      "rhythm",
+      "hierarchy",
+      "ornament"
+    ],
+    "visual_techniques": [
+      "decorative framing",
+      "illustrated elements",
+      "typographic variation"
+    ]
+  }
 }

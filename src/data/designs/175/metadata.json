@@ -2,19 +2,45 @@
   "id": "175",
   "url": "https://www.csszengarden.com/175",
   "css_url": "https://www.csszengarden.com/175/175.css",
-  "description": "The design showcases a balanced layout with a minimalist aesthetic, focused on demonstrating the power of CSS-based design. It features a clean and organized structure with a dominant use of blues and whites, complemented by modern, sans-serif typography. Silhouetted figures add a visual interest while maintaining a professional tone, making the page feel sophisticated and informative. The layout is well-suited for showcasing text content effectively, facilitating easy navigation through clear hierarchy.",
+  "title": "Business Style",
+  "author": "Gunta Klavina",
+  "description": {
+    "summary": "A minimalist web design showcasing the principles of clean CSS styling with a balanced, structured layout that combines a serene aesthetic with functional organization.",
+    "visual_style": "The design employs a zen-inspired simplicity with ample white space, clear typographic hierarchy, and a calming color palette centered around teal accents against a soft background.",
+    "emotional_impact": "Creates a sense of tranquility and order through its balanced composition, breathing room between elements, and subtle color transitions.",
+    "compositional_elements": "Well-defined content sections with clear boundaries, a two-column layout that transitions to single-column structures, and consistent spacing patterns that guide the eye naturally through the content."
+  },
+  "artistic_context": {
+    "style_influences": "Minimalism, modernist web design, Japanese zen aesthetics",
+    "visual_metaphors": "Garden as structure and growth, path to enlightenment, simplicity as beauty"
+  },
   "categories": [
-    "Minimalist",
-    "Technology",
-    "Informational",
-    "Professional",
-    "Modern"
+    "minimalist",
+    "structured",
+    "functional",
+    "clean",
+    "zen-inspired",
+    "grid-based"
   ],
   "visual_characteristics": [
-    "Clean layout",
-    "Balanced color palette",
-    "Silhouette imagery",
-    "Sans-serif typography",
-    "Organized structure"
-  ]
+    "limited-color-palette",
+    "generous-whitespace",
+    "silhouette-imagery",
+    "controlled-typography",
+    "sectional-composition",
+    "teal-accents"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "balance",
+      "hierarchy",
+      "simplicity",
+      "functionality"
+    ],
+    "visual_techniques": [
+      "negative space",
+      "color contrast",
+      "structural rhythm"
+    ]
+  }
 }

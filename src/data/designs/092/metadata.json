@@ -1,0 +1,46 @@
+{
+  "id": "092",
+  "url": "https://www.csszengarden.com/092",
+  "css_url": "https://www.csszengarden.com/092/092.css",
+  "title": "Port of Call",
+  "author": "Jessica Dunn",
+  "description": {
+    "summary": "A web design showcase featuring a dual-panel layout with atmospheric maritime imagery against a warm-toned navigation system, creating an artful blend of traditional aesthetics and technical functionality.",
+    "visual_style": "The design employs a zen-inspired aesthetic that pairs atmospheric photography with structured information architecture, creating contrast between organic imagery and precise typographic elements.",
+    "emotional_impact": "The warm amber glow against dark background creates a contemplative, enlightened mood reinforced by the metaphorical sailing vessels illuminated in golden light.",
+    "compositional_elements": "The layout features a vertical split with a primary content area in gold/amber tones on the left, a navigation system in dark brown on the right, and decorative maritime photography integrated as a header element."
+  },
+  "artistic_context": {
+    "style_influences": "Japanese zen aesthetics, maritime photography, early 2000s web design, ornamental framing techniques",
+    "visual_metaphors": "Sailing vessels as journey, golden light as enlightenment, structured panels as organized wisdom"
+  },
+  "categories": [
+    "atmospheric",
+    "duotone",
+    "zen-inspired",
+    "ornamental",
+    "hierarchical",
+    "maritime"
+  ],
+  "visual_characteristics": [
+    "golden-amber color scheme",
+    "split-panel layout",
+    "decorative maritime imagery",
+    "ornamental borders",
+    "high contrast typography",
+    "textural background"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "contrast",
+      "hierarchy",
+      "balance",
+      "framing"
+    ],
+    "visual_techniques": [
+      "atmospheric lighting",
+      "decorative borders",
+      "structural division"
+    ]
+  }
+}

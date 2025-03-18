@@ -2,19 +2,44 @@
   "id": "202",
   "url": "https://www.csszengarden.com/202",
   "css_url": "https://www.csszengarden.com/202/202.css",
-  "description": "This visual design combines a vintage cinema aesthetic with modern graphic elements, featuring a theatrical curtain framing and elegant typography for a sophisticated and nostalgic feel. The grayscale color palette enhances the retro theme, while the use of vertical symmetry in the layout adds order and clarity to the content presentation.",
+  "title": "Retro Theater",
+  "author": "Eric Rog",
+  "description": {
+    "summary": "A dramatic, theater-inspired web design with a dark monochromatic palette, framed by architectural elements resembling a classical stage or cinema",
+    "visual_style": "Vintage theatrical aesthetic with art deco influences, presenting content within a grand proscenium-like frame that creates the illusion of viewing a stage from audience seating",
+    "emotional_impact": "Evokes nostalgia and gravitas through the use of dramatic framing, high contrast, and the suggestion of a darkened theater space",
+    "compositional_elements": "Vertically oriented layout with theatrical curtain-like borders, creating a central stage area where content is hierarchically organized in a columnar structure"
+  },
+  "artistic_context": {
+    "style_influences": "Art deco, classic theater architecture, vintage cinema marquees, early web design aesthetics",
+    "aesthetic_period": "Blends early digital design with classical theatrical presentation motifs",
+    "visual_metaphors": "Theater/cinema as a portal to information, content as performance, audience as participant"
+  },
   "categories": [
-    "theatrical",
-    "vintage",
-    "graphic design",
-    "monochrome",
-    "elegant"
+    "Theatrical design",
+    "Monochromatic",
+    "Architectural framing",
+    "Vintage digital aesthetic",
+    "Vertical scrolling layout"
   ],
   "visual_characteristics": [
-    "grayscale palette",
-    "symmetrical layout",
-    "theatrical motif",
-    "vintage typography",
-    "curtain framing"
-  ]
+    "High contrast black and gray palette",
+    "Ornamental architectural framing elements",
+    "Dramatic diagonal light rays in header",
+    "Typographic grid system",
+    "Theater seating silhouette at bottom"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "Framing",
+      "Contrast",
+      "Hierarchy",
+      "Rhythm"
+    ],
+    "visual_techniques": [
+      "Architectural motifs",
+      "Spatial depth",
+      "Contextual theming"
+    ]
+  }
 }

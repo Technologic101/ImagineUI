@@ -1,0 +1,46 @@
+{
+  "id": "078",
+  "url": "https://www.csszengarden.com/078",
+  "css_url": "https://www.csszengarden.com/078/078.css",
+  "title": "Muto Verde",
+  "author": "Alex Taylor",
+  "description": {
+    "summary": "A visually distinct web design featuring a zen-inspired aesthetic with muted green sidebar panels contrasting against a textured parchment-like header and content sections with photographic backgrounds.",
+    "visual_style": "The design employs an asymmetrical layout with a narrow navigation column and wider content area, using textural contrasts and organic imagery to reinforce its contemplative theme.",
+    "emotional_impact": "The earthy color palette and textural elements evoke a calm, meditative atmosphere, while the structured layout provides clarity and order.",
+    "compositional_elements": "The page is divided into clearly defined sections with a left sidebar navigation area, header banner, and content sections delineated by photographic background panels."
+  },
+  "artistic_context": {
+    "style_influences": "Minimalist web design, Japanese zen aesthetics, early 2000s web interface conventions",
+    "visual_metaphors": "Garden path imagery suggesting a journey, enlightenment symbolized through structured progression"
+  },
+  "categories": [
+    "minimalist",
+    "nature-inspired",
+    "structured",
+    "textural",
+    "asymmetrical",
+    "earthy"
+  ],
+  "visual_characteristics": [
+    "muted color palette",
+    "textured backgrounds",
+    "clean typography",
+    "photographic panels",
+    "hierarchical layout",
+    "contrast banding"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "contrast",
+      "hierarchy",
+      "balance",
+      "rhythm"
+    ],
+    "visual_techniques": [
+      "textural layering",
+      "color blocking",
+      "typographic contrast"
+    ]
+  }
+}

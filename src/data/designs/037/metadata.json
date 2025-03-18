@@ -1,0 +1,46 @@
+{
+  "id": "037",
+  "url": "https://www.csszengarden.com/037",
+  "css_url": "https://www.csszengarden.com/037/037.css",
+  "title": "pret-a-porter",
+  "author": "Minz Meyer",
+  "description": {
+    "summary": "A minimalist web design showcase that balances structured grid layout with subtle organic elements, creating a harmonious blend of technical precision and zen-like simplicity.",
+    "visual_style": "The design adopts a clean, structured approach with a muted color palette, organized content blocks, and thoughtful use of typography to create a professional yet calming aesthetic.",
+    "emotional_impact": "Creates a sense of order and tranquility through balanced composition, generous whitespace, and subtle color accents that guide the viewer through a structured information journey.",
+    "compositional_elements": "Employs a modular grid system with distinct horizontal content sections, sidebar navigation, and harmonious text-to-space ratios that create visual rhythm."
+  },
+  "artistic_context": {
+    "style_influences": "Minimalist web design, Japanese zen aesthetics, early 2000s CSS showcase sites, modular grid systems",
+    "visual_metaphors": "Garden as organized structure, pathway to enlightenment, natural versus technical elements"
+  },
+  "categories": [
+    "minimalist",
+    "grid-based",
+    "functional",
+    "organized",
+    "zen-inspired",
+    "educational"
+  ],
+  "visual_characteristics": [
+    "horizontal content blocks",
+    "muted color palette",
+    "sidebar navigation",
+    "typographic hierarchy",
+    "organic accent elements",
+    "structured whitespace"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "balance",
+      "hierarchy",
+      "contrast",
+      "unity"
+    ],
+    "visual_techniques": [
+      "grid layout",
+      "color blocking",
+      "whitespace utilization"
+    ]
+  }
+}

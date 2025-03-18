@@ -1,0 +1,46 @@
+{
+  "id": "036",
+  "url": "https://www.csszengarden.com/036",
+  "css_url": "https://www.csszengarden.com/036/036.css",
+  "title": "White Lily",
+  "author": "Jens Kristensen",
+  "description": {
+    "summary": "A clean, structured web design that combines a vibrant natural imagery header with a minimalist content layout to demonstrate CSS design principles",
+    "visual_style": "The design employs a balanced contrast between organic imagery and structured grid-based content, using a restrained color palette with strategic accent colors",
+    "emotional_impact": "Creates a serene, contemplative atmosphere through the lily flower imagery and generous white space, evoking a sense of clarity and purpose",
+    "compositional_elements": "Features a horizontal band header with nature photography, followed by a two-column layout with clear vertical sections separated by subtle dividers"
+  },
+  "artistic_context": {
+    "style_influences": "Zen minimalism, digital modernism, nature-inspired design",
+    "visual_metaphors": "Blooming flower suggesting growth and enlightenment, structured columns representing order and clarity"
+  },
+  "categories": [
+    "minimalist",
+    "structured",
+    "nature-inspired",
+    "educational",
+    "grid-based",
+    "hierarchical"
+  ],
+  "visual_characteristics": [
+    "two-column layout",
+    "nature photography",
+    "white space",
+    "accent colors",
+    "typographic hierarchy",
+    "sectional dividers"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "balance",
+      "hierarchy",
+      "contrast",
+      "unity"
+    ],
+    "visual_techniques": [
+      "framing",
+      "negative space",
+      "color blocking"
+    ]
+  }
+}

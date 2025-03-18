@@ -2,17 +2,45 @@
   "id": "206",
   "url": "https://www.csszengarden.com/206",
   "css_url": "https://www.csszengarden.com/206/206.css",
-  "description": "The design adopts a minimalistic and clean aesthetic featuring a light background with earthy green accents, promoting a natural and serene theme. It uses simple typography, with titles and emphasis on certain words using bold and color variations, enhancing readability and visual flow.",
+  "title": "A Walk in the Garden",
+  "author": "Simon Van Hauwermeiren",
+  "description": {
+    "summary": "A nature-inspired web design showcasing CSS techniques through an organic metaphor of a garden boot in soil, balancing instructional content with earthy visual elements.",
+    "visual_style": "The design employs a minimalist approach with organic elements, using soft green panels against white space and natural imagery to create a harmonious, instructional environment.",
+    "emotional_impact": "The earthy palette and natural imagery evoke a sense of growth, learning, and organic development, creating a calm, meditative atmosphere.",
+    "compositional_elements": "The layout combines a clear vertical structure with horizontal green panels, using a boot-in-soil image as an anchor point and circular logo elements to break the grid pattern."
+  },
+  "artistic_context": {
+    "style_influences": "Minimalist web design, organic naturalism, instructional design aesthetics",
+    "visual_metaphors": "Garden as education, soil as foundation for growth, boot as tool for cultivation"
+  },
   "categories": [
-    "Minimalism",
-    "Clean Design",
-    "Typography",
-    "Nature Theme"
+    "organic",
+    "instructional",
+    "minimalist",
+    "nature-inspired",
+    "hierarchical",
+    "green-focused"
   ],
   "visual_characteristics": [
-    "Light Background",
-    "Green Accents",
-    "Simple Typography",
-    "Serene Aesthetic"
-  ]
+    "earth-tones",
+    "gradient panels",
+    "circular elements",
+    "natural photography",
+    "white space",
+    "vertical rhythm"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "hierarchy",
+      "contrast",
+      "repetition",
+      "simplicity"
+    ],
+    "visual_techniques": [
+      "photographic integration",
+      "panel grouping",
+      "icon usage"
+    ]
+  }
 }

@@ -2,19 +2,45 @@
   "id": "116",
   "url": "https://www.csszengarden.com/116",
   "css_url": "https://www.csszengarden.com/116/116.css",
-  "description": "The CSS Zen Garden design features a visually striking layout with a bold, distressed red and grey color palette that enhances the text-heavy composition. The design effectively uses a grunge aesthetic with textured backgrounds, creating an old-school, tactile feel. The typography is bold and prominent, with clear headings and subheadings that guide the reader through the content. The side navigation menu and text blocks are well-organized, ensuring functionality alongside artistic expression.",
+  "title": "Ragged",
+  "author": "Jose Florido",
+  "description": {
+    "summary": "A minimalist web design featuring a stark red and white color scheme with distressed textured edges, combining Eastern aesthetic influences with structured information display.",
+    "visual_style": "The design employs a highly structured grid layout with a distinctive red and white color palette, enhanced by intentionally rough, textured borders that create a handcrafted feel against the otherwise digital format.",
+    "emotional_impact": "The high-contrast color scheme creates visual tension while the structured layout provides clarity. The distressed elements evoke a sense of craftsmanship within a digital medium.",
+    "compositional_elements": "Clearly defined content sections with hierarchical headings delineated by textured red dividers, creating a rhythmic vertical flow with careful use of negative space."
+  },
+  "artistic_context": {
+    "style_influences": "Japanese aesthetics, wabi-sabi philosophy, brutalist web design, minimalist typographic systems",
+    "visual_metaphors": "Digital craftsmanship, structured simplicity, contrasting elements coexisting harmoniously"
+  },
   "categories": [
-    "Web Aesthetics",
-    "Typography",
-    "Layout Design",
-    "Visual Hierarchy",
-    "User Experience"
+    "minimalist",
+    "high-contrast",
+    "grid-based",
+    "textural",
+    "eastern-influenced",
+    "brutalist"
   ],
   "visual_characteristics": [
-    "Grunge Aesthetic",
-    "Distressed Textures",
-    "Bold Typography",
-    "Red and Grey Palette",
-    "Text-Heavy Design"
-  ]
+    "distressed borders",
+    "red-white contrast",
+    "hierarchical typography",
+    "negative space",
+    "structural grid",
+    "textural elements"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "contrast",
+      "hierarchy",
+      "balance",
+      "rhythm"
+    ],
+    "visual_techniques": [
+      "textural distressing",
+      "color blocking",
+      "typographic scaling"
+    ]
+  }
 }

@@ -1,0 +1,46 @@
+{
+  "id": "088",
+  "url": "https://www.csszengarden.com/088",
+  "css_url": "https://www.csszengarden.com/088/088.css",
+  "title": "Tulipe",
+  "author": "Eric Sheperd",
+  "description": {
+    "summary": "A harmonious web design showcasing minimalist principles with a soft natural aesthetic. The layout features a columnar structure containing text blocks balanced against a subtle patterned background and botanical imagery.",
+    "visual_style": "The design employs a tranquil, earth-toned palette with muted greens and soft beige backgrounds, creating a serene visual experience reinforced by organic textures and natural imagery.",
+    "emotional_impact": "The visual elements evoke a sense of calm and contemplation, with balanced proportions and generous white space creating an atmosphere of clarity and mindfulness.",
+    "compositional_elements": "A structured multi-column grid system presents content in clearly delineated panels, with subtle borders and consistent spacing. The natural floral element in the left corner provides organic contrast to the geometric layout."
+  },
+  "artistic_context": {
+    "style_influences": "Japanese minimalism, nature-inspired design, structured modernism",
+    "visual_metaphors": "Garden as ordered space, natural growth, tranquil contemplation"
+  },
+  "categories": [
+    "minimalist",
+    "grid-based",
+    "organic",
+    "earthy",
+    "structured",
+    "transparent"
+  ],
+  "visual_characteristics": [
+    "columnar-layout",
+    "subtle-textures",
+    "botanical-elements",
+    "muted-palette",
+    "geometric-partitioning",
+    "transparent-layering"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "balance",
+      "harmony",
+      "hierarchy",
+      "repetition"
+    ],
+    "visual_techniques": [
+      "textural contrast",
+      "natural imagery",
+      "consistent spacing"
+    ]
+  }
+}

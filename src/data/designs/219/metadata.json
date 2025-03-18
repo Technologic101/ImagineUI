@@ -1,0 +1,46 @@
+{
+  "id": "219",
+  "url": "https://www.csszengarden.com/219",
+  "css_url": "https://www.csszengarden.com/219/219.css",
+  "title": "Steel",
+  "author": "Steffen Knoeller",
+  "description": {
+    "summary": "A striking high-contrast website design featuring an immersive three-dimensional architectural space with floating information panels arranged in a virtual gallery format",
+    "visual_style": "The design employs dramatic noir aesthetics with stark black backgrounds and bright white typography creating an ultra-modern digital environment with theatrical lighting effects",
+    "emotional_impact": "Creates an atmosphere of sophistication and technological prowess through its dramatic contrast and spatial depth, evoking both intrigue and digital innovation",
+    "compositional_elements": "Floating rectangular panels are strategically positioned within a 3D architectural space, creating depth through perspective and dimensional layering"
+  },
+  "artistic_context": {
+    "style_influences": "Digital minimalism, architectural visualization, cinematic noir, virtual gallery spaces",
+    "visual_metaphors": "Digital cathedral, information architecture, virtual exhibition space"
+  },
+  "categories": [
+    "high-contrast",
+    "minimalist",
+    "architectural",
+    "dramatic",
+    "immersive",
+    "grid-based"
+  ],
+  "visual_characteristics": [
+    "3D perspective",
+    "floating panels",
+    "monochromatic palette",
+    "stark typography",
+    "spatial depth",
+    "theatrical lighting"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "contrast",
+      "hierarchy",
+      "spatial organization",
+      "perspective"
+    ],
+    "visual_techniques": [
+      "dimensional layering",
+      "typographic emphasis",
+      "simulated space"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "052",
+  "url": "https://www.csszengarden.com/052",
+  "css_url": "https://www.csszengarden.com/052/052.css",
+  "title": "Postage Paid",
+  "author": "Mike Stenhouse",
+  "description": {
+    "summary": "A tactile, textured web design layout mimicking a physical bulletin board with paper notes and elements pinned onto a kraft paper background, creating an analog feel in digital space.",
+    "visual_style": "The design employs a collage-like aesthetic with distinct rectangular elements arranged on a textured background, combining nostalgic physical media references with digital functionality.",
+    "emotional_impact": "The warm kraft paper tones and handwritten-style elements evoke a sense of craftsmanship and accessibility, balancing structure with an approachable, artisanal quality.",
+    "compositional_elements": "The composition features a collection of distinct rectangular content blocks arranged in an asymmetrical but balanced layout, with contrasting color blocks creating visual interest and hierarchy."
+  },
+  "artistic_context": {
+    "style_influences": "Material design, skeuomorphism, mid-century modern, DIY bulletin board aesthetics",
+    "visual_metaphors": "Bulletin board, mixed media collage, pinned notes, vintage postcard"
+  },
+  "categories": [
+    "skeuomorphic",
+    "textural",
+    "modular",
+    "vintage-inspired",
+    "collage",
+    "hand-crafted"
+  ],
+  "visual_characteristics": [
+    "kraft-paper background",
+    "modular content blocks",
+    "contrasting color panels",
+    "barcode graphic elements",
+    "red stamp accents",
+    "layered composition"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "contrast",
+      "hierarchy",
+      "texture",
+      "modularity"
+    ],
+    "visual_techniques": [
+      "color blocking",
+      "textural juxtaposition",
+      "visual metaphor"
+    ]
+  }
+}

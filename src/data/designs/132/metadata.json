@@ -2,19 +2,45 @@
   "id": "132",
   "url": "https://www.csszengarden.com/132",
   "css_url": "https://www.csszengarden.com/132/132.css",
-  "description": "This design features a minimalist and organic aesthetic with a primarily white background, accentuated by a vibrant green color palette symbolizing nature and tranquility. The layout creatively incorporates a tree branch illustration guiding the eye through the vertical text column on the right. Modern and sans-serif typography is used to maintain readability and elegance, reminiscent of a zen-like calm and clarity. The design\u2019s whitespace utilization offers an airy feel, emphasizing the content while adding to the serene mood.",
+  "title": "Bonsai",
+  "author": "Martin Plazotta",
+  "description": {
+    "summary": "A nature-inspired web design featuring an organic tree branch motif with vibrant green watercolor leaves against a clean white background, complemented by a pale green sidebar containing organized textual content.",
+    "visual_style": "The design employs a minimalist yet organic aesthetic, combining hand-drawn black branch illustrations with translucent watercolor-style foliage to create a zen-like visual metaphor for digital growth.",
+    "emotional_impact": "The design evokes a sense of tranquility and harmony through its natural imagery and breathing space, while the structured content areas maintain clarity and professionalism.",
+    "compositional_elements": "The layout contrasts organic, flowing elements on the right with structured, hierarchical content in a sidebar format, creating a balanced tension between natural freedom and organized information."
+  },
+  "artistic_context": {
+    "style_influences": "Japanese brush painting, minimalist web design, botanical illustration, watercolor techniques",
+    "visual_metaphors": "Growth, organic development, branching paths, natural harmony within structured environments"
+  },
   "categories": [
+    "organic",
     "minimalist",
     "nature-inspired",
-    "modern",
-    "zen-themed",
-    "typography-focused"
+    "hierarchical",
+    "asymmetrical",
+    "instructional"
   ],
   "visual_characteristics": [
-    "white background",
-    "green accents",
-    "illustrative elements",
-    "sans-serif typography",
-    "ample whitespace"
-  ]
+    "watercolor foliage",
+    "calligraphic line work",
+    "green-white contrast",
+    "nested content blocks",
+    "bullet-point navigation",
+    "organic-geometric fusion"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "contrast",
+      "hierarchy",
+      "balance",
+      "metaphor"
+    ],
+    "visual_techniques": [
+      "organic illustration",
+      "modular content",
+      "directional flow"
+    ]
+  }
 }

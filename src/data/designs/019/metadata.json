@@ -2,19 +2,45 @@
   "id": "019",
   "url": "https://www.csszengarden.com/019",
   "css_url": "https://www.csszengarden.com/019/019.css",
-  "description": "This design showcases a minimalist aesthetic with a focus on typography and a dark color scheme. The bold, grungy text at the top captures attention, reflecting a modern and edgy look. The layout is evenly distributed with a strong emphasis on text clarity, balancing various sections across a predominantly black background that enhances readability. Intriguing texture effects on the title further accentuate the modern yet retro style, making the design captivating for those interested in creative and functional typography.",
+  "title": "What Lies Beneath",
+  "author": "Michael Pick",
+  "description": {
+    "summary": "A dark, atmospheric web design with a Zen-inspired aesthetic that contrasts weathered textures against precise typography and structured content layout.",
+    "visual_style": "The design employs a dramatic, high-contrast visual language with textural dark backgrounds and carefully arranged textual elements that create an immersive, contemplative atmosphere.",
+    "emotional_impact": "Evokes a meditative, mysterious mood through the use of deep blacks, textural surfaces, and subtle organic elements, creating a sense of depth and ancient wisdom.",
+    "compositional_elements": "Structured as a horizontal layout with clear content divisions, featuring a prominent header, navigation strip, and content columns arranged in a balanced grid system."
+  },
+  "artistic_context": {
+    "style_influences": "Japanese Zen aesthetics, digital grunge, industrial texture, minimalist typography",
+    "visual_metaphors": "Path through darkness, ancient wisdom, weathered artifacts, natural growth against structure"
+  },
   "categories": [
-    "Typography",
-    "Minimalism",
-    "Modern",
-    "Dark Theme",
-    "Textured"
+    "dark",
+    "textural",
+    "minimalist",
+    "grid-based",
+    "atmospheric",
+    "high-contrast"
   ],
   "visual_characteristics": [
-    "Bold Typography",
-    "Grunge Texture",
-    "Dark Background",
-    "Column Layout",
-    "High Contrast Text"
-  ]
+    "textured backgrounds",
+    "weathered surfaces",
+    "columnar layout",
+    "stark typography",
+    "organic header element",
+    "dramatic lighting"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "contrast",
+      "hierarchy",
+      "balance",
+      "rhythm"
+    ],
+    "visual_techniques": [
+      "textural layering",
+      "typographic scale",
+      "negative space"
+    ]
+  }
 }

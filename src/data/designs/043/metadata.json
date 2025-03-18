@@ -1,0 +1,46 @@
+{
+  "id": "043",
+  "url": "https://www.csszengarden.com/043",
+  "css_url": "https://www.csszengarden.com/043/043.css",
+  "title": "Burning",
+  "author": "Kevin & Ethel Davis",
+  "description": {
+    "summary": "A zen-inspired web design featuring an artistic abstract painting alongside structured textual content, creating a harmonious balance between organic artistry and technical precision.",
+    "visual_style": "The design employs a subdued earth-tone palette with an artistic abstract painting as a focal element, juxtaposed against structured content blocks in a minimalist layout.",
+    "emotional_impact": "The combination of organic artistic elements with ordered content creates a contemplative, serene atmosphere that evokes tranquility while maintaining functionality.",
+    "compositional_elements": "The layout is divided into distinct vertical sections with the artistic element occupying the top-right quadrant, while text blocks in muted green panels create a strong vertical rhythm."
+  },
+  "artistic_context": {
+    "style_influences": "Japanese zen aesthetics, abstract expressionism, minimalist web design",
+    "visual_metaphors": "Path to enlightenment, garden as structured growth, organic versus structured forms"
+  },
+  "categories": [
+    "minimalist",
+    "zen-inspired",
+    "earthy",
+    "structured",
+    "artistic",
+    "functional"
+  ],
+  "visual_characteristics": [
+    "abstract-painting",
+    "earth-tone-palette",
+    "panel-based-layout",
+    "typographic-hierarchy",
+    "negative-space",
+    "vertical-rhythm"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "contrast",
+      "balance",
+      "hierarchy",
+      "unity"
+    ],
+    "visual_techniques": [
+      "textural juxtaposition",
+      "color harmony",
+      "grid-based organization"
+    ]
+  }
+}

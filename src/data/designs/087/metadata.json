@@ -1,0 +1,46 @@
+{
+  "id": "087",
+  "url": "https://www.csszengarden.com/087",
+  "css_url": "https://www.csszengarden.com/087/087.css",
+  "title": "Maya",
+  "author": "Bernd Willenberg",
+  "description": {
+    "summary": "A visually striking web design featuring a dark metallic background with sculptural imagery and organized textual content, creating a balance between artistic expression and technical showcase.",
+    "visual_style": "The design employs a dramatic aesthetic with sculptural art juxtaposed against a structured, grid-based layout. Orange-gold accent colors create visual anchors against the dark slate background.",
+    "emotional_impact": "Evokes a sense of mystique and ancient wisdom through the sculptural imagery, while maintaining technical authority through the structured information presentation.",
+    "compositional_elements": "Left column features navigational elements, center displays the main content in a hierarchical structure with distinct heading sections, while artistic imagery anchors the top-left portion creating visual weight."
+  },
+  "artistic_context": {
+    "style_influences": "Eastern artistic motifs, industrial/metallic textures, early web design aesthetics",
+    "visual_metaphors": "Journey, illumination, craftsmanship, ancient wisdom"
+  },
+  "categories": [
+    "dark-themed",
+    "contrast-driven",
+    "asymmetrical",
+    "grid-based",
+    "sculptural",
+    "technical"
+  ],
+  "visual_characteristics": [
+    "metallic textures",
+    "orange-gold accents",
+    "hierarchical typography",
+    "sculptural imagery",
+    "sidebar navigation",
+    "structured content blocks"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "contrast",
+      "hierarchy",
+      "balance",
+      "emphasis"
+    ],
+    "visual_techniques": [
+      "accent coloring",
+      "textural layering",
+      "asymmetrical composition"
+    ]
+  }
+}

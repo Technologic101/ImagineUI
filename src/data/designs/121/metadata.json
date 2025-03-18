@@ -2,17 +2,45 @@
   "id": "121",
   "url": "https://www.csszengarden.com/121",
   "css_url": "https://www.csszengarden.com/121/121.css",
-  "description": "This design is characterized by a structured and compartmentalized layout, with a cool blue color palette that promotes tranquility and focus. The use of headings with indentation enhances readability and directs the viewer's attention effectively. The navigation pane on the left utilizes bordered boxes for categorization, enhancing organization and clarity. The inclusion of subtle graphic elements like the duck adds a touch of whimsy, balancing the otherwise professional tone of the design.",
+  "title": "60's Lifestyle",
+  "author": "Emiliano Pennisi",
+  "description": {
+    "summary": "A nostalgic web design featuring a 1960s-inspired header with a vintage car and whimsical elements set against a geometric blue backdrop, paired with a structured content layout below",
+    "visual_style": "The design blends retro illustration with modern web layout principles, creating a distinct contrast between the playful header and the organized, functional content sections",
+    "emotional_impact": "Evokes a sense of nostalgia and whimsy through the vintage imagery while maintaining clarity and usability through structured information architecture",
+    "compositional_elements": "Strong horizontal divisions separate content areas, with a vibrant illustrative header balanced by organized, text-heavy sections below in a more subdued color palette"
+  },
+  "artistic_context": {
+    "style_influences": "Mid-century modern graphic design, 1960s advertising aesthetics, blue-print geometric patterns",
+    "visual_metaphors": "Journey through time, organized chaos, technological evolution"
+  },
   "categories": [
-    "web design",
-    "modern",
-    "structured layout",
-    "educational"
+    "retro-modern",
+    "illustrative",
+    "geometric",
+    "structured",
+    "educational",
+    "two-toned"
   ],
   "visual_characteristics": [
-    "blue color palette",
-    "bordered sections",
-    "graphic elements",
-    "simple typography"
-  ]
+    "vintage automobile illustration",
+    "geometric background pattern",
+    "split complementary color scheme",
+    "hierarchical navigation",
+    "segmented content blocks",
+    "accordion-style information design"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "contrast",
+      "hierarchy",
+      "repetition",
+      "balance"
+    ],
+    "visual_techniques": [
+      "color blocking",
+      "illustrated iconography",
+      "boxed content sections"
+    ]
+  }
 }

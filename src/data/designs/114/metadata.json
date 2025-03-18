@@ -2,17 +2,45 @@
   "id": "114",
   "url": "https://www.csszengarden.com/114",
   "css_url": "https://www.csszengarden.com/114/114.css",
-  "description": "This design embodies a blend of modern and classic web aesthetics, featuring a clean layout with ample whitespace and a muted color palette that exudes calm. The top banner utilizes an artistic image overlay with a textual emphasis on 'CSS Zen Garden,' setting an inspirational tone. The typography is elegant and easily readable, complementing the overall serene and educational theme of the design. A sidebar navigation menu efficiently organizes links in a concise manner with a straightforward list format, enhancing usability.",
+  "title": "Salvage Yard",
+  "author": "Justin Peters",
+  "description": {
+    "summary": "A nostalgic web design demonstrating CSS styling capabilities through a zen garden concept, combining organic imagery with structured layout patterns",
+    "visual_style": "The design employs a harmonious blend of natural photographic elements and structured text areas, creating a juxtaposition between organic and digital aesthetics",
+    "emotional_impact": "Evokes a calm, contemplative mood through soft color transitions and natural imagery, balanced with an organized information hierarchy",
+    "compositional_elements": "Features a multi-column layout with distinct content zones, using header banners with photographic elements to separate thematic sections"
+  },
+  "artistic_context": {
+    "style_influences": "Japanese zen garden philosophy, early 2000s web design aesthetics, nature-inspired digital art",
+    "visual_metaphors": "Path/journey imagery, natural elements representing growth and harmony, structured layout symbolizing order within organic systems"
+  },
   "categories": [
-    "Web Design",
-    "Educational",
-    "Minimalist",
-    "Inspirational"
+    "instructional",
+    "nature-inspired",
+    "minimalist",
+    "grid-based",
+    "educational",
+    "retro-web"
   ],
   "visual_characteristics": [
-    "Muted Color Palette",
-    "Whitespaces",
-    "Overlay Image",
-    "Elegant Typography"
-  ]
+    "muted color palette",
+    "photographic headers",
+    "multi-column layout",
+    "contrasting text sections",
+    "natural texture elements",
+    "hierarchical typography"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "contrast",
+      "repetition",
+      "alignment",
+      "proximity"
+    ],
+    "visual_techniques": [
+      "textural juxtaposition",
+      "photographic framing",
+      "color blocking"
+    ]
+  }
 }

@@ -2,19 +2,45 @@
   "id": "012",
   "url": "https://www.csszengarden.com/012",
   "css_url": "https://www.csszengarden.com/012/012.css",
-  "description": "The design features a dark and futuristic aesthetic with a strong emphasis on the color combination of black and yellow/orange. The layout includes sections for navigation and informational content, using a structured grid that balances text blocks with vibrant background graphics. The style is reminiscent of a sci-fi interface, creating an engaging and modern visual experience.",
+  "title": "TechnOhm",
+  "author": "Joshua Ambrutis",
+  "description": {
+    "summary": "A dark, tech-inspired interface featuring metallic textures and glowing yellow-gold accents against a charcoal background, structured with a modular panel layout and strong visual hierarchy.",
+    "visual_style": "The design employs an industrial-futuristic aesthetic with metallic surfaces, riveted borders, and glowing elements that create a sense of technical sophistication and digital craftsmanship.",
+    "emotional_impact": "The contrast between dark backgrounds and luminous yellow-gold elements creates a contemplative yet energetic atmosphere, evoking both technical precision and organic flow.",
+    "compositional_elements": "Structured content panels with distinct header elements organize information, while fluid, abstract golden waves at the bottom and top provide organic counterpoints to the rigid layout."
+  },
+  "artistic_context": {
+    "style_influences": "Industrial design, cyberpunk aesthetics, early 2000s web interfaces, technical illustration",
+    "visual_metaphors": "Mechanical precision, illumination amid darkness, structured pathways, technological garden"
+  },
   "categories": [
-    "Futuristic",
-    "Dark Theme",
-    "Tech-oriented",
-    "Informational",
-    "Structured Layout"
+    "industrial",
+    "tech-inspired",
+    "modular",
+    "high-contrast",
+    "metallic",
+    "illuminated"
   ],
   "visual_characteristics": [
-    "Dark Background",
-    "Contrast Highlights",
-    "Structured Grid",
-    "Modern Typography",
-    "Vibrant Graphics"
-  ]
+    "glowing accents",
+    "metallic textures",
+    "riveted borders",
+    "paneled layout",
+    "golden gradients",
+    "abstract waves"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "hierarchy",
+      "contrast",
+      "repetition",
+      "alignment"
+    ],
+    "visual_techniques": [
+      "texture layering",
+      "light emission",
+      "modular structuring"
+    ]
+  }
 }

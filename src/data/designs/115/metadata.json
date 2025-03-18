@@ -2,18 +2,45 @@
   "id": "115",
   "url": "https://www.csszengarden.com/115",
   "css_url": "https://www.csszengarden.com/115/115.css",
-  "description": "The design utilizes a dramatic red and black color palette, creating a high contrast and visually striking interface that emphasizes boldness and clarity. The layout is structured with a central column for main content and a sidebar for navigation, enhancing usability. Typography is classic and easy to read, using white text for legibility against dark backgrounds. The design features subtle gradient backgrounds and occasional fiery imagery, contributing to a dynamic and modern aesthetic.",
+  "title": "Burnt Offering",
+  "author": "Jonny Blair",
+  "description": {
+    "summary": "A dramatic, high-contrast web design featuring a deep red color scheme with flame imagery creating a powerful, mystical atmosphere around a structured content layout.",
+    "visual_style": "The design employs a strong Eastern aesthetic with contemplative spiritual undertones, using fire motifs against dark backgrounds to create tension and visual impact.",
+    "emotional_impact": "Evokes a sense of enlightenment and transformation through the dramatic contrast between dark backgrounds and fiery red-orange accents, creating both urgency and wisdom.",
+    "compositional_elements": "Organized in clear horizontal sections with a two-column layout. Strong header dominates the top, with alternating background colors defining content areas below."
+  },
+  "artistic_context": {
+    "style_influences": "Eastern philosophical aesthetics, meditative arts, elemental symbolism",
+    "visual_metaphors": "Fire as transformation, journey as enlightenment, structure as discipline"
+  },
   "categories": [
-    "Web Design",
-    "Minimalist",
-    "Modern",
-    "Typography"
+    "dramatic",
+    "high-contrast",
+    "structured",
+    "eastern-inspired",
+    "elemental",
+    "minimalist"
   ],
   "visual_characteristics": [
-    "High Contrast",
-    "Central Column Layout",
-    "Bold Typography",
-    "Red and Black Palette",
-    "Gradient Background"
-  ]
+    "flame-imagery",
+    "dark-red-palette",
+    "sectioned-layout",
+    "typographic-hierarchy",
+    "negative-space",
+    "border-defined-areas"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "contrast",
+      "hierarchy",
+      "repetition",
+      "balance"
+    ],
+    "visual_techniques": [
+      "color symbolism",
+      "textural background",
+      "vertical rhythm"
+    ]
+  }
 }

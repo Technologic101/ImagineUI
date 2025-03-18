@@ -1,0 +1,46 @@
+{
+  "id": "045",
+  "url": "https://www.csszengarden.com/045",
+  "css_url": "https://www.csszengarden.com/045/045.css",
+  "title": "I Dream in Colour",
+  "author": "Jeff Bilen",
+  "description": {
+    "summary": "A minimalist web design that blends Eastern-inspired aesthetics with clean, functional layout principles, featuring a subtle lily flower graphic as a decorative element against a predominantly white background.",
+    "visual_style": "The design employs a serene, understated approach with careful typography placement and generous white space, creating a calm, meditative visual experience.",
+    "emotional_impact": "The composition evokes tranquility and clarity through its balanced structure, subtle floral imagery, and restrained color palette.",
+    "compositional_elements": "The layout uses a well-defined grid system with clear content blocks, hierarchical typography, and strategic positioning of decorative elements that frame rather than overwhelm the content."
+  },
+  "artistic_context": {
+    "style_influences": "Minimalism, Japanese design principles, traditional scroll layout",
+    "visual_metaphors": "Garden as knowledge cultivation, blooming flower as creative growth, path as learning journey"
+  },
+  "categories": [
+    "minimalist",
+    "elegant",
+    "grid-based",
+    "monochromatic",
+    "nature-inspired",
+    "zen"
+  ],
+  "visual_characteristics": [
+    "botanical illustration",
+    "negative space",
+    "typographic hierarchy",
+    "column layout",
+    "delicate line work",
+    "faded imagery"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "balance",
+      "whitespace",
+      "hierarchy",
+      "simplicity"
+    ],
+    "visual_techniques": [
+      "framing",
+      "subtle contrast",
+      "visual anchoring"
+    ]
+  }
+}

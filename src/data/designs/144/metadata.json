@@ -2,17 +2,45 @@
   "id": "144",
   "url": "https://www.csszengarden.com/144",
   "css_url": "https://www.csszengarden.com/144/144.css",
-  "description": "The design features a clean and minimalist aesthetic relying on ample whitespace and a soft pastel color palette dominated by light greens and yellows. The layout is well-structured with a prominent header and column-based navigation, which is aligned alongside text-heavy content blocks. Subdued typography enhances readability, harmoniously complementing the overall calm and enlightening mood of the design.",
+  "title": "Verdure",
+  "author": "Lim Yuan Qing",
+  "description": {
+    "summary": "A serene, nature-inspired web design that combines organic imagery with structured layout principles to demonstrate CSS capabilities while evoking a zen-like aesthetic.",
+    "visual_style": "The design employs a minimalist approach with natural elements, creating a harmonious balance between organic photography and structured information presentation.",
+    "emotional_impact": "The verdant imagery and soft color palette evoke tranquility and contemplation, reinforced by the spacious layout and gentle visual rhythm.",
+    "compositional_elements": "A well-defined two-column layout with a prominent nature header image, clear typographic hierarchy, and thoughtful spacing creates an organized yet organic flow."
+  },
+  "artistic_context": {
+    "style_influences": "Japanese zen garden aesthetics, minimalist web design, organic naturalism",
+    "visual_metaphors": "Garden as growth and cultivation, path as learning journey, natural harmony as design ideal"
+  },
   "categories": [
-    "Minimalist",
-    "Corporate",
-    "Educational",
-    "Professional"
+    "minimalist",
+    "nature-inspired",
+    "structured",
+    "organic",
+    "two-column",
+    "instructional"
   ],
   "visual_characteristics": [
-    "Whitespace",
-    "Soft Pastel Colors",
-    "Column Layout",
-    "Subdued Typography"
-  ]
+    "green-dominant palette",
+    "photographic header",
+    "asymmetrical balance",
+    "typographic contrast",
+    "subtle iconography",
+    "hierarchical spacing"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "balance",
+      "hierarchy",
+      "contrast",
+      "harmony"
+    ],
+    "visual_techniques": [
+      "natural imagery",
+      "dual-column structure",
+      "accent colors"
+    ]
+  }
 }

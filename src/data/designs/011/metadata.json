@@ -2,21 +2,45 @@
   "id": "011",
   "url": "https://www.csszengarden.com/011",
   "css_url": "https://www.csszengarden.com/011/011.css",
-  "description": "The design features a harmonious blend of text and imagery, utilizing a soft color palette with blue and orange highlights. The layout is structured yet fluid, encouraging readability and engagement. Elegant typography and an artistic illustration enhance the page's aesthetics, appealing to a design-conscious audience.",
+  "title": "css Zen Garden submission 011 - 'meliorism' by Brett J. Gilbert - www.paragraphic.co.uk",
+  "author": "Brett J. Gilbert",
+  "description": {
+    "summary": "A serene, nature-inspired web design showcasing an elegant blue botanical illustration against a soft gradient background, creating harmony between content and artistic elements.",
+    "visual_style": "The design employs a minimalist aesthetic with a prominent decorative illustration of a blue tree or branch as its focal point, balancing structured content columns with organic visual elements.",
+    "emotional_impact": "Evokes tranquility and contemplation through its gentle color palette and flowing botanical imagery, reinforcing the 'zen garden' concept while maintaining clarity of purpose.",
+    "compositional_elements": "Uses a multi-column layout with clear content hierarchy, where the central organic illustration serves as both divider and visual anchor between functional content areas."
+  },
+  "artistic_context": {
+    "style_influences": "Japanese watercolor, minimalist web design, natural illustration",
+    "visual_metaphors": "Growth, organic flow, digital tranquility, enlightenment"
+  },
   "categories": [
-    "Web Design",
-    "Typography",
-    "Graphic Design",
-    "Artistic Design",
-    "Minimalism",
-    "Usability"
+    "minimalist",
+    "nature-inspired",
+    "elegant",
+    "grid-based",
+    "monochromatic",
+    "harmonious"
   ],
   "visual_characteristics": [
-    "Soft Color Palette",
-    "Elegant Typography",
-    "Fluid Layout",
-    "Artistic Illustration",
-    "Text-Centric",
-    "Readability Focus"
-  ]
+    "blue-dominant palette",
+    "botanical illustration",
+    "multi-column layout",
+    "gradient header",
+    "typographic contrast",
+    "balanced white space"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "balance",
+      "harmony",
+      "hierarchy",
+      "contrast"
+    ],
+    "visual_techniques": [
+      "color harmony",
+      "negative space",
+      "focal illustration"
+    ]
+  }
 }

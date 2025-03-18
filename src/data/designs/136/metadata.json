@@ -2,19 +2,45 @@
   "id": "136",
   "url": "https://www.csszengarden.com/136",
   "css_url": "https://www.csszengarden.com/136/136.css",
-  "description": "This visual design embraces a Halloween theme with a dark and eerie aesthetic, characterized by a vivid contrast between a black background and blood-red highlights. The imagery of a pumpkin and drops of blood create a dramatic focal point, while the use of red text on black further enhances the spooky and mysterious mood. The layout is clean, with well-organized text blocks, allowing for easy navigation and a cohesive flow. The dark design communicates themes of mystery and elegance, appealing to audiences who appreciate gothic or suspenseful visuals.",
+  "title": "The Final Ending",
+  "author": "Ray Henry",
+  "description": {
+    "summary": "A dramatic dark-themed web design featuring a glowing jack-o'-lantern set against a black background with striking blood-red design elements and typography.",
+    "visual_style": "Gothic horror aesthetic with high contrast elements, featuring dramatic lighting effects and deliberate bloodstain-like visual motifs that create an immersive, unsettling atmosphere.",
+    "emotional_impact": "Evokes a sense of foreboding and mystery through the use of deep shadows, blood-red accents, and eerie imagery that creates tension and visual intrigue.",
+    "compositional_elements": "Asymmetrical layout with strong vertical content flow, punctuated by bold red headings and strategic placement of visual elements against the dark canvas."
+  },
+  "artistic_context": {
+    "style_influences": "Horror film aesthetics, gothic design, grunge textures, Halloween iconography",
+    "visual_metaphors": "Blood drips representing creative flow, illuminated pumpkin suggesting enlightenment amidst darkness"
+  },
   "categories": [
-    "Halloween Theme",
-    "Dark Aesthetic",
-    "Eerie Mood",
-    "Bold Contrast",
-    "Gothic Style"
+    "gothic",
+    "high-contrast",
+    "dark-themed",
+    "atmospheric",
+    "horror-inspired",
+    "textural"
   ],
   "visual_characteristics": [
-    "Black and Red Color Palette",
-    "Pumpkin Imagery",
-    "Blood Splatter Accent",
-    "Clean Layout",
-    "Gothic Typography"
-  ]
+    "blood-drip effects",
+    "glowing jack-o'-lantern",
+    "red-on-black contrast",
+    "textured background",
+    "dramatic lighting",
+    "grunge aesthetics"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "contrast",
+      "emphasis",
+      "hierarchy",
+      "atmosphere"
+    ],
+    "visual_techniques": [
+      "dramatic lighting",
+      "textural layering",
+      "color psychology"
+    ]
+  }
 }

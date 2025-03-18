@@ -1,0 +1,46 @@
+{
+  "id": "094",
+  "url": "https://www.csszengarden.com/094",
+  "css_url": "https://www.csszengarden.com/094/094.css",
+  "title": "Deco",
+  "author": "Marc Trudel",
+  "description": {
+    "summary": "A clean, structured web interface combining architectural photography with a minimalist information layout, creating a harmonious balance between visual inspiration and functional content",
+    "visual_style": "Minimalist and structured design with a strong emphasis on spatial organization, using a blue sidebar and white content panels for clear information hierarchy",
+    "emotional_impact": "Calm, orderly, and contemplative atmosphere created through the balanced composition, blue tones, and architectural imagery",
+    "compositional_elements": "Split-screen layout with a vertical blue navigation panel contrasting against white content areas and an architectural photograph creating visual depth"
+  },
+  "artistic_context": {
+    "style_influences": "Modernist web design, architectural photography, minimalist information design",
+    "visual_metaphors": "Structure, clarity, ordered progression, openness"
+  },
+  "categories": [
+    "minimalist",
+    "architectural",
+    "structured",
+    "grid-based",
+    "clean",
+    "functional"
+  ],
+  "visual_characteristics": [
+    "split-panel layout",
+    "blue-white color scheme",
+    "hierarchical typography",
+    "negative space",
+    "architectural imagery",
+    "modular content blocks"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "contrast",
+      "hierarchy",
+      "alignment",
+      "balance"
+    ],
+    "visual_techniques": [
+      "color blocking",
+      "whitespace utilization",
+      "vertical rhythm"
+    ]
+  }
+}

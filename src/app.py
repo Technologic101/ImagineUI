@@ -1,19 +1,6 @@
 import chainlit as cl
-from langchain_openai import AsyncChatOpenAI
 from langchain_core.messages import HumanMessage, SystemMessage
-from chains.design_rag import DesignRAG
-
-# Initialize components
-design_rag = DesignRAG()
-
-llm = AsyncChatOpenAI(
-    model="gpt-4o-mini",
-    temperature=0,
-    streaming=True,
-    callbacks=[cl.LangchainCallbackHandler()]
-)
-
-conversation_history = []
+from graph import graph
 
 # System message focused on design analysis
 SYSTEM_MESSAGE = """You are a helpful design assistant that finds and explains design examples.
@@ -23,43 +10,45 @@ For every user message, analyze their design preferences and requirements, consi
 3. Layout and structural needs
 4. Key visual elements
 5. Intended audience and user experience
-
-First briefly explain how you understand their requirements, then show the closest match."""
+"""
 
 @cl.on_chat_start
 async def init():
+    # Store the graph in the user session
+    cl.user_session.set("graph", graph)
     
-    # init conversation history for each user
-    cl.user_session.set("conversation_history", [
-        SystemMessage(content=SYSTEM_MESSAGE)
-    ])
+    # Initialize conversation state with system message
+    initial_state = {
+        "messages": [SystemMessage(content=SYSTEM_MESSAGE)]
+    }
+    cl.user_session.set("state", initial_state)
     
     # Send welcome message
     await cl.Message(content="Welcome to ImagineUI! I'm here to help you design beautiful and functional user interfaces. What kind of design are you looking for?").send()
 
 @cl.on_message
 async def main(message: cl.Message):
-    conversation_history = cl.user_session.get("conversation_history")
-    # Add user message to history
-    conversation_history.append(HumanMessage(content=message.content))
+    # Get the graph from the user session
+    graph = cl.user_session.get("graph")
     
-    # Get LLM's analysis of requirements
-    analysis = await llm.ainvoke(conversation_history)
+    # Get current state
+    state = cl.user_session.get("state")
     
-    # Get best design example based on full conversation
-    designs = await design_rag.query_similar_designs(
-        [msg.content for msg in conversation_history],
-        num_examples=1
-    )
+    # Add the new user message to the state
+    state["messages"].append(HumanMessage(content=message.content))
     
-    # Combine analysis with designs
-    response = f"{analysis.content}\n\nHere is the best match from the zen garden:\n\n{designs}"
+    # Process message through the graph
+    result = await graph.ainvoke(state)
+    print("Here's the result: ", result)
     
-    # Add assistant's response to history
-    conversation_history.append(SystemMessage(content=response))
+    # Update state with the result
+    state["messages"].extend(result["messages"])
+    
+    # Extract the last assistant message for display
+    last_message = result["messages"][-1].content
     
     # Send response to user
-    await cl.Message(content=response).send()
+    await cl.Message(content=last_message).send()
 
 if __name__ == "__main__":
-    cl.run() 
+    cl.run()

@@ -2,19 +2,45 @@
   "id": "013",
   "url": "https://www.csszengarden.com/013",
   "css_url": "https://www.csszengarden.com/013/013.css",
-  "description": "The design showcases a blend of modern and vintage aesthetics with a primarily neutral color palette accented by subtle decorative details. Featuring evenly spaced typography that guides the reader down the page, it integrates ornate flourishes that add elegance to key headings. The minimalistic sidebar juxtaposes the main text block, providing a functional and complementary contrast. The overall layout preserves clarity and readability while incorporating decorative elements that enhance visual interest without overwhelming the content.",
+  "title": "Coastal Breeze",
+  "author": "Dave Shea",
+  "description": {
+    "summary": "A serene, educational webpage design with organic decorative elements framing a clean, text-focused layout that conveys technical information in an aesthetically pleasing manner.",
+    "visual_style": "The design employs a minimalist approach with natural ornamentation, featuring a delicate balance between structured content and organic decorative elements at the top, bottom, and borders.",
+    "emotional_impact": "The natural imagery and earthy color palette evoke tranquility and contemplation, befitting the 'Zen Garden' theme while maintaining professional clarity.",
+    "compositional_elements": "A strong vertical flow guides the reader through well-spaced text blocks, with decorative natural elements creating a frame without overwhelming the content."
+  },
+  "artistic_context": {
+    "style_influences": "Asian-inspired minimalism, digital naturalism, organic web design",
+    "visual_metaphors": "Garden as learning space, natural elements as digital growth, organic structure as web harmony"
+  },
   "categories": [
-    "web aesthetics",
-    "typography design",
-    "vintage style",
-    "content layout",
-    "minimalist design"
+    "minimalist",
+    "nature-inspired",
+    "educational",
+    "two-column",
+    "organic",
+    "zen-aesthetic"
   ],
   "visual_characteristics": [
-    "neutral color palette",
-    "elegant flourishes",
-    "decorative typography",
-    "balanced whitespace",
-    "ornate headings"
-  ]
+    "natural ornamentation",
+    "earth-tone palette",
+    "asymmetrical balance",
+    "decorative dividers",
+    "textured borders",
+    "botanical elements"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "balance",
+      "harmony",
+      "rhythm",
+      "contrast"
+    ],
+    "visual_techniques": [
+      "framing",
+      "white space utilization",
+      "natural texturing"
+    ]
+  }
 }

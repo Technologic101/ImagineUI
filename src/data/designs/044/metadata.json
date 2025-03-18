@@ -1,0 +1,46 @@
+{
+  "id": "044",
+  "url": "https://www.csszengarden.com/044",
+  "css_url": "https://www.csszengarden.com/044/044.css",
+  "title": "si6",
+  "author": "Shaun Inman",
+  "description": {
+    "summary": "A minimalist web design featuring a clean, structured layout with a distinctive yellow highlight band and subtle architectural photography as background elements.",
+    "visual_style": "The design employs a modernist approach with asymmetrical balance, emphasizing negative space and typographic hierarchy to create a sense of order and clarity.",
+    "emotional_impact": "Creates a calm, meditative atmosphere through ample white space and selective use of vibrant yellow against neutral tones, conveying both zen-like simplicity and technical precision.",
+    "compositional_elements": "Organized in a vertical column structure with clear section demarcations, featuring a striking yellow highlight band across the top section that serves as a focal point against the predominantly white background."
+  },
+  "artistic_context": {
+    "style_influences": "Bauhaus, Swiss modernism, Japanese minimalism, architectural photography",
+    "visual_metaphors": "Structure as foundation, light as enlightenment, space as clarity, contrast as focus"
+  },
+  "categories": [
+    "minimalist",
+    "grid-based",
+    "architectural",
+    "modernist",
+    "technical",
+    "asymmetrical"
+  ],
+  "visual_characteristics": [
+    "high-contrast",
+    "selective-color",
+    "geometric",
+    "negative-space",
+    "typographic-hierarchy",
+    "monochromatic-with-accent"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "balance",
+      "emphasis",
+      "hierarchy",
+      "contrast"
+    ],
+    "visual_techniques": [
+      "selective highlighting",
+      "sectional organization",
+      "photographic integration"
+    ]
+  }
+}

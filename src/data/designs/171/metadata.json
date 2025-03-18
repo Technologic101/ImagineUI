@@ -2,17 +2,45 @@
   "id": "171",
   "url": "https://www.csszengarden.com/171",
   "css_url": "https://www.csszengarden.com/171/171.css",
-  "description": "The design features a simplistic and clean aesthetic with a focus on readability and minimalism. The centered image at the top offers a focal point, while the vast white space enhances text prominence and visual clarity. The typography is understated, maintaining a uniform and serene flow throughout the page. The limited color palette and absence of decorative elements emphasize the content, making it ideal for text-heavy purposes.",
+  "title": "Shaolin Yokobue",
+  "author": "Javier Cabrera",
+  "description": {
+    "summary": "A visually striking design featuring an illustrated monk figure playing a flute against a clean white background, complemented by a vertically-oriented black textured panel that contains the main content.",
+    "visual_style": "The design employs Eastern-inspired minimalism with ink brush aesthetics, creating a stark contrast between the organic textured black content area and the surrounding white space.",
+    "emotional_impact": "The visual elements evoke tranquility and contemplative focus through the balanced composition and muted color palette.",
+    "compositional_elements": "The layout features a vertical scroll format with a central black brushstroke panel that contains text, flanked by delicate plant-like branch elements extending from the sides."
+  },
+  "artistic_context": {
+    "style_influences": "Traditional East Asian ink painting, calligraphic brushwork, minimalist design philosophy",
+    "visual_metaphors": "Natural growth, meditation, balance, simplicity"
+  },
   "categories": [
-    "Minimalist",
-    "Text-Centric",
-    "Monochrome",
-    "Professional"
+    "minimalist",
+    "eastern-inspired",
+    "monochromatic",
+    "textural",
+    "vertical",
+    "ink-brush"
   ],
   "visual_characteristics": [
-    "White Space",
-    "Centered Layout",
-    "Minimal Imagery",
-    "Understated Typography"
-  ]
+    "high-contrast",
+    "organic-texture",
+    "brush-strokes",
+    "vertical-composition",
+    "asymmetrical-balance",
+    "illustrated-figure"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "contrast",
+      "hierarchy",
+      "balance",
+      "rhythm"
+    ],
+    "visual_techniques": [
+      "textural variation",
+      "negative space",
+      "illustrative elements"
+    ]
+  }
 }

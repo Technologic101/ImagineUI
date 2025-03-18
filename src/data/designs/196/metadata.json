@@ -2,19 +2,45 @@
   "id": "196",
   "url": "https://www.csszengarden.com/196",
   "css_url": "https://www.csszengarden.com/196/196.css",
-  "description": "The design showcases a minimalist and elegant style, featuring a soft color palette of whites and greens that conveys a sense of tranquility. The layout is clean and orderly, with a strong focus on typography, using a mix of serif and sans-serif fonts to create a harmonious reading experience. The background incorporates subtle floral imagery to enhance the serene atmosphere, while the content is neatly organized into columns for easy navigation.",
+  "title": "Elegance in Simplicity",
+  "author": "Mani Sheriar",
+  "description": {
+    "summary": "A serene, minimalist web design blending organic elements with structured typography to create a calm, contemplative digital space.",
+    "visual_style": "The design employs a light, airy aesthetic with soft floral imagery and a carefully structured layout that balances white space with organized content blocks.",
+    "emotional_impact": "The gentle color palette and flowing typographic hierarchy evoke tranquility and clarity, reinforcing the zen-inspired theme of the design.",
+    "compositional_elements": "The composition features a centered header with floral background, followed by a two-column layout with main content on the left and a lighter sidebar menu on the right."
+  },
+  "artistic_context": {
+    "style_influences": "Japanese minimalism, organic naturalism, and digital modernism blend together in the visual treatment.",
+    "visual_metaphors": "The flower imagery and soft light suggest growth, clarity, and enlightenment through simplicity."
+  },
   "categories": [
     "minimalist",
+    "organic",
     "elegant",
-    "informative",
-    "serene",
-    "classic"
+    "structured",
+    "light",
+    "zen-inspired"
   ],
   "visual_characteristics": [
-    "soft color palette",
-    "clean typography",
-    "floral background",
-    "columnar layout",
-    "serif and sans-serif mix"
-  ]
+    "soft-gradient",
+    "floral-motif",
+    "two-column-layout",
+    "hierarchical-typography",
+    "subtle-color-accents",
+    "generous-whitespace"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "balance",
+      "harmony",
+      "simplicity",
+      "hierarchy"
+    ],
+    "visual_techniques": [
+      "negative space utilization",
+      "color restraint",
+      "textural contrast"
+    ]
+  }
 }

@@ -1,0 +1,46 @@
+{
+  "id": "090",
+  "url": "https://www.csszengarden.com/090",
+  "css_url": "https://www.csszengarden.com/090/090.css",
+  "title": "Untitled",
+  "author": "Ray Henry",
+  "description": {
+    "summary": "A structured web design showcasing a three-column layout with a restrained color palette of blues and grays, emphasizing accessibility and clarity through thoughtful information architecture.",
+    "visual_style": "The design employs a clean, functional approach with sectioned content areas denoted by horizontal headers in deep blue, creating a methodical rhythm throughout the page.",
+    "emotional_impact": "The design evokes a sense of stability and professionalism through its structured composition and cool color palette, creating a calm, trustworthy atmosphere.",
+    "compositional_elements": "The layout follows a clear grid system with strong horizontal divisions and varying column widths that create visual hierarchy while maintaining balance across the page."
+  },
+  "artistic_context": {
+    "style_influences": "Traditional web standards documentation, minimalist information design, early-2000s web accessibility principles",
+    "visual_metaphors": "Garden as structure and order, path/journey through content blocks, architectural framework"
+  },
+  "categories": [
+    "structured",
+    "minimalist",
+    "functional",
+    "grid-based",
+    "informational",
+    "utilitarian"
+  ],
+  "visual_characteristics": [
+    "horizontal-banding",
+    "three-column-layout",
+    "monochromatic-palette",
+    "clear-segmentation",
+    "hierarchical-headers",
+    "contained-content-blocks"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "hierarchy",
+      "unity",
+      "balance",
+      "rhythm"
+    ],
+    "visual_techniques": [
+      "sectioning",
+      "consistent spacing",
+      "color blocking"
+    ]
+  }
+}

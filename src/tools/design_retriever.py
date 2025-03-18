@@ -1,25 +1,16 @@
-from typing import Dict, Optional
-from langchain.tools import BaseTool
-from chains.design_rag import DesignRAG
-from pydantic import Field
-import json
+from nodes.design_rag import DesignRAG
+from langgraph.graph import MessagesState
+from langchain_core.messages import SystemMessage
 
-class DesignRetrieverTool(BaseTool):
-    """Tool for retrieving similar designs based on requirements."""
+async def design_retriever_tool(state: MessagesState, num_examples: int = 1):
+    """
+        Retrieves similar designs based on style requirements
+        Name: query_similar_designs
+    """
+    rag = DesignRAG()  # Create instance
     
-    name: str = "design_retriever"
-    description: str = "Retrieves similar designs based on style requirements"
-    rag: DesignRAG = Field(description="Design RAG system for retrieving similar designs")
-    
-    def __init__(self, rag: DesignRAG):
-        """Initialize the tool with a DesignRAG instance."""
-        super().__init__(rag=rag)
-    
-    def _run(self, requirements: Dict, num_examples: int = 3) -> str:
-        """Sync version - not used but required by BaseTool"""
-        raise NotImplementedError("Use async version")
-    
-    async def _arun(self, requirements: Dict, num_examples: int = 3) -> str:
-        """Retrieve similar designs based on requirements"""
-        print(f"Retrieving {num_examples} similar designs")
-        return await self.rag.query_similar_designs(requirements, num_examples)
+    result = await rag.query_similar_designs(state["messages"], num_examples)
+    print("Here's the result: ", result)
+
+    return SystemMessage(content=result)
+

@@ -2,19 +2,45 @@
   "id": "172",
   "url": "https://www.csszengarden.com/172",
   "css_url": "https://www.csszengarden.com/172/172.css",
-  "description": "The design features a clean and minimalistic aesthetic with an emphasis on readability and simplicity. It uses ample white space and a structured layout to guide the reader's attention. The color palette is subtle, with a brown background complementing the monochromatic text sections, while the typography is clear and straightforward, promoting engagement and accessibility.",
+  "title": "Blackcomb*75",
+  "author": "Bryan Carichner",
+  "description": {
+    "summary": "A harmonious blend of natural photography and structured web layout that creates a serene, educational interface set against a dramatic mountain landscape backdrop",
+    "visual_style": "The design employs a juxtaposition of organic natural elements with organized information panels, creating a zen-like balance between structured content and expansive imagery",
+    "emotional_impact": "The snow-covered mountains evoke tranquility and perspective, reinforcing the metaphorical journey suggested by the layout's vertical flow",
+    "compositional_elements": "A vertically-oriented single column of content overlaid on a panoramic mountain background, with clearly defined sections marked by decorative maple leaf icons"
+  },
+  "artistic_context": {
+    "style_influences": "Minimalist information design, nature photography, Eastern philosophical aesthetics",
+    "visual_metaphors": "Mountain journey as learning path, snow as purity and clarity, zen garden as ordered complexity"
+  },
   "categories": [
-    "Minimalism",
-    "Typography",
-    "User Interface",
-    "Print Design",
-    "Content Layout"
+    "nature-integrated",
+    "minimalist",
+    "educational",
+    "structured",
+    "metaphorical",
+    "content-focused"
   ],
   "visual_characteristics": [
-    "Ample white space",
-    "Monochrome text sections",
-    "Structured layout",
-    "Simple color palette",
-    "Clear typography"
-  ]
+    "panoramic-background",
+    "vertical-scrolling",
+    "sectioned-content",
+    "natural-iconography",
+    "muted-color-palette",
+    "clear-typography"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "contrast",
+      "hierarchy",
+      "balance",
+      "alignment"
+    ],
+    "visual_techniques": [
+      "background integration",
+      "content compartmentalization",
+      "symbolic navigation"
+    ]
+  }
 }

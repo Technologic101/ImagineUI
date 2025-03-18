@@ -2,19 +2,44 @@
   "id": "170",
   "url": "https://www.csszengarden.com/170",
   "css_url": "https://www.csszengarden.com/170/170.css",
-  "description": "The design of the CSS Zen Garden is exemplary with its soothing blue tones, providing a calm and professional aesthetic. The heart icons add a touch of creativity and warmth. The layout is clean and well-structured with clear navigation on the right-hand side, providing users easy access to additional information and style sheets. The typography varies, highlighting key sections and maintaining readability throughout.",
+  "title": "Love is in the Air",
+  "author": "Nele Goetz",
+  "description": {
+    "summary": "A serene web design featuring a calming blue gradient background with colorful heart icons and organized content sections, creating a gentle and instructional atmosphere.",
+    "visual_style": "The design employs a tranquil, structured layout with consistent visual elements and a harmonious color palette centered around blue tones and accent colors.",
+    "emotional_impact": "The design evokes a sense of peace and clarity through its open spacing, soft colors, and orderly presentation of information.",
+    "compositional_elements": "Heart-shaped icons serve as section markers, clearly defined content blocks, and a right-side navigation panel create a balanced and organized visual hierarchy."
+  },
+  "artistic_context": {
+    "style_influences": "Minimalist web design with subtle Eastern philosophical aesthetics suggested by the 'Zen' theme and heart motifs.",
+    "visual_metaphors": "Hearts symbolizing passion and care, blue suggesting tranquility and wisdom, structured sections representing organized thinking."
+  },
   "categories": [
-    "Web Design",
-    "CSS Showcase",
-    "Typography",
-    "User Interface",
-    "Aesthetic"
+    "minimalist",
+    "gradient-based",
+    "instructional",
+    "sectioned",
+    "icon-driven",
+    "tranquil"
   ],
   "visual_characteristics": [
-    "Soothing Color Palette",
-    "Structured Layout",
-    "Iconography",
-    "Hierarchical Typography",
-    "Calming Aesthetic"
-  ]
+    "blue-gradient-background",
+    "colorful-heart-icons",
+    "two-column-layout",
+    "serif-display-typography",
+    "alternating-section-colors"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "hierarchy",
+      "repetition",
+      "contrast",
+      "alignment"
+    ],
+    "visual_techniques": [
+      "color-blocking",
+      "icon-as-waypoints",
+      "gradient-transitions"
+    ]
+  }
 }

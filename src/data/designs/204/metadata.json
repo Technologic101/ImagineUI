@@ -2,17 +2,44 @@
   "id": "204",
   "url": "https://www.csszengarden.com/204",
   "css_url": "https://www.csszengarden.com/204/204.css",
-  "description": "The design utilizes a dark, textured background to create an atmospheric and immersive experience, with subtle vintage imagery. The text is crisp and legible, standing out against the deep tones, and the layout guides the reader through various sections with elegance. The overall mood is one of sophistication and mystery, engaging the audience through its visual storytelling.",
+  "title": "CSS Zen Garden Top Level Styles",
+  "author": "William Duffy",
+  "description": {
+    "summary": "A richly textured, atmospheric web design featuring an organic aesthetic that blends natural floral imagery with dark, aged backgrounds to create a contemplative, zen-inspired digital space.",
+    "visual_style": "The design employs a sophisticated dark palette with illuminated organic elements, creating a mystical, introspective atmosphere reminiscent of traditional Eastern art merged with digital modernism.",
+    "emotional_impact": "The composition evokes tranquility and contemplation through its contrast of darkness and illuminated natural elements, suggesting enlightenment emerging from shadow.",
+    "compositional_elements": "A vertical scrolling layout divides content into distinct sections marked by delicate ornamental separators, with a prominent floral image anchoring the header and creating visual harmony with smaller botanical accents throughout."
+  },
+  "artistic_context": {
+    "style_influences": "Japanese wabi-sabi aesthetics, traditional Asian scroll paintings, organic minimalism, and digital grunge techniques",
+    "aesthetic_period": "Contemporary digital design with references to traditional Eastern art philosophy and natural symbolism",
+    "visual_metaphors": "Enlightenment emerging from darkness, flowering knowledge, organic growth amid structure, weathered wisdom"
+  },
   "categories": [
-    "Dark Theme",
-    "Vintage Style",
-    "Textured Background",
-    "Visual Storytelling"
+    "Organic minimalism",
+    "Dark aesthetic",
+    "Eastern-inspired digital art",
+    "Textural contrast design",
+    "Contemplative web layout"
   ],
   "visual_characteristics": [
-    "Dark Tones",
-    "Textured Imagery",
-    "Elegant Layout",
-    "Legible Typography"
-  ]
+    "Aged parchment-like textured backgrounds",
+    "Glowing floral photography as focal elements",
+    "Elegant script typography contrasting with modern sans-serif",
+    "High contrast between dark backgrounds and illuminated elements",
+    "Ornate decorative dividers creating visual rhythm"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "Contrast",
+      "Visual hierarchy",
+      "Texture",
+      "Balance"
+    ],
+    "visual_techniques": [
+      "Dramatic lighting",
+      "Textural depth",
+      "Organic framing"
+    ]
+  }
 }

@@ -2,18 +2,45 @@
   "id": "216",
   "url": "https://www.csszengarden.com/216",
   "css_url": "https://www.csszengarden.com/216/216.css",
-  "description": "The design showcases a rich, warm color palette with a focus on a brown and deep pink theme, creating an inviting and sophisticated atmosphere. The layout centers around a vertical alignment with sections defined by color contrasts and text blocks, providing clarity and visibility. Typography is varied, with elegant serif fonts mingling with bold sans-serif styles, emphasizing different text sections. A background gradient and blurred image add depth and a sense of mystery, enhancing the overall visual appeal.",
+  "title": "Fountain Kiss",
+  "author": "Jeremy Carlson",
+  "description": {
+    "summary": "A luxurious, elegant web design showcasing a rich gold and burgundy color scheme with a circular focal area and vertical navigation elements",
+    "visual_style": "The design combines Eastern-inspired ornamental elements with a formal layout structure, creating a sophisticated, artisanal aesthetic with contrasting burgundy panels against a warm golden background",
+    "emotional_impact": "The warm golden tones and deep burgundy create a sense of opulence and wisdom, evoking a meditative, contemplative atmosphere",
+    "compositional_elements": "The layout uses circular focal points, vertical navigation panels, and alternating color blocks to create rhythm and visual flow between content sections"
+  },
+  "artistic_context": {
+    "style_influences": "Eastern philosophical aesthetics, Art Deco decorative elements, contemporary digital minimalism",
+    "visual_metaphors": "Enlightenment through visual harmony, wisdom through structured beauty, balance through contrasting elements"
+  },
   "categories": [
-    "web design",
-    "print design",
-    "editorial",
-    "modern style"
+    "elegant",
+    "ornamental",
+    "structured",
+    "warm-toned",
+    "hierarchical",
+    "contrast-driven"
   ],
   "visual_characteristics": [
-    "warm color palette",
-    "vertical layout",
-    "contrasting text blocks",
-    "serif and sans-serif typography",
-    "gradient background"
-  ]
+    "circular-framing",
+    "gold-burgundy-palette",
+    "vertical-navigation",
+    "decorative-dividers",
+    "sectional-contrast",
+    "luminous-background"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "contrast",
+      "hierarchy",
+      "balance",
+      "rhythm"
+    ],
+    "visual_techniques": [
+      "framing",
+      "color blocking",
+      "ornamental detailing"
+    ]
+  }
 }

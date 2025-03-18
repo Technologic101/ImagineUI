@@ -2,19 +2,45 @@
   "id": "199",
   "url": "https://www.csszengarden.com/199",
   "css_url": "https://www.csszengarden.com/199/199.css",
-  "description": "This design features a militaristic theme with a robust combination of bold typography and imagery, evoking a sense of strength and authority. The page employs a beige background with red and green accents, showcasing a central tank graphic that enhances the military motif. Text is arranged in a structured, easy-to-read format with clear headings and sections, embodying a vintage or historical aesthetic. The playful use of icons, combined with the textured background, adds depth and interest, making it visually engaging.",
+  "title": "Zen Army",
+  "author": "Carl Desmond",
+  "description": {
+    "summary": "A military-themed web design showcasing CSS capabilities through a unique visual metaphor of warfare, featuring tank imagery, distressed typography, and Soviet-inspired graphical elements.",
+    "visual_style": "The design adopts a deliberately vintage propaganda aesthetic with distressed textures, military motifs, and a structured hierarchical layout that reinforces the militant theme.",
+    "emotional_impact": "Creates a sense of bold determination and nostalgia through the weathered, gritty appearance and strong color contrasts that evoke military propaganda posters.",
+    "compositional_elements": "Organized into distinct sections marked by red star bullets, wooden crate imagery for sidebars, and a central tank graphic commanding attention at the top of the layout."
+  },
+  "artistic_context": {
+    "style_influences": "Soviet propaganda art, military instruction manuals, vintage war posters, industrial design",
+    "visual_metaphors": "Digital warfare, structured discipline, organized resistance, technological revolution"
+  },
   "categories": [
-    "military theme",
-    "vintage design",
-    "structured layout",
-    "playful graphics",
-    "textured background"
+    "vintage",
+    "propaganda",
+    "military-inspired",
+    "textured",
+    "thematic",
+    "structured"
   ],
   "visual_characteristics": [
-    "bold typography",
-    "central tank imagery",
-    "red and green accents",
-    "beige background",
-    "clear headings"
-  ]
+    "distressed-typography",
+    "symbolic-imagery",
+    "earthy-palette",
+    "textural-contrast",
+    "hierarchical-layout",
+    "iconic-elements"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "contrast",
+      "hierarchy",
+      "thematic-consistency",
+      "rhythm"
+    ],
+    "visual_techniques": [
+      "texture-layering",
+      "symbolic-repetition",
+      "color-blocking"
+    ]
+  }
 }

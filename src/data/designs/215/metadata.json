@@ -2,21 +2,45 @@
   "id": "215",
   "url": "https://www.csszengarden.com/215",
   "css_url": "https://www.csszengarden.com/215/215.css",
-  "description": "The CSS Zen Garden design showcases a clean, structured layout aimed at demonstrating the possibilities of CSS styling. It uses a primarily blue and white color palette with red accents to draw attention to headings and separators. The design incorporates a formal serif and a modern sans-serif typography, creating an elegant and readable interface. The use of graphical illustrations adds visual interest and helps convey the collaborative and creative theme. The overall aesthetic balance, combined with functional elements like navigation, ensures a clear and engaging user experience.",
+  "title": "A Robot Named Jimmy",
+  "author": "meltmedia",
+  "description": {
+    "summary": "A clean, structured web design with playful illustrative elements, featuring a central blue figure with raised arms and colorful hand icons in a circular arrangement below.",
+    "visual_style": "Modern, approachable design combining flat illustration with organized content sections, using a limited color palette dominated by blues and coral-red accents.",
+    "emotional_impact": "Creates an inviting, friendly atmosphere through cheerful illustrations and open composition, suggesting collaboration and creativity.",
+    "compositional_elements": "Vertically stacked content sections with clear horizontal demarcations, strong header area featuring the central figure, and balanced secondary illustrations supporting textual content."
+  },
+  "artistic_context": {
+    "style_influences": "Flat design, minimalist illustration, web-centric information architecture",
+    "visual_metaphors": "Raised arms suggesting celebration or achievement, hands reaching inward symbolizing collaboration and community"
+  },
   "categories": [
-    "Typography",
-    "User Interface",
-    "Minimalist Design",
-    "Educational",
-    "Professional",
-    "Web Design"
+    "minimalist",
+    "illustrative",
+    "structured",
+    "educational",
+    "web-centric",
+    "sectioned"
   ],
   "visual_characteristics": [
-    "Blue and White Palette",
-    "Elegant Typography",
-    "Illustrative Graphics",
-    "Clean Layout",
-    "Contrasting Accents",
-    "Symmetry"
-  ]
+    "flat-illustration",
+    "color-blocking",
+    "spatial-hierarchy",
+    "geometric-icons",
+    "horizontal-divisions",
+    "limited-palette"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "hierarchy",
+      "balance",
+      "repetition",
+      "contrast"
+    ],
+    "visual_techniques": [
+      "sectioning",
+      "color-coding",
+      "illustrative-icons"
+    ]
+  }
 }

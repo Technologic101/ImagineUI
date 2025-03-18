@@ -2,17 +2,45 @@
   "id": "105",
   "url": "https://www.csszengarden.com/105",
   "css_url": "https://www.csszengarden.com/105/105.css",
-  "description": "This design features a moody, monochromatic color scheme with bold, red accents to highlight key text elements. The layout is minimalistic, placing emphasis on the primary image\u2014a black-and-white photograph with a strong narrative presence. Typography is clean and sans-serif, enhancing readability while complementing the modern, minimalist aesthetic.",
+  "title": "Austrian's Dark Side",
+  "author": "Rene Grassegger",
+  "description": {
+    "summary": "A dark, atmospheric web design utilizing a stark contrast between black backgrounds and sepia-toned paper elements to create a zen-like, artistic space",
+    "visual_style": "The design employs a collage-like arrangement of torn paper notes pinned against a black void, creating a tactile, handcrafted aesthetic with digital precision",
+    "emotional_impact": "Contemplative and mysterious mood established through the dramatic lighting, shadow effects, and isolated paper fragments floating in darkness",
+    "compositional_elements": "A vertical asymmetrical layout with paper notes clustered along the left side and larger content areas floating to the right, creating a deliberate imbalance and visual tension"
+  },
+  "artistic_context": {
+    "style_influences": "Japanese wabi-sabi aesthetics, film noir lighting techniques, physical scrapbooking, analog photography",
+    "visual_metaphors": "Meditation through fragments, emergence from darkness, pinned thoughts, tactile knowledge"
+  },
   "categories": [
-    "minimalism",
-    "modern",
-    "photography",
-    "creative"
+    "minimalist",
+    "high-contrast",
+    "textural",
+    "asymmetrical",
+    "zen-inspired",
+    "analog-digital"
   ],
   "visual_characteristics": [
-    "monochrome",
-    "bold accents",
-    "minimal layout",
-    "strong imagery"
-  ]
+    "shadow-play",
+    "paper-texture",
+    "pinned-elements",
+    "sepia-toning",
+    "dramatic-lighting",
+    "hand-imagery"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "contrast",
+      "hierarchy",
+      "tension",
+      "depth"
+    ],
+    "visual_techniques": [
+      "vignetting",
+      "material simulation",
+      "dimensional layering"
+    ]
+  }
 }

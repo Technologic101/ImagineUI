@@ -1,0 +1,46 @@
+{
+  "id": "066",
+  "url": "https://www.csszengarden.com/066",
+  "css_url": "https://www.csszengarden.com/066/066.css",
+  "title": "Focus & Shoot",
+  "author": "Colectivo YTW (Julio Beamonte, Beatriz Martinez, Gustavo Gavan, Franck Scipion)",
+  "description": {
+    "summary": "A complex multi-layered web interface that combines photography with a technical grid-based layout and HUD-like elements, creating a blend of digital functionality and artistic documentation",
+    "visual_style": "The design merges documentary photography with digital interface elements, utilizing overlays, frames, and technical indicators to create a camera/recording aesthetic",
+    "emotional_impact": "Creates tension between the organic human subject in the background and the mechanical, technical elements in the foreground, evoking a sense of digital documentation and surveillance",
+    "compositional_elements": "Structured with multiple content blocks arranged in a complex grid system, featuring navigation panels, information boxes, and technical overlays superimposed on a photographic background"
+  },
+  "artistic_context": {
+    "style_influences": "Technical user interface design, military HUD displays, documentary photography, early 2000s web aesthetics",
+    "visual_metaphors": "Digital viewfinder, recording device, surveillance system, technical documentation"
+  },
+  "categories": [
+    "technical",
+    "grid-based",
+    "layered",
+    "documentary",
+    "interface-driven",
+    "high-contrast"
+  ],
+  "visual_characteristics": [
+    "target/crosshair overlays",
+    "red-white-black color scheme",
+    "boxed information panels",
+    "technical indicators",
+    "framed photography",
+    "typography-heavy layout"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "contrast",
+      "hierarchy",
+      "layering",
+      "repetition"
+    ],
+    "visual_techniques": [
+      "overlay",
+      "framing",
+      "grid structure"
+    ]
+  }
+}

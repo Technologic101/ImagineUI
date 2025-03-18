@@ -2,19 +2,45 @@
   "id": "212",
   "url": "https://www.csszengarden.com/212",
   "css_url": "https://www.csszengarden.com/212/212.css",
-  "description": "The design features a retro aesthetic using a muted color palette of browns and creams, creating a nostalgic and vintage feel. The asymmetrical layout and bold typography contribute to the visual hierarchy, guiding the viewer through the content effortlessly. Illustrations with a mid-century modern style add character, merging traditional design elements with contemporary functionality.",
+  "title": "Make 'em Proud!",
+  "author": "Michael McAghon and Scotty Reifsnyder",
+  "description": {
+    "summary": "A deliberately retro web design that evokes early 2000s aesthetics while organizing substantial content in a structured, hierarchical format",
+    "visual_style": "The design employs a vintage propaganda-inspired illustration style with muted colors and a clear columnar layout that separates navigation from content",
+    "emotional_impact": "Creates a nostalgic atmosphere with warm, sepia-toned rays and stylized illustrations that evoke a sense of community and shared purpose",
+    "compositional_elements": "Features a primary central content column bordered by a narrower navigation sidebar, with decorative headers, symbolic medallions, and clear sectioning"
+  },
+  "artistic_context": {
+    "style_influences": "Mid-century poster design, early web aesthetics, propaganda art, vintage computing imagery",
+    "visual_metaphors": "Garden as learning environment, rays of light suggesting enlightenment, medallions representing achievement"
+  },
   "categories": [
-    "Retro",
-    "Typography",
-    "Illustration",
-    "Vintage Style",
-    "Educational"
+    "retro",
+    "instructional",
+    "hierarchical",
+    "illustrative",
+    "columnar",
+    "vintage-inspired"
   ],
   "visual_characteristics": [
-    "Muted Color Palette",
-    "Asymmetrical Layout",
-    "Bold Typography",
-    "Retro Illustrations",
-    "Functional Design"
-  ]
+    "radial-sunburst-background",
+    "two-column-layout",
+    "sepia-color-palette",
+    "decorative-medallions",
+    "stylized-line-art",
+    "ribbon-banners"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "hierarchy",
+      "contrast",
+      "repetition",
+      "alignment"
+    ],
+    "visual_techniques": [
+      "vintage illustration",
+      "symbolic iconography",
+      "structured typography"
+    ]
+  }
 }

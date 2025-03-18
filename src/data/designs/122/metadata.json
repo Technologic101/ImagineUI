@@ -2,17 +2,45 @@
   "id": "122",
   "url": "https://www.csszengarden.com/122",
   "css_url": "https://www.csszengarden.com/122/122.css",
-  "description": "The design features a minimalist aesthetic with a dominant white space, paired with subtle green accents and a hint of red, creating a clean and sophisticated look. The layout is vertical and structured, highlighting content purposefully with ample spacing, making it easy to read and navigate. The typography is elegant, using a serif font for headings to contrast with a simpler body text, supporting a Zen-like theme that embodies simplicity and clarity.",
+  "title": "Centerfold",
+  "author": "John Oxton",
+  "description": {
+    "summary": "A minimalist web design with a split-layout structure that combines elegant typography with subtle green accents, creating a balanced and serene aesthetic reminiscent of zen philosophy.",
+    "visual_style": "The design employs a clean, asymmetrical composition with a prominent vertical division, utilizing negative space purposefully while balancing typographic elements against a striking portrait image.",
+    "emotional_impact": "Evokes a sense of tranquility and sophistication through its restrained color palette, thoughtful spacing, and delicate visual rhythm.",
+    "compositional_elements": "Features a two-column layout with a navigation sidebar on the left and content area on the right, anchored by an artistic portrait photograph at the top that establishes visual hierarchy."
+  },
+  "artistic_context": {
+    "style_influences": "Minimalist design, Japanese zen aesthetics, mid-century modern typography",
+    "visual_metaphors": "Harmony through balance, simplicity as elegance, organic growth through structure"
+  },
   "categories": [
     "minimalist",
-    "sophisticated",
-    "text-focused",
+    "elegant",
+    "structured",
+    "asymmetrical",
+    "typographic",
     "zen-inspired"
   ],
   "visual_characteristics": [
-    "vertical layout",
-    "white space",
-    "green and red accents",
-    "serif typography"
-  ]
+    "split-layout",
+    "green-accents",
+    "negative-space",
+    "typographic-hierarchy",
+    "portrait-focal-point",
+    "muted-palette"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "balance",
+      "hierarchy",
+      "contrast",
+      "whitespace"
+    ],
+    "visual_techniques": [
+      "asymmetrical layout",
+      "typographic scaling",
+      "color accent"
+    ]
+  }
 }

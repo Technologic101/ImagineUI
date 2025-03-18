@@ -2,19 +2,45 @@
   "id": "103",
   "url": "https://www.csszengarden.com/103",
   "css_url": "https://www.csszengarden.com/103/103.css",
-  "description": "This design features a rich and dramatic aesthetic, utilizing a dark burgundy background with gold accents to create a classical and elegant visual appeal. The use of ornate graphic elements and traditional typography reinforces a vintage and scholarly theme, capturing a sense of an 'epic journey' as suggested by the design's concept. The layout is structured with a clear side section for text that guides the viewer's focus, while decorative motifs add ornamental flair.",
+  "title": "Odyssey",
+  "author": "Terrence Conley",
+  "description": {
+    "summary": "An elegant medieval-inspired web design with rich gold and dark burgundy tones, featuring ornate decorative elements and classical illustration motifs that evoke ancient manuscripts and epic voyages.",
+    "visual_style": "The design employs a luxurious, antique aesthetic with ornamental borders, decorative medallions, and illustrated ship imagery that creates a sense of historical grandeur and craftsmanship.",
+    "emotional_impact": "The dark background with golden accents creates a sense of mystery, wisdom, and reverence, invoking the feeling of discovering ancient knowledge or treasure.",
+    "compositional_elements": "A vertical scroll layout with clearly defined sections marked by medallion icons, framed by ornate golden borders and featuring illustrated elements that guide the viewer through the content."
+  },
+  "artistic_context": {
+    "style_influences": "Medieval illuminated manuscripts, Byzantine art, classical Greek motifs, maritime historical art",
+    "visual_metaphors": "Journey, exploration, ancient wisdom, treasure maps"
+  },
   "categories": [
-    "vintage",
-    "classical",
-    "dramatic",
     "ornate",
-    "elegant"
+    "medieval",
+    "decorative",
+    "classical",
+    "gilded",
+    "historical"
   ],
   "visual_characteristics": [
-    "dark color palette",
-    "gold accents",
-    "traditional typography",
-    "ornate motifs",
-    "structured layout"
-  ]
+    "gold-on-dark contrast",
+    "ornamental borders",
+    "decorative medallions",
+    "illustrated elements",
+    "vertical scrolling layout",
+    "wave-pattern motifs"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "hierarchy",
+      "contrast",
+      "repetition",
+      "unity"
+    ],
+    "visual_techniques": [
+      "framing",
+      "ornamental detailing",
+      "illustrative elements"
+    ]
+  }
 }

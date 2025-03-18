@@ -2,19 +2,44 @@
   "id": "201",
   "url": "https://www.csszengarden.com/201",
   "css_url": "https://www.csszengarden.com/201/201.css",
-  "description": "The design employs a strong typographical hierarchy set against a dual-tone purple and blue palette. It combines natural imagery with text overlays to create an artistic and informative layout. The vertical text orientation and illustrative floral elements contribute to an engaging and elegant visual experience.",
+  "title": "Lily Pond",
+  "author": "Rose Thorogood",
+  "description": {
+    "summary": "A contemplative web design incorporating zen-inspired elements with a vertical typographic arrangement, creating a balance between ethereal illustrations and structured information sections.",
+    "visual_style": "Eastern-influenced digital design that combines organic flowing elements with structured typographic layout, using color-blocked sections to create visual rhythm.",
+    "emotional_impact": "Serene yet invigorating atmosphere through the contrast of deep purples, blues and light accents, evoking a sense of enlightenment and creative potential.",
+    "compositional_elements": "Divided into vertical columns with color-coded sections that create distinct informational zones while lotus flower illustrations and fluid lines soften the structured layout."
+  },
+  "artistic_context": {
+    "style_influences": "Japanese zen aesthetics, Web 2.0 design principles, digital minimalism, art nouveau organic flourishes",
+    "aesthetic_period": "Early 2000s web design with contemporary eastern philosophical visual elements",
+    "visual_metaphors": "Garden path as journey to enlightenment, lotus flowers representing purity of design, flowing water suggesting adaptability"
+  },
   "categories": [
-    "Typography",
-    "Web Design",
-    "Nature",
-    "Artistic",
-    "Informative"
+    "Zen-inspired digital design",
+    "Typographic vertical composition",
+    "Organic-geometric contrast",
+    "Color-blocked information architecture",
+    "Decorative instructional design"
   ],
   "visual_characteristics": [
-    "Dual-tone palette",
-    "Vertical text orientation",
-    "Illustrative elements",
-    "Typographical hierarchy",
-    "Minimalistic imagery"
-  ]
+    "Vertical typographic treatment with dramatic scaling",
+    "Fluid illustrated elements (lotus flowers, water shapes)",
+    "Tripartite color scheme (purple, blue, teal accents)",
+    "Layered transparent elements creating depth",
+    "Balanced asymmetry between text and white space"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "Visual hierarchy",
+      "Color harmony",
+      "Contrast",
+      "Rhythm"
+    ],
+    "visual_techniques": [
+      "Vertical text as visual anchor",
+      "Illustrative metaphors",
+      "Color blocking"
+    ]
+  }
 }

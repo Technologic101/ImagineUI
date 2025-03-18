@@ -1,0 +1,46 @@
+{
+  "id": "072",
+  "url": "https://www.csszengarden.com/072",
+  "css_url": "https://www.csszengarden.com/072/072.css",
+  "title": "Outburst",
+  "author": "Chris Vincent",
+  "description": {
+    "summary": "A vibrant web design featuring a prominent golden rose illustration with radiating rays against a bright orange background, complemented by an organized content layout with clearly defined sections.",
+    "visual_style": "The design employs a bold East Asian-inspired aesthetic with strong floral motifs, combining decorative illustration with structured information architecture.",
+    "emotional_impact": "The warm golden-orange color scheme evokes energy and optimism, while the zen-inspired rose creates a sense of balance between artistic expression and functional design.",
+    "compositional_elements": "The composition juxtaposes organic curved elements (rose illustration and decorative side flourishes) with geometric structured content boxes, creating visual tension between fluid and rigid forms."
+  },
+  "artistic_context": {
+    "style_influences": "Japanese sunrise motifs, Art Nouveau line work, Mid-century modern organization",
+    "visual_metaphors": "Blooming knowledge, enlightenment rays, organic growth within structured systems"
+  },
+  "categories": [
+    "artistic",
+    "structured",
+    "eastern-inspired",
+    "illustrative",
+    "high-contrast",
+    "educational"
+  ],
+  "visual_characteristics": [
+    "golden-orange palette",
+    "radial sunburst pattern",
+    "outlined floral illustration",
+    "modular content boxes",
+    "decorative scroll-work",
+    "sectioned information hierarchy"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "contrast",
+      "balance",
+      "repetition",
+      "hierarchy"
+    ],
+    "visual_techniques": [
+      "outlined illustration",
+      "color blocking",
+      "geometric division"
+    ]
+  }
+}

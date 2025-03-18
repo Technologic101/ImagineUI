@@ -1,0 +1,46 @@
+{
+  "id": "058",
+  "url": "https://www.csszengarden.com/058",
+  "css_url": "https://www.csszengarden.com/058/058.css",
+  "title": "Radio Zen",
+  "author": "Marc LA van den Heuvel",
+  "description": {
+    "summary": "A nostalgic web design that evokes vintage radio aesthetics through warm colors, retro typography, and radio dial imagery, creating a harmonious blend of digital functionality and analog charm.",
+    "visual_style": "The design employs a deliberate retro aesthetic with sepia tones, vintage-inspired typography, and decorative elements reminiscent of mid-century radio interfaces.",
+    "emotional_impact": "The warm color palette and nostalgic visual elements create a sense of familiarity and comfort, evoking a bygone era while maintaining functional clarity.",
+    "compositional_elements": "A hierarchical layout with radio dial header, centralized content blocks with decorative tags, and prominent branded elements at the bottom creates clear information architecture with decorative vintage flourishes."
+  },
+  "artistic_context": {
+    "style_influences": "Mid-century radio design, vintage print ephemera, retro advertising layouts, analog interface styling",
+    "visual_metaphors": "Radio tuning as exploration, frequency bands as content organization, warm analog glow suggesting authenticity and craftsmanship"
+  },
+  "categories": [
+    "retro",
+    "nostalgic",
+    "analog-inspired",
+    "vintage",
+    "decorative",
+    "warm-toned"
+  ],
+  "visual_characteristics": [
+    "sepia-toned palette",
+    "radio dial interface",
+    "script typography",
+    "decorative tabs",
+    "texture overlay",
+    "horizontal segmentation"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "hierarchy",
+      "contrast",
+      "nostalgia",
+      "metaphor"
+    ],
+    "visual_techniques": [
+      "texture layering",
+      "ornamental typography",
+      "interface mimicry"
+    ]
+  }
+}

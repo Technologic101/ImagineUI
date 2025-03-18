@@ -1,0 +1,46 @@
+{
+  "id": "093",
+  "url": "https://www.csszengarden.com/093",
+  "css_url": "https://www.csszengarden.com/093/093.css",
+  "title": "South of the Border",
+  "author": "Rob Shields",
+  "description": {
+    "summary": "A minimalist web design featuring a dark blue gradient background with contrasting text blocks and section dividers, anchored by a desert sunset header image with silhouetted cacti.",
+    "visual_style": "The design employs a zen-inspired aesthetic with clean typography against a dark background, creating a serene digital environment through structured content blocks and subtle navigation elements.",
+    "emotional_impact": "The dark color scheme paired with the desert sunset imagery evokes a contemplative, peaceful atmosphere that reinforces the 'zen garden' concept while maintaining professional functionality.",
+    "compositional_elements": "The layout follows a vertical column structure with clear section headings, complemented by a right sidebar for navigation and a horizontal header image that establishes the thematic tone."
+  },
+  "artistic_context": {
+    "style_influences": "Digital minimalism, Japanese zen aesthetics, early 2000s web design revival",
+    "visual_metaphors": "Desert landscape as digital enlightenment, path imagery suggesting journey, garden concept implying cultivated digital space"
+  },
+  "categories": [
+    "minimalist",
+    "dark-themed",
+    "vertical-oriented",
+    "zen-inspired",
+    "grid-based",
+    "utilitarian"
+  ],
+  "visual_characteristics": [
+    "gradient-background",
+    "silhouette-imagery",
+    "sectioned-content",
+    "high-contrast-typography",
+    "desert-palette",
+    "hierarchical-headings"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "contrast",
+      "hierarchy",
+      "rhythm",
+      "simplicity"
+    ],
+    "visual_techniques": [
+      "negative space",
+      "typographic scale",
+      "atmospheric imagery"
+    ]
+  }
+}

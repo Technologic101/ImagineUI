@@ -2,19 +2,45 @@
   "id": "160",
   "url": "https://www.csszengarden.com/160",
   "css_url": "https://www.csszengarden.com/160/160.css",
-  "description": "The design presents a minimalistic and clean aesthetic with a dominant use of negative space, enhancing readability and focus on content. Black and red text on a plain white background creates a stark contrast, while subtle graphics provide a gentle visual flair. The asymmetrical layout with right-aligned navigation emphasizes a modern and organized approach, suitable for instructional or informational purposes.",
+  "title": "Daruma",
+  "author": "Stuart Cruickshank",
+  "description": {
+    "summary": "A minimalist web design featuring traditional Japanese-inspired dolls as a header image, combined with a clean, structured layout that demonstrates elegant CSS styling principles.",
+    "visual_style": "The design employs a zen-inspired aesthetic with subtle gray backgrounds, clear typographic hierarchy, and decorative butterfly motifs that enhance the spiritual theme.",
+    "emotional_impact": "Creates a calm, meditative atmosphere through subdued colors, generous whitespace, and balanced composition that invites contemplation and learning.",
+    "compositional_elements": "Structured in horizontal content blocks with clear separation, featuring a prominent header image, organized text sections with colored headings, and subtle decorative elements."
+  },
+  "artistic_context": {
+    "style_influences": "Japanese minimalism, zen philosophy, traditional Eastern crafts",
+    "visual_metaphors": "Garden as learning environment, path to enlightenment, balance and harmony"
+  },
   "categories": [
-    "Minimalism",
-    "Typography",
-    "Web Aesthetic",
-    "Instructional Design",
-    "Modern"
+    "minimalist",
+    "structured",
+    "educational",
+    "zen-inspired",
+    "grid-based",
+    "balanced"
   ],
   "visual_characteristics": [
-    "Clean",
-    "High Contrast",
-    "Subtle Graphics",
-    "Negative Space",
-    "Asymmetrical Layout"
-  ]
+    "muted-palette",
+    "content-blocks",
+    "ornamental-butterflies",
+    "traditional-imagery",
+    "clear-hierarchy",
+    "negative-space"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "balance",
+      "hierarchy",
+      "white space",
+      "rhythm"
+    ],
+    "visual_techniques": [
+      "content blocking",
+      "color contrast",
+      "structural alignment"
+    ]
+  }
 }

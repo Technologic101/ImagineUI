@@ -2,17 +2,45 @@
   "id": "186",
   "url": "https://www.csszengarden.com/186",
   "css_url": "https://www.csszengarden.com/186/186.css",
-  "description": "The design features a fresh and calming aesthetic, with a predominant use of soft pastel green and pink hues, enhanced by floral imagery that exudes a natural and serene atmosphere. The typography is clean and well-organized, enabling easy readability, while a sidebar with navigation links provides clear structure and accessibility.",
+  "title": "Floral Simplicity",
+  "author": "Mani Sheriar",
+  "description": {
+    "summary": "A serene, nature-inspired web design showcasing a two-column layout with soft floral imagery and structured content organization.",
+    "visual_style": "The design employs a delicate, organic aesthetic with a pale green background and pink floral imagery that creates a garden-like atmosphere while maintaining functional clarity.",
+    "emotional_impact": "The soft color palette and natural imagery evoke tranquility and mindfulness, aligning with the 'Zen Garden' concept while conveying an educational purpose.",
+    "compositional_elements": "A clear two-column structure divides the main content from the sidebar, with thoughtful spacing and hierarchical organization of text elements through varied typography sizes and weights."
+  },
+  "artistic_context": {
+    "style_influences": "Japanese zen garden aesthetics, minimalist web design, natural botanical illustration",
+    "visual_metaphors": "Blooming flower representing growth and learning, garden pathway suggesting journey and exploration"
+  },
   "categories": [
-    "web page layout",
-    "clean design",
-    "readability",
-    "navigation"
+    "nature-inspired",
+    "minimalist",
+    "educational",
+    "organic",
+    "structured",
+    "pastel"
   ],
   "visual_characteristics": [
-    "pastel color scheme",
-    "floral imagery",
-    "sans-serif typography",
-    "structured layout"
-  ]
+    "floral-header",
+    "two-column-layout",
+    "soft-color-palette",
+    "subtle-gradients",
+    "hierarchical-typography",
+    "vertical-navigation"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "balance",
+      "hierarchy",
+      "contrast",
+      "repetition"
+    ],
+    "visual_techniques": [
+      "organic framing",
+      "typographic contrast",
+      "natural color harmony"
+    ]
+  }
 }

@@ -2,17 +2,45 @@
   "id": "158",
   "url": "https://www.csszengarden.com/158",
   "css_url": "https://www.csszengarden.com/158/158.css",
-  "description": "The visual design features a sophisticated dark brown and beige color scheme with a classic serif typography, creating a professional and serious tone. The layout is structured with a prominent header, a sidebar for navigation, and a main content area, emphasizing its informational purpose. The overall style is minimalist, allowing for easy readability and a clear emphasis on the text.",
+  "title": "a Simple Sunset",
+  "author": "Rob Soule",
+  "description": {
+    "summary": "A sophisticated web design template featuring a dramatic sunset backdrop against a dark content area, creating a strong visual contrast and contemplative atmosphere.",
+    "visual_style": "The design employs a zen-inspired aesthetic with elegant typography against dramatic natural imagery, balancing organic and structured elements.",
+    "emotional_impact": "The golden sunset imagery evokes tranquility and inspiration, while the dark content area creates focus and contemplation.",
+    "compositional_elements": "A clear two-part composition with a dramatic header zone and a content-rich body arranged in a columnar layout with careful typographic hierarchy."
+  },
+  "artistic_context": {
+    "style_influences": "Minimalist web design, Eastern aesthetic philosophy, nature photography integration",
+    "visual_metaphors": "Sunset as enlightenment, dark background as clarity through simplicity"
+  },
   "categories": [
-    "Minimalism",
-    "Professional",
-    "Classic",
-    "Informational"
+    "minimalist",
+    "nature-inspired",
+    "elegant",
+    "high-contrast",
+    "contemplative",
+    "grid-based"
   ],
   "visual_characteristics": [
-    "Dark color palette",
-    "Serif typography",
-    "Structured layout",
-    "Minimalist design"
-  ]
+    "golden-hour photography",
+    "dark background",
+    "columnar layout",
+    "typographic hierarchy",
+    "negative space",
+    "serif-sans contrast"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "contrast",
+      "hierarchy",
+      "balance",
+      "focal point"
+    ],
+    "visual_techniques": [
+      "light-dark juxtaposition",
+      "atmospheric framing",
+      "modular content blocks"
+    ]
+  }
 }

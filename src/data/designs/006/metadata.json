@@ -2,19 +2,45 @@
   "id": "006",
   "url": "https://www.csszengarden.com/006",
   "css_url": "https://www.csszengarden.com/006/006.css",
-  "description": "The design employs a minimalist and structured layout with a focus on typographic hierarchy and a cohesive color scheme of blue and orange accents. The simple background and strategic use of whitespace enhance readability while guiding the viewer\u2019s attention effectively.",
+  "title": "Wicked Grove",
+  "author": "D. Keith Robinson",
+  "description": {
+    "summary": "A serene web design that blends natural imagery with structured content, creating a harmonious balance between organic and digital elements",
+    "visual_style": "The design employs a tranquil blue gradient background paired with a natural green foliage canopy, creating a zen-like digital environment that invites exploration",
+    "emotional_impact": "Evokes a sense of calm contemplation through the combination of natural imagery and orderly content presentation",
+    "compositional_elements": "Three-column layout with natural imagery framing the top, clear content blocks with distinct typographic hierarchy, and accented navigation elements in vibrant red"
+  },
+  "artistic_context": {
+    "style_influences": "Digital minimalism, natural-digital fusion, information architecture",
+    "visual_metaphors": "Garden as knowledge cultivation, natural canopy as shelter for digital content"
+  },
   "categories": [
-    "minimalism",
-    "typography",
-    "color contrast",
-    "web design inspiration",
-    "clean layout"
+    "nature-inspired",
+    "columnar",
+    "structured",
+    "educational",
+    "minimalist",
+    "gradient-based"
   ],
   "visual_characteristics": [
-    "blue color palette",
-    "structured typography",
-    "use of whitespace",
-    "orange accent highlights",
-    "simple background"
-  ]
+    "blue-gradient background",
+    "green canopy frame",
+    "three-column layout",
+    "high-contrast typography",
+    "color-coded navigation",
+    "bordered content areas"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "contrast",
+      "hierarchy",
+      "balance",
+      "framing"
+    ],
+    "visual_techniques": [
+      "natural framing",
+      "color blocking",
+      "typographic contrast"
+    ]
+  }
 }

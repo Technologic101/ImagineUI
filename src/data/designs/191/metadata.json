@@ -2,17 +2,45 @@
   "id": "191",
   "url": "https://www.csszengarden.com/191",
   "css_url": "https://www.csszengarden.com/191/191.css",
-  "description": "The design showcases a classic, elegant style with a focus on typography and structured layout, featuring a cream background that enhances readability. It utilizes a two-column format with artistic flourishes and subtle paper textures, creating a sophisticated and professional appearance.",
+  "title": "The Diary",
+  "author": "Alexander Shabuniewicz",
+  "description": {
+    "summary": "A book-like web layout design with a classical, elegant structure featuring a two-column format that mimics an open book or magazine spread. The design incorporates ornamental borders and decorative elements with thoughtfully placed images and well-structured typography.",
+    "visual_style": "The design embraces a traditional print aesthetic with digital sensibilities, utilizing decorative borders, serif typography, and a formal layout system that creates a scholarly, refined appearance.",
+    "emotional_impact": "Evokes feelings of academic credibility and timeless elegance through its structured layout, warm color tones, and classical design elements, creating an atmosphere of intellectual contemplation.",
+    "compositional_elements": "The symmetrical two-column layout creates balance, with clearly defined sections marked by headers, decorative dividers, and strategically placed images. The bordered framework contains the content with ornamental corner elements reinforcing the classical theme."
+  },
+  "artistic_context": {
+    "style_influences": "Book design, manuscript layouts, classical typography, print journalism",
+    "visual_metaphors": "Garden of knowledge, scholarly journey, architectural structure"
+  },
   "categories": [
-    "Classic Design",
-    "Typography",
-    "Elegant Layout",
-    "Web Presentation"
+    "classical",
+    "editorial",
+    "structured",
+    "symmetrical",
+    "typographic",
+    "ornamental"
   ],
   "visual_characteristics": [
-    "Cream Background",
-    "Two-Column Format",
-    "Subtle Textures",
-    "Artistic Flourishes"
-  ]
+    "two-column layout",
+    "decorative borders",
+    "serif typography",
+    "hierarchical headings",
+    "ornamental dividers",
+    "paper-like background"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "balance",
+      "hierarchy",
+      "rhythm",
+      "unity"
+    ],
+    "visual_techniques": [
+      "framing",
+      "typographic contrast",
+      "white space"
+    ]
+  }
 }

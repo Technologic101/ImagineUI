@@ -1,0 +1,46 @@
+{
+  "id": "031",
+  "url": "https://www.csszengarden.com/031",
+  "css_url": "https://www.csszengarden.com/031/031.css",
+  "title": "Hedges",
+  "author": "Kev Mears",
+  "description": {
+    "summary": "A playful, illustrative web design with a cartoonish landscape theme featuring stylized trees, clouds, and interactive elements organized in a vertical layout",
+    "visual_style": "Whimsical, flat illustration style with bright colors and simplified forms creating a cheerful, garden-like digital environment",
+    "emotional_impact": "Friendly and inviting atmosphere that evokes a sense of exploration and discovery through its playful visual elements",
+    "compositional_elements": "Clear sectioning with illustrated icons and headers, using a consistent visual language of rounded shapes and green accents to guide navigation"
+  },
+  "artistic_context": {
+    "style_influences": "Digital illustration, cartoon aesthetics, flat design, web 2.0 visual language",
+    "visual_metaphors": "Garden path as learning journey, trees representing growth and knowledge"
+  },
+  "categories": [
+    "whimsical",
+    "illustrative",
+    "educational",
+    "flat-design",
+    "colorful",
+    "landscape-themed"
+  ],
+  "visual_characteristics": [
+    "stylized-trees",
+    "bright-color-palette",
+    "icon-based-navigation",
+    "sectioned-layout",
+    "geometric-simplification",
+    "consistent-motifs"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "unity",
+      "hierarchy",
+      "repetition",
+      "emphasis"
+    ],
+    "visual_techniques": [
+      "illustrative iconography",
+      "color blocking",
+      "spatial metaphor"
+    ]
+  }
+}

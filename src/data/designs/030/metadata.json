@@ -1,0 +1,46 @@
+{
+  "id": "030",
+  "url": "https://www.csszengarden.com/030",
+  "css_url": "https://www.csszengarden.com/030/030.css",
+  "title": "Entomology",
+  "author": "Jon Hicks",
+  "description": {
+    "summary": "A framed web design showcasing an elegant integration of natural motifs and structured typography, arranged within a wooden frame against a rich crimson background.",
+    "visual_style": "The design employs a vintage-inspired aesthetic with elegant script typography and naturalistic butterfly illustrations, creating a refined museum-like display case feeling.",
+    "emotional_impact": "The warm cream background against deep crimson creates a contemplative, serene atmosphere enhanced by the orderly arrangement of information and delicate natural imagery.",
+    "compositional_elements": "A vertical scroll layout with clear hierarchical sections, butterfly specimens as visual anchors, and a dual-column structure balancing navigation links and detailed content."
+  },
+  "artistic_context": {
+    "style_influences": "Victorian specimen display, Japanese wabi-sabi simplicity, traditional manuscript design",
+    "visual_metaphors": "Butterflies as transformation, framed content as preserved knowledge, vertical scroll as journey"
+  },
+  "categories": [
+    "elegant",
+    "traditional",
+    "naturalistic",
+    "structured",
+    "minimalist",
+    "framed"
+  ],
+  "visual_characteristics": [
+    "wooden frame",
+    "butterfly illustrations",
+    "script typography",
+    "vertical layout",
+    "cream-and-crimson palette",
+    "column structure"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "hierarchy",
+      "contrast",
+      "balance",
+      "unity"
+    ],
+    "visual_techniques": [
+      "framing",
+      "natural motifs",
+      "typographic contrast"
+    ]
+  }
+}

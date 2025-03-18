@@ -2,19 +2,45 @@
   "id": "009",
   "url": "https://www.csszengarden.com/009",
   "css_url": "https://www.csszengarden.com/009/009.css",
-  "description": "This design features a clean and organized layout with a classic monochrome color palette, emphasizing the elegance of CSS design. It uses serif typography for a traditional feel, with strong visual separation of sections, enhancing readability. The design incorporates ornamental graphics at the top and bottom, adding a touch of sophistication. The ample use of whitespace contributes to a serene and uncluttered experience, inviting users to engage with the content.",
+  "title": "Dead or Alive",
+  "author": "Michael Pick",
+  "description": {
+    "summary": "A meticulously structured webpage design that combines elegant minimalism with traditional Eastern aesthetic influences, creating a harmonious balance between ornamental elements and functional typography.",
+    "visual_style": "The design employs a clean, structured layout with decorative borders framing a predominantly black and white content area, creating a sense of classical formality with subtle Eastern-inspired embellishments.",
+    "emotional_impact": "The visual elements evoke a sense of tranquility and contemplative focus, reinforced by the balanced composition and thoughtful spacing between content sections.",
+    "compositional_elements": "A symmetrical layout with a distinct header featuring an emblematic logo, bordered by decorative patterns, and organized content sections separated by horizontal dividers and consistent typographic treatments."
+  },
+  "artistic_context": {
+    "style_influences": "Japanese woodblock printing, Art Deco ornamentation, classical manuscript design, Eastern calligraphic traditions",
+    "visual_metaphors": "Zen garden structure, path of enlightenment, architectural blueprint, sacred scroll"
+  },
   "categories": [
-    "Web Design",
-    "Typography",
-    "Minimalism",
-    "Ornamental Design",
-    "Monochrome"
+    "minimalist",
+    "traditional",
+    "typographic",
+    "structured",
+    "ornamental",
+    "monochromatic"
   ],
   "visual_characteristics": [
-    "Serif Typography",
-    "Monochromatic Palette",
-    "Ornamental Graphics",
-    "Whitespace Usage",
-    "Classic Layout"
-  ]
+    "decorative borders",
+    "centered typography",
+    "high contrast",
+    "geometric patterns",
+    "horizontal dividers",
+    "hierarchical spacing"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "balance",
+      "hierarchy",
+      "rhythm",
+      "contrast"
+    ],
+    "visual_techniques": [
+      "framing",
+      "typographic scale",
+      "negative space"
+    ]
+  }
 }

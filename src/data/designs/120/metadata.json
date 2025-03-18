@@ -2,19 +2,45 @@
   "id": "120",
   "url": "https://www.csszengarden.com/120",
   "css_url": "https://www.csszengarden.com/120/120.css",
-  "description": "This design features a minimalist and dark aesthetic with a sophisticated use of typography and imagery, creating an elegant and contemplative atmosphere. The ornate script in the header adds a classic touch, while the structured layout is designed for clarity and ease of navigation.",
+  "title": "Medioevo",
+  "author": "Emiliano Pennisi",
+  "description": {
+    "summary": "A dark, atmospheric web design with strong contrast between a decorative header and structured content area, blending ornate calligraphic elements with organized information architecture.",
+    "visual_style": "The design employs a gothic-romantic aesthetic with dramatic contrast between a textured, atmospheric header and a clean, text-heavy content area on black background.",
+    "emotional_impact": "Creates a mysterious, contemplative mood through the juxtaposition of ethereal imagery and structured information, evoking a sense of ancient wisdom in modern form.",
+    "compositional_elements": "Features a horizontal hierarchy with a decorative banner at top, followed by organized text columns against a dark background, with small iconic elements marking section headings."
+  },
+  "artistic_context": {
+    "style_influences": "Asian-inspired calligraphy, gothic architecture imagery, minimalist information design, decorative serif typography",
+    "visual_metaphors": "Garden as structure, path to enlightenment, ancient wisdom in modern form"
+  },
   "categories": [
-    "minimalist design",
-    "dark theme",
-    "typography-focused",
-    "vintage style",
-    "elegant aesthetics"
+    "dark-aesthetic",
+    "elegant",
+    "high-contrast",
+    "calligraphic",
+    "structured",
+    "minimalist"
   ],
   "visual_characteristics": [
-    "dark background",
-    "ornate typography",
-    "structured layout",
-    "vintage imagery",
-    "contrast usage"
-  ]
+    "dramatic-header",
+    "ornate-typography",
+    "black-background",
+    "iconic-elements",
+    "decorative-calligraphy",
+    "structured-layout"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "contrast",
+      "hierarchy",
+      "rhythm",
+      "balance"
+    ],
+    "visual_techniques": [
+      "textural juxtaposition",
+      "typographic scale",
+      "negative space"
+    ]
+  }
 }

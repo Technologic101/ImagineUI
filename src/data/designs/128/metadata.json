@@ -2,17 +2,45 @@
   "id": "128",
   "url": "https://www.csszengarden.com/128",
   "css_url": "https://www.csszengarden.com/128/128.css",
-  "description": "The design features a clean, structured layout with a strong emphasis on typography and harmonious color coordination. The use of bright blues and greens against a crisp white background creates a lively and engaging aesthetic. The design elements, such as distinct text sections and bold heading styles, contribute to clear visual hierarchy, making it easy to navigate and read. Accent colors, along with a minimalistic icon, add personality and charm to the otherwise professional and modern design.",
+  "title": "Dragen",
+  "author": "Matthew Buchanan",
+  "description": {
+    "summary": "A web design showcase platform featuring a striking blue dragon mascot as its focal point, combining vibrant color blocks with a structured information layout",
+    "visual_style": "The design employs a bold color-blocking approach with a distinctive header featuring a 3D dragon illustration against a gradient blue background, transitioning to a multi-column layout below",
+    "emotional_impact": "The vibrant colors and playful dragon create an energetic, creative atmosphere while maintaining professionalism through structured content organization",
+    "compositional_elements": "The layout follows a clear three-section structure: a dramatic header with illustration, a navigation sidebar in vibrant color blocks, and a main content area with ample white space"
+  },
+  "artistic_context": {
+    "style_influences": "Early 2000s web design aesthetics with 3D rendering techniques and color-blocked navigation elements",
+    "visual_metaphors": "The dragon represents creative power and mastery, while the zen reference suggests balance and discipline in design"
+  },
   "categories": [
-    "Professional",
-    "Modern",
-    "Clean",
-    "Typography"
+    "color-blocked",
+    "sectional",
+    "illustrative",
+    "educational",
+    "structured",
+    "gradient"
   ],
   "visual_characteristics": [
-    "Bright color palette",
-    "Distinct text sections",
-    "Strong visual hierarchy",
-    "Minimalistic elements"
-  ]
+    "3D illustration",
+    "color-coded navigation",
+    "multi-column layout",
+    "gradient backgrounds",
+    "high-contrast typography",
+    "white space utilization"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "hierarchy",
+      "contrast",
+      "color theory",
+      "visual flow"
+    ],
+    "visual_techniques": [
+      "color-blocking",
+      "typographic contrast",
+      "spatial division"
+    ]
+  }
 }

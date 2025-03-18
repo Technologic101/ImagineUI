@@ -2,19 +2,45 @@
   "id": "179",
   "url": "https://www.csszengarden.com/179",
   "css_url": "https://www.csszengarden.com/179/179.css",
-  "description": "This design uses a rich, dark color palette to create an elegant and sophisticated layout, combining subtle gradients and wave elements to add visual interest. The use of serif typography against the deep background accentuates the content while maintaining readability. The layout is structured with a clear visual hierarchy, guiding the viewer's eye through the sections seamlessly.",
+  "title": "Vin Rouge",
+  "author": "Thorsten Bopp",
+  "description": {
+    "summary": "A sophisticated web design showcase featuring an elegant dark-themed layout with rich burgundy accents and a wine glass motif. The design demonstrates a zen-inspired aesthetic that balances minimalist principles with ornate flourishes.",
+    "visual_style": "The design employs a luxurious dark aesthetic with deep blacks and burgundy red tones, creating an atmosphere of refinement and sophistication. Decorative curved lines reminiscent of calligraphy add an organic, flowing quality to the structured layout.",
+    "emotional_impact": "The design evokes a sense of contemplative elegance through its dark color palette, carefully balanced negative space, and subtle organic decorative elements, creating a meditative yet sophisticated atmosphere.",
+    "compositional_elements": "A three-column layout creates clear hierarchical organization with a prominent central content area flanked by a striking wine glass image on the left and a navigation sidebar on the right. Decorative curved lines frame content sections, adding visual rhythm."
+  },
+  "artistic_context": {
+    "style_influences": "Japanese minimalism, calligraphic art, luxury branding aesthetics, wine culture visualization",
+    "visual_metaphors": "Flow and balance, organic growth, refinement, contemplation, craftsmanship"
+  },
   "categories": [
-    "Web Design",
-    "Typography",
-    "Dark Theme",
-    "Modern",
-    "Elegant"
+    "elegant",
+    "minimalist",
+    "dark-themed",
+    "organic",
+    "zen-inspired",
+    "structured"
   ],
   "visual_characteristics": [
-    "Dark color palette",
-    "Elegant typography",
-    "Subtle gradients",
-    "Wave motifs",
-    "Structured layout"
-  ]
+    "burgundy-black palette",
+    "decorative flourishes",
+    "multi-column layout",
+    "negative space",
+    "calligraphic elements",
+    "photographic accent"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "contrast",
+      "balance",
+      "hierarchy",
+      "rhythm"
+    ],
+    "visual_techniques": [
+      "framing",
+      "color harmony",
+      "visual metaphor"
+    ]
+  }
 }

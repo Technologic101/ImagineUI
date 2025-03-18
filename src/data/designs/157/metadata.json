@@ -2,19 +2,45 @@
   "id": "157",
   "url": "https://www.csszengarden.com/157",
   "css_url": "https://www.csszengarden.com/157/157.css",
-  "description": "The design showcases a minimalist and structured layout with two distinct color-blocked columns, creating an aesthetic balance between the content and navigation sections. The left column features soft pastel shades, enhancing readability of the text, while the right column uses a light green background for the menu links. The font choice is elegant, with a mix of serif and sans-serif enhancing visual interest and hierarchy.",
+  "title": "Bugs",
+  "author": "Zohar Arad",
+  "description": {
+    "summary": "A nature-inspired web design that uses insect imagery as decorative elements against a clean white background with salmon-colored content panels and green navigation sections.",
+    "visual_style": "The design employs realistic insect illustrations as organic contrast to the geometric layout structure, creating a harmonious blend of natural and digital aesthetics.",
+    "emotional_impact": "The warm color palette and natural imagery evoke a sense of calm contemplation, balanced with structured information presentation.",
+    "compositional_elements": "Three-column layout with strategic asymmetry - wide content area flanked by a narrower navigation column, with insect illustrations positioned as visual anchors throughout the composition."
+  },
+  "artistic_context": {
+    "style_influences": "Japanese garden aesthetics, biological illustration, minimalist web design",
+    "visual_metaphors": "Insects as symbols of transformation and natural beauty, contrasting with digital structure"
+  },
   "categories": [
-    "Minimalist",
-    "Print Design",
-    "Web Inspiration",
-    "Typography",
-    "Editorial Design"
+    "nature-inspired",
+    "minimalist",
+    "instructional",
+    "organic",
+    "structured",
+    "illustrative"
   ],
   "visual_characteristics": [
-    "Pastel Colors",
-    "Column Layout",
-    "Serif Typography",
-    "Elegant Simplicity",
-    "Textured Background"
-  ]
+    "realistic insect illustrations",
+    "salmon-green color scheme",
+    "white negative space",
+    "hierarchical typography",
+    "clean columnar layout",
+    "decorative natural elements"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "contrast",
+      "balance",
+      "visual hierarchy",
+      "rhythm"
+    ],
+    "visual_techniques": [
+      "photographic elements",
+      "color blocking",
+      "decorative illustration"
+    ]
+  }
 }

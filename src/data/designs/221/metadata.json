@@ -1,18 +1,46 @@
 {
   "id": "221",
-  "author": "Dave Shea",
   "url": "https://www.csszengarden.com/221",
   "css_url": "https://www.csszengarden.com/221/221.css",
-  "description": "The visual design features a bold, colorful layout with a mix of geometric shapes and high-contrast text blocks. It uses a playful color palette of purples, blues, oranges, and cream tones. The design is structured to guide the viewer's eye vertically and horizontally across sections with clear typography. It appears modern and suited for showcasing CSS design capabilities in a playful yet professional manner.",
+  "title": "Mid Century Modern",
+  "author": "Andrew Lohman",
+  "description": {
+    "summary": "A bold, modular web design with a vibrant color-blocked layout using geometric shapes and minimal iconography to create clear visual organization",
+    "visual_style": "The design employs a striking modular grid system with clearly defined color blocks in turquoise, coral orange, deep navy, and orchid purple, creating a contemporary digital aesthetic",
+    "emotional_impact": "The controlled contrast between vibrant colors and precise geometric elements creates a sense of energetic professionalism and digital sophistication",
+    "compositional_elements": "The layout follows a vertical columnar structure with horizontal bands, using white circular icons with simple line art to create visual anchors across color blocks"
+  },
+  "artistic_context": {
+    "style_influences": "Swiss/International style, Bauhaus geometry, Digital minimalism, Material design",
+    "visual_metaphors": "Building blocks, digital components, pathways, structured journey"
+  },
   "categories": [
-    "Modern",
-    "Playful"
+    "modular",
+    "geometric",
+    "color-block",
+    "minimalist",
+    "grid-based",
+    "digital"
   ],
   "visual_characteristics": [
-    "Bold colors",
-    "Geometric shapes",
-    "High-contrast typography",
-    "Vertical and horizontal layout"
+    "circular iconography",
+    "vertical columns",
+    "bold color fields",
+    "thin line elements",
+    "structured whitespace",
+    "typographic contrast"
   ],
-  "responsive_design": "4. **Mobile Adaptation**: The design adapts well to mobile by stacking elements vertically for better readability. It maintains color consistency and legibility, ensuring navigation and content remain accessible on smaller screens."
+  "design_principles": {
+    "primary_principles": [
+      "contrast",
+      "hierarchy",
+      "rhythm",
+      "balance"
+    ],
+    "visual_techniques": [
+      "color blocking",
+      "geometric simplification",
+      "modular scaling"
+    ]
+  }
 }

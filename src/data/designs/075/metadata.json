@@ -1,0 +1,46 @@
+{
+  "id": "075",
+  "url": "https://www.csszengarden.com/075",
+  "css_url": "https://www.csszengarden.com/075/075.css",
+  "title": "Lost HighWay",
+  "author": "Julien Roumagnac",
+  "description": {
+    "summary": "A dark, atmospheric web design featuring a deep red and black color scheme with a structured layout that conveys technical sophistication and artistic discipline.",
+    "visual_style": "The design employs a minimalist approach with strong geometric organization, creating a meditative atmosphere through dark backgrounds and precise typographic hierarchy.",
+    "emotional_impact": "The stark contrast between dark backgrounds and selective red accents creates a sense of zen-like focus and technical mastery.",
+    "compositional_elements": "The layout utilizes vertical columns with clear sectioning, dropdown menus, and a central content area framed by navigational elements on both sides."
+  },
+  "artistic_context": {
+    "style_influences": "Eastern minimalism, industrial architecture photography, digital zen aesthetics",
+    "visual_metaphors": "Path through darkness, architectural framework, garden of knowledge"
+  },
+  "categories": [
+    "minimalist",
+    "high-contrast",
+    "dark-themed",
+    "technical",
+    "structured",
+    "zen-inspired"
+  ],
+  "visual_characteristics": [
+    "red-black palette",
+    "geometric grid",
+    "typographic hierarchy",
+    "negative space",
+    "architectural backdrop",
+    "dropdown menus"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "contrast",
+      "hierarchy",
+      "rhythm",
+      "balance"
+    ],
+    "visual_techniques": [
+      "selective coloration",
+      "structural framing",
+      "textural depth"
+    ]
+  }
+}

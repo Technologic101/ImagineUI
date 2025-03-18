@@ -2,19 +2,45 @@
   "id": "185",
   "url": "https://www.csszengarden.com/185",
   "css_url": "https://www.csszengarden.com/185/185.css",
-  "description": "The design features a bold contrast between a bright blue header and a predominantly black background, creating a modern and striking visual impact. The use of crisp typography in white enhances readability against the dark backdrop, while an accent of orange in a sidebar provides additional contrast and attention-grabbing potential. The layout follows a structured and logical arrangement, guiding the viewer's eye through a series of selectable design options and resource links, creating a user-friendly and engaging experience.",
+  "title": "Manhattan Edition",
+  "author": "TheOm3ga",
+  "description": {
+    "summary": "A structured educational website with a distinctive urban skyline silhouette header against a gradient blue background, featuring high-contrast content panels on a black canvas.",
+    "visual_style": "The design employs a professional web layout with clear sectioning through white rounded-corner panels on a black background, creating strong visual separation between content areas.",
+    "emotional_impact": "The stark contrast between the light panels and dark background creates a serious, technical atmosphere, while the urban silhouette and stylized logo add creative elements to balance the academic nature.",
+    "compositional_elements": "The composition follows a vertical hierarchy with a distinctive header area featuring a city skyline silhouette and stylized logo, followed by well-defined content blocks and color-coded interactive elements."
+  },
+  "artistic_context": {
+    "style_influences": "Early 2000s web design aesthetics with panel-based layouts, graffiti-inspired typography in the logo, and urban visual motifs.",
+    "visual_metaphors": "The city skyline silhouette represents urban sophistication and complexity, while the garden metaphor in the logo suggests cultivation of knowledge and skills."
+  },
   "categories": [
-    "Modern",
-    "Typography",
-    "Web Design",
-    "Classic",
-    "User Friendly"
+    "structured",
+    "high-contrast",
+    "panel-based",
+    "educational",
+    "urban-inspired",
+    "technical"
   ],
   "visual_characteristics": [
-    "High Contrast",
-    "Bold Colors",
-    "Structured Layout",
-    "Readable Typography",
-    "Accent Highlights"
-  ]
+    "rounded-corner panels",
+    "city skyline silhouette",
+    "gradient blue header",
+    "color-coded buttons",
+    "sectioned content areas",
+    "stylized typography"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "contrast",
+      "hierarchy",
+      "organization",
+      "repetition"
+    ],
+    "visual_techniques": [
+      "content compartmentalization",
+      "color-coding",
+      "silhouetting"
+    ]
+  }
 }

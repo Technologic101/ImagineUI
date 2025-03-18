@@ -2,19 +2,45 @@
   "id": "190",
   "url": "https://www.csszengarden.com/190",
   "css_url": "https://www.csszengarden.com/190/190.css",
-  "description": "The design features a harmonious blend of bright green and white colors with a structured layout, highlighting a list of CSS design examples. It incorporates nature-inspired elements for a fresh and inviting aesthetic while maintaining a professional and clean appearance through effective typography and organized information sections.",
+  "title": "Lonely Flower",
+  "author": "Mitja Ribic",
+  "description": {
+    "summary": "A serene web design that combines natural imagery with structured content organization, creating a contemplative digital garden aesthetic.",
+    "visual_style": "The design employs a nature-inspired approach with a two-column layout featuring green and orange color blocks, delicate botanical elements, and systematic content organization.",
+    "emotional_impact": "Evokes a sense of tranquility and organic growth through its soft color palette, natural motifs, and spacious layout.",
+    "compositional_elements": "Clear vertical rhythm established through consistent heading treatments, color blocks, and natural dividers like grass silhouettes that separate content sections."
+  },
+  "artistic_context": {
+    "style_influences": "Japanese zen garden aesthetics, minimalist web design, early 2000s CSS demonstration sites",
+    "visual_metaphors": "Garden as knowledge growth, path to enlightenment, blooming flower representing design potential"
+  },
   "categories": [
-    "Web Design",
-    "CSS Showcase",
-    "Nature-inspired",
-    "Educational",
-    "Modern"
+    "nature-inspired",
+    "minimalist",
+    "zen",
+    "educational",
+    "structured",
+    "two-column"
   ],
   "visual_characteristics": [
-    "Bright Green Palette",
-    "Structured Layout",
-    "Nature Elements",
-    "Clean Typography",
-    "Highlighting Effects"
-  ]
+    "organic-motifs",
+    "color-blocking",
+    "hierarchical-typography",
+    "natural-dividers",
+    "light-gradient-backgrounds",
+    "illustrative-elements"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "hierarchy",
+      "balance",
+      "rhythm",
+      "unity"
+    ],
+    "visual_techniques": [
+      "color contrast",
+      "natural symbolism",
+      "negative space"
+    ]
+  }
 }

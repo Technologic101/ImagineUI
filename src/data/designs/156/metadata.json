@@ -2,19 +2,45 @@
   "id": "156",
   "url": "https://www.csszengarden.com/156",
   "css_url": "https://www.csszengarden.com/156/156.css",
-  "description": "The design uses a bold, contrasting color palette dominated by red, black, and white, highlighting a silhouetted figure against a background with traditional Japanese elements. The typography is clear and has a balance between serif and sans-serif fonts, adding to the mix of modern and traditional aesthetics. The layout is clean, with sections distinctly separated by subtle gradients, providing a sense of order and cohesiveness. The overall tone is a blend of contemporary design with cultural nuances, making it both engaging and visually striking.",
+  "title": "Table Layout Assassination",
+  "author": "Marko Krsul & Marko Dugonjic",
+  "description": {
+    "summary": "A dramatic high-contrast web design featuring Japanese-inspired aesthetics with bold red and black colors, silhouette figure, and traditional Asian motifs including Mount Fuji and pagoda shapes.",
+    "visual_style": "The design employs stark minimalism with dramatic contrasts, using a silhouette figure against a monochromatic background punctuated by vivid red text elements and traditional Japanese visual symbols.",
+    "emotional_impact": "Creates a sense of tension and drama through the high-contrast color scheme and radiating lines, evoking both traditional Asian aesthetics and modern digital sensibilities.",
+    "compositional_elements": "Clear vertical column structure with strategic use of asymmetry, featuring a human silhouette anchoring the left side balanced against architectural elements and mountain imagery on the right."
+  },
+  "artistic_context": {
+    "style_influences": "Japanese woodblock printing, propaganda poster aesthetics, minimalist design, rising sun motif",
+    "visual_metaphors": "Enlightenment pathway suggested by visual journey from silhouette to temple, duality represented through stark black/white contrast"
+  },
   "categories": [
-    "modern design",
-    "cultural elements",
-    "typography",
-    "minimalism",
-    "contrast"
+    "minimalist",
+    "eastern-inspired",
+    "high-contrast",
+    "typographic",
+    "structured",
+    "dramatic"
   ],
   "visual_characteristics": [
-    "bold color palette",
-    "silhouette",
-    "gradients",
-    "clean layout",
-    "traditional motifs"
-  ]
+    "radiating-lines",
+    "silhouette-figure",
+    "monochromatic-palette",
+    "red-accents",
+    "architectural-elements",
+    "layered-composition"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "contrast",
+      "hierarchy",
+      "balance",
+      "unity"
+    ],
+    "visual_techniques": [
+      "silhouetting",
+      "typographic-highlighting",
+      "structural-framing"
+    ]
+  }
 }

@@ -22,3 +22,6 @@ dist/
 .ipynb_checkpoints
 
 .chainlit/cache
+
+data_collection/scraped_designs
+data_collection/analyses

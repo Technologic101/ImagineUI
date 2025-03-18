@@ -1,0 +1,45 @@
+{
+  "id": "048",
+  "url": "https://www.csszengarden.com/048",
+  "css_url": "https://www.csszengarden.com/048/048.css",
+  "title": "HoriZental",
+  "author": "Cl\u00e9ment 'fastclemmy' Hardouin",
+  "description": {
+    "summary": "A clean, structured web design for a CSS/design educational resource combining floral imagery with an organized information layout",
+    "visual_style": "The design employs a minimalist approach with clearly defined content sections balanced by organic floral imagery",
+    "emotional_impact": "Creates a serene, instructional atmosphere through the juxtaposition of natural elements and structured information",
+    "compositional_elements": "Features a tripartite layout with vertical navigation on the left, content in the center, and resources on the right, unified by a consistent color palette"
+  },
+  "artistic_context": {
+    "style_influences": "Zen-inspired design, minimalist web aesthetics, nature-technology integration",
+    "visual_metaphors": "Blooming flowers suggesting growth and learning, structured content suggesting organized pathways to knowledge"
+  },
+  "categories": [
+    "minimalist",
+    "educational",
+    "nature-inspired",
+    "structured",
+    "zen-aesthetic",
+    "instructional"
+  ],
+  "visual_characteristics": [
+    "soft-color-palette",
+    "floral-imagery",
+    "multi-column-layout",
+    "clear-typography",
+    "balanced-negative-space"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "contrast",
+      "hierarchy",
+      "balance",
+      "unity"
+    ],
+    "visual_techniques": [
+      "color blocking",
+      "natural imagery",
+      "structured grid"
+    ]
+  }
+}

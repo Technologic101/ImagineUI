@@ -2,19 +2,45 @@
   "id": "004",
   "url": "https://www.csszengarden.com/004",
   "css_url": "https://www.csszengarden.com/004/004.css",
-  "description": "The design features a structured layout with a calming blue and white color scheme that conveys clarity and modernity. The large, fluid background image adds a touch of elegance, while the clear typography and organized sections contribute to the aesthetic appeal. Highlighted text links in green and orange draw attention, creating a dynamic yet harmonious look.",
+  "title": "css Zen Garden submission 004 - 'arch4.20'",
+  "author": "Dave Shea",
+  "description": {
+    "summary": "A structured web design demonstration page showcasing CSS capabilities with a clean, professional layout and architectural imagery header",
+    "visual_style": "The design employs a functional, minimalist approach with clear typographic hierarchy and a deep blue-teal color scheme that creates a professional, academic atmosphere",
+    "emotional_impact": "The design evokes a sense of organized tranquility and technical authority through its structured layout and cool color palette",
+    "compositional_elements": "The page features a horizontal architectural header image, a prominent title area, and a multi-column content structure with clear section divisions and sidebar navigation"
+  },
+  "artistic_context": {
+    "style_influences": "Web standards movement, functional minimalism, academic documentation design",
+    "visual_metaphors": "Architecture as structure, garden as growth and cultivation, path/road as journey"
+  },
   "categories": [
-    "Modern",
-    "Web Design",
-    "Instructional",
-    "Clean",
-    "Professional"
+    "functional",
+    "minimalist",
+    "structured",
+    "educational",
+    "grid-based",
+    "technical"
   ],
   "visual_characteristics": [
-    "Blue and White Palette",
-    "Fluid Background Image",
-    "Clear Typography",
-    "Highlighted Text Links",
-    "Structured Layout"
-  ]
+    "blue-teal color scheme",
+    "architectural header imagery",
+    "hierarchical typography",
+    "clear section divisions",
+    "sidebar navigation",
+    "multi-column layout"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "hierarchy",
+      "contrast",
+      "readability",
+      "organization"
+    ],
+    "visual_techniques": [
+      "color blocking",
+      "typographic scaling",
+      "white space management"
+    ]
+  }
 }

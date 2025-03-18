@@ -1,0 +1,46 @@
+{
+  "id": "096",
+  "url": "https://www.csszengarden.com/096",
+  "css_url": "https://www.csszengarden.com/096/096.css",
+  "title": "Japanese Garden",
+  "author": "Masanori Kawachi",
+  "description": {
+    "summary": "A serene web design featuring a bamboo leaf background with a clean, structured layout that organizes content into distinct sections marked by Asian-inspired typographic elements.",
+    "visual_style": "The design combines Eastern aesthetics with minimalist web principles, using natural imagery and symbolic Chinese/Japanese characters as visual anchors.",
+    "emotional_impact": "Creates a calm, meditative atmosphere through soft green tones and organic elements, evoking a sense of tranquility and natural harmony.",
+    "compositional_elements": "Vertical content flow with distinct hierarchical sections, each introduced by a decorative character paired with English text, all contained within a balanced two-column layout."
+  },
+  "artistic_context": {
+    "style_influences": "Traditional Asian calligraphy, Zen garden aesthetics, minimalist web design",
+    "visual_metaphors": "Nature as teacher, path to enlightenment, organic growth as learning"
+  },
+  "categories": [
+    "minimalist",
+    "asian-inspired",
+    "nature-themed",
+    "structured",
+    "educational",
+    "organic"
+  ],
+  "visual_characteristics": [
+    "bamboo-leaf backdrop",
+    "dual-language headings",
+    "calligraphic elements",
+    "green monochromatic palette",
+    "clear typographic hierarchy",
+    "nested navigation lists"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "balance",
+      "harmony",
+      "rhythm",
+      "contrast"
+    ],
+    "visual_techniques": [
+      "textural layering",
+      "symbolic typography",
+      "natural imagery"
+    ]
+  }
+}

@@ -2,19 +2,44 @@
   "id": "129",
   "url": "https://www.csszengarden.com/129",
   "css_url": "https://www.csszengarden.com/129/129.css",
-  "description": "This design is an eclectic mix of retro and playful styles, featuring a vibrant blue floral patterned background and a central notebook-styled layout. The typography varies in style and color, adding a dynamic and informal feel, while distinct sections are set off by colored borders. The design conveys a sense of nostalgia and creativity, ideal for capturing an artistic or unconventional audience.",
+  "title": "Geocities 1996",
+  "author": "Bruce Lawson",
+  "description": {
+    "summary": "A deliberately nostalgic web design featuring a notebook-style layout with vibrant floral patterns framing cream-colored content. The aesthetic intentionally evokes early web design with bright colors, playful typography, and decorative elements.",
+    "visual_style": "The design embraces an intentionally retro aesthetic that mimics 1990s web pages, using high-contrast colors, animated-style graphics, and a vertical scrolling format bound by spiral notebook edges.",
+    "emotional_impact": "Creates a sense of playful nostalgia through deliberately unsophisticated design elements, evoking feelings of whimsy and DIY charm reminiscent of early personal web pages.",
+    "compositional_elements": "A central content area is framed by repeating floral patterns on a bright blue background, with colorful text blocks, decorative buttons, and various visual sections creating a densely packed vertical composition."
+  },
+  "artistic_context": {
+    "style_influences": "Early web aesthetics, DIY digital culture, scrapbooking, folk art digital expression",
+    "visual_metaphors": "Digital garden, handcrafted notebook, personal expression space"
+  },
   "categories": [
-    "Retro",
-    "Playful",
-    "Nostalgia",
-    "Eclectic",
-    "Artistic"
+    "retro-digital",
+    "maximalist",
+    "folk-digital",
+    "playful",
+    "handcrafted"
   ],
   "visual_characteristics": [
-    "Vibrant colors",
-    "Floral patterns",
-    "Notebook layout",
-    "Whimsical typography",
-    "Colored borders"
-  ]
+    "repeating-patterns",
+    "high-saturation",
+    "notebook-framing",
+    "multi-colored-text",
+    "decorative-borders",
+    "gradient-elements"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "repetition",
+      "contrast",
+      "emphasis",
+      "pattern"
+    ],
+    "visual_techniques": [
+      "framing",
+      "color-blocking",
+      "visual-layering"
+    ]
+  }
 }

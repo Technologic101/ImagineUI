@@ -1,0 +1,46 @@
+{
+  "id": "062",
+  "url": "https://www.csszengarden.com/062",
+  "css_url": "https://www.csszengarden.com/062/062.css",
+  "title": "Gemination",
+  "author": "Egor Kloos",
+  "description": {
+    "summary": "A harmonious juxtaposition of natural imagery and digital structure, featuring a garden aesthetic paired with a multi-column layout that blends nature photography with organized textual content.",
+    "visual_style": "The design employs an earth-toned framework with natural garden photography supporting structured content blocks, creating a serene yet functional aesthetic that echoes its thematic title.",
+    "emotional_impact": "Evokes a sense of tranquility and contemplation through the combination of garden imagery, muted earth tones, and balanced spatial organization.",
+    "compositional_elements": "Organized into horizontal bands with a patterned header/footer, central tri-column content area, and prominent garden imagery establishing visual context and atmosphere."
+  },
+  "artistic_context": {
+    "style_influences": "Traditional Japanese garden design aesthetics, early web design principles, natural-digital fusion approach",
+    "visual_metaphors": "Path through garden as journey through information, statue as guardian of knowledge, structured columns as organized contemplation"
+  },
+  "categories": [
+    "nature-inspired",
+    "structured",
+    "earthy",
+    "balanced",
+    "textural",
+    "contemplative"
+  ],
+  "visual_characteristics": [
+    "patterned background",
+    "photographic elements",
+    "multi-column layout",
+    "earthy color palette",
+    "textural contrast",
+    "typographic hierarchy"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "balance",
+      "rhythm",
+      "contrast",
+      "harmony"
+    ],
+    "visual_techniques": [
+      "textural layering",
+      "photographic framing",
+      "grid-based organization"
+    ]
+  }
+}

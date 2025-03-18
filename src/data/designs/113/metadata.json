@@ -2,17 +2,45 @@
   "id": "113",
   "url": "https://www.csszengarden.com/113",
   "css_url": "https://www.csszengarden.com/113/113.css",
-  "description": "This design features a high-contrast, black background with neon green accents, creating a futuristic and edgy aesthetic. The layout is structured with clear sections, using simple and consistent typography. The design offers a demonstration of CSS capabilities, with emphasis on content hierarchy and readability.",
+  "title": "Switch On",
+  "author": "Michael Fasani",
+  "description": {
+    "summary": "A stark, code-focused web design featuring a high-contrast neon green and black color scheme with a power button symbol as its iconic visual element.",
+    "visual_style": "The design employs a digital aesthetic that references code structures while using minimalist iconography and matrix-like visual elements.",
+    "emotional_impact": "Creates a technical, underground atmosphere that evokes hacker culture and digital enlightenment through its glowing green text against deep black backgrounds.",
+    "compositional_elements": "Structured in clearly defined horizontal sections with a consistent left-aligned layout, punctuated by arrow indicators and bordered content areas."
+  },
+  "artistic_context": {
+    "style_influences": "Digital terminal interfaces, 1990s web aesthetics, hacker culture visuals, matrix-inspired typography",
+    "visual_metaphors": "Illumination through code, digital zen, power/activation symbolism"
+  },
   "categories": [
-    "futuristic",
+    "technical",
     "high-contrast",
-    "typography-focused",
-    "minimalistic"
+    "digital",
+    "minimalist",
+    "code-aesthetic",
+    "retro-digital"
   ],
   "visual_characteristics": [
-    "black background",
-    "neon green accents",
-    "structured layout",
-    "clear typography"
-  ]
+    "neon-green accents",
+    "terminal-like typography",
+    "circular power icon",
+    "grid background",
+    "code snippets as decoration",
+    "directional arrows"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "contrast",
+      "hierarchy",
+      "repetition",
+      "alignment"
+    ],
+    "visual_techniques": [
+      "monochromatic color scheme",
+      "typographic contrast",
+      "visual framing"
+    ]
+  }
 }

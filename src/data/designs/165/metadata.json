@@ -2,19 +2,45 @@
   "id": "165",
   "url": "https://www.csszengarden.com/165",
   "css_url": "https://www.csszengarden.com/165/165.css",
-  "description": "This design features a vintage, newspaper-like aesthetic with a deep maroon background and intricate repeating patterns. The layout balances well with a prominent headline and an aged texture that mimics old paper, creating a sense of nostalgia. The use of serif typography and subtle paper fold elements increase the authenticity of the design style, enhancing the overall vintage theme.",
+  "title": "Red Paper",
+  "author": "Rob Soule",
+  "description": {
+    "summary": "A vintage-inspired web design featuring an aged paper aesthetic with a structured, document-like layout that evokes traditional printed materials and technical documentation",
+    "visual_style": "The design employs a nostalgic approach with sepia tones, textured backgrounds, and decorative borders to create an artisanal, handcrafted digital experience",
+    "emotional_impact": "The warm, muted color palette and textured elements create a contemplative, educational atmosphere that suggests historical significance and craftsmanship",
+    "compositional_elements": "A clear columnar structure with a main content area and sidebar navigation, framed by a decorative header that mimics vintage product labeling"
+  },
+  "artistic_context": {
+    "style_influences": "Vintage ephemera, antique document design, artisanal paper goods, traditional publishing aesthetics",
+    "visual_metaphors": "Garden as cultivation of craft, paper as foundation for creation, aged materials as representation of wisdom"
+  },
   "categories": [
-    "Vintage",
-    "Typography",
-    "Web Design",
-    "Aged Texture",
-    "Print"
+    "vintage",
+    "minimalist",
+    "textured",
+    "traditional",
+    "grid-based",
+    "artisanal"
   ],
   "visual_characteristics": [
-    "Deep Maroon Background",
-    "Repeating Patterns",
-    "Serif Typography",
-    "Aged Paper Texture",
-    "Nostalgic Aesthetic"
-  ]
+    "sepia-toned",
+    "textured backgrounds",
+    "decorative borders",
+    "subtle shadows",
+    "contrasting panels",
+    "typographic hierarchy"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "hierarchy",
+      "contrast",
+      "unity",
+      "rhythm"
+    ],
+    "visual_techniques": [
+      "texture layering",
+      "framing",
+      "tonal variation"
+    ]
+  }
 }

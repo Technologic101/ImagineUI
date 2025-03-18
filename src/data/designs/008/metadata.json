@@ -2,19 +2,45 @@
   "id": "008",
   "url": "https://www.csszengarden.com/008",
   "css_url": "https://www.csszengarden.com/008/008.css",
-  "description": "This design features a striking use of vibrant red gradients complemented by an abstract, fiery artwork that creates a dynamic and futuristic aesthetic. The layout is well-structured, showcasing a clear hierarchy with text aligned within well-defined boxes, ensuring readability against the intense background. The typography is bold and modern, enhancing the overall edgy and creative theme of the design.",
+  "title": "RPM",
+  "author": "Bruno Cunha",
+  "description": {
+    "summary": "A bold, high-contrast web design featuring dynamic abstract imagery integrated with structured content blocks. The composition juxtaposes organic, flowing visual elements against rigid information architecture.",
+    "visual_style": "The design employs a striking industrial-digital aesthetic with abstract metallic forms and geometric patterns set against a vivid red background, creating a sense of technological energy.",
+    "emotional_impact": "The intense red palette and sharp angular elements evoke excitement, passion, and creative energy, suggesting innovation and avant-garde sensibilities.",
+    "compositional_elements": "A dramatic header with fractured metallic/glass-like objects occupies the upper portion, while structured content blocks below create an organized grid system that contrasts with the fluid header imagery."
+  },
+  "artistic_context": {
+    "style_influences": "Digital abstract art, techno-industrial design, Y2K-era web aesthetics, deconstructivist typography",
+    "visual_metaphors": "Shattering barriers, digital transformation, creative explosion, structured freedom"
+  },
   "categories": [
-    "abstract design",
-    "futuristic",
-    "vibrant",
-    "creative layout",
-    "typography"
+    "dynamic",
+    "industrial",
+    "high-contrast",
+    "grid-based",
+    "technical",
+    "avant-garde"
   ],
   "visual_characteristics": [
-    "vibrant red gradients",
-    "abstract artwork",
-    "clear text hierarchy",
-    "bold typography",
-    "dynamic aesthetic"
-  ]
+    "vibrant-red",
+    "metallic-textures",
+    "angular-forms",
+    "fractured-imagery",
+    "hierarchical-layout",
+    "boxed-content"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "contrast",
+      "hierarchy",
+      "rhythm",
+      "emphasis"
+    ],
+    "visual_techniques": [
+      "layering",
+      "color blocking",
+      "geometric abstraction"
+    ]
+  }
 }

@@ -1,0 +1,46 @@
+{
+  "id": "076",
+  "url": "https://www.csszengarden.com/076",
+  "css_url": "https://www.csszengarden.com/076/076.css",
+  "title": "Lotus",
+  "author": "Chika",
+  "description": {
+    "summary": "A serene, minimalist web design with an Eastern-inspired aesthetic that combines subtle floral background elements with a structured content layout and organized navigation system.",
+    "visual_style": "The design employs a muted color palette with a semi-transparent background texture that creates depth while maintaining readability of the foreground content.",
+    "emotional_impact": "The soft, subdued color scheme and floral motifs evoke tranquility and contemplation, reinforcing the 'zen' theme while providing a calm, focused user experience.",
+    "compositional_elements": "A clear two-column layout with a header banner, defined content sections marked by subtle color blocks, and hierarchical typography that guides the eye through the information."
+  },
+  "artistic_context": {
+    "style_influences": "Japanese minimalism, web 2.0 functionality, botanical illustration",
+    "visual_metaphors": "Garden as knowledge cultivation, path as learning journey, natural elements representing organic growth"
+  },
+  "categories": [
+    "minimalist",
+    "functional",
+    "nature-inspired",
+    "zen",
+    "two-column",
+    "instructional"
+  ],
+  "visual_characteristics": [
+    "muted-palette",
+    "subtle-background-texture",
+    "hierarchical-typography",
+    "floral-motifs",
+    "section-dividers",
+    "semi-transparent-elements"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "balance",
+      "hierarchy",
+      "contrast",
+      "harmony"
+    ],
+    "visual_techniques": [
+      "layering",
+      "color-blocking",
+      "typographic-scale"
+    ]
+  }
+}

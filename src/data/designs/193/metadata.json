@@ -2,19 +2,45 @@
   "id": "193",
   "url": "https://www.csszengarden.com/193",
   "css_url": "https://www.csszengarden.com/193/193.css",
-  "description": "The design showcases a retro, pixel-art inspired theme with a meticulous attention to detail, creating a visually appealing and whimsical aesthetic. Featuring an intricate illustration at the top, the design exhibits a creative interplay between text and art. The mixed typography adds to the vintage feel, while the structured layout ensures readability and organized content display.",
+  "title": "Leggo My Ego",
+  "author": "Jon Tan",
+  "description": {
+    "summary": "A nostalgic pixel-art inspired web design with a garden metaphor, blending retro aesthetic with organized information architecture",
+    "visual_style": "The design employs pixel art illustrations and ASCII-like typography to create a deliberately retro digital aesthetic with a zen garden motif",
+    "emotional_impact": "Evokes nostalgia for early web design while maintaining a calm, meditative atmosphere through its organized layout and earthy color palette",
+    "compositional_elements": "Features a header with pixel art landscape, central title treatment, and a structured grid layout with clear content sections and navigation elements"
+  },
+  "artistic_context": {
+    "style_influences": "8-bit pixel art, ASCII typography, early web design patterns, Japanese zen gardens",
+    "visual_metaphors": "Digital landscape as garden, cultivation of code as meditation practice, pixels as building blocks"
+  },
   "categories": [
-    "Pixel Art",
-    "Typography",
-    "Nostalgia",
-    "Retro",
-    "Illustration"
+    "retro",
+    "pixel-art",
+    "minimalist",
+    "grid-based",
+    "instructional",
+    "decorative-typography"
   ],
   "visual_characteristics": [
-    "Pixelated Illustrations",
-    "Mixed Typography",
-    "Neutral Color Palette",
-    "Structured Layout",
-    "Decorative Elements"
-  ]
+    "pixel-based illustrations",
+    "monospaced typography",
+    "radiating background",
+    "earth-tone palette",
+    "hierarchical layout",
+    "decorative header"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "hierarchy",
+      "repetition",
+      "balance",
+      "nostalgia"
+    ],
+    "visual_techniques": [
+      "pixel illustration",
+      "typographic contrast",
+      "grid organization"
+    ]
+  }
 }

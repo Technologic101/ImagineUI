@@ -2,17 +2,45 @@
   "id": "209",
   "url": "https://www.csszengarden.com/209",
   "css_url": "https://www.csszengarden.com/209/209.css",
-  "description": "The design showcases a clean and modern aesthetic with an emphasis on typography and readability. The layout uses a structured grid with ample whitespace, enhancing clarity and focus on the content. The color scheme is muted, with contrasting elements to draw attention to key areas, such as headings and hyperlinks. Imagery complements the textual content, offering visual interest alongside information delivery.",
+  "title": "css Zen Garden submission - 'CSS Co., Ltd.'",
+  "author": "Benjamin Klemm",
+  "description": {
+    "summary": "A structured web design featuring a three-column layout with an educational focus, combining an orange sidebar, gray main content area, and clean white header",
+    "visual_style": "Professional and organized with a consistent color scheme and thoughtful spacing, employing a structured grid system for content organization",
+    "emotional_impact": "Creates a sense of stability and reliability through balanced composition and earthy, warm tones contrasted with neutral backgrounds",
+    "compositional_elements": "Hierarchical information architecture with clearly defined sections, consistent heading treatments, and visual icons that provide navigational landmarks"
+  },
+  "artistic_context": {
+    "style_influences": "Web 2.0 design principles with elements of institutional/educational design patterns",
+    "visual_metaphors": "Garden motif suggested by the floral-like icon elements and organic organization of content"
+  },
   "categories": [
-    "Modern",
-    "Minimalist",
-    "Text-centric",
-    "Web Design-Inspired"
+    "grid-based",
+    "hierarchical",
+    "informational",
+    "educational",
+    "structured",
+    "modular"
   ],
   "visual_characteristics": [
-    "Clean Typography",
-    "Grid Layout",
-    "Muted Color Palette",
-    "Whitespace Utilization"
-  ]
+    "tri-color palette",
+    "sidebar navigation",
+    "decorative icons",
+    "content blocks",
+    "high text-to-image ratio",
+    "sectional headings"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "hierarchy",
+      "contrast",
+      "repetition",
+      "alignment"
+    ],
+    "visual_techniques": [
+      "color blocking",
+      "iconography",
+      "consistent spacing"
+    ]
+  }
 }
