@@ -1,0 +1,46 @@
+{
+  "id": 145,
+  "url": "https://www.csszengarden.com/145",
+  "css_url": "https://www.csszengarden.com/145/145.css",
+  "title": "Paravion",
+  "author": "Emiliano Pennisi",
+  "description": {
+    "summary": "A nostalgic web design featuring a vintage postal aesthetic combined with structured informational content, creating a unique blend of retro charm and digital functionality.",
+    "visual_style": "The design employs a postal mail metaphor with air mail border elements, postage stamps, and postmarks, juxtaposed against a structured navigation system and content areas.",
+    "emotional_impact": "Evokes nostalgia through warm colors and vintage postal elements while maintaining a sense of organization and clarity through structured layout.",
+    "compositional_elements": "Features a central envelope/postcard visual as the header, with a three-column layout beneath: a narrow navigation menu, main content area, and complementary sidebar."
+  },
+  "artistic_context": {
+    "style_influences": "Mail art, vintage postal design, traditional web navigation systems, early 2000s web design conventions",
+    "visual_metaphors": "Communication as mail delivery, design as journey, digital enlightenment through traditional practice"
+  },
+  "categories": [
+    "nostalgic",
+    "postal-themed",
+    "structured",
+    "educational",
+    "warm-toned",
+    "vintage"
+  ],
+  "visual_characteristics": [
+    "airmail border stripes",
+    "warm wood-tone background",
+    "multi-column layout",
+    "vintage postmarks",
+    "hierarchical navigation",
+    "section headings with decorative elements"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "hierarchy",
+      "contrast",
+      "metaphor",
+      "repetition"
+    ],
+    "visual_techniques": [
+      "framing",
+      "color blocking",
+      "visual anchoring"
+    ]
+  }
+}

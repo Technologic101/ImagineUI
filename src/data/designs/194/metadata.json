@@ -1,0 +1,46 @@
+{
+  "id": 194,
+  "url": "https://www.csszengarden.com/194",
+  "css_url": "https://www.csszengarden.com/194/194.css",
+  "title": "Dark Rose",
+  "author": "Rose Fu",
+  "description": {
+    "summary": "An elegant, minimalist web design that evokes traditional manuscript aesthetics while presenting structured content in a serene, organized layout.",
+    "visual_style": "The design employs a refined parchment-like aesthetic with subtle textures, decorative elements, and layered paper effects to create a contemplative, scholarly atmosphere.",
+    "emotional_impact": "The muted color palette and balanced composition evoke tranquility and mindfulness, reinforced by the delicate floral element that adds an organic touch to the structured layout.",
+    "compositional_elements": "The design utilizes a clear vertical hierarchy with distinct content sections, subtle borders, and thoughtful spacing that guides the viewer's eye naturally through the information."
+  },
+  "artistic_context": {
+    "style_influences": "Traditional manuscript design, Eastern minimalism, vintage document aesthetics, botanical illustration",
+    "visual_metaphors": "Layered paper as knowledge accumulation, floral element as natural growth and refinement, scroll-like presentation suggesting ancient wisdom"
+  },
+  "categories": [
+    "minimalist",
+    "vintage-inspired",
+    "elegant",
+    "textural",
+    "grid-based",
+    "manuscript"
+  ],
+  "visual_characteristics": [
+    "layered-paper effect",
+    "muted earth tones",
+    "botanical accent",
+    "typographic hierarchy",
+    "textured backgrounds",
+    "decorative borders"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "balance",
+      "hierarchy",
+      "contrast",
+      "harmony"
+    ],
+    "visual_techniques": [
+      "layering",
+      "textural depth",
+      "negative space"
+    ]
+  }
+}

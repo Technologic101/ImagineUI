@@ -1,0 +1,46 @@
+{
+  "id": 189,
+  "url": "https://www.csszengarden.com/189",
+  "css_url": "https://www.csszengarden.com/189/189.css",
+  "title": "Mozart",
+  "author": "Andrew Brundle",
+  "description": {
+    "summary": "A richly textured, ornate website design that blends classical aesthetics with web design principles through a dark gold and black color scheme, musical motifs, and structured information hierarchy.",
+    "visual_style": "The design employs a baroque-inspired aesthetic with ornate gold decorative elements, musical notation, and historical imagery against a dark background, creating a sense of antiquity and artistic refinement.",
+    "emotional_impact": "The design evokes a sense of reverence and nostalgia, blending the formality of classical music with the warm richness of gold tones to create an atmosphere of artistic heritage.",
+    "compositional_elements": "A vertical layout with clearly defined sections separated by decorative musical notation bars, featuring a two-column structure with main content on the left and navigation elements on the right."
+  },
+  "artistic_context": {
+    "style_influences": "Baroque ornamentation, classical music iconography, illuminated manuscript traditions, vintage parchment textures",
+    "visual_metaphors": "Musical composition as design structure, golden illumination as enlightenment, ancient scrolls as knowledge repositories"
+  },
+  "categories": [
+    "ornate",
+    "baroque",
+    "vintage",
+    "textural",
+    "themed",
+    "high-contrast"
+  ],
+  "visual_characteristics": [
+    "gold-black color scheme",
+    "musical notation motifs",
+    "decorative dividers",
+    "historical imagery",
+    "textured backgrounds",
+    "ornamental typography"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "contrast",
+      "repetition",
+      "hierarchy",
+      "thematic consistency"
+    ],
+    "visual_techniques": [
+      "textural layering",
+      "decorative framing",
+      "historical referencing"
+    ]
+  }
+}

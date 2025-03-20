@@ -1,0 +1,46 @@
+{
+  "id": 148,
+  "url": "https://www.csszengarden.com/148",
+  "css_url": "https://www.csszengarden.com/148/148.css",
+  "title": "Museum",
+  "author": "Samuel Marin",
+  "description": {
+    "summary": "A minimalist virtual exhibition space displaying information about CSS Zen Garden through a series of framed text panels in a 3D gallery environment",
+    "visual_style": "The design adopts a stark, monochromatic approach with a virtual gallery aesthetic, featuring white walls, gray wooden flooring, and framed text panels that create an exhibition-like experience",
+    "emotional_impact": "The space evokes a contemplative, museum-like atmosphere through its sparse, orderly presentation and grayscale color scheme",
+    "compositional_elements": "The layout creates a vertical scrolling journey through several gallery rooms, each containing framed informational displays with small silhouette figures providing scale"
+  },
+  "artistic_context": {
+    "style_influences": "Virtual exhibition spaces, digital galleries, architectural visualization, minimalist design",
+    "visual_metaphors": "Physical gallery as information architecture, visitors as users navigating information, framed text as art objects"
+  },
+  "categories": [
+    "minimalist",
+    "architectural",
+    "monochromatic",
+    "exhibition-style",
+    "spatial",
+    "instructional"
+  ],
+  "visual_characteristics": [
+    "3D perspective",
+    "silhouette figures",
+    "framed panels",
+    "wood-textured floors",
+    "recessed lighting",
+    "sidebar navigation"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "hierarchy",
+      "repetition",
+      "contrast",
+      "spatial organization"
+    ],
+    "visual_techniques": [
+      "perspective depth",
+      "scale figures",
+      "framing elements"
+    ]
+  }
+}

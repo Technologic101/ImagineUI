@@ -1,0 +1,46 @@
+{
+  "id": "080",
+  "url": "https://www.csszengarden.com/080",
+  "css_url": "https://www.csszengarden.com/080/080.css",
+  "title": "Zen Pool",
+  "author": "Clinton Barth",
+  "description": {
+    "summary": "A serene web design featuring a calm blue water-droplet header that contrasts with structured content blocks in varying shades of blue below",
+    "visual_style": "The design employs a structured column layout with distinct color-coded sections that create a harmonious rhythm between header elements and content areas",
+    "emotional_impact": "The water droplet imagery paired with the cool blue color palette evokes tranquility and clarity, reinforcing the meditation and zen concepts visually",
+    "compositional_elements": "A clear hierarchy is established through color-blocking, with a prominent header image, followed by alternating light and dark blue content sections that guide the eye vertically down the page"
+  },
+  "artistic_context": {
+    "style_influences": "Minimalist web design, early 2000s CSS demonstration sites, nature-inspired digital aesthetics",
+    "visual_metaphors": "Water droplets suggesting clarity and purity, structured boxes implying organization and mindfulness"
+  },
+  "categories": [
+    "structured",
+    "blue-monochrome",
+    "grid-based",
+    "nature-inspired",
+    "minimalist",
+    "educational"
+  ],
+  "visual_characteristics": [
+    "water-droplet texture",
+    "color-blocked layout",
+    "hierarchical navigation",
+    "columnar organization",
+    "text-heavy content",
+    "high-contrast headers"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "contrast",
+      "hierarchy",
+      "repetition",
+      "alignment"
+    ],
+    "visual_techniques": [
+      "color blocking",
+      "textural header",
+      "consistent spacing"
+    ]
+  }
+}

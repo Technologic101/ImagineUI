@@ -1,0 +1,46 @@
+{
+  "id": "027",
+  "url": "https://www.csszengarden.com/027",
+  "css_url": "https://www.csszengarden.com/027/027.css",
+  "title": "Gothica",
+  "author": "Patrick H. Lauke aka redux",
+  "description": {
+    "summary": "A minimalist web design showcasing the principles of CSS Zen Garden with a monochromatic textural header and structured content layout that balances functionality with aesthetic restraint.",
+    "visual_style": "The design employs a zen-inspired aesthetic with textural stone imagery in the header and clean typographic hierarchy throughout the content area, framed by subtle patterned backgrounds.",
+    "emotional_impact": "Creates a serene, contemplative atmosphere through the use of stone textures, balanced white space, and structured information presentation.",
+    "compositional_elements": "Features a horizontal header with textural imagery, structured content area with clear section delineations, and sidebar navigation elements arranged in a hierarchical grid."
+  },
+  "artistic_context": {
+    "style_influences": "Minimalism, Japanese zen aesthetics, early web standards movement",
+    "visual_metaphors": "Stone garden textures suggesting meditation, structured layout resembling a path or journey"
+  },
+  "categories": [
+    "minimalist",
+    "structured",
+    "textural",
+    "monochromatic",
+    "grid-based",
+    "zen-inspired"
+  ],
+  "visual_characteristics": [
+    "stone-textured header",
+    "high-contrast typography",
+    "bordered content modules",
+    "subtle pattern background",
+    "hierarchical navigation",
+    "horizontal rule dividers"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "hierarchy",
+      "contrast",
+      "balance",
+      "unity"
+    ],
+    "visual_techniques": [
+      "textural background",
+      "modular layout",
+      "typographic scale"
+    ]
+  }
+}

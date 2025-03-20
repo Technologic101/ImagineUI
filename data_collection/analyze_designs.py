@@ -141,11 +141,14 @@ async def analyze_screenshot(design_id: str, design_path: Path, detailed: bool =
         print(f"Error processing design {design_id}: {str(e)}")
         return design_id, None, None, None
 
-async def attribute_designs():
+async def attribute_designs(design_ids: list[str] = None):
     """
     Process scraped designs to extract title and author from CSS comments.
     Adds these attributes to the existing metadata.json files.
     Skips designs that already have both title and author.
+    
+    Args:
+        design_ids (list[str], optional): List of design IDs to process. If None, processes all designs.
     """
     designs_dir = Path("scraped_designs")
     
@@ -153,8 +156,13 @@ async def attribute_designs():
         print("Scraped designs directory not found!")
         return
     
-    # Get all design directories
-    design_dirs = [d for d in designs_dir.iterdir() if d.is_dir()]
+    # Get design directories based on provided IDs or all directories
+    if design_ids:
+        design_dirs = [designs_dir / design_id for design_id in design_ids]
+        print(f"Processing {len(design_dirs)} specified designs")
+    else:
+        design_dirs = [d for d in designs_dir.iterdir() if d.is_dir()]
+        print(f"Found {len(design_dirs)} designs to check")
     
     if not design_dirs:
         print("No design directories found!")
