@@ -1,0 +1,45 @@
+{
+  "id": 163,
+  "url": "https://www.csszengarden.com/163",
+  "css_url": "https://www.csszengarden.com/163/163.css",
+  "title": "Like the Sea",
+  "author": "Lars Daum",
+  "description": {
+    "summary": "A tranquil, nature-inspired web design leveraging seashell imagery and soft textural elements to create a serene, meditative experience that evokes Japanese zen aesthetics",
+    "visual_style": "The design employs a soft, neutral color palette with organic elements, creating a harmonious balance between structured content and natural motifs",
+    "emotional_impact": "The visual composition evokes calm and contemplation through its spacious layout, subtle textures, and natural imagery",
+    "compositional_elements": "A well-structured two-column layout with decorative shells and botanical illustrations framing content areas, creating a sense of peaceful organization"
+  },
+  "artistic_context": {
+    "style_influences": "Japanese zen garden aesthetics, minimalist web design, natural material textures",
+    "visual_metaphors": "Seashells as symbols of natural beauty and simplicity, botanical silhouettes suggesting growth and harmony"
+  },
+  "categories": [
+    "natural",
+    "minimalist",
+    "textural",
+    "organic",
+    "structured"
+  ],
+  "visual_characteristics": [
+    "seashell imagery",
+    "muted color palette",
+    "decorative borders",
+    "botanical illustrations",
+    "textured background",
+    "handwritten-style typography"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "balance",
+      "harmony",
+      "rhythm",
+      "contrast"
+    ],
+    "visual_techniques": [
+      "natural texturing",
+      "framing elements",
+      "hierarchical typography"
+    ]
+  }
+}

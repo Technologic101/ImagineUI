@@ -1,0 +1,46 @@
+{
+  "id": 198,
+  "url": "https://www.csszengarden.com/198",
+  "css_url": "https://www.csszengarden.com/198/198.css",
+  "title": "The Original",
+  "author": "Joachim Shotter",
+  "description": {
+    "summary": "A dramatic dark website design with strong grunge aesthetics, featuring distressed typography and a stark black background with high contrast white and red textual elements.",
+    "visual_style": "The design employs a gritty, industrial aesthetic with heavily distressed typography and textural elements against a deep black background, creating a raw, edgy visual experience.",
+    "emotional_impact": "The dark, high-contrast composition evokes an underground, rebellious atmosphere with an intense, almost confrontational energy tempered by structured information hierarchy.",
+    "compositional_elements": "The layout presents a clear two-column structure with distressed headings and red accent elements creating visual punctuation throughout the vertical scroll design."
+  },
+  "artistic_context": {
+    "style_influences": "Industrial design, grunge typography, digital decay aesthetics, zen minimalism contrasted with chaotic texture",
+    "visual_metaphors": "Digital erosion, rebellion against clean design, controlled chaos, technological weathering"
+  },
+  "categories": [
+    "grunge",
+    "industrial",
+    "high-contrast",
+    "minimalist",
+    "textural",
+    "dark-themed"
+  ],
+  "visual_characteristics": [
+    "distressed-typography",
+    "black-background",
+    "red-accents",
+    "textural-overlays",
+    "two-column-layout",
+    "angular-elements"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "contrast",
+      "hierarchy",
+      "repetition",
+      "texture"
+    ],
+    "visual_techniques": [
+      "distressing",
+      "layering",
+      "typographic-scaling"
+    ]
+  }
+}

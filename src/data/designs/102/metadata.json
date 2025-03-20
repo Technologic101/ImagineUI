@@ -1,0 +1,46 @@
+{
+  "id": 102,
+  "url": "https://www.csszengarden.com/102",
+  "css_url": "https://www.csszengarden.com/102/102.css",
+  "title": "Revolution!",
+  "author": "David Hellsing",
+  "description": {
+    "summary": "A bold, visually striking design featuring a rich red and black color scheme with gold accents, abstract geometric elements, and decorative floral motifs creating a dramatic Eastern-inspired aesthetic.",
+    "visual_style": "The design combines ornate decorative elements with structured layout, creating tension between organic curves and rigid geometry against a textured background.",
+    "emotional_impact": "The intense color palette of deep reds and blacks evokes a sense of drama and contemplation, while the gold elements add a touch of reverence and enlightenment.",
+    "compositional_elements": "The design features a two-column layout with a decorative header area showcasing abstract golden geometric shapes and floral ornaments against a dark textured background."
+  },
+  "artistic_context": {
+    "style_influences": "Asian calligraphy, Constructivist geometry, Eastern ornamental patterns, Gothic texture",
+    "visual_metaphors": "Balance between structure and nature, tradition meeting modernity, path to enlightenment"
+  },
+  "categories": [
+    "ornamental",
+    "high-contrast",
+    "eastern-inspired",
+    "structured",
+    "dramatic",
+    "textural"
+  ],
+  "visual_characteristics": [
+    "rich-red-background",
+    "geometric-abstractions",
+    "floral-ornaments",
+    "gold-accents",
+    "textured-surfaces",
+    "two-column-layout"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "contrast",
+      "hierarchy",
+      "rhythm",
+      "balance"
+    ],
+    "visual_techniques": [
+      "layering",
+      "textural variation",
+      "negative space"
+    ]
+  }
+}

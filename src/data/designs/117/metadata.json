@@ -1,0 +1,46 @@
+{
+  "id": 117,
+  "url": "https://www.csszengarden.com/117",
+  "css_url": "https://www.csszengarden.com/117/117.css",
+  "title": "Brushwood",
+  "author": "Katrin Zieger",
+  "description": {
+    "summary": "A nature-inspired website design with an earthy green palette and bamboo accents, creating a serene digital garden atmosphere for showcasing CSS design capabilities.",
+    "visual_style": "The design employs organic textures and natural elements within a structured grid system, balancing rustic charm with technical organization.",
+    "emotional_impact": "The earthy tones and botanical imagery evoke a sense of calm contemplation and growth, reinforced by the zen garden metaphor.",
+    "compositional_elements": "Three-column layout with textured borders, cream parchment-like content area, and hierarchical text blocks organized in clearly defined sections."
+  },
+  "artistic_context": {
+    "style_influences": "Japanese zen gardens, natural minimalism, tactile papercraft, organic web design",
+    "visual_metaphors": "Garden as digital cultivation, bamboo as flexible structure, path to enlightenment"
+  },
+  "categories": [
+    "nature-inspired",
+    "textural",
+    "minimalist",
+    "organic",
+    "structured",
+    "earthy"
+  ],
+  "visual_characteristics": [
+    "bamboo texture",
+    "parchment-like panels",
+    "earth-tone palette",
+    "hierarchical typography",
+    "natural borders",
+    "column structure"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "contrast",
+      "hierarchy",
+      "unity",
+      "balance"
+    ],
+    "visual_techniques": [
+      "textural layering",
+      "organic framing",
+      "tonal harmony"
+    ]
+  }
+}

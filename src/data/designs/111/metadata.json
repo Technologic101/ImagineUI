@@ -1,0 +1,46 @@
+{
+  "id": 111,
+  "url": "https://www.csszengarden.com/111",
+  "css_url": "https://www.csszengarden.com/111/111.css",
+  "title": "Gruener Entwurf",
+  "author": "Hannah F. Liesong",
+  "description": {
+    "summary": "A richly textured web design with a lush deep green botanical background supporting an elegant layout with gold script typography and a parchment-like central content area.",
+    "visual_style": "The design employs a classic garden-inspired aesthetic with organic textures contrasting against structured layout elements, creating a harmonious balance between natural and formal elements.",
+    "emotional_impact": "The deep green backdrop evokes a sense of tranquility and natural harmony, while the elegant script typography suggests sophistication and timelessness.",
+    "compositional_elements": "A horizontal arrangement with a prominent header area flowing into a centralized content panel with multiple columns of information, framed by textural elements and subtle navigation links."
+  },
+  "artistic_context": {
+    "style_influences": "Classic manuscript design, botanical illustration traditions, and elegant web design from the early 2000s era",
+    "visual_metaphors": "Garden cultivation as visual knowledge growth, manuscript as repository of wisdom, natural textures suggesting organic development"
+  },
+  "categories": [
+    "elegant",
+    "textural",
+    "botanical",
+    "classical",
+    "structured",
+    "ornate"
+  ],
+  "visual_characteristics": [
+    "textured-background",
+    "script-typography",
+    "green-gold-palette",
+    "column-layout",
+    "parchment-elements",
+    "contrasting-type-treatments"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "contrast",
+      "hierarchy",
+      "balance",
+      "unity"
+    ],
+    "visual_techniques": [
+      "texture layering",
+      "typographic scaling",
+      "color harmony"
+    ]
+  }
+}
