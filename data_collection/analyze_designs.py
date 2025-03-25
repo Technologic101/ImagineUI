@@ -7,11 +7,47 @@ from openai import AsyncOpenAI
 from dotenv import load_dotenv
 from anthropic import AsyncAnthropic
 from .prompts import get_prompt
+from PIL import Image
+import io
 
 load_dotenv()
 client = AsyncAnthropic(api_key=os.getenv("ANTHROPIC_API_KEY"))
 
 VISION_MODEL = "claude-3-7-sonnet-20250219"
+
+def compress_image(image_path: Path, max_size_mb: float = 4.5) -> bytes:
+    """
+    Compress an image to be under max_size_mb while maintaining reasonable quality.
+    
+    Args:
+        image_path (Path): Path to the image file
+        max_size_mb (float): Maximum size in MB (default 4.5MB to stay under 5MB limit)
+    
+    Returns:
+        bytes: Compressed image data
+    """
+    max_size_bytes = int(max_size_mb * 1024 * 1024)
+    
+    # Open the image
+    with Image.open(image_path) as img:
+        # Convert to RGB if necessary
+        if img.mode in ('RGBA', 'P'):
+            img = img.convert('RGB')
+        
+        # Start with high quality
+        quality = 95
+        while True:
+            # Save to bytes buffer
+            buffer = io.BytesIO()
+            img.save(buffer, format='JPEG', quality=quality, optimize=True)
+            size = buffer.tell()
+            
+            # If size is under limit or quality can't be reduced further, return
+            if size <= max_size_bytes or quality <= 5:
+                return buffer.getvalue()
+            
+            # Reduce quality and try again
+            quality -= 5
 
 async def analyze_screenshot(design_id: str, design_path: Path, detailed: bool = True, output_path: Path = None):
     """
@@ -21,14 +57,14 @@ async def analyze_screenshot(design_id: str, design_path: Path, detailed: bool =
         design_id (str): ID of the design to analyze
         design_path (Path): Path to the design's source files
         detailed (bool): Whether to use detailed or core analysis prompt
-        output_path (Path): Path to save analysis results. If None, uses analyses/default
+        output_path (Path): Path to save analysis results. If None, uses analyses/detailed
     
     Returns:
         tuple: (design_id, description, categories, visual_characteristics)
     """
     try:
         # Use output_path if provided, otherwise use default analyses path
-        save_path = output_path or Path("analyses/default")
+        save_path = output_path or Path("analyses/detailed")
         
         # Ensure output directory exists
         if not save_path.exists():
@@ -43,18 +79,19 @@ async def analyze_screenshot(design_id: str, design_path: Path, detailed: bool =
             print(f"Missing required files for design {design_id}")
             return design_id, None, None, None
         
-        # Load existing metadata
+        # Load existing metadata from scraped_designs
         with open(metadata_path, "r") as f:
-            metadata = json.load(f)
+            scraped_metadata = json.load(f)
         
-        # Read both images
+        # Read and compress both images
         try:
-            with open(desktop_img, "rb") as f:
-                desktop_base64 = base64.b64encode(f.read()).decode('utf-8')
-            with open(mobile_img, "rb") as f:
-                mobile_base64 = base64.b64encode(f.read()).decode('utf-8')
+            desktop_compressed = compress_image(desktop_img)
+            mobile_compressed = compress_image(mobile_img)
+            
+            desktop_base64 = base64.b64encode(desktop_compressed).decode('utf-8')
+            mobile_base64 = base64.b64encode(mobile_compressed).decode('utf-8')
         except Exception as e:
-            print(f"Error reading images for design {design_id}: {str(e)}")
+            print(f"Error reading/compressing images for design {design_id}: {str(e)}")
             return design_id, None, None, None
         
         print(f"Analyzing design {design_id}...")
@@ -75,7 +112,7 @@ async def analyze_screenshot(design_id: str, design_path: Path, detailed: bool =
                         "type": "image",
                         "source": {
                             "type": "base64",
-                            "media_type": "image/png",
+                            "media_type": "image/jpeg",
                             "data": desktop_base64
                         }
                     },
@@ -83,7 +120,7 @@ async def analyze_screenshot(design_id: str, design_path: Path, detailed: bool =
                         "type": "image",
                         "source": {
                             "type": "base64",
-                            "media_type": "image/png",
+                            "media_type": "image/jpeg",
                             "data": mobile_base64
                         }
                     }
@@ -108,12 +145,14 @@ async def analyze_screenshot(design_id: str, design_path: Path, detailed: bool =
             design_output_path = save_path / design_id
             design_output_path.mkdir(parents=True, exist_ok=True)
             
-            # Save metadata.json inside the design folder
-            output_metadata_path = design_output_path / "metadata.json"
+            # Merge scraped metadata with analysis data
+            # Analysis data takes precedence over scraped data for overlapping keys
+            merged_metadata = {**scraped_metadata, **analysis}
             
-            # Save analysis to output path
+            # Save merged metadata to output path
+            output_metadata_path = design_output_path / "metadata.json"
             with open(output_metadata_path, "w") as f:
-                json.dump(analysis, f, indent=2)
+                json.dump(merged_metadata, f, indent=2)
             
             print(f"Successfully analyzed design {design_id}")
             
