@@ -1,0 +1,46 @@
+{
+  "id": 181,
+  "url": "https://www.csszengarden.com/181",
+  "css_url": "https://www.csszengarden.com/181/181.css",
+  "title": "Pretty in Pink",
+  "author": "Jordi Romkema",
+  "description": {
+    "summary": "A bold website design with a stark contrast between a vibrant magenta content area and a clean white navigation sidebar, featuring decorative ornamental elements and a grunge-style logo.",
+    "visual_style": "The design employs a dramatic two-column layout with a strong asymmetrical balance, combining modern digital aesthetics with ornamental decorative elements.",
+    "emotional_impact": "The high-contrast color scheme creates an energetic, lively atmosphere while the ornamental elements add a touch of elegance and sophistication.",
+    "compositional_elements": "The composition uses clear sectioning with bold magenta headers dividing content blocks, balanced against a white navigation panel with structured menu items."
+  },
+  "artistic_context": {
+    "style_influences": "Digital grunge, neo-baroque ornamental elements, mid-2000s web design",
+    "visual_metaphors": "Garden as cultivation of knowledge, path of enlightenment through structured beauty"
+  },
+  "categories": [
+    "high-contrast",
+    "two-column",
+    "ornamental",
+    "digital-grunge",
+    "structured",
+    "typographic"
+  ],
+  "visual_characteristics": [
+    "magenta-white color scheme",
+    "decorative scroll elements",
+    "header banding",
+    "grunge textures",
+    "asymmetrical balance",
+    "typographic hierarchy"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "contrast",
+      "hierarchy",
+      "rhythm",
+      "balance"
+    ],
+    "visual_techniques": [
+      "color blocking",
+      "textural variation",
+      "ornamental framing"
+    ]
+  }
+}

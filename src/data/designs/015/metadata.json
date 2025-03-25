@@ -1,0 +1,46 @@
+{
+  "id": "015",
+  "url": "https://www.csszengarden.com/015",
+  "css_url": "https://www.csszengarden.com/015/015.css",
+  "title": "boddhidarma",
+  "author": "Michael Angeles",
+  "description": {
+    "summary": "A tranquil, nature-inspired web design that juxtaposes organic calligraphy with structured content layout, creating a harmonic balance reminiscent of traditional Zen aesthetics.",
+    "visual_style": "The design employs an earthy color palette dominated by olive green with highlights of orange and pale yellow, complemented by delicate calligraphic brushwork that flows organically across the header.",
+    "emotional_impact": "The visual elements evoke a sense of calm contemplation and mindful balance, with the flowing brushwork creating an organic contrast to the structured content layout.",
+    "compositional_elements": "A two-column layout with asymmetrical balance features calligraphic art in the left sidebar contrasting with organized text blocks in the main content area, separated by subtle dividers."
+  },
+  "artistic_context": {
+    "style_influences": "East Asian brush painting, minimalist composition, natural textures",
+    "visual_metaphors": "Growth, flow, balance, contemplation, organic structure"
+  },
+  "categories": [
+    "minimalist",
+    "nature-inspired",
+    "asymmetrical",
+    "organic",
+    "contemplative",
+    "textural"
+  ],
+  "visual_characteristics": [
+    "calligraphic-elements",
+    "earthy-palette",
+    "contrasting-textures",
+    "hierarchical-layout",
+    "vertical-rhythm",
+    "subtle-dividers"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "asymmetrical balance",
+      "contrast",
+      "harmony",
+      "hierarchy"
+    ],
+    "visual_techniques": [
+      "textural juxtaposition",
+      "color accent",
+      "natural patterning"
+    ]
+  }
+}

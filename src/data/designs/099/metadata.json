@@ -1,0 +1,46 @@
+{
+  "id": "099",
+  "url": "https://www.csszengarden.com/099",
+  "css_url": "https://www.csszengarden.com/099/099.css",
+  "title": "Wiggles the Wonderworm",
+  "author": "Joseph Pearson",
+  "description": {
+    "summary": "A vibrant comic strip presentation featuring cartoon characters in a multi-page layout with bold colors, dynamic compositions, and traditional comic styling.",
+    "visual_style": "Cheerful cartoon illustration with hand-drawn characters, speech bubbles, and panel-based storytelling using flat, bright colors and black outlines.",
+    "emotional_impact": "Energetic and playful mood created through vivid color combinations, expressive character poses, and dynamic action sequences.",
+    "compositional_elements": "Sequential panel arrangement with varied sizes, speech bubbles directing reading flow, and strategic placement of characters against simplified backgrounds."
+  },
+  "artistic_context": {
+    "style_influences": "Classic animation, Sunday comics, vintage advertising, commercial cartoon illustration",
+    "visual_metaphors": "Motion and energy conveyed through action lines and expressive character poses"
+  },
+  "categories": [
+    "cartoon",
+    "comic-strip",
+    "illustrative",
+    "colorful",
+    "sequential-art",
+    "character-based"
+  ],
+  "visual_characteristics": [
+    "bold-outlines",
+    "flat-colors",
+    "panel-layout",
+    "speech-bubbles",
+    "anthropomorphic-characters",
+    "action-lines"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "rhythm",
+      "contrast",
+      "hierarchy",
+      "balance"
+    ],
+    "visual_techniques": [
+      "sequential storytelling",
+      "character expression",
+      "color blocking"
+    ]
+  }
+}

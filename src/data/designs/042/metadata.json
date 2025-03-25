@@ -1,0 +1,46 @@
+{
+  "id": "042",
+  "url": "https://www.csszengarden.com/042",
+  "css_url": "https://www.csszengarden.com/042/042.css",
+  "title": "Stone Washed",
+  "author": "Andrew Hayward",
+  "description": {
+    "summary": "A minimalist web design showcasing a structured, organized layout with subtle visual elements and clean typography against a soft, neutral background.",
+    "visual_style": "The design employs a clean, structured approach with organized text blocks, subtle gradients, and minimal decorative elements to create a professional, instructional interface.",
+    "emotional_impact": "The subdued color palette and generous white space evoke a sense of calm and clarity, creating an atmosphere of focused learning and contemplation.",
+    "compositional_elements": "Content is arranged in a grid-based layout with clear horizontal sections, balanced text blocks, and subtle visual cues to guide navigation and reading flow."
+  },
+  "artistic_context": {
+    "style_influences": "Minimalist web design, early 2000s instructional websites, zen-inspired simplicity",
+    "visual_metaphors": "Garden as a metaphor for growth and cultivation, expressed through the subtle organic imagery and structured layout"
+  },
+  "categories": [
+    "minimalist",
+    "instructional",
+    "structured",
+    "zen-inspired",
+    "grid-based",
+    "functional"
+  ],
+  "visual_characteristics": [
+    "neutral color palette",
+    "organized text blocks",
+    "subtle gradients",
+    "ample white space",
+    "structured layout",
+    "minimal decoration"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "hierarchy",
+      "balance",
+      "simplicity",
+      "functionality"
+    ],
+    "visual_techniques": [
+      "grid layout",
+      "typographic contrast",
+      "visual spacing"
+    ]
+  }
+}

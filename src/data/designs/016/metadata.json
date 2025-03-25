@@ -1,0 +1,46 @@
+{
+  "id": "016",
+  "url": "https://www.csszengarden.com/016",
+  "css_url": "https://www.csszengarden.com/016/016.css",
+  "title": "The Garden Beneath",
+  "author": "Minz Meyer",
+  "description": {
+    "summary": "A nostalgic web design with a deep blue cosmic background featuring glowing blue orbs and structured content sections. The design employs a striking contrast between the dark background and luminous blue typography to create a digital zen-like atmosphere.",
+    "visual_style": "The aesthetic combines late 90s/early 2000s web design elements with a cosmic, ethereal quality. Translucent glowing spheres and metallic navigation panels create a distinctive retro-futuristic look.",
+    "emotional_impact": "The design evokes a sense of digital tranquility and contemplation through its deep space-like backdrop and luminous blue elements, creating a meditative atmosphere.",
+    "compositional_elements": "The layout follows a vertical column structure with distinct sections marked by glowing blue headers. The right side features separate boxed navigation panels with a metallic, embossed appearance."
+  },
+  "artistic_context": {
+    "style_influences": "Early web aesthetics, digital minimalism, cosmic imagery, Y2K-era interface design",
+    "visual_metaphors": "Digital enlightenment, cosmic exploration, zen gardens in cyberspace"
+  },
+  "categories": [
+    "retro-digital",
+    "cosmic",
+    "luminous",
+    "structured",
+    "minimalist",
+    "nostalgic"
+  ],
+  "visual_characteristics": [
+    "glowing-typography",
+    "deep-blue-palette",
+    "translucent-orbs",
+    "metallic-panels",
+    "modular-layout",
+    "high-contrast"
+  ],
+  "design_principles": {
+    "primary_principles": [
+      "contrast",
+      "hierarchy",
+      "repetition",
+      "alignment"
+    ],
+    "visual_techniques": [
+      "luminosity",
+      "textural contrast",
+      "spatial compartmentalization"
+    ]
+  }
+}
