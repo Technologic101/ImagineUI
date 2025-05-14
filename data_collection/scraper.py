@@ -30,7 +30,7 @@ async def take_screenshot(url, directory):
     async with async_playwright() as p:
         browser = await p.chromium.launch()
         
-        # Desktop screenshot (1920px width)
+        # Desktop screenshot
         page = await browser.new_page(viewport={'width': 1600, 'height': 1080})
         await page.goto(url)
         # Wait for network to be idle (no requests for at least 500ms)
